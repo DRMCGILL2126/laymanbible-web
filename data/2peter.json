@@ -1,0 +1,929 @@
+{
+  "book": {
+    "id": "2peter",
+    "name": "2 Peter",
+    "testament": "New Testament",
+    "author": "Simon Peter (disputed; possibly a follower writing in his name)",
+    "dateWritten": "c. 60-90 AD",
+    "writtenFrom": "Traditionally Rome",
+    "writtenTo": "Christians in Asia Minor facing false teachers",
+    "chapterCount": 3,
+    "verseCount": 61,
+    "explainer": {
+      "overview": "2 Peter reads like a last will and testament. Peter knows his death is approaching and writes urgently to prepare his readers for what lies ahead. The letter addresses two crises: false teachers who are infiltrating the church with destructive heresies, and scoffers who mock the promise of Christ's return because it has been delayed. Peter's response combines fiery warnings of divine judgment with pastoral encouragement to grow in knowledge and holiness. The letter's most distinctive contribution is its teaching on the 'day of the Lord' and the destruction and renewal of the cosmos.",
+      "historicalContext": "The letter was written as second-generation Christianity grappled with the delay of Christ's return (the 'parousia'). The apostolic generation was dying, and some were asking whether Jesus' promise to return was simply wrong. Meanwhile, false teachers were exploiting this uncertainty to promote moral laxity. Peter addresses both problems by reaffirming the certainty of Christ's return and the reality of divine judgment.",
+      "whyItMatters": "2 Peter is the New Testament's most sustained engagement with the problem of Christ's delayed return. Its argument that God operates on a different timescale ('one day is like a thousand years') and that the delay is motivated by God's patience has shaped Christian eschatology for two millennia. The letter also provides one of the earliest references to Paul's letters as 'Scripture' (3:15-16), showing the process of canon formation already underway.",
+      "keyThemes": [
+        "Growing in godly character",
+        "False teachers and their destruction",
+        "The certainty of Christ's return",
+        "Divine judgment and cosmic renewal",
+        "Scripture's divine origin"
+      ]
+    },
+    "people": [
+      {
+        "id": "peter_author",
+        "name": "Simon Peter",
+        "role": "Apostle, author of the letter",
+        "bio": "Peter identifies himself as 'Simon Peter, a servant and apostle of Jesus Christ.' He claims to have been an eyewitness of Christ's majesty at the Transfiguration. He writes in the awareness that his death is imminent, calling his body a 'tent' that he will soon 'put off.' Whether this is Peter himself writing near the end of his life or a disciple writing in his name, the letter carries the weight of apostolic farewell.",
+        "culturalContext": "Farewell discourses and testaments were a recognized genre in Jewish and Greco-Roman literature. A dying leader would gather followers and warn them about future dangers. 2 Peter follows this pattern closely, making it either Peter's actual farewell or a tribute to his legacy in that literary form."
+      },
+      {
+        "id": "false_teachers_2peter",
+        "name": "The False Teachers",
+        "role": "Heretical teachers corrupting the church",
+        "bio": "2 Peter's false teachers are described in vivid, scathing detail in chapter 2. They deny the Lord who bought them, exploit people with fabricated stories, indulge in sensuality, despise authority, and promise freedom while being slaves to corruption themselves. They appear to teach that since Christ has not returned, moral standards are irrelevant.",
+        "culturalContext": "The ancient world was full of traveling philosophers and teachers, some genuine and many fraudulent. Paul warned about 'peddlers of God's word' (2 Corinthians 2:17). The false teachers in 2 Peter seem to combine Hellenistic libertinism with a denial of future judgment."
+      }
+    ],
+    "places": [
+      {
+        "id": "mount_transfiguration",
+        "name": "The Holy Mountain (Transfiguration)",
+        "description": "The mountain where Peter, James, and John witnessed Jesus' transfiguration -- his appearance transformed to radiant glory. Peter cites this experience as evidence for the truth of the gospel, distinguishing it from 'cleverly devised myths.'",
+        "culturalSignificance": "Mountains were places of divine encounter throughout the Bible: Sinai, Carmel, Zion. The Transfiguration mountain connected Jesus to Moses (who received the law on Sinai) and Elijah (who confronted the prophets of Baal on Carmel). Peter's eyewitness testimony of this event grounded his authority.",
+        "modernLocation": "Traditionally identified as Mount Tabor in Lower Galilee, though Mount Hermon in the north is another candidate.",
+        "latitude": 32.6869,
+        "longitude": 35.3914
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, Transfiguration, death, and resurrection",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 49 AD",
+        "event": "Jerusalem Council; Peter speaks in favor of Gentile inclusion",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 62-64 AD",
+        "event": "1 Peter written from Rome to persecuted Christians",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60-90 AD",
+        "event": "2 Peter written as a farewell testament",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 64-68 AD",
+        "event": "Peter martyred in Rome under Nero (tradition)",
+        "isThisBook": false
+      },
+      {
+        "date": "70 AD",
+        "event": "Romans destroy Jerusalem and the Temple",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Peter opens with a greeting and then lays out a spiritual growth ladder: faith, virtue, knowledge, self-control, perseverance, godliness, brotherly affection, and love. He presents these qualities as the antidote to the false teachers' influence. He then grounds his authority in his eyewitness experience of the Transfiguration and affirms that Scripture comes not from human initiative but from the Holy Spirit moving through the prophets.",
+        "themes": [
+          "The ladder of spiritual growth",
+          "Eyewitness testimony of the Transfiguration",
+          "The divine origin of Scripture",
+          "Peter's approaching death"
+        ],
+        "contextInBook": "Chapter 1 establishes the positive foundation before chapters 2-3 address the negative threats. Peter first tells his readers what to pursue before telling them what to avoid."
+      },
+      "wordStudies": [
+        {
+          "id": "partakers_of_the_divine_nature",
+          "greek": "Greek: theias koinonoi physeos",
+          "transliteration": "Partakers of the divine nature",
+          "translatedAs": "Sharers in God's own nature",
+          "meaning": "Sharers in God's own nature. This striking phrase, unique in the New Testament, uses language familiar to Greek philosophy (especially Stoicism) but fills it with distinctly Christian meaning. It does not mean becoming God but participating in God's moral character through his promises.",
+          "significance": "1:4"
+        },
+        {
+          "id": "prophecy",
+          "greek": "Greek: propheteia",
+          "transliteration": "Prophecy",
+          "translatedAs": "A message from God delivered through human agents",
+          "meaning": "A message from God delivered through human agents. Peter insists that prophecy never originated from human will but from the Holy Spirit carrying people along -- the same word used for a ship driven by the wind.",
+          "significance": "1:20"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ:",
+          "explainer": "Simon Peter, servant and apostle of Jesus Christ, writes to those who have received a faith of equal standing with the apostles. This is a remarkable claim: ordinary believers have the same quality of faith as the apostles themselves. Faith is not graded by status.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Simon Peter",
+              "personId": "peter_author",
+              "wordId": null,
+              "startIndex": 0
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord,",
+          "explainer": "Grace and peace are multiplied through the knowledge of God and of Jesus. Knowledge (Greek: epignosis -- deep, experiential knowledge) is a key theme in this letter. The false teachers claim special knowledge; Peter insists that true knowledge leads to grace and peace, not moral chaos.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue;",
+          "explainer": "God's divine power has granted everything needed for life and godliness through the knowledge of the one who called us by his own glory and excellence. Everything needed for spiritual life has already been provided -- the resources are available, not lacking.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The false teachers may have claimed that additional esoteric knowledge was needed beyond what the apostles taught. Peter counters that God has already provided everything necessary through the basic knowledge of Christ.",
+            "now": "The claim that 'you need something more' beyond the gospel remains a common feature of spiritual movements. Peter insists the gospel itself is fully sufficient for life and godliness."
+          }
+        },
+        {
+          "number": 4,
+          "text": "by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust.",
+          "explainer": "Through God's promises, believers become 'partakers of the divine nature,' having escaped the corruption in the world caused by sinful desire. This is one of the most theologically significant phrases in the New Testament -- participation in God's nature through his promises, not through human effort or mystical techniques.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Corinthians 3:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge;",
+          "explainer": "Peter introduces a chain of virtues to pursue: add to your faith virtue (moral excellence). This is the beginning of a spiritual growth ladder -- each quality builds on the previous one. The list is not random but progressive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "and in knowledge, self-control; and in self-control perseverance; and in perseverance godliness;",
+          "explainer": "To virtue add knowledge, to knowledge add self-control, to self-control add perseverance. Knowledge without self-control leads to arrogance; self-control without perseverance collapses under pressure. Each quality stabilizes and completes the others.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "and in godliness brotherly affection; and in brotherly affection, love.",
+          "explainer": "To perseverance add godliness, to godliness add brotherly affection, to brotherly affection add love. The ladder culminates in love (agape) -- the crown of Christian character. The progression moves from inward qualities (faith, virtue) to outward ones (brotherly affection, love).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Virtue lists were common in both Jewish wisdom literature and Greco-Roman philosophy. Peter's list would have been recognizable to both audiences but is distinctively shaped by its starting point (faith) and endpoint (love).",
+            "now": "The idea of spiritual formation as a progressive journey through developing qualities remains central to Christian discipleship traditions. Many spiritual growth programs are essentially expansions of Peter's ladder."
+          }
+        },
+        {
+          "number": 8,
+          "text": "For if these things are yours and abound, they make you to be not idle or unfruitful in the knowledge of our Lord Jesus Christ.",
+          "explainer": "If these qualities are yours and are increasing, they will keep you from being ineffective or unfruitful in the knowledge of Christ. Growth is not optional; stagnation leads to spiritual ineffectiveness. The Christian life is either growing or decaying.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins.",
+          "explainer": "Whoever lacks these qualities is so nearsighted that they are blind, having forgotten that they were cleansed from their former sins. Spiritual blindness is not about intelligence but about forgetting -- losing sight of what God has already done for you.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Therefore, brothers, be more diligent to make your calling and election sure. For if you do these things, you will never stumble.",
+          "explainer": "Therefore, brothers, be all the more diligent to confirm your calling and election. If you practice these qualities, you will never stumble. The assurance of salvation is connected to actively living out the faith, not to passive confidence based on a past decision.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Philippians 2:12-13",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ.",
+          "explainer": "An entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be 'richly provided' -- abundantly, generously, lavishly. Not a bare, minimal entry but a triumphant welcome.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Therefore I will not be negligent to remind you of these things, though you know them, and are established in the present truth.",
+          "explainer": "Peter will continually remind them of these things, even though they already know them and are established in the truth. Good teaching involves repetition, not just novelty. The already-known needs reinforcement.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I think it right, as long as I am in this tent, to stir you up by reminding you;",
+          "explainer": "Peter considers it right to stir them up by way of reminder as long as he is 'in this tent' -- a metaphor for his physical body. The body is a temporary dwelling; the real person lives inside it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "knowing that the putting off of my tent comes swiftly, even as our Lord Jesus Christ made clear to me.",
+          "explainer": "Peter knows that 'the putting off of my tent will be soon, as our Lord Jesus Christ made clear to me.' This likely refers to Jesus' prediction in John 21:18-19 that Peter would die by crucifixion. Peter faces his approaching death with clear-eyed acceptance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 21:18-19",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Yes, I will make every effort that you may always be able to remember these things even after my departure.",
+          "explainer": "Peter wants to ensure that after his departure ('exodus' in Greek -- a loaded word evoking Israel's departure from Egypt) they will always be able to remember these things. This letter itself serves as Peter's permanent reminder, outlasting his physical life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "For we did not follow cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.",
+          "explainer": "Peter insists they did not follow 'cleverly devised myths' but were eyewitnesses of Christ's majesty. The Greek word for 'myths' (mythoi) is the same word the false teachers' stories might use. Peter draws a sharp line between fabrication and eyewitness testimony.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The ancient world was full of religious myths and legends. Peter's claim to eyewitness testimony was a powerful counter-argument: this is not mythology but history testified to by people who were there.",
+            "now": "The relationship between faith and historical evidence remains one of the most debated topics in theology. Peter's insistence on eyewitness testimony places Christianity in the category of historical claims, not timeless myths."
+          }
+        },
+        {
+          "number": 17,
+          "text": "For he received from God the Father honor and glory, when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”",
+          "explainer": "Peter describes the Transfiguration: Jesus received honor and glory from God the Father when the voice came from the 'Majestic Glory' saying 'This is my beloved Son, in whom I am well pleased.' The divine voice confirms Jesus' identity directly from heaven.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 17:1-5",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Mark 9:2-7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "We heard this voice come out of heaven when we were with him on the holy mountain.",
+          "explainer": "Peter says 'we ourselves heard this voice borne from heaven, for we were with him on the holy mountain.' The first-person plural ('we heard,' 'we were there') is the language of personal testimony. Peter stakes his credibility on what he saw and heard.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'The holy mountain', 'explanation': \"Peter does not name the mountain but calls it 'holy' -- sanctified by the divine event that occurred there. In Jewish tradition, places became holy through encounters with God (as Sinai became holy through the giving of the law). The mountain's identity matters less than what happened there.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "We have the more sure word of prophecy; and you do well that you heed it, as to a lamp shining in a dark place, until the day dawns, and the morning star arises in your hearts:",
+          "explainer": "The prophetic word is made 'more sure' -- confirmed by the Transfiguration experience. Peter tells them to pay attention to Scripture as to 'a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.' Scripture is the light they need until Christ returns.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "knowing this first, that no prophecy of Scripture is of private interpretation.",
+          "explainer": "No prophecy of Scripture comes from someone's own interpretation. This does not mean individuals cannot interpret Scripture; it means the prophecy itself did not originate from human interpretation of events. The prophets did not make up their messages.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The false teachers were apparently offering their own 'interpretations' of Scripture to justify their behavior. Peter insists that the origin of prophecy is divine, not human, and therefore cannot be twisted to support immoral living.",
+            "now": "This verse is foundational for discussions about biblical authority and interpretation. It affirms the divine origin of Scripture while raising questions about how that divine message is understood and applied by human readers."
+          }
+        },
+        {
+          "number": 21,
+          "text": "For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit.",
+          "explainer": "Prophecy never came by the will of man, but people spoke from God as they were 'carried along by the Holy Spirit.' The image is of a ship carried by the wind -- the human authors were real authors with real personalities, but the driving force behind their words was God's Spirit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "This chapter is a sustained, fiery denunciation of false teachers -- one of the most intense passages in the New Testament. Peter draws on three examples of divine judgment (fallen angels, the flood, Sodom and Gomorrah) to establish that God knows how to judge the wicked and rescue the righteous. He then paints a devastating portrait of the false teachers: they are greedy, arrogant, enslaved to corruption, and worse off than if they had never known the truth.",
+        "themes": [
+          "Divine judgment is certain",
+          "Three examples: angels, flood, Sodom",
+          "The character of false teachers",
+          "The tragedy of apostasy",
+          "God rescues the godly"
+        ],
+        "contextInBook": "Chapter 2 shares extensive material with Jude (almost all of Jude appears in some form here). Whether Peter drew on Jude or vice versa, the shared material shows how seriously the early church took the threat of false teaching."
+      },
+      "wordStudies": [
+        {
+          "id": "destructive_heresies",
+          "greek": "Greek: haireseis apoleias",
+          "transliteration": "Destructive heresies",
+          "translatedAs": "Hairesis originally meant 'a choice' or 'a school ",
+          "meaning": "Hairesis originally meant 'a choice' or 'a school of thought' (it gives us the word 'heresy'). Combined with apoleia (destruction), it describes teachings that lead to ruin. These are not merely wrong opinions but deadly distortions.",
+          "significance": "2:1"
+        },
+        {
+          "id": "tartarus",
+          "greek": "Greek: tartaroo",
+          "transliteration": "Tartarus",
+          "translatedAs": "The only New Testament use of the Greek mythologic",
+          "meaning": "The only New Testament use of the Greek mythological term for the deepest abyss of the underworld. Peter co-opts pagan terminology to describe where fallen angels are held for judgment. His Greek readers would have immediately understood the imagery.",
+          "significance": "2:4"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction.",
+          "explainer": "False prophets arose among God's people in the past, and false teachers will arise among the readers too. They will 'secretly introduce destructive heresies, even denying the Master who bought them.' The denial of Christ by those within the church -- not by outsiders -- is the greatest danger.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the early church, there was no centralized authority to declare teachings orthodox or heretical. Each community had to exercise discernment, and false teachers could operate for a long time before being identified.",
+            "now": "The proliferation of religious content online has made discernment both more necessary and more difficult. Peter's warning that false teachers arise from within, not just from outside, remains critically relevant."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Many will follow their immoral ways, and as a result, the way of the truth will be maligned.",
+          "explainer": "Many will follow their 'sensuality' -- their immoral behavior -- and 'the way of truth will be blasphemed' because of them. The damage false teachers do is not just to their followers but to the reputation of Christianity itself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.",
+          "explainer": "In their greed, they will exploit you with 'fabricated stories.' Their motivation is financial gain, and their method is deception. But their condemnation has long been hanging over them -- God's judgment is not idle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For if God didn’t spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness, to be reserved for judgment;",
+          "explainer": "First example: God did not spare the angels who sinned but cast them into Tartarus, holding them in chains of darkness for judgment. The use of 'Tartarus' (a term from Greek mythology for the deepest pit of the underworld) shows Peter adapting his language for a Greek-speaking audience.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Tartarus', 'explanation': 'In Greek mythology, Tartarus was the deepest region of the underworld, where the Titans were imprisoned after their defeat by the Olympian gods. Peter borrows this imagery to describe the holding place for fallen angels -- using a concept his Greek readers would immediately grasp.'}"
+            }
+          ],
+          "crossReferences": [
+            {
+              "reference": "Jude 6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly;",
+          "explainer": "Second example: God did not spare the ancient world but preserved Noah, a preacher of righteousness, along with seven others when he brought the flood. God knows how to judge entire civilizations while rescuing the faithful remnant.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 6-8",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 Peter 3:20",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way;",
+          "explainer": "Third example: God turned the cities of Sodom and Gomorrah to ashes, making them an example of what is going to happen to the ungodly. The destruction was total and irreversible -- nothing remained but ruins and memory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jude 7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "and delivered righteous Lot, who was very distressed by the lustful life of the wicked",
+          "explainer": "But God rescued righteous Lot, who was 'greatly distressed by the sensual conduct of the wicked.' Even in the worst environment, God identifies and rescues those who remain faithful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "(for that righteous man dwelling among them, was tormented in his righteous soul from day to day with seeing and hearing lawless deeds):",
+          "explainer": "Lot was 'tormented day after day' by the lawless deeds he saw and heard. Living in the midst of wickedness without becoming numb to it was its own form of suffering. Lot's righteousness was not passivity but agonized resistance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment;",
+          "explainer": "The conclusion: 'the Lord knows how to rescue the godly from trials and to keep the unrighteous under punishment for the day of judgment.' This is the pastoral point of all three examples -- God is neither powerless nor indifferent. He can and does rescue the faithful while holding the wicked accountable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "For communities experiencing the influence of false teachers, the assurance that God knows how to rescue the godly was essential. They were not abandoned to the chaos created by these infiltrators.",
+            "now": "The assurance that God can distinguish between the faithful and the false, and that his judgment is certain even when delayed, continues to comfort believers living in morally confusing circumstances."
+          }
+        },
+        {
+          "number": 10,
+          "text": "but chiefly those who walk after the flesh in the lust of defilement, and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries;",
+          "explainer": "The false teachers 'despise authority' and are 'bold and willful,' not trembling when they blaspheme the 'glorious ones' (likely angelic beings). Their arrogance extends even to the spiritual realm -- they claim authority over realities they do not understand.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "whereas angels, though greater in might and power, don’t bring a railing judgment against them before the Lord.",
+          "explainer": "Even angels, who are greater in might and power than these false teachers, do not pronounce a blasphemous judgment against them before the Lord. If angels show restraint, how outrageous is human arrogance?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jude 9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "But these, as unreasoning creatures, born natural animals to be taken and destroyed, speaking evil in matters about which they are ignorant, will in their destroying surely be destroyed,",
+          "explainer": "These false teachers are like 'irrational animals, creatures of instinct, born to be caught and destroyed.' They blaspheme about things they do not understand and will be destroyed in the same destruction they bring on others. The language is harsh because the stakes are eternal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you;",
+          "explainer": "They count daytime revelry as pleasure -- they are 'blots and blemishes, reveling in their deceptions while they feast with you.' They participate in the community's fellowship meals while secretly undermining its foundations. They are parasites disguised as participants.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "having eyes full of adultery, and who can’t cease from sin; enticing unsettled souls; having a heart trained in greed; children of cursing;",
+          "explainer": "They have 'eyes full of adultery' that never cease from sin. They entice unstable souls. They have hearts trained in greed -- the word 'trained' (Greek: gymnazo, from which we get 'gymnasium') implies disciplined practice. They have systematically developed their ability to exploit people.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing;",
+          "explainer": "They have followed the way of Balaam son of Beor, who 'loved the wages of unrighteousness.' Balaam was a prophet who sold his spiritual gift for money -- the original religious mercenary.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Numbers 22-24",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Jude 11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "but he was rebuked for his own disobedience. A mute donkey spoke with a man’s voice and stopped the madness of the prophet.",
+          "explainer": "Balaam was 'rebuked for his own transgression: a speechless donkey spoke with a human voice and restrained the prophet's madness.' The irony is devastating -- a donkey had more spiritual discernment than a professional prophet. The false teachers are worse than Balaam.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "These are wells without water, clouds driven by a storm; for whom the blackness of darkness has been reserved forever.",
+          "explainer": "The false teachers are 'waterless springs and mists driven by a storm.' They promise refreshment but deliver nothing. The 'gloom of utter darkness' is reserved for them. Every metaphor emphasizes emptiness -- they are form without substance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jude 12-13",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "For, uttering great swelling words of emptiness, they entice in the lusts of the flesh, by licentiousness, those who are indeed escaping from those who live in error;",
+          "explainer": "They use 'great swelling words of emptiness' to entice people through 'the lusts of the flesh' and 'much wantonness.' Their rhetoric is impressive but hollow. They target people who have recently escaped the moral corruption of their former lives -- new believers who are still vulnerable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him.",
+          "explainer": "They promise freedom while being slaves to corruption themselves. 'For by what a man is overcome, by this he is enslaved.' The false teachers' promise of spiritual liberty is a cruel deception -- they cannot deliver what they themselves do not possess.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The promise of freedom from moral constraint was attractive in a world where philosophical schools debated the nature of true liberty. The false teachers offered a counterfeit freedom that was actually deeper bondage.",
+            "now": "The modern Western emphasis on personal freedom and self-expression faces the same paradox: radical autonomy can become its own form of slavery. Peter's insight that you are enslaved by whatever overcomes you challenges every generation's definition of freedom."
+          }
+        },
+        {
+          "number": 20,
+          "text": "For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first.",
+          "explainer": "If those who have escaped the world's corruption through the knowledge of Christ become entangled again and are overcome, 'the last state has become worse for them than the first.' This is one of the New Testament's starkest warnings about apostasy -- falling away after knowing the truth is worse than never having known it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 12:45",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "For it would be better for them not to have known the way of righteousness, than, after knowing it, to turn back from the holy commandment delivered to them.",
+          "explainer": "It would have been better for them never to have known the way of righteousness than, after knowing it, to turn back from the holy commandment delivered to them. Knowledge increases responsibility. Greater light means greater accountability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "But it has happened to them according to the true proverb, “The dog turns to his own vomit again,” and “the sow that has washed to wallowing in the mire.”",
+          "explainer": "Peter quotes two proverbs: 'The dog returns to its own vomit' and 'the sow, after washing herself, returns to wallow in the mire.' The imagery is deliberately disgusting -- apostasy is not a neutral choice but a revolting return to what was rightfully abandoned.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 26:11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "The final chapter addresses the scoffers' central objection: 'Where is the promise of his coming?' Peter answers by pointing to the flood as proof that God has intervened catastrophically before, by explaining that God's timescale is not ours ('one day is like a thousand years'), and by revealing that the delay is motivated by God's patience -- he wants all people to come to repentance. The chapter culminates in a vision of cosmic destruction and renewal: the present heavens and earth will be dissolved, and new heavens and a new earth will emerge.",
+        "themes": [
+          "Scoffers and the delayed return of Christ",
+          "God's patience as the reason for delay",
+          "The Day of the Lord and cosmic renewal",
+          "Paul's letters as Scripture",
+          "Living in light of the end"
+        ],
+        "contextInBook": "Chapter 3 addresses the most pressing pastoral issue facing Peter's readers: the apparent failure of Christ to return as promised. Peter transforms this crisis of faith into an opportunity for deeper understanding of God's character."
+      },
+      "wordStudies": [
+        {
+          "id": "scoffers",
+          "greek": "Greek: empaiktai",
+          "transliteration": "Scoffers",
+          "translatedAs": "Mockers, those who ridicule",
+          "meaning": "Mockers, those who ridicule. The word implies not just doubt but contemptuous dismissal. These scoffers are not asking honest questions but mocking the very idea of divine intervention.",
+          "significance": "3:3"
+        },
+        {
+          "id": "elements",
+          "greek": "Greek: stoicheia",
+          "transliteration": "Elements",
+          "translatedAs": "The basic building blocks of the physical universe",
+          "meaning": "The basic building blocks of the physical universe. In ancient thought, these were earth, water, fire, and air. Peter says these fundamental elements will be 'dissolved with intense heat' -- a complete undoing of creation's basic structure.",
+          "significance": "3:10"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you;",
+          "explainer": "Peter addresses them as 'beloved' and says this is now his second letter to them. Both letters aim to 'stir up your sincere mind by way of reminder.' The pastoral strategy is not new information but renewed attention to what they already know.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Peter 1:1",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "that you should remember the words which were spoken before by the holy prophets, and the commandment of us, the apostles of the Lord and Savior:",
+          "explainer": "They should remember the predictions of the holy prophets and the commandment of the Lord through the apostles. Peter places the prophets and the apostles on the same level -- both are authoritative sources of God's word. The whole of Scripture, Old and New, speaks with one voice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "knowing this first, that in the last days mockers will come, walking after their own lusts,",
+          "explainer": "Scoffers will come in the last days, 'following their own sinful desires.' Their mockery is not intellectually honest; it is motivated by their desire to live without accountability. If Christ is not returning, there is no judgment to face.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jude 18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.”",
+          "explainer": "The scoffers' argument: 'Where is the promise of his coming? Since the fathers fell asleep, everything continues as it was from the beginning of creation.' This is a philosophical argument from uniformity -- nothing has ever changed, so nothing ever will. It assumes that the past is a reliable predictor of the future.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The 'delay of the parousia' (Christ's return) was the first major theological crisis of early Christianity. The first generation expected Jesus to return within their lifetime. As apostles died and decades passed, the question became urgent.",
+            "now": "Nearly 2,000 years later, the question has not gone away. Every generation of Christians has had to reckon with the delayed return, and Peter's answer -- that God's patience is the reason -- continues to shape Christian eschatology."
+          }
+        },
+        {
+          "number": 5,
+          "text": "For this they willfully forget, that there were heavens from of old, and an earth formed out of water and amid water, by the word of God;",
+          "explainer": "Peter counters: the scoffers 'deliberately overlook' that the heavens existed long ago and the earth was formed out of water and through water by the word of God. Creation itself came into being by divine speech -- the same God who spoke the world into existence can speak its end.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 1:6-9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "by which means the world that then was, being overflowed with water, perished.",
+          "explainer": "Through water, the world at that time was destroyed in the flood. Peter's point: the scoffers say nothing has ever changed, but it has. God already destroyed the world once. The argument from uniformity ignores the historical evidence of catastrophic divine intervention.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "But the heavens that now exist, and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men.",
+          "explainer": "The present heavens and earth are being 'stored up for fire, kept until the day of judgment and destruction of the ungodly.' Just as water was the instrument of the first destruction, fire will be the instrument of the second. The cosmos is not eternal -- it has an appointment with divine fire.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "But don’t forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day.",
+          "explainer": "Do not ignore this one fact: 'with the Lord one day is as a thousand years, and a thousand years as one day.' God does not experience time the way we do. What seems like an eternity of waiting to us is, from God's perspective, barely a moment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 90:4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "In a world where the expected timeline for Christ's return was measured in years or decades, Peter's reframing in terms of millennia was a radical shift in perspective.",
+            "now": "This verse has generated extensive debate about whether it should be taken literally (as in some millennial calculations) or as a poetic statement about divine transcendence. Most scholars read it as the latter -- a reminder that divine patience operates on a scale incomprehensible to us."
+          }
+        },
+        {
+          "number": 9,
+          "text": "The Lord is not slow concerning his promise, as some count slowness; but is patient with us, not wishing that any should perish, but that all should come to repentance.",
+          "explainer": "The Lord is not slow about his promise, as some count slowness. Instead, he is 'patient toward you, not wishing that any should perish, but that all should reach repentance.' The delay is not indifference or impotence but mercy. Every day of delay is another day for someone to turn to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse reframes the entire problem: the delay that seems like evidence against God's faithfulness is actually evidence of his mercy. He is giving people more time to repent.",
+            "now": "This remains one of the most pastorally powerful answers to the problem of the delayed return. It transforms a theological embarrassment into a demonstration of divine love."
+          }
+        },
+        {
+          "number": 10,
+          "text": "But the day of the Lord will come as a thief in the night; in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat, and the earth and the works that are in it will be burned up.",
+          "explainer": "The day of the Lord will come like a thief -- unexpected and unavoidable. The heavens will pass away with a roar, the elements will be dissolved with fire, and the earth and everything in it will be laid bare. This is total cosmic dissolution, not a local event.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Thessalonians 5:2",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Matthew 24:43",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Therefore since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness,",
+          "explainer": "Since all these things are to be dissolved, 'what sort of people ought you to be in lives of holiness and godliness?' The eschatological vision drives the ethical imperative. If the entire material world is temporary, investing your life in character rather than possessions is the only rational choice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "looking for and earnestly desiring the coming of the day of God, which will cause the burning heavens to be dissolved, and the elements will melt with fervent heat?",
+          "explainer": "They should be 'waiting for and hastening the coming of the day of God.' The idea that human behavior can 'hasten' God's timing is remarkable. Some Jewish traditions held that if all Israel repented for even one day, the Messiah would come. Peter may share this view -- faithfulness accelerates God's plan.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But, according to his promise, we look for new heavens and a new earth, in which righteousness dwells.",
+          "explainer": "According to God's promise, 'we are waiting for new heavens and a new earth in which righteousness dwells.' The destruction is not the end but the beginning of something better. The future is not annihilation but renewal -- a cosmos purged of evil where righteousness is at home.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 65:17",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Revelation 21:1",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without defect and blameless in his sight.",
+          "explainer": "Therefore, beloved, since you are waiting for these things, be diligent to be found by him 'without spot or blemish, and at peace.' The expectation of the end produces not panic but peace, not frantic activity but diligent holiness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you;",
+          "explainer": "Count the patience of our Lord as salvation, 'just as our beloved brother Paul also wrote to you according to the wisdom given to him.' Peter cites Paul as an authority and calls him 'beloved brother.' This is a remarkable endorsement, especially given the tensions between Peter and Paul recorded in Galatians 2.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 2:4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "as also in all of his letters, speaking in them of these things. In those, there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction.",
+          "explainer": "Paul speaks of these things in all his letters, in which 'there are some things hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.' This is extraordinary -- Peter places Paul's letters on the same level as 'the other Scriptures.' The New Testament canon is being formed before our eyes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "By the time 2 Peter was written, Paul's letters were being collected and circulated among churches. The fact that they were already being misinterpreted shows both their widespread influence and their complexity.",
+            "now": "Peter's frank admission that Paul is 'hard to understand' has comforted generations of Bible readers who struggle with Paul's dense theological arguments. Even the apostles found Paul challenging."
+          }
+        },
+        {
+          "number": 17,
+          "text": "You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness.",
+          "explainer": "Peter warns them to be on guard so that they are not 'carried away with the error of lawless people' and lose their own stability. Forewarned is forearmed -- knowing that deception is coming gives them the ability to resist it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.",
+          "explainer": "The letter ends with a single command and a doxology: 'Grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.' The antidote to false teaching is not just defensive vigilance but active growth in knowing Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Peter's final word is not fear but growth. In a letter dominated by warnings about false teachers and cosmic destruction, the last instruction is simply to keep growing. The best defense is spiritual maturity.",
+            "now": "The emphasis on growth in grace and knowledge as the ultimate answer to spiritual danger remains profoundly relevant. Peter's letter ends not with a fortress mentality but with an expansive vision of deepening relationship with Christ."
+          }
+        }
+      ]
+    }
+  ]
+}

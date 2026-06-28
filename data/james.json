@@ -1,0 +1,1419 @@
+{
+  "book": {
+    "id": "james",
+    "name": "James",
+    "testament": "New Testament",
+    "author": "James, the brother of Jesus and leader of the Jerusalem church",
+    "dateWritten": "c. 45-62 AD (possibly the earliest New Testament document)",
+    "writtenFrom": "Jerusalem",
+    "writtenTo": "Jewish Christians scattered throughout the Roman Empire ('the twelve tribes in the Dispersion')",
+    "chapterCount": 5,
+    "verseCount": 108,
+    "explainer": {
+      "overview": "James is the most practical book in the New Testament. It reads less like a letter and more like a collection of sermon notes or wisdom sayings, covering topics from handling trials and temptation to controlling the tongue, showing no favoritism, caring for the poor, and the relationship between faith and works. James' central argument -- that 'faith without works is dead' -- has made it one of the most discussed and debated books in Christian history. Martin Luther famously called it 'an epistle of straw,' while others consider it essential for keeping Christianity honest.",
+      "historicalContext": "James likely wrote from Jerusalem before Paul's letters were widely circulated, making this possibly the earliest surviving Christian document. The community he addresses is Jewish-Christian, still attending synagogue services and operating within a Jewish cultural framework. Economic inequality is a major concern: rich members are exploiting and humiliating the poor. The letter reflects a church that is beginning to confuse intellectual belief with genuine faith.",
+      "whyItMatters": "James is Christianity's conscience. When faith becomes purely intellectual or otherworldly, James insists that real faith produces visible results: caring for orphans and widows, bridling the tongue, resisting favoritism, and living with integrity. The letter's argument that faith without corresponding action is dead has been one of the most important correctives in Christian history, preventing the gospel of grace from becoming a license for complacency.",
+      "keyThemes": [
+        "Faith and works",
+        "Trials and temptation",
+        "The power of the tongue",
+        "Partiality and care for the poor",
+        "Wisdom from above vs. earthly wisdom",
+        "Patient endurance"
+      ]
+    },
+    "people": [
+      {
+        "id": "james_author",
+        "name": "James",
+        "role": "Author, brother of Jesus, leader of the Jerusalem church",
+        "bio": "James was a half-brother of Jesus who did not believe in Jesus during his ministry (John 7:5). After the resurrection, Jesus appeared to James personally (1 Corinthians 15:7), and he became a believer and eventually the leader of the Jerusalem church. He presided over the Jerusalem Council (Acts 15), was known for his exceptional piety (the historian Josephus and early church writer Hegesippus both mention him), and was martyred in 62 AD by being thrown from the Temple and then clubbed to death.",
+        "culturalContext": "James was known as 'James the Just' and reportedly spent so much time in prayer that his knees became calloused like a camel's. He maintained a strong connection to Jewish practice while leading the Christian community, making him a bridge figure between Judaism and Christianity. His letter reflects this dual identity: deeply Jewish in its wisdom orientation, deeply Christian in its focus on Christ."
+      }
+    ],
+    "places": [
+      {
+        "id": "jerusalem_james",
+        "name": "Jerusalem",
+        "description": "The city from which James led the early church and almost certainly wrote this letter. The Jerusalem church was the mother church of Christianity, led by James until his martyrdom in 62 AD.",
+        "culturalSignificance": "Jerusalem was the center of Jewish religious life and the birthplace of the Christian church. James' leadership there gave him unique authority in disputes about how Gentile converts should relate to Jewish law. The Jerusalem church's poverty (Paul collected offerings for them) may be reflected in James' concern for the poor.",
+        "modernLocation": "Modern Jerusalem, Israel/Palestine.",
+        "latitude": 31.7683,
+        "longitude": 35.2137
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection; James becomes a believer",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 33-44 AD",
+        "event": "James rises to leadership of the Jerusalem church",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 45-62 AD",
+        "event": "James writes his epistle to Jewish Christians in the Dispersion",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 49 AD",
+        "event": "Jerusalem Council: James mediates the Gentile inclusion debate (Acts 15)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 57 AD",
+        "event": "Paul visits James in Jerusalem on his final visit (Acts 21:18)",
+        "isThisBook": false
+      },
+      {
+        "date": "62 AD",
+        "event": "James martyred in Jerusalem by the high priest Ananus",
+        "isThisBook": false
+      },
+      {
+        "date": "70 AD",
+        "event": "Romans destroy Jerusalem and the Temple",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "James opens with an astonishing command: consider it pure joy when you face trials. He then distinguishes between trials (external tests God uses for growth) and temptations (internal desires that lead to sin). The chapter moves through generosity, the danger of double-mindedness, true religion (caring for orphans and widows), and the famous mirror analogy: hearing the word without doing it is like looking in a mirror and immediately forgetting what you look like.",
+        "themes": [
+          "Joy in trials",
+          "Asking God for wisdom",
+          "The source of temptation",
+          "Every good gift from above",
+          "Be doers of the word, not just hearers",
+          "True religion defined"
+        ],
+        "contextInBook": "Chapter 1 introduces nearly every theme the letter will develop: trials (expanded in ch.5), wisdom (ch.3), poverty and wealth (ch.2, 5), temptation (ch.4), hearing and doing (ch.2). It functions as an overture to the entire letter."
+      },
+      "wordStudies": [
+        {
+          "id": "trials/testing",
+          "greek": "Greek: peirasmos",
+          "transliteration": "Trials/Testing",
+          "translatedAs": "The same Greek word can mean either 'trial' (an ex",
+          "meaning": "The same Greek word can mean either 'trial' (an external test) or 'temptation' (an internal enticement to sin). James uses both senses: in 1:2, trials are external and produce endurance; in 1:13-14, temptation is internal and comes from desire. The distinction is crucial for his theology.",
+          "significance": "1:2"
+        },
+        {
+          "id": "double-minded",
+          "greek": "Greek: dipsychos",
+          "transliteration": "Double-minded",
+          "translatedAs": "Literally 'two-souled' -- a person divided between",
+          "meaning": "Literally 'two-souled' -- a person divided between trust in God and trust in the world. James may have coined this word; it appears nowhere in earlier Greek literature. The double-minded person is unstable because they have not committed fully in either direction.",
+          "significance": "1:8"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.",
+          "explainer": "James identifies himself simply as 'a servant of God and of the Lord Jesus Christ.' He does not mention being Jesus' brother -- a remarkable act of humility. He writes to 'the twelve tribes in the Dispersion,' addressing Jewish Christians scattered throughout the Roman world.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "James",
+              "personId": "james_author",
+              "wordId": null,
+              "startIndex": 0
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Count it all joy, my brothers, when you fall into various temptations,",
+          "explainer": "Count it all joy, my brothers, when you meet trials of various kinds. The opening command is counterintuitive: joy in the face of suffering. James does not say the trials themselves are joyful but that the perspective on them can be. The joy comes from understanding what trials produce.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "James' readers faced economic exploitation, social marginalization, and possibly physical persecution as a religious minority. Being told to 'count it all joy' required a radical reorientation of how they understood suffering.",
+            "now": "The instruction to find joy in trials -- not denial, not masochism, but purposeful joy -- remains one of Christianity's most challenging and distinctive teachings."
+          }
+        },
+        {
+          "number": 3,
+          "text": "knowing that the testing of your faith produces endurance.",
+          "explainer": "For you know that the testing of your faith produces steadfastness. Trials test faith the way fire tests metal. The result of passing the test is endurance (hypomone) -- the ability to stand firm under pressure without breaking.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+          "explainer": "And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. The goal of endurance is maturity -- spiritual completeness. The word 'perfect' (teleios) does not mean flawless but mature, having reached the intended goal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach; and it will be given to him.",
+          "explainer": "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. God does not give wisdom grudgingly or with conditions. He gives 'generously' (haplos -- simply, without strings attached) and 'without reproach' -- he will not shame you for asking.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Jewish wisdom tradition, wisdom was the most valuable possession -- more precious than gold or jewels. James says it is freely available through prayer, democratizing what had been the province of sages and scholars.",
+            "now": "The promise of wisdom given freely to anyone who asks remains one of the most practical and frequently claimed promises in Scripture. It applies to every decision, not just religious ones."
+          }
+        },
+        {
+          "number": 6,
+          "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
+          "explainer": "But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind. The condition for receiving wisdom is undivided trust. Doubt here is not honest questioning but wavering between trust in God and trust in one's own resources.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For that man shouldn’t think that he will receive anything from the Lord.",
+          "explainer": "For that person must not suppose that he will receive anything from the Lord. The double-minded person's prayers are ineffective because they are not truly directed at God -- they are hedging their bets.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "He is a double-minded man, unstable in all his ways.",
+          "explainer": "He is a double-minded man, unstable in all his ways. 'Double-minded' (dipsychos) is probably a word James invented. It describes someone with divided loyalties, trying to serve two masters simultaneously. The instability is not in one area but in 'all his ways' -- internal division produces comprehensive unreliability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "But let the brother in humble circumstances glory in his high position;",
+          "explainer": "Let the lowly brother boast in his exaltation. The poor believer should take pride in their true status: they are children of God, exalted in his sight regardless of their economic condition.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Lowly brother', 'explanation': 'In the honor-shame culture of the ancient Mediterranean, economic status largely determined social honor. James subverts this: the poor believer has been exalted by God, making their true status higher than their visible one.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "and the rich, in that he is made humble, because like the flower in the grass, he will pass away.",
+          "explainer": "And the rich in his humiliation, because like a flower of the grass he will pass away. The wealthy person should 'boast' in being brought low -- realizing that their riches are temporary and their true identity before God has nothing to do with money.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For the sun arises with the scorching wind, and withers the grass, and the flower in it falls, and the beauty of its appearance perishes. So also will the rich man fade away in his pursuits.",
+          "explainer": "For the sun rises with its scorching heat and withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits. Wealth provides no protection against mortality. The rich man withers just as quickly as the poor man -- death is the great equalizer.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 40:6-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.",
+          "explainer": "Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him. Enduring trials earns a 'crown of life' -- eternal life as a reward for faithfulness. The crown imagery comes from athletic competitions where victors received wreaths.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one.",
+          "explainer": "Let no one say when he is tempted, 'I am being tempted by God,' for God cannot be tempted with evil, and he himself tempts no one. James now distinguishes trials (external tests, v.2) from temptation (internal enticement to evil, here). God sends the former for growth; he never sends the latter. Blaming God for temptation is a misunderstanding of his character.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "But each one is tempted when he is drawn away by his own lust, and enticed.",
+          "explainer": "But each person is tempted when he is lured and enticed by his own desire. The source of temptation is internal, not external. James uses fishing imagery: desire is the bait, and the person is the fish. No one forces you to bite.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, produces death.",
+          "explainer": "Then desire when it has conceived gives birth to sin, and sin when it is fully grown brings forth death. James traces a genealogy of evil: desire conceives sin, sin matures, and mature sin produces death. The progression is natural and inevitable unless interrupted.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Don’t be deceived, my beloved brothers.",
+          "explainer": "Do not be deceived, my beloved brothers. Self-deception is the specific danger: the belief that you can entertain desire without consequences. James says the connection between desire, sin, and death is as inevitable as a biological process.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.",
+          "explainer": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change. God is the source of every good thing, and he never changes. Unlike the sun, which creates shifting shadows, God's character is constant. He gives good gifts, never evil temptations.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 7:11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures.",
+          "explainer": "Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures. God's greatest gift: new birth through the gospel. Believers are 'firstfruits' -- the initial harvest of a much larger crop to come. The agricultural metaphor promises that more will follow.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger;",
+          "explainer": "Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger. Three practical commands that distill centuries of wisdom: listen more, talk less, and control your temper. The order matters -- listening comes first.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a culture where public speaking carried great honor and quick verbal responses demonstrated wit and education, James' instruction to be 'slow to speak' was counter-cultural.",
+            "now": "In the age of social media, where rapid reaction is rewarded and thoughtful listening is rare, James' three-part command has never been more relevant."
+          }
+        },
+        {
+          "number": 20,
+          "text": "for the anger of man doesn’t produce the righteousness of God.",
+          "explainer": "For the anger of man does not produce the righteousness of God. Human anger -- even righteous-sounding anger about injustice -- does not accomplish God's purposes. This does not deny that anger can be appropriate but insists it is rarely productive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.",
+          "explainer": "Therefore put away all filthiness and rampant wickedness and receive with meekness the implanted word, which is able to save your souls. The 'implanted word' is the gospel message already planted in them. It needs to be received with humility, not resisted with anger or pride.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "But be doers of the word, and not only hearers, deluding your own selves.",
+          "explainer": "But be doers of the word, and not hearers only, deceiving yourselves. This is James' thesis statement: hearing the truth without acting on it is self-deception. Knowing is not enough; doing is the evidence of genuine reception.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror;",
+          "explainer": "For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. The mirror analogy begins: you look at yourself carefully...",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "for he sees himself, and goes away, and immediately forgets what kind of man he was.",
+          "explainer": "...and goes away and immediately forgets what he was like. The absurdity is the point: who looks in a mirror and then forgets their own face? Yet this is exactly what happens when people hear a sermon, nod in agreement, and change nothing about their lives.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does.",
+          "explainer": "But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing. The 'perfect law of liberty' is the gospel understood as a way of life. It is both freeing (liberty) and demanding (law). True blessing comes from doing, not just knowing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless.",
+          "explainer": "If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless. Religion that does not control speech is fraudulent. The tongue is the first test of genuine faith -- a theme James will develop extensively in chapter 3.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.",
+          "explainer": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world. James defines true religion in one sentence: care for the vulnerable and personal holiness. Not ritual, not theology, not church attendance -- but compassion and integrity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Orphans and widows were the most vulnerable members of ancient society, lacking male protection in a patriarchal world. Their care was a test of the community's moral health.",
+            "now": "James' definition of 'pure religion' continues to challenge religious communities that emphasize doctrinal correctness or worship excellence while neglecting practical compassion for the vulnerable."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Chapter 2 contains James' two most famous arguments. First, he attacks favoritism in the church: giving preferential treatment to rich visitors while humiliating the poor violates the royal law of love. Second, he makes his central theological argument: faith without works is dead. Using Abraham and Rahab as examples, he insists that genuine faith always produces corresponding action. The slogan 'faith without works is dead' has echoed through every century of Christian history.",
+        "themes": [
+          "No partiality in the church",
+          "The royal law of love",
+          "Faith and works: the inseparable pair",
+          "Abraham and Rahab as examples",
+          "Faith without works is dead"
+        ],
+        "contextInBook": "Chapter 2 develops the 'be doers of the word' theme from 1:22 into its fullest expression. The favoritism passage (2:1-13) illustrates what hearing without doing looks like in practice; the faith-and-works passage (2:14-26) provides the theological foundation."
+      },
+      "wordStudies": [
+        {
+          "id": "favoritism",
+          "greek": "Greek: prosopolempsia",
+          "transliteration": "Favoritism",
+          "translatedAs": "Literally 'receiving a face' -- judging people by ",
+          "meaning": "Literally 'receiving a face' -- judging people by their external appearance. The word was coined by Jewish-Christian authors to describe the sin of treating people differently based on their status. God himself shows no favoritism (Acts 10:34), and neither should his people.",
+          "significance": "2:1"
+        },
+        {
+          "id": "justified",
+          "greek": "Greek: dikaioo",
+          "transliteration": "Justified",
+          "translatedAs": "Declared righteous, vindicated",
+          "meaning": "Declared righteous, vindicated. James and Paul use this word differently: Paul emphasizes justification by faith before God (forensic declaration), while James emphasizes justification by works before people (visible demonstration). They are not contradicting each other but addressing different questions.",
+          "significance": "2:24"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My brothers, don’t hold the faith of our Lord Jesus Christ of glory with partiality.",
+          "explainer": "My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory. Favoritism and faith in Christ are incompatible. You cannot worship a Lord who died for all people while treating some people as more valuable than others.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in;",
+          "explainer": "For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in... James sets up a vivid scenario: two visitors arrive at a Christian gathering, one rich and one poor.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Gold ring and fine clothing', 'explanation': \"Gold rings were markers of the equestrian class in Rome -- the second-highest social rank. Fine clothing (lampros -- bright, splendid) indicated wealth and status. The contrast with 'shabby clothing' (rhyparos -- filthy, vile) represents the extreme poles of social status.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "and you pay special attention to him who wears the fine clothing, and say, “Sit here in a good place”; and you tell the poor man, “Stand there,” or “Sit by my footstool”;",
+          "explainer": "...and if you pay attention to the one who wears the fine clothing and say 'You sit here in a good place,' while you say to the poor man 'You stand over there,' or 'Sit down at my feet'... The preferential treatment is blatant: a seat of honor for the rich, standing room or the floor for the poor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "haven’t you shown partiality among yourselves, and become judges with evil thoughts?",
+          "explainer": "Have you not then made distinctions among yourselves and become judges with evil thoughts? Favoritism turns the community into a court where the verdict is based on wealth, not character. The 'evil thoughts' are the calculations of who is worth cultivating and who can be ignored.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a patron-client society, cultivating wealthy patrons was a survival strategy. Showing deference to the rich was deeply ingrained cultural behavior. James calls it evil.",
+            "now": "The tendency to treat wealthy, powerful, or famous people differently in religious settings has not disappeared. VIP seating, donor recognition, and celebrity access continue to create the exact dynamic James condemns."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith, and heirs of the Kingdom which he promised to those who love him?",
+          "explainer": "Listen, my beloved brothers, has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom? God's economy inverts the world's: the poor are rich in faith and heirs of the kingdom. The church's favoritism toward the rich is not just unkind; it is a reversal of God's own values.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Luke 6:20",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But you have dishonored the poor man. Don’t the rich oppress you, and personally drag you before the courts?",
+          "explainer": "But you have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who drag you into court? The irony is devastating: the very class the church honors is the class that exploits them. They are giving preferential treatment to their oppressors.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Don’t they blaspheme the honorable name by which you are called?",
+          "explainer": "Are they not the ones who blaspheme the honorable name by which you were called? The rich not only oppress but blaspheme Christ's name. The church is flattering those who slander their Lord.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "However, if you fulfill the royal law, according to the Scripture, “You shall love your neighbor as yourself,” you do well.",
+          "explainer": "If you really fulfill the royal law according to the Scripture, 'You shall love your neighbor as yourself,' you are doing well. The 'royal law' is the law of the kingdom: love your neighbor. If favoritism is the disease, the love command is the cure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Leviticus 19:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "But if you show partiality, you commit sin, being convicted by the law as transgressors.",
+          "explainer": "But if you show partiality, you are committing sin and are convicted by the law as transgressors. Favoritism is not a minor social blunder; it is sin. The law that commands love convicts those who practice discrimination.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all.",
+          "explainer": "For whoever keeps the whole law but fails in one point has become guilty of all of it. The law is a unity. You cannot obey selectively. Keeping 99% of the law but violating the love command is still failure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For he who said, “Do not commit adultery,” also said, “Do not commit murder.” Now if you do not commit adultery, but murder, you have become a transgressor of the law.",
+          "explainer": "For he who said 'Do not commit adultery' also said 'Do not murder.' If you do not commit adultery but do murder, you have become a transgressor of the law. The same God stands behind every command. Violating any one of them makes you a lawbreaker, not just a partial failure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "So speak, and so do, as men who are to be judged by a law of freedom.",
+          "explainer": "So speak and so act as those who are to be judged under the law of liberty. The 'law of liberty' from 1:25 returns. Believers will be judged not by a legal code but by the law that liberates -- the gospel. But this judgment is real, and it requires consistent speech and action.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.",
+          "explainer": "For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment. Those who show mercy will receive mercy; those who withhold it will face judgment without it. The final sentence is triumphant: mercy wins.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community where the poor were being humiliated, the warning that unmerciful behavior would face unmerciful judgment was a direct challenge to the powerful members.",
+            "now": "The principle that mercy triumphs over judgment shapes how Christians understand both divine justice and human relationships. It is both a promise (God is merciful) and a warning (be merciful to others)."
+          }
+        },
+        {
+          "number": 14,
+          "text": "What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him?",
+          "explainer": "What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? The central question of the letter. James is not asking whether faith saves (he assumes it does) but whether claimed faith that produces no action is genuine faith at all.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the early church, some may have reduced faith to intellectual assent -- believing the right doctrines without any corresponding lifestyle change. James attacks this reduction head-on.",
+            "now": "The faith-works debate has dominated Protestant theology since Luther. The key insight is that James is not contradicting Paul; he is addressing a different problem. Paul fought legalism (earning salvation by works); James fights antinomianism (claiming salvation without any evidence of transformation)."
+          }
+        },
+        {
+          "number": 15,
+          "text": "And if a brother or sister is naked and in lack of daily food,",
+          "explainer": "If a brother or sister is poorly clothed and lacking in daily food... James uses a concrete illustration, not an abstract theological argument. Real faith is tested by real situations.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "and one of you tells them, “Go in peace, be warmed and filled”; and yet you didn’t give them the things the body needs, what good is it?",
+          "explainer": "...and one of you says to them 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that? Words without action are useless. Wishing someone well while doing nothing is a parody of love. The question 'what good is that?' drips with sarcasm.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Even so faith, if it has no works, is dead in itself.",
+          "explainer": "So also faith by itself, if it does not have works, is dead. The thesis statement: faith that produces no action is not just weak or incomplete -- it is dead. A corpse looks like a person but has no life. Dead faith looks like faith but has no vitality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I by my works will show you my faith.",
+          "explainer": "But someone will say 'You have faith and I have works.' Show me your faith apart from your works, and I will show you my faith by my works. James presents a hypothetical objector who tries to separate faith and works into different spiritual gifts. James demolishes this: faith cannot be demonstrated except through action. There is no other evidence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "You believe that God is one. You do well. The demons also believe, and shudder.",
+          "explainer": "You believe that God is one; you do well. Even the demons believe -- and shudder! The most devastating argument in the letter. Intellectual belief in monotheism is shared by demons. They believe the right doctrines and are terrified. Clearly, correct belief alone is not saving faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 6:4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "But do you want to know, vain man, that faith apart from works is dead?",
+          "explainer": "Do you want to be shown, you foolish person, that faith apart from works is useless? James challenges the hypothetical objector to examine the evidence. He will now provide two biblical examples.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar?",
+          "explainer": "Was not Abraham our father justified by works when he offered up his son Isaac on the altar? James' first example: Abraham's willingness to sacrifice Isaac. This was the action that demonstrated the reality of Abraham's faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 22:1-19",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Romans 4:1-5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "You see that faith worked with his works, and by works faith was perfected;",
+          "explainer": "You see that faith was active along with his works, and faith was completed by his works. Faith and works are not competitors but partners. Faith is the root; works are the fruit. Faith motivates action; action validates faith. Together they form a complete, living reality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "and the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness”; and he was called the friend of God.",
+          "explainer": "And the Scripture was fulfilled that says 'Abraham believed God, and it was counted to him as righteousness' -- and he was called a friend of God. Abraham's belief (Genesis 15:6) was fulfilled -- brought to completion -- by his obedience (Genesis 22). The earlier faith was proven genuine by the later action.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 15:6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "You see then that by works, a man is justified, and not only by faith.",
+          "explainer": "You see that a person is justified by works and not by faith alone. James' most provocative statement, seemingly contradicting Paul's 'justified by faith apart from works of the law' (Romans 3:28). The resolution: James means 'demonstrated to be genuinely faithful' by works; Paul means 'accepted by God' through faith. Different questions, complementary answers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "In the same way, wasn’t Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way?",
+          "explainer": "And in the same way was not also Rahab the prostitute justified by works when she received the messengers and sent them out by another way? The second example is deliberately shocking: Rahab was a Gentile, a woman, and a prostitute. Her faith was demonstrated by the dangerous act of hiding Israelite spies. If Abraham is the pinnacle of Jewish faith, Rahab is the most unlikely convert imaginable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Joshua 2:1-21",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Hebrews 11:31",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+          "explainer": "For as the body apart from the spirit is dead, so also faith apart from works is dead. The final analogy: a body without breath is a corpse. Faith without works is a corpse of faith -- it has the form but not the life. This is the most memorable summary of James' central argument.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Chapter 3 contains James' most famous and vivid writing: the passage on the tongue. He warns that the tongue is a small member that can set the entire course of life on fire -- like a tiny spark that ignites a forest. No one can tame the tongue; with it we bless God and curse people made in God's image. The chapter then contrasts two kinds of wisdom: earthly wisdom (characterized by jealousy, selfish ambition, and disorder) and wisdom from above (characterized by purity, peace, gentleness, and mercy).",
+        "themes": [
+          "The responsibility of teachers",
+          "The untameable tongue",
+          "The tongue's destructive power",
+          "Blessing and cursing from the same mouth",
+          "Two kinds of wisdom: earthly vs. heavenly"
+        ],
+        "contextInBook": "Chapter 3 develops the tongue theme introduced in 1:19 ('slow to speak') and 1:26 ('bridle his tongue'). The wisdom section connects to 1:5 ('if any lacks wisdom'). Both sections illustrate the gap between profession and practice that James has been attacking since chapter 1."
+      },
+      "wordStudies": [
+        {
+          "id": "gehenna",
+          "greek": "Greek: geenna",
+          "transliteration": "Gehenna",
+          "translatedAs": "The Valley of Hinnom outside Jerusalem, where chil",
+          "meaning": "The Valley of Hinnom outside Jerusalem, where child sacrifices were once offered to Molech. By Jesus' time, it was used as a garbage dump where fires burned constantly. It became the standard Jewish image for the place of final punishment. James says the tongue itself is set on fire by hell.",
+          "significance": "3:6"
+        },
+        {
+          "id": "wisdom_from_above",
+          "greek": "Greek: he anothen sophia",
+          "transliteration": "Wisdom from above",
+          "translatedAs": "Wisdom that comes down from God (as opposed to ear",
+          "meaning": "Wisdom that comes down from God (as opposed to earthly, unspiritual, demonic wisdom). It is characterized by moral qualities (purity, peace, gentleness) rather than intellectual capacity. This echoes the Jewish wisdom tradition where wisdom is fundamentally about how you live, not what you know.",
+          "significance": "3:17"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.",
+          "explainer": "Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness. Teachers face heightened accountability because their words influence many. James includes himself in 'we who teach' -- he is not exempt from his own warning.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the early church, teaching was one of the most honored roles. James warns that the honor comes with disproportionate risk -- more influence means more accountability for what you say.",
+            "now": "The warning to teachers has expanded to include anyone with a platform: pastors, authors, podcasters, social media influencers. Greater reach means greater responsibility for the impact of your words."
+          }
+        },
+        {
+          "number": 2,
+          "text": "For in many things we all stumble. If anyone doesn’t stumble in word, the same is a perfect man, able to bridle the whole body also.",
+          "explainer": "For we all stumble in many ways. And if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body. Controlling the tongue is the ultimate test of self-mastery. If you can control what you say, you can control everything else. James acknowledges that 'we all stumble' -- perfection in speech is the ideal, not the current reality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body.",
+          "explainer": "If we put bits into the mouths of horses so that they obey us, we guide their whole bodies as well. First analogy: a small bit controls a large horse. The tongue is the bit that controls the direction of a person's life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Behold, the ships also, though they are so big and are driven by fierce winds, are yet guided by a very small rudder, wherever the pilot desires.",
+          "explainer": "Look at the ships also: though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs. Second analogy: a tiny rudder steers a massive ship. The tongue, though small, determines the direction of the whole person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest!",
+          "explainer": "So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire! Third analogy: a spark starts a forest fire. The tongue is capable of destruction vastly disproportionate to its size.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.",
+          "explainer": "And the tongue is a fire, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by hell. The most extreme statement about the tongue in the Bible. It is a fire fueled by hell itself (Gehenna), capable of contaminating the entire person and destroying the entire trajectory of life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For every kind of animal, bird, creeping thing, and sea creature, is tamed, and has been tamed by mankind;",
+          "explainer": "For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind. Humans have domesticated animals across every category of creation -- land, air, and sea. Our mastery over the animal kingdom is impressive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "but nobody can tame the tongue. It is a restless evil, full of deadly poison.",
+          "explainer": "But no human being can tame the tongue. It is a restless evil, full of deadly poison. The contrast is devastating: we can tame lions and eagles but cannot control our own speech. The tongue is 'restless' (akatastaton -- unstable, uncontrollable) and venomous. James is not counseling despair but realism about the difficulty of the task.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "With it we bless our God and Father, and with it we curse men, who are made in the image of God.",
+          "explainer": "With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God. The contradiction is the heart of the indictment: the same mouth that praises God slanders people made in God's image. To curse a person is to curse God's image.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so.",
+          "explainer": "From the same mouth come blessing and cursing. My brothers, these things ought not to be so. The moral judgment is plain: this inconsistency is intolerable. It is not just undesirable but morally wrong.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Does a spring send out from the same opening fresh and bitter water?",
+          "explainer": "Does a spring pour forth from the same opening both fresh and salt water? Nature does not produce contradictory output from the same source. A spring is either fresh or salt. The mouth should be similarly consistent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.",
+          "explainer": "Can a fig tree, my brothers, bear olives, or a grapevine produce figs? Neither can a salt pond yield fresh water. Three rhetorical questions, all expecting the answer 'no.' Nature is consistent: figs come from fig trees, olives from olive trees. Human speech should be equally consistent -- consistently good.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "James' agricultural imagery would have been instantly recognizable to his agrarian audience. The principle of consistent output from a consistent source was common sense.",
+            "now": "The challenge of consistency between public speech (worship, social media, professional communication) and private speech (gossip, complaints, anger) remains one of the most practical applications of James' teaching."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom.",
+          "explainer": "Who is wise and understanding among you? By his good conduct let him show his works in the meekness of wisdom. James shifts from the tongue to wisdom. True wisdom, like true faith, is demonstrated by behavior -- specifically, by good conduct characterized by meekness (the opposite of the arrogant speech he has been condemning).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "But if you have bitter jealousy and selfish ambition in your heart, don’t boast and don’t lie against the truth.",
+          "explainer": "But if you have bitter jealousy and selfish ambition in your hearts, do not boast and be false to the truth. Jealousy and selfish ambition are the roots of the community's problems. Claiming wisdom while harboring these attitudes is lying about reality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "This wisdom is not that which comes down from above, but is earthly, sensual, and demonic.",
+          "explainer": "This is not the wisdom that comes down from above, but is earthly, unspiritual, demonic. Three damning adjectives for false wisdom: earthly (limited to this world), unspiritual (psychike -- merely human, not Spirit-directed), and demonic (energized by evil forces, echoing the tongue 'set on fire by hell').",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "For where jealousy and selfish ambition are, there is confusion and every evil deed.",
+          "explainer": "For where jealousy and selfish ambition exist, there will be disorder and every vile practice. Jealousy and ambition do not produce wisdom; they produce chaos. The 'disorder' (akatastasia -- the same root as the 'restless' tongue in 3:8) reveals the common source of untamed speech and false wisdom.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
+          "explainer": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere. Seven qualities of heavenly wisdom, beginning with purity and ending with sincerity. This is the portrait of a truly wise person: not just intellectually brilliant but morally beautiful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the Greco-Roman world, wisdom was primarily an intellectual virtue -- the ability to reason, argue, and analyze. James defines wisdom primarily as moral character, aligning with the Jewish wisdom tradition of Proverbs and Sirach.",
+            "now": "The distinction between intelligence and wisdom remains critically important. James' portrait of heavenly wisdom -- pure, peaceable, gentle, reasonable, merciful, fruitful, impartial, sincere -- describes a person you would actually want to be around, not just someone who is clever."
+          }
+        },
+        {
+          "number": 18,
+          "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
+          "explainer": "And a harvest of righteousness is sown in peace by those who make peace. The agricultural metaphor closes the chapter: peace produces righteousness, and peacemakers are the farmers who plant this crop. The contrast with the jealousy and disorder of verse 16 is complete.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Chapter 4 diagnoses the community's conflicts: they fight because their desires battle within them. They ask God but ask wrongly, seeking to satisfy their passions. James calls them 'adulterers' for befriending the world at God's expense, then pivots to the remedy: submit to God, resist the devil, draw near to God, humble yourselves. He closes with warnings against judging one another and against presumptuous planning that leaves God out of the equation.",
+        "themes": [
+          "The source of quarrels: internal desires",
+          "Friendship with the world vs. friendship with God",
+          "Submit to God, resist the devil",
+          "Do not judge one another",
+          "The arrogance of presumptuous planning"
+        ],
+        "contextInBook": "Chapter 4 addresses the root cause of the community's dysfunction: misdirected desire. The favoritism, toxic speech, and false wisdom of chapters 2-3 all trace back to what chapter 4 exposes -- a fundamental orientation toward self rather than God."
+      },
+      "wordStudies": [
+        {
+          "id": "friendship_with_the_world",
+          "greek": "Greek: philia tou kosmou",
+          "transliteration": "Friendship with the world",
+          "translatedAs": "Not casual friendliness but deep alliance with the",
+          "meaning": "Not casual friendliness but deep alliance with the world system -- its values, priorities, and methods. James says this friendship makes you God's enemy. The word philia implies a chosen, deliberate alliance, not accidental proximity.",
+          "significance": "4:4"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?",
+          "explainer": "What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? James traces community conflict to its root: internal desire. The fights between members are external expressions of the war within each person. People fight each other because they are fighting themselves.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The early church was not immune to power struggles, personality conflicts, and competition for status. James names what was likely happening in the gatherings themselves -- arguing, jockeying for position, and interpersonal hostility.",
+            "now": "The insight that external conflict originates in internal desire remains one of the most psychologically penetrating observations in Scripture. Every counselor, mediator, and conflict resolution specialist encounters this dynamic."
+          }
+        },
+        {
+          "number": 2,
+          "text": "You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask.",
+          "explainer": "You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. The escalation from desire to covetousness to murder echoes the progression in 1:14-15. 'Murder' may be metaphorical (destroying reputations, relationships) or may indicate that hostilities had reached extreme levels.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures.",
+          "explainer": "You ask and do not receive, because you ask wrongly, to spend it on your passions. Prayer is not magic. God is not a vending machine. When prayers go unanswered, the problem may not be God's unwillingness but the asker's motives -- requesting things to fuel selfish desires.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God.",
+          "explainer": "You adulterous people! Do you not know that friendship with the world is enmity with God? Therefore whoever wishes to be a friend of the world makes himself an enemy of God. The language is shockingly intimate: 'adulterous' frames the relationship with God as a marriage covenant. Pursuing the world's values while claiming to belong to God is spiritual adultery.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Hosea 1-3",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”?",
+          "explainer": "Or do you suppose it is to no purpose that the Scripture says, 'He yearns jealously over the spirit that he has made to dwell in us'? God's jealousy is not petty possessiveness but the fierce love of a spouse who will not share. He placed his Spirit in us and will not tolerate divided loyalty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”",
+          "explainer": "But he gives more grace. Therefore it says, 'God opposes the proud but gives grace to the humble.' After the fierce warning, grace appears. God does not merely demand; he gives what he demands. The Proverbs quotation (3:34) sets up the commands that follow: humility opens the door to grace; pride slams it shut.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 3:34",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 Peter 5:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Be subject therefore to God. Resist the devil, and he will flee from you.",
+          "explainer": "Submit yourselves therefore to God. Resist the devil, and he will flee from you. Two commands that form a complete strategy: submit to God (positive), resist the devil (negative). The promise attached to resistance is remarkable -- the devil flees. He cannot stand against a submitted, resistant believer.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where demonic forces were taken seriously, the promise that the devil would flee from those who resisted was practically empowering. Believers were not helpless against spiritual evil.",
+            "now": "Whether understood as a personal spiritual being or as the personification of evil, the instruction to submit to God and resist evil remains a fundamental pattern for spiritual life."
+          }
+        },
+        {
+          "number": 8,
+          "text": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.",
+          "explainer": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded. The promise of mutual approach: when you move toward God, God moves toward you. 'Cleanse your hands' addresses behavior; 'purify your hearts' addresses motivation. 'Double-minded' returns from 1:8 -- the core problem is divided loyalty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom.",
+          "explainer": "Be wretched and mourn and weep. Let your laughter be turned to mourning and your joy to gloom. This is a call to genuine repentance, not permanent misery. James addresses people who are laughing and celebrating while their spiritual life is in ruins. Appropriate grief must precede genuine restoration.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Humble yourselves in the sight of the Lord, and he will exalt you.",
+          "explainer": "Humble yourselves before the Lord, and he will exalt you. The promise echoes Jesus' teaching: 'everyone who exalts himself will be humbled, and the one who humbles himself will be exalted' (Luke 14:11). The path to true honor goes through voluntary humility.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Luke 14:11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge.",
+          "explainer": "Do not speak evil against one another, brothers. The one who speaks against a brother or judges his brother speaks evil against the law and judges the law. Speaking evil of fellow believers violates the love command (the 'royal law' of 2:8). By violating the law, you are effectively judging it as unimportant -- setting yourself above it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?",
+          "explainer": "There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor? Only God has the authority and knowledge to judge. Human judgment usurps a divine prerogative that requires omniscience -- knowledge we do not possess.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Come now, you who say, “Today or tomorrow let’s go into this city, and spend a year there, trade, and make a profit.”",
+          "explainer": "Come now, you who say, 'Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit.' James addresses traveling merchants who plan their business ventures with no thought of God. The plans are detailed and specific -- city, duration, activity, outcome -- but God is absent from every element.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Traveling merchants', 'explanation': \"The Roman Empire's extensive road network and relative peace (Pax Romana) enabled widespread commerce. Jewish merchants were active throughout the diaspora. James' audience included businesspeople who traveled between cities buying and selling goods. Their detailed planning assumed control over the future that no human actually possesses.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Whereas you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor, that appears for a little time, and then vanishes away.",
+          "explainer": "Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes. The fragility of life is stated with brutal clarity: you are a vapor (atmis -- a wisp of steam). Planning without acknowledging this reality is delusional.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For you ought to say, “If the Lord wills, we will both live, and do this or that.”",
+          "explainer": "Instead you ought to say, 'If the Lord wills, we will live and do this or that.' The corrective is not to stop planning but to hold plans loosely: 'if the Lord wills' (Deo volente). This phrase acknowledges that God's sovereignty overrides all human intentions.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "But now you glory in your boasting. All such boasting is evil.",
+          "explainer": "As it is, you boast in your arrogance. All such boasting is evil. The problem is not planning but arrogance -- the assumption that you control the future. This kind of boasting is not just foolish; it is evil because it denies God's sovereignty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "To him therefore who knows to do good, and doesn’t do it, to him it is sin.",
+          "explainer": "So whoever knows the right thing to do and fails to do it, for him it is sin. The chapter's closing verse broadens the application: sin is not just doing wrong but failing to do right. This 'sin of omission' principle means that knowing what should be done and not doing it is itself sinful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "The final chapter opens with a fiery condemnation of the wealthy who have exploited their workers and lived in self-indulgent luxury. James then pivots to encouragement: be patient, brothers, like the farmer waiting for rain, like the prophets who suffered, like Job who endured. He addresses oath-taking, the power of prayer (citing Elijah), and the importance of bringing back those who wander from the truth. The letter ends not with a formal conclusion but with a call to mutual spiritual care.",
+        "themes": [
+          "Condemnation of exploitative wealth",
+          "Patient endurance",
+          "The example of the prophets and Job",
+          "The power of prayer",
+          "Anointing and healing",
+          "Restoring the wanderer"
+        ],
+        "contextInBook": "Chapter 5 completes the letter's arc from trials (ch.1) through faith-in-action (ch.2), disciplined speech (ch.3), and humility before God (ch.4) to patient endurance and community prayer. The letter begins with trials and ends with the resources to survive them."
+      },
+      "wordStudies": [
+        {
+          "id": "patience",
+          "greek": "Greek: makrothymia",
+          "transliteration": "Patience",
+          "translatedAs": "Long-suffering, the ability to endure over an exte",
+          "meaning": "Long-suffering, the ability to endure over an extended period without giving up or retaliating. Distinguished from hypomone (endurance under pressure, 1:3-4), makrothymia is patience with people and circumstances over time. The farmer's patience while waiting for the harvest is the defining image.",
+          "significance": "5:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Come now, you rich, weep and howl for your miseries that are coming on you.",
+          "explainer": "Come now, you rich, weep and howl for the miseries that are coming upon you. James addresses the wealthy in the harshest terms in the New Testament epistles. The command to 'weep and howl' echoes Old Testament prophetic judgment oracles against the oppressive rich.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Amos 5:11-12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Your riches are corrupted and your garments are moth-eaten.",
+          "explainer": "Your riches have rotted and your garments are moth-eaten. Wealth is already decaying. Fine garments -- a primary form of stored wealth in the ancient world -- are being consumed by moths. The present tense suggests that the corruption is already underway, not merely predicted.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Your gold and your silver are corroded, and their corrosion will be for a testimony against you, and will eat your flesh like fire. You have laid up your treasure in the last days.",
+          "explainer": "Your gold and silver have corroded, and their corrosion will be evidence against you and will eat your flesh like fire. You have laid up treasure in the last days. Gold does not literally corrode, but the metaphor makes a spiritual point: hoarded wealth testifies against its owners. Accumulating treasure while others starve is storing up judgment, not security.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In an economy without banks, the wealthy stored gold, silver, and fine garments in their homes. James says this hoarded wealth is rotting -- a vivid image of wealth that serves no one.",
+            "now": "James' critique of hoarded wealth challenges every economic system and individual who accumulates far beyond need while others lack necessities. The prophetic question remains: what is wealth for?"
+          }
+        },
+        {
+          "number": 4,
+          "text": "Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies.",
+          "explainer": "Behold, the wages of the laborers who mowed your fields, which you kept back by fraud, are crying out, and the cries of the harvesters have reached the ears of the Lord of hosts. Wage theft is not just a crime against workers; it is a cry that reaches God's ears. The 'Lord of hosts' (Sabaoth -- the Lord of armies) hears the oppressed and will act.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 24:14-15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter.",
+          "explainer": "You have lived on the earth in luxury and in self-indulgence. You have fattened your hearts in a day of slaughter. The imagery shifts to livestock being fattened before butchering. The rich are fattening themselves for their own judgment day. Their luxury is preparation for destruction.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "You have condemned, you have murdered the righteous one. He doesn’t resist you.",
+          "explainer": "You have condemned and murdered the righteous person. He does not resist you. The climax of the indictment: the rich have used the legal system to condemn the innocent and even kill them. The righteous do not resist -- their helplessness makes the oppression more damning, not less.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain.",
+          "explainer": "Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains. The tone shifts dramatically from judgment to encouragement. The farmer knows he cannot make the crops grow faster; he waits for God's timing. Believers must do the same.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Early and late rains', 'explanation': \"In Palestine, the early rains (October-November) softened the ground for plowing and planting, and the late rains (March-April) brought the crops to maturity before harvest. Both were essential, and both were entirely in God's hands. The farmer's patience was not passivity but trust.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "You also be patient. Establish your hearts, for the coming of the Lord is at hand.",
+          "explainer": "You also, be patient. Establish your hearts, for the coming of the Lord is at hand. Patience is not passive waiting but active heart-strengthening. 'Establish your hearts' means to make firm, to solidify your resolve. The Lord's coming is near -- this is both motivation for patience and the reason patience has a limit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door.",
+          "explainer": "Do not grumble against one another, brothers, so that you may not be judged; behold, the Judge is standing at the door. Internal grumbling undermines the patience James has just commanded. The Judge is at the door -- so close that complaint is foolish and judgment for complainers is imminent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Take, brothers, for an example of suffering and of perseverance, the prophets who spoke in the name of the Lord.",
+          "explainer": "As an example of suffering and patience, brothers, take the prophets who spoke in the name of the Lord. The prophets are models of patient endurance under suffering. They spoke God's truth and were persecuted for it, but they persevered.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Hebrews 11:32-38",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Behold, we call them blessed who endured. You have heard of the perseverance of Job, and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.",
+          "explainer": "Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. Job is the supreme example of patient endurance. Despite losing everything, he persevered -- and in the end, he saw God's compassion. The story is not about Job's patience but about God's purpose.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Job 42:10-17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "But above all things, my brothers, don’t swear— not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”; so that you don’t fall into hypocrisy.",
+          "explainer": "But above all, my brothers, do not swear, either by heaven or by earth or by any other oath, but let your 'yes' be yes and your 'no' be no, so that you may not fall under condemnation. James echoes Jesus' teaching on oaths: do not swear at all, because your word should be reliable without external guarantees. If you need an oath to be believed, something is wrong with your character.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 5:34-37",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "In the ancient world, oaths called on divine powers to guarantee truthfulness. The proliferation of elaborate oaths actually indicated a culture of dishonesty -- you needed to swear because people could not trust your plain word.",
+            "now": "While legal oaths remain common (in courts, at inaugurations), James' principle challenges the idea that truthfulness requires external reinforcement. A person of integrity does not need to swear; their word is sufficient."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises.",
+          "explainer": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praise. Prayer and praise are the appropriate responses to suffering and joy, respectively. Both connect the individual's experience to God -- suffering drives you to prayer; joy drives you to worship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord,",
+          "explainer": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. The instructions for healing prayer are specific: the sick person initiates by calling the elders, who pray and anoint with oil. The anointing is 'in the name of the Lord' -- it derives its power from Christ's authority, not from the oil itself.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Anointing with oil', 'explanation': \"Oil had both medicinal and symbolic uses in the ancient world. Olive oil was used as a basic medicine (see Luke 10:34, the Good Samaritan). Anointing also symbolized the Holy Spirit's presence and power. James may intend both dimensions: practical care and spiritual intercession combined.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.",
+          "explainer": "And the prayer of faith will save the one who is sick, and the Lord will raise him up. And if he has committed sins, he will be forgiven. The promise is bold: the prayer of faith will save the sick. James connects physical illness with the possibility of sin (without saying all illness is caused by sin) and promises forgiveness alongside healing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, illness was commonly associated with sin or divine displeasure. James does not endorse this theology universally but acknowledges the connection in some cases while emphasizing prayer and community care as the response.",
+            "now": "This passage is the basis for the practice of anointing the sick in many Christian traditions (Catholic, Orthodox, charismatic). The relationship between prayer, faith, and physical healing remains one of the most debated topics in practical theology."
+          }
+        },
+        {
+          "number": 16,
+          "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.",
+          "explainer": "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working. Mutual confession and prayer are the community's healing practices. The 'righteous person' whose prayer is powerful is not a spiritual superhero but someone living in right relationship with God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn’t rain on the earth for three years and six months.",
+          "explainer": "Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth. James' choice of Elijah is strategic: he was a prophet with extraordinary power, but he was also 'a man with a nature like ours' -- just as human, just as fallible. If Elijah's prayers had cosmic effects, ordinary believers' prayers are not impotent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Kings 17:1",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 Kings 18:41-45",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "He prayed again, and the sky gave rain, and the earth produced its fruit.",
+          "explainer": "Then he prayed again, and heaven gave rain, and the earth bore its fruit. Elijah's second prayer ended the drought. The same man who stopped the rain through prayer started it again through prayer. Prayer has real power over real circumstances.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Brothers, if any among you wanders from the truth and someone turns him back,",
+          "explainer": "My brothers, if anyone among you wanders from the truth and someone brings him back... The letter's final topic is the restoration of those who stray. No formal closing, no benediction -- just one more practical instruction about caring for each other.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.",
+          "explainer": "Let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins. The letter ends with a promise: rescuing someone who has strayed from truth saves that person's soul and covers sins. The 'multitude of sins' may refer to the wanderer's sins being forgiven or to the rescuer's loving action covering their own failures. Either way, the final word is restoration, not condemnation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 10:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1557 @@
+{
+  "book": {
+    "id": "1timothy",
+    "name": "1 Timothy",
+    "testament": "New Testament",
+    "author": "Paul (attributed; debated among scholars)",
+    "dateWritten": "c. 62-66 AD",
+    "writtenFrom": "Likely Macedonia",
+    "writtenTo": "Timothy, Paul's delegate in Ephesus",
+    "chapterCount": 6,
+    "verseCount": 113,
+    "explainer": {
+      "overview": "First Timothy is a pastoral letter -- written not to a church but to a church leader. Paul has left his protege Timothy in charge of the church in Ephesus, one of the most important and troubled congregations in the early Christian world. The letter is essentially a leadership manual: how to deal with false teachers, how to organize worship, what qualifications church leaders should meet, how to handle different groups within the congregation (widows, elders, slaves), and how to maintain personal integrity in ministry. Running through it all is Paul's concern that Timothy stay strong despite his youth and the opposition he faces.",
+      "historicalContext": "Ephesus was the fourth-largest city in the Roman Empire and home to the famous Temple of Artemis, one of the Seven Wonders of the Ancient World. The church there faced threats from false teachers who mixed Jewish legalism with proto-Gnostic speculation -- myths, genealogies, and ascetic rules. Timothy, who was naturally timid, had to stand firm against influential opponents. Paul writes to bolster Timothy's authority and provide practical guidance for church administration.",
+      "whyItMatters": "First Timothy has shaped church organization for two millennia. Its instructions about elders, deacons, and church governance became the foundation for virtually all Christian institutional structures. The letter also contains some of the most debated passages in the New Testament -- particularly regarding the role of women in worship (2:11-15). Its vision of 'godliness' as the integration of right belief and right living continues to define Christian pastoral leadership.",
+      "keyThemes": [
+        "Sound doctrine vs. false teaching",
+        "Church organization and leadership qualifications",
+        "Godliness as the Christian life goal",
+        "Timothy's pastoral responsibility",
+        "The household of God",
+        "Fighting the good fight of faith"
+      ]
+    },
+    "people": [
+      {
+        "id": "paul",
+        "name": "Paul (the Apostle)",
+        "role": "Author, Timothy's mentor and spiritual father",
+        "bio": "Paul writes as an aging apostle entrusting his life's work to the next generation. He calls Timothy his 'true child in the faith' and gives him the kind of direct, personal instruction a father gives a son entering the family business. Paul's tone alternates between tender encouragement and blunt commands.",
+        "culturalContext": "Paul was likely writing after his first Roman imprisonment (Acts 28), during a period of continued missionary activity not recorded in Acts. His authority as an apostle gives weight to the organizational instructions he provides."
+      },
+      {
+        "id": "timothy",
+        "name": "Timothy",
+        "role": "Recipient, Paul's delegate in Ephesus",
+        "bio": "Timothy was from Lystra in Asia Minor, the son of a Jewish mother (Eunice) and Greek father. He joined Paul on his second missionary journey and became his most trusted associate. Despite his close relationship with Paul, Timothy appears to have been naturally timid -- Paul repeatedly encourages him not to let people look down on his youth and not to be ashamed of the gospel.",
+        "culturalContext": "Timothy's mixed heritage (Jewish-Greek) made him a bridge figure in the early church. Being young and apparently gentle in temperament, he needed Paul's backing to exercise authority over older, more assertive members of the Ephesian church."
+      },
+      {
+        "id": "hymenaeus",
+        "name": "Hymenaeus",
+        "role": "False teacher excommunicated by Paul",
+        "bio": "One of two men Paul specifically names as having 'shipwrecked their faith.' Paul says he has 'handed them over to Satan' -- a form of excommunication designed to bring them to repentance. Hymenaeus appears again in 2 Timothy 2:17, where he teaches that the resurrection has already happened.",
+        "culturalContext": "Naming false teachers publicly was a serious act in the ancient world. It permanently associated their names with shame and warned other churches about them."
+      },
+      {
+        "id": "alexander",
+        "name": "Alexander",
+        "role": "False teacher excommunicated by Paul",
+        "bio": "Listed alongside Hymenaeus as someone who has made a 'shipwreck' of the faith. He may be the same Alexander who opposed Paul in 2 Timothy 4:14, though the name was common.",
+        "culturalContext": "The pairing of Hymenaeus and Alexander suggests they were prominent figures in the Ephesian church before their excommunication."
+      }
+    ],
+    "places": [
+      {
+        "id": "ephesus",
+        "name": "Ephesus",
+        "description": "A major port city on the western coast of Asia Minor (modern Turkey) and one of the largest cities in the Roman Empire. Home to the Temple of Artemis, one of the Seven Wonders of the Ancient World. Paul spent over two years there (Acts 19), and the church became one of the most important in early Christianity.",
+        "culturalSignificance": "Ephesus was a center of magic, mystery religions, and the imperial cult. The church there faced unique challenges from pagan culture, Jewish-Christian tensions, and internal false teaching. The city's identity was deeply tied to Artemis worship, making Christian claims of exclusivity especially provocative.",
+        "modernLocation": "Near Selcuk, Izmir Province, western Turkey.",
+        "latitude": 37.9411,
+        "longitude": 27.3419
+      },
+      {
+        "id": "macedonia",
+        "name": "Macedonia",
+        "description": "A Roman province in northern Greece from which Paul likely wrote this letter. Paul had previously established churches in Philippi, Thessalonica, and Berea in this region.",
+        "culturalSignificance": "Macedonia was strategically important as a bridge between the eastern and western parts of the Roman Empire.",
+        "modernLocation": "Northern Greece and North Macedonia.",
+        "latitude": 41.0,
+        "longitude": 22.0
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 49 AD",
+        "event": "Timothy joins Paul on second missionary journey",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 52-55 AD",
+        "event": "Paul spends over two years in Ephesus",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Paul imprisoned in Rome (Acts 28)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 62-66 AD",
+        "event": "Paul leaves Timothy in Ephesus to deal with false teachers",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 62-66 AD",
+        "event": "Paul writes 1 Timothy from Macedonia",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 66-67 AD",
+        "event": "Paul arrested again and eventually executed in Rome",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Paul opens by reminding Timothy of his mission: stop the false teachers in Ephesus. These teachers are peddling myths, genealogies, and speculative theology that produce arguments rather than faith. Paul contrasts their misuse of the law with the gospel's true purpose, then shares his own story as the ultimate proof that grace can transform anyone -- if God could save the 'chief of sinners,' no one is beyond hope. The chapter ends with a charge to Timothy to fight the good fight, citing Hymenaeus and Alexander as cautionary examples of faith shipwrecked.",
+        "themes": [
+          "The danger of false teaching",
+          "The proper purpose of the law",
+          "Paul as chief of sinners saved by grace",
+          "Fighting the good fight of faith"
+        ],
+        "contextInBook": "Chapter 1 establishes the problem (false teaching) and the mission (Timothy must confront it). Paul grounds Timothy's authority in the apostolic commission and his own example of radical transformation."
+      },
+      "wordStudies": [
+        {
+          "id": "sound_doctrine",
+          "greek": "Greek: hygiainouse didaskalia",
+          "transliteration": "Sound doctrine",
+          "translatedAs": "Literally 'healthy teaching",
+          "meaning": "Literally 'healthy teaching.' The metaphor is medical: sound doctrine is teaching that produces health in the community. False teaching, by contrast, is a disease that spreads and corrupts.",
+          "significance": "1:10"
+        },
+        {
+          "id": "entrusted",
+          "greek": "Greek: pisteuo",
+          "transliteration": "Entrusted",
+          "translatedAs": "To be entrusted with something valuable",
+          "meaning": "To be entrusted with something valuable. Paul sees the gospel as a precious deposit placed in his care. He now entrusts it to Timothy, who must guard and transmit it faithfully.",
+          "significance": "1:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope;",
+          "explainer": "Paul identifies himself as 'an apostle of Christ Jesus according to the commandment of God our Savior and of Christ Jesus our hope.' This is not just a personal greeting -- it is a credential. Timothy will need to exercise authority backed by Paul's apostleship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "to Timothy, my true child in faith: Grace, mercy, and peace, from God our Father and Christ Jesus our Lord.",
+          "explainer": "Paul calls Timothy 'my true child in the faith.' The word 'true' (gnesios) means legitimate, genuine -- not adopted or illegitimate. Timothy is Paul's authentic spiritual offspring, carrying the family DNA of faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "As I urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine,",
+          "explainer": "Paul reminds Timothy of his assignment: stay in Ephesus and command certain people not to teach false doctrines. The word 'command' (parangello) is a military term -- this is an order, not a suggestion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "False teaching in Ephesus was not merely academic disagreement. It was tearing the community apart and leading people away from genuine faith. Timothy's job was essentially crisis management.",
+            "now": "Every church community faces the challenge of distinguishing essential doctrine from speculative opinion. Paul's concern is not that people ask questions but that certain teachers are promoting content that damages faith rather than building it."
+          }
+        },
+        {
+          "number": 4,
+          "text": "and not to pay attention to myths and endless genealogies, which cause disputes, rather than God’s stewardship, which is in faith—",
+          "explainer": "The false teachers are promoting 'myths and endless genealogies, which promote speculations rather than the stewardship from God that is by faith.' The myths and genealogies may be early forms of what later became Gnosticism -- elaborate speculative systems about spiritual beings and cosmic origins.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Myths and genealogies', 'explanation': 'These likely refer to speculative Jewish-Christian teachings that expanded Old Testament narratives with elaborate stories about angels, spiritual hierarchies, and ancestral chains. Similar material appears in later Gnostic texts. The problem was not curiosity but substituting speculation for the gospel.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "but the goal of this command is love, out of a pure heart and a good conscience and sincere faith;",
+          "explainer": "The goal of Paul's charge is 'love that issues from a pure heart and a good conscience and a sincere faith.' This is Paul's test for any teaching: does it produce love? If a theological system produces arguments, factions, and arrogance instead of love, it has failed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "from which things some, having missed the mark, have turned away to vain talking;",
+          "explainer": "Some have wandered away from these things and turned to 'meaningless talk.' The Greek (mataiologia) means empty, fruitless speech. It sounds impressive but accomplishes nothing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "desiring to be teachers of the law, though they understand neither what they say, nor about what they strongly affirm.",
+          "explainer": "They want to be 'teachers of the law' but do not understand either what they are saying or what they so confidently affirm. Paul's critique is devastating: the false teachers are not just wrong; they do not even understand their own arguments.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "But we know that the law is good, if a person uses it lawfully,",
+          "explainer": "Paul affirms that the law is good 'if one uses it lawfully.' The law has a proper function, but the false teachers are misusing it -- turning it into a tool for speculation rather than its intended purpose.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 7:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "as knowing this, that law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+          "explainer": "The law is not laid down for the righteous but for the lawless and disobedient. Paul lists categories of sinners the law addresses: the ungodly, sinners, the unholy, murderers, the sexually immoral. The law's function is to expose and restrain sin, not to provide material for theological speculation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "for the sexually immoral, for homosexuals, for slave-traders, for liars, for perjurers, and for any other thing contrary to the sound doctrine;",
+          "explainer": "The list continues with slave traders, liars, perjurers, and 'whatever else is contrary to sound doctrine.' The inclusion of slave traders (andrapodistes -- those who kidnap people for slavery) is notable given Paul's first-century context.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "according to the Good News of the glory of the blessed God, which was committed to my trust.",
+          "explainer": "All this is 'in accordance with the gospel of the glory of the blessed God with which I have been entrusted.' Paul connects the moral law to the gospel: both come from the same God and serve the same purpose -- human flourishing under divine grace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "And I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service;",
+          "explainer": "Paul thanks Christ Jesus for considering him faithful and appointing him to service. The shift from false teachers to Paul's own story is dramatic -- he will now offer himself as proof of what grace can do.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Paul's appointment to ministry was controversial. He had persecuted the church. His qualifications were not traditional. He claimed direct divine commission. This made him both powerful and polarizing.",
+            "now": "Paul's story continues to function as the paradigmatic conversion narrative in Christianity. The idea that God calls unlikely, unworthy people into service remains central to how Christians understand vocation."
+          }
+        },
+        {
+          "number": 13,
+          "text": "although I was before a blasphemer, a persecutor, and insolent. However, I obtained mercy, because I did it ignorantly in unbelief.",
+          "explainer": "Paul was formerly a blasphemer, persecutor, and insolent opponent of the church. But he received mercy because he 'had acted ignorantly in unbelief.' His violence against Christians was real but committed without full understanding of what he was doing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Acts 9:1-19",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "The grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus.",
+          "explainer": "The grace of the Lord 'overflowed' for Paul with the faith and love that are in Christ Jesus. The Greek (hyperpleonazo) means super-abounded -- grace did not just match his sin but overwhelmed it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+          "explainer": "'The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.' This may be an early Christian creed. Paul claims the title 'chief of sinners' not as false modesty but as a theological statement: if grace reached him, it can reach anyone.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "However, for this cause I obtained mercy, that in me first, Jesus Christ might display all his patience, for an example of those who were going to believe in him for eternal life.",
+          "explainer": "Paul was shown mercy so that in him 'Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life.' Paul's conversion is not just personal history -- it is a public demonstration of Christ's patience, a preview of what grace offers everyone.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.",
+          "explainer": "A spontaneous doxology erupts: 'To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen.' When Paul contemplates the grace shown to him, he cannot help but worship. This is theology that overflows into praise.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "This instruction I commit to you, my child Timothy, according to the prophecies which were given to you before, that by them you may wage the good warfare;",
+          "explainer": "Paul returns to his charge to Timothy, grounding it in 'the prophecies previously made about you.' Timothy's calling was confirmed by prophetic words -- his ministry is not self-appointed but divinely endorsed. Paul commands him to 'wage the good warfare.'",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Prophecies about Timothy', 'explanation': \"In the early church, the Holy Spirit would speak through prophets to identify and commission individuals for specific ministry. Timothy's calling was publicly confirmed through such prophetic utterances, giving his ministry an objective basis beyond personal inclination.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "holding faith and a good conscience; which some having thrust away made a shipwreck concerning the faith;",
+          "explainer": "Timothy must hold faith and a good conscience. Some have rejected conscience and 'made shipwreck of their faith.' The nautical metaphor is vivid: faith is a ship that can be wrecked by ignoring the conscience that steers it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "of whom are Hymenaeus and Alexander; whom I delivered to Satan, that they might be taught not to blaspheme.",
+          "explainer": "Paul names names: Hymenaeus and Alexander, whom he has 'handed over to Satan that they may learn not to blaspheme.' This is formal excommunication -- putting them outside the church community (which Paul equates with Satan's domain) so that the consequences of their choices might bring them to repentance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Corinthians 5:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Paul turns from false teaching to proper worship. He begins with the priority of prayer for all people, including rulers, grounding this in God's desire for all to be saved. He then provides one of the New Testament's clearest statements about Christ as the sole mediator between God and humanity. The chapter's second half addresses the behavior of men and women in worship -- men should pray without anger, women should dress modestly and learn quietly. The passage about women's roles (2:11-15) is among the most debated in all of Paul's letters.",
+        "themes": [
+          "Prayer for all people, including authorities",
+          "God's desire for universal salvation",
+          "Christ as sole mediator",
+          "Conduct of men and women in worship"
+        ],
+        "contextInBook": "After establishing the problem (false teaching, chapter 1), Paul now addresses how the community should worship. Proper worship is part of the antidote to false teaching -- when the community prays rightly and orders its life well, false doctrine has less room to take root."
+      },
+      "wordStudies": [
+        {
+          "id": "mediator",
+          "greek": "Greek: mesites",
+          "transliteration": "Mediator",
+          "translatedAs": "One who stands between two parties to reconcile th",
+          "meaning": "One who stands between two parties to reconcile them. In legal contexts, a mediator arbitrated disputes. Paul says there is only one mediator between God and humanity -- Christ Jesus, who is himself human. This eliminates all other claimed intermediaries.",
+          "significance": "2:5"
+        },
+        {
+          "id": "ransom",
+          "greek": "Greek: antilytron",
+          "transliteration": "Ransom",
+          "translatedAs": "The price paid to free a slave or prisoner",
+          "meaning": "The price paid to free a slave or prisoner. The prefix anti- means 'in place of,' making this a substitutionary term. Christ gave himself as the price paid in humanity's place.",
+          "significance": "2:6"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men:",
+          "explainer": "Paul urges 'first of all' that supplications, prayers, intercessions, and thanksgivings be made for all people. The word 'first' suggests this is the highest priority. Four different words for prayer are used, covering every form of communication with God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a culture where Christians were a tiny, persecuted minority, praying for 'all people' -- including their persecutors -- was radically countercultural. It rejected the tribal instinct to pray only for your own group.",
+            "now": "The instruction to pray for all people, not just fellow believers, continues to challenge churches that retreat into insular prayer focused only on their own needs."
+          }
+        },
+        {
+          "number": 2,
+          "text": "for kings and all who are in high places; that we may lead a tranquil and quiet life in all godliness and reverence.",
+          "explainer": "Specifically, pray for 'kings and all who are in high positions.' The reigning emperor when Paul wrote was likely Nero -- the man who would eventually execute him. Paul is asking for prayer for his own future executioner. The purpose: 'that we may lead a peaceful and quiet life, godly and dignified in every way.'",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Praying for rulers', 'explanation': 'This instruction was remarkable because the Roman emperor claimed divine status and demanded worship. Christians could not worship Caesar, but Paul says they should pray for him. This distinguished Christianity from political revolution while maintaining its theological exclusivism.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "For this is good and acceptable in the sight of God our Savior;",
+          "explainer": "This is good and pleasing to God our Savior. Paul grounds the command to pray for all in God's own character -- God is a Savior, and a Savior's instinct is rescue, not condemnation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "who desires all people to be saved and come to full knowledge of the truth.",
+          "explainer": "God 'desires all people to be saved and to come to the knowledge of the truth.' This is one of the clearest statements of God's universal salvific will in Scripture. Whatever else Paul teaches about election and predestination, he insists here that God's desire extends to every human being.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Peter 3:9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,",
+          "explainer": "The theological foundation: 'There is one God, and there is one mediator between God and men, the man Christ Jesus.' This creedal statement accomplishes two things: it affirms Jewish monotheism (one God) and identifies Jesus as the sole bridge between God and humanity. No other mediator is needed or available.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "one mediator",
+              "personId": null,
+              "wordId": "mediator",
+              "startIndex": 26
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "who gave himself as a ransom for all; the testimony in its own times;",
+          "explainer": "Christ Jesus 'gave himself as a ransom for all.' The ransom metaphor comes from the slave market -- a price paid to free someone from bondage. Jesus paid the ultimate price (his life) for all people, not just a select group. This was 'the testimony given at the proper time.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "to which I was appointed a preacher and an apostle (I am telling the truth in Christ, not lying), a teacher of the Gentiles in faith and truth.",
+          "explainer": "Paul was appointed a preacher, apostle, and teacher of the Gentiles 'in faith and truth.' He adds emphatically: 'I am telling the truth; I am not lying.' This strong affirmation suggests his authority was being challenged, possibly by the false teachers in Ephesus.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting.",
+          "explainer": "Paul desires that 'in every place the men should pray, lifting up holy hands without anger or quarreling.' Lifted hands was a common Jewish and early Christian prayer posture. The emphasis is not on the physical posture but on the moral condition: hands must be 'holy' -- free from the anger and conflict that were apparently plaguing the Ephesian church.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Lifting holy hands', 'explanation': \"Praying with uplifted, open hands was standard in both Jewish and Greco-Roman worship. The open hands symbolized receptivity to God and transparency -- nothing hidden. Paul's addition of 'holy' shifts the focus from posture to character.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety; not just with braided hair, gold, pearls, or expensive clothing;",
+          "explainer": "Women should adorn themselves 'in respectable apparel, with modesty and self-control, not with braided hair and gold or pearls or costly attire.' Paul is addressing a specific cultural problem: wealthy women using worship as a fashion show.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Braided hair and gold', 'explanation': \"Elaborate hairstyles interwoven with gold threads, pearls, and jewels were markers of extreme wealth and social status. In Ephesian culture, such displays created visible class divisions within the worshipping community. Paul's concern is not aesthetics but the social dynamics of wealth on display.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "but (which becomes women professing godliness) with good works.",
+          "explainer": "Instead, women should adorn themselves 'with what is proper for women who profess godliness -- with good works.' The true adornment is character expressed through action. This was countercultural in a world that judged women primarily by appearance and family connections.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Roman society placed enormous emphasis on women's physical appearance as a measure of their family's wealth and status. Paul redirects attention from external display to moral character.",
+            "now": "The principle -- that character matters more than appearance -- resonates across cultures, though its application to specific dress codes varies enormously between Christian communities."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Let a woman learn in quietness with full submission.",
+          "explainer": "'Let a woman learn quietly with all submissiveness.' This verse is heavily debated. The positive element often overlooked: Paul says women should learn. In a culture where many rabbis did not teach women at all, Paul's insistence that women learn was progressive. The qualifier 'quietly' may refer to a learning posture (attentive, not disruptive) rather than absolute silence.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Women learning', 'explanation': \"Most first-century rabbis did not educate women in Torah. Some explicitly forbade it. Paul's command that women should learn was actually an advancement of women's status in the religious community, even though modern readers focus on the restrictions.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness.",
+          "explainer": "'I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet.' This is the most contested verse in the Pastoral Epistles. Interpretations range from a universal, permanent prohibition on women in church leadership to a situation-specific response to the false teaching crisis in Ephesus where women were being targeted by the false teachers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the specific context of Ephesus, women may have been particularly susceptible to or involved in spreading the false teaching Paul is combating. The restriction may be a targeted response to that crisis.",
+            "now": "This verse is at the center of debates about women's ordination and church leadership that divide Christian denominations. Egalitarians argue the restriction was situational; complementarians argue it is universal. Both sides claim Paul's broader theology supports their position."
+          }
+        },
+        {
+          "number": 13,
+          "text": "For Adam was first formed, then Eve.",
+          "explainer": "Paul grounds his argument in creation order: 'Adam was formed first, then Eve.' This appeal to Genesis suggests Paul sees a principle that predates and transcends any specific cultural situation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 2:7, 21-22",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience;",
+          "explainer": "'Adam was not deceived, but the woman was deceived and became a transgressor.' Paul refers to Eve's deception by the serpent. This is a difficult argument -- it is unclear whether Paul means women are more susceptible to deception or whether he is making a specific typological point about the Genesis narrative.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 3:1-6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety.",
+          "explainer": "'Yet she will be saved through childbearing -- if they continue in faith and love and holiness, with self-control.' One of the most puzzling verses in Paul's letters. Interpretations include: (1) women will be kept safe through the process of childbearing, (2) women will be saved through THE childbearing -- the birth of Christ through Mary, (3) women's salvation is expressed through their domestic roles. No interpretation is without difficulty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Paul provides the earliest known list of qualifications for church leaders. Overseers (bishops/elders) must be morally exemplary, competent managers of their households, and good teachers. Deacons must meet similar moral standards. The chapter closes with a magnificent hymn about Christ -- the mystery of godliness -- that may have been an early Christian worship song.",
+        "themes": [
+          "Qualifications for overseers/elders",
+          "Qualifications for deacons",
+          "The household of God",
+          "The mystery of godliness"
+        ],
+        "contextInBook": "After addressing false teaching (ch. 1) and worship order (ch. 2), Paul now specifies what kind of leaders the church needs. Good leadership is the structural antidote to the problems he has been describing."
+      },
+      "wordStudies": [
+        {
+          "id": "overseer",
+          "greek": "Greek: episkopos",
+          "transliteration": "Overseer",
+          "translatedAs": "One who watches over, a superintendent",
+          "meaning": "One who watches over, a superintendent. This is the word that eventually became 'bishop.' In Paul's usage, overseer and elder (presbyteros) appear to be interchangeable terms for the same role.",
+          "significance": "3:1"
+        },
+        {
+          "id": "deacon",
+          "greek": "Greek: diakonos",
+          "transliteration": "Deacon",
+          "translatedAs": "A servant or minister",
+          "meaning": "A servant or minister. Originally a table-waiter, the term came to designate a specific church office focused on practical service. Deacons served alongside overseers but with a different focus.",
+          "significance": "3:8"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "This is a faithful saying: if a man seeks the office of an overseer, he desires a good work.",
+          "explainer": "'The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task.' Another 'trustworthy saying' formula. Paul affirms that wanting to lead the church is a good desire -- leadership is not something to be ashamed of pursuing.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "overseer",
+              "personId": null,
+              "wordId": "overseer",
+              "startIndex": 59
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching;",
+          "explainer": "An overseer must be 'above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach.' The list begins with character, not competence. 'Husband of one wife' is debated: it may mean monogamous, faithful to one's spouse, or never divorced.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Husband of one wife', 'explanation': \"The Greek literally reads 'a one-woman man.' This could prohibit polygamy (still practiced in some Jewish communities), require marital faithfulness, or exclude divorced men. The emphasis seems to be on sexual integrity and relational fidelity rather than a specific marital status.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;",
+          "explainer": "'Not a drunkard, not violent but gentle, not quarrelsome, not a lover of money.' Four negatives define the overseer by what he must not be. The list targets specific temptations of leadership: substance abuse, aggression, combativeness, and greed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "one who rules his own house well, having children in subjection with all reverence;",
+          "explainer": "He must manage his own household well, with children who are submissive and respectful. Paul sees the family as a testing ground for church leadership -- if you cannot lead your own household, you cannot lead God's household.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, a man's household included not just his nuclear family but potentially slaves, freedmen, and dependents. Managing a household was a recognized leadership skill that transferred to public life.",
+            "now": "The connection between family life and leadership fitness remains a fixture of pastoral evaluation, though its application is debated. Does a leader's family life always reflect leadership ability? The principle invites ongoing discernment."
+          }
+        },
+        {
+          "number": 5,
+          "text": "(but if a man doesn’t know how to rule his own house, how will he take care of the assembly of God?)",
+          "explainer": "Paul makes the logic explicit: 'For if someone does not know how to manage his own household, how will he care for God's church?' The household is a microcosm of the church. Leadership skills proven at home translate to congregational care.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "not a new convert, lest being puffed up he fall into the same condemnation as the devil.",
+          "explainer": "He must not be a recent convert, 'or he may become puffed up with conceit and fall into the condemnation of the devil.' New Christians promoted too quickly can develop spiritual arrogance. The 'condemnation of the devil' may mean the same kind of pride that led to Satan's fall.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil.",
+          "explainer": "He must be well thought of by outsiders, 'so that he may not fall into disgrace, into a snare of the devil.' A leader's reputation with non-Christians matters. A church led by someone the broader community regards as disreputable discredits the gospel.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money;",
+          "explainer": "Deacons likewise must be 'dignified, not double-tongued, not addicted to much wine, not greedy for dishonest gain.' The qualifications overlap with those for overseers, emphasizing that all church leaders, regardless of their specific role, must meet high moral standards.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Not double-tongued', 'explanation': 'Greek dilogos -- saying one thing to one person and another to someone else. In a community managing shared resources, a deacon who told different stories to different people would quickly destroy trust.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "holding the mystery of the faith in a pure conscience.",
+          "explainer": "Deacons must hold 'the mystery of the faith with a clear conscience.' They need both right belief (the mystery of the faith) and right character (a clear conscience). Doctrine and integrity cannot be separated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Let them also first be tested; then let them serve if they are blameless.",
+          "explainer": "Deacons should be tested first, then serve if they prove themselves blameless. There is a probationary period -- leadership is earned through demonstrated character, not granted by enthusiasm or connections.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Their wives in the same way must be reverent, not slanderers, temperate, faithful in all things.",
+          "explainer": "'Their wives likewise must be dignified, not slanderers, but sober-minded, faithful in all things.' The Greek word (gynaikas) could mean 'wives' or 'women.' If 'women,' Paul may be addressing female deacons (deaconesses), which is supported by Romans 16:1 where Phoebe is called a deacon.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 16:1",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Let servants be husbands of one wife, ruling their children and their own houses well.",
+          "explainer": "Deacons must be 'husbands of one wife' and manage their children and households well. The same household-management criterion applied to overseers applies to deacons.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus.",
+          "explainer": "Those who serve well as deacons 'gain a good standing for themselves and also great confidence in the faith that is in Christ Jesus.' Faithful service produces both social credibility and spiritual boldness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "These things I write to you, hoping to come to you shortly;",
+          "explainer": "Paul hopes to come to Timothy soon but writes these instructions in case he is delayed. The letter is a substitute for Paul's physical presence -- it carries his authority until he can arrive in person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth.",
+          "explainer": "Paul wants Timothy to know how to behave 'in the household of God, which is the church of the living God, a pillar and buttress of the truth.' The church is described with three images: God's household (family), the living God's church (assembly), and a pillar and buttress of truth (structural support for divine truth in the world).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Without controversy, the mystery of godliness is great:\nGod was revealed in the flesh,\njustified in the spirit,\nseen by angels,\npreached among the nations,\nbelieved on in the world,\nand received up in glory.",
+          "explainer": "'Great indeed, we confess, is the mystery of godliness.' Paul quotes what is likely an early Christian hymn: 'He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory.' Six lines, each a couplet, tracing Christ's journey from incarnation to ascension. This may be one of the oldest pieces of Christian poetry.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Early Christians composed hymns that functioned as creedal summaries. This six-line poem was likely sung in worship before Paul quoted it here. It served as a portable confession of faith.",
+            "now": "The practice of embedding theology in songs continues in every Christian tradition. Many believers learn their theology from hymns and worship songs rather than from systematic theology books."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Paul warns that in later times some will abandon the faith for 'deceitful spirits and teachings of demons,' specifically promoting asceticism -- forbidding marriage and demanding abstinence from certain foods. Paul counters that everything God created is good and should be received with thanksgiving. He then turns to Timothy personally: train yourself in godliness, do not let anyone despise your youth, be an example, devote yourself to Scripture, and use the gift you were given through prophecy and the laying on of hands.",
+        "themes": [
+          "Apostasy and demonic teaching",
+          "Creation is good -- against false asceticism",
+          "Training in godliness",
+          "Timothy's youth and example",
+          "The gift of ministry"
+        ],
+        "contextInBook": "Chapter 4 moves from institutional concerns (worship order, leadership qualifications) to the specific false teaching threatening Ephesus and to Timothy's personal development. The ascetic heresy is named, and Timothy is told how to combat it."
+      },
+      "wordStudies": [
+        {
+          "id": "godliness",
+          "greek": "Greek: eusebeia",
+          "transliteration": "Godliness",
+          "translatedAs": "Reverence, piety, proper devotion",
+          "meaning": "Reverence, piety, proper devotion. In Greek culture, eusebeia meant fulfilling your obligations to the gods and to society. Paul co-opts the term for the Christian life: godliness is the integration of right belief, right worship, and right living.",
+          "significance": "4:7"
+        },
+        {
+          "id": "exercise",
+          "greek": "Greek: gymnazo",
+          "transliteration": "Exercise",
+          "translatedAs": "To train naked -- the origin of our word 'gymnasiu",
+          "meaning": "To train naked -- the origin of our word 'gymnasium.' Athletes trained rigorously, stripping down to essentials. Paul says the same discipline should be applied to spiritual growth.",
+          "significance": "4:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,",
+          "explainer": "The Spirit 'expressly says' that in later times some will depart from the faith, 'devoting themselves to deceitful spirits and teachings of demons.' This is a direct prophetic warning. The false teaching in Ephesus is not merely human error -- it has demonic origins.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Timothy 3:1-5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron;",
+          "explainer": "These teachings come through 'the hypocrisy of liars whose consciences are seared.' The image is of a branding iron that has cauterized the conscience -- burned it so badly that it no longer feels pain. These teachers have lost the ability to distinguish truth from falsehood.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.",
+          "explainer": "They forbid marriage and demand abstinence from certain foods. This is asceticism -- the belief that the physical world is evil and must be denied. Paul counters: God created these things 'to be received with thanksgiving by those who believe and know the truth.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Asceticism was widespread in the ancient world, especially in Greek philosophical traditions that viewed the body as a prison for the soul. Some early Christians absorbed this thinking, concluding that denying physical pleasures made you more spiritual.",
+            "now": "The tension between enjoying God's creation and practicing self-discipline remains a live issue. Paul's answer is nuanced: the problem is not physical pleasure but the theological claim that material things are inherently evil."
+          }
+        },
+        {
+          "number": 4,
+          "text": "For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving.",
+          "explainer": "'For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving.' Paul echoes Genesis 1: God looked at creation and declared it good. The false teachers are contradicting the Creator himself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 1:31",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For it is sanctified through the word of God and prayer.",
+          "explainer": "Food is 'made holy by the word of God and prayer.' Thanksgiving transforms ordinary meals into sacred acts. The word of God and prayer do not change the food chemically but change the eater's relationship to it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith, and of the good doctrine which you have followed.",
+          "explainer": "If Timothy puts these things before the brothers, he will be 'a good servant of Christ Jesus, being trained in the words of the faith and of the good doctrine that you have followed.' Timothy's primary tool against false teaching is positive instruction in true doctrine.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "But refuse profane and old wives’ fables. Exercise yourself toward godliness.",
+          "explainer": "'Have nothing to do with irreverent, silly myths. Rather train yourself for godliness.' The contrast is between wasting time on speculative nonsense and investing in spiritual discipline. 'Train yourself' uses gymnasium language -- godliness requires the same rigor as athletic training.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come.",
+          "explainer": "'Bodily training is of some value, but godliness has value in every way, as it holds promise for the present life and also for the life to come.' Paul does not dismiss physical discipline -- it has 'some value.' But spiritual discipline has unlimited returns, paying dividends in both this life and the next.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ephesus was famous for its gymnasium and athletic culture. Paul's comparison between physical and spiritual training would have resonated in a city that valued athletic achievement.",
+            "now": "The modern fitness industry makes Paul's point relevant in a new way. Physical health matters, but spiritual health matters more -- and the same discipline that produces physical fitness can produce spiritual maturity."
+          }
+        },
+        {
+          "number": 9,
+          "text": "This saying is faithful and worthy of all acceptance.",
+          "explainer": "'The saying is trustworthy and deserving of full acceptance.' Another trustworthy saying formula, either pointing back to verse 8 or forward to verse 10.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.",
+          "explainer": "'For to this end we toil and strive, because we have our hope set on the living God, who is the Savior of all people, especially of those who believe.' The hope of the living God motivates the hard work of godliness. God is the 'Savior of all people' -- his saving intent is universal, though those who believe experience it most fully.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Command and teach these things.",
+          "explainer": "'Command and teach these things.' Paul uses two strong verbs. Timothy is not to suggest or recommend but to command and teach with authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity.",
+          "explainer": "'Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity.' Timothy's best defense against age-based criticism is not argument but character. Five areas of exemplary living are named.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Despising youth', 'explanation': \"In the ancient world, authority came with age. A man under 40 was still considered 'young' and would not normally be given leadership over his elders. Timothy may have been in his early to mid-thirties, making his authority over the Ephesian church a hard sell culturally.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Until I come, pay attention to reading, to exhortation, and to teaching.",
+          "explainer": "'Until I come, devote yourself to the public reading of Scripture, to exhortation, to teaching.' Three activities define Timothy's ministry: reading Scripture aloud in worship, encouraging the congregation, and instructing them in doctrine.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Most people could not afford personal copies of Scripture. The public reading of Scripture in worship was the primary way believers encountered God's word. The reader's role was crucial.",
+            "now": "Despite widespread access to personal Bibles and digital text, the public reading of Scripture in worship remains a practice in most Christian traditions. There is something about hearing the word read aloud in community that personal reading cannot replace."
+          }
+        },
+        {
+          "number": 14,
+          "text": "Don’t neglect the gift that is in you, which was given to you by prophecy, with the laying on of the hands of the elders.",
+          "explainer": "'Do not neglect the gift you have, which was given you by prophecy when the council of elders laid their hands on you.' Timothy was publicly ordained with the laying on of hands and the confirmation of prophetic words. This spiritual gift is not something he earned but something entrusted to him that he must steward.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.",
+          "explainer": "'Practice these things, immerse yourself in them, so that all may see your progress.' The Greek for 'immerse yourself' literally means 'be in them.' Paul wants Timothy to live inside his calling, not just visit it occasionally. His growth should be visible to everyone.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.",
+          "explainer": "'Keep a close watch on yourself and on the teaching. Persist in this, for by so doing you will save both yourself and your hearers.' The stakes are ultimate: faithful ministry saves both the minister and the congregation. Unfaithful ministry endangers both.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "Paul provides detailed instructions for how Timothy should handle different groups within the church. He begins with general age categories (older men, younger men, older women, younger women), then gives extensive attention to widows -- who qualifies for church support and who does not. He addresses the treatment of elders who lead well and those who sin. The chapter closes with advice about Timothy's health and a warning not to be hasty in ordaining people.",
+        "themes": [
+          "Treating different age groups appropriately",
+          "The church's responsibility for widows",
+          "Honoring and disciplining elders",
+          "Impartiality in judgment",
+          "Timothy's health"
+        ],
+        "contextInBook": "Chapter 5 is the most practical section of the letter -- it reads like a church administration manual. These detailed instructions show that early Christianity was not just a spiritual movement but an organized community with real policies about money, care, and accountability."
+      },
+      "wordStudies": [
+        {
+          "id": "honor",
+          "greek": "Greek: timao",
+          "transliteration": "Honor",
+          "translatedAs": "To value, respect, and compensate",
+          "meaning": "To value, respect, and compensate. The word carries both social and financial meanings. When Paul says to 'honor' widows and elders, he means both respect them and provide for them materially.",
+          "significance": "5:3"
+        },
+        {
+          "id": "double_honor",
+          "greek": "Greek: diplous time",
+          "transliteration": "Double honor",
+          "translatedAs": "Double the standard compensation or respect",
+          "meaning": "Double the standard compensation or respect. When applied to elders who 'labor in preaching and teaching,' this likely means financial remuneration -- they should be paid for their work.",
+          "significance": "5:17"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;",
+          "explainer": "'Do not rebuke an older man but encourage him as you would a father.' Paul gives Timothy relational categories for pastoral care. An older man should be treated as a father -- with respect, not confrontation.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Age-based respect', 'explanation': 'In the ancient Mediterranean, elders held automatic social authority. A younger man rebuking an older man would violate deep cultural norms. Paul tells Timothy to work within these norms, using encouragement rather than direct rebuke.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "the elder women as mothers; the younger as sisters, in all purity.",
+          "explainer": "Treat younger men as brothers, older women as mothers, younger women as sisters 'in all purity.' The family model governs all relationships. The qualifier 'in all purity' for younger women acknowledges the potential for sexual temptation in pastoral relationships.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Honor widows who are widows indeed.",
+          "explainer": "'Honor widows who are truly widows.' The word 'honor' (timao) includes financial support. 'Truly' widows are those with no family to care for them. The church steps in where family is absent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is\n acceptable in the sight of God.",
+          "explainer": "If a widow has children or grandchildren, they should care for her first. 'Let them first learn to show godliness to their own household and to make some return to their parents.' Family responsibility comes before church charity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world without Social Security, pensions, or government safety nets, widows without family support faced destitution. The church functioned as a social safety net -- but Paul insists that family take primary responsibility.",
+            "now": "The balance between family responsibility and community support for the elderly and vulnerable remains a pressing social issue. Paul's principle -- family first, then community -- continues to inform discussions about social welfare."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Now she who is a widow indeed, and desolate, has her hope set on God, and continues in petitions and prayers night and day.",
+          "explainer": "A true widow is one who is 'left all alone' and 'has set her hope on God and continues in supplications and prayers night and day.' The qualifying marks are both social (no family) and spiritual (devoted to prayer).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But she who gives herself to pleasure is dead while she lives.",
+          "explainer": "But a widow who lives 'self-indulgently is dead even while she lives.' The contrast is stark: a widow devoted to prayer is alive in every sense; one devoted to pleasure is spiritually dead.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Also command these things, that they may be without reproach.",
+          "explainer": "Timothy should command these things so that the widows 'may be without reproach.' The instructions protect both the widows and the church's reputation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.",
+          "explainer": "'If anyone does not provide for his relatives, and especially for members of his household, he has denied the faith and is worse than an unbeliever.' This is one of Paul's strongest statements: neglecting family is a denial of Christian faith. Even pagans care for their own.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Let no one be enrolled as a widow under sixty years old, having been the wife of one man,",
+          "explainer": "A widow may be enrolled on the church's support list if she is over sixty, 'having been the wife of one husband.' Like the requirement for elders, this emphasizes marital faithfulness.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Enrollment of widows', 'explanation': 'The early church maintained an official list of widows who received regular financial support. This was an organized charity with clear eligibility criteria -- one of the earliest known institutional welfare programs.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work.",
+          "explainer": "She must also have a reputation for good works: raising children, showing hospitality, washing the feet of the saints, caring for the afflicted, and devoting herself to every good work. The qualifications emphasize a lifetime of service.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "But refuse younger widows, for when they have grown wanton against Christ, they desire to marry;",
+          "explainer": "Younger widows should not be enrolled, because 'when their passions draw them away from Christ, they desire to marry.' Paul is practical: younger women may want to remarry, which would create complications with their commitment to the enrolled widows' ministry.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "having condemnation, because they have rejected their first pledge.",
+          "explainer": "By remarrying, they incur condemnation 'for having abandoned their former pledge.' Enrollment apparently involved a pledge of devoted service. Breaking that pledge was the problem, not remarriage itself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not.",
+          "explainer": "Younger widows may also become 'idlers, going about from house to house' as 'gossips and busybodies, saying what they should not.' Without purposeful occupation, they become sources of community disruption.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting.",
+          "explainer": "So Paul's counsel: younger widows should 'marry, bear children, manage their households, and give the adversary no occasion for slander.' This is practical advice, not a universal theological statement about women's roles.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a society where women's economic security depended largely on marriage, Paul's advice for younger widows to remarry was practically sensible. An unmarried young woman without family support was extremely vulnerable.",
+            "now": "The specific advice about remarriage reflects ancient economic realities. The underlying principle -- that people should be in stable, productive situations rather than vulnerable and idle -- translates across cultures, though the forms differ dramatically."
+          }
+        },
+        {
+          "number": 15,
+          "text": "For already some have turned away after Satan.",
+          "explainer": "Some have already strayed after Satan. Paul is not theorizing -- real people in the Ephesian church have already gone wrong, and the pattern he describes is drawn from observation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened; that it might relieve those who are widows indeed.",
+          "explainer": "'If any believing woman has relatives who are widows, let her care for them. Let the church not be burdened, so that it may care for those who are truly widows.' Resources are finite. Family responsibility frees up church resources for those who have no other support.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching.",
+          "explainer": "'Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching.' 'Double honor' almost certainly includes financial compensation. Elders who work hard at leadership and teaching deserve to be paid.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And,\n“The laborer is worthy of his wages.”",
+          "explainer": "Paul supports this with two quotations: 'You shall not muzzle an ox when it treads out the grain' (Deuteronomy 25:4) and 'The laborer deserves his wages' (likely a saying of Jesus, cf. Luke 10:7). Scripture supports paying church leaders.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 25:4",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Luke 10:7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Don’t receive an accusation against an elder, except at the word of two or three witnesses.",
+          "explainer": "'Do not admit a charge against an elder except on the evidence of two or three witnesses.' Elders are protected from frivolous or malicious accusations. The two-or-three-witness rule comes from Deuteronomy 19:15.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 19:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Those who sin, reprove in the sight of all, that the rest also may be in fear.",
+          "explainer": "'As for those who persist in sin, rebuke them in the presence of all, so that the rest may stand in fear.' Public sin requires public correction. The purpose is both corrective (for the sinner) and preventive (for the community).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality.",
+          "explainer": "Paul charges Timothy 'before God and Christ Jesus and the elect angels' to observe these rules without prejudging or showing partiality. The invocation of God, Christ, and angels as witnesses underscores the seriousness of impartial leadership.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "Lay hands hastily on no one, neither be a participant in other men’s sins. Keep yourself pure.",
+          "explainer": "'Do not be hasty in the laying on of hands.' Ordination should not be rushed. Premature appointment of leaders is the source of many of the problems Paul has been addressing. 'Do not share in the sins of others; keep yourself pure.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities.",
+          "explainer": "'No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments.' This personal health note is striking in the middle of church administration instructions. Timothy apparently has stomach problems, and Paul recommends moderate wine as a remedy.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Wine for stomach ailments', 'explanation': 'In the ancient world, water quality was unreliable and often contaminated. Wine had mild antiseptic properties and was widely recommended as a digestive aid. This is medical advice, not a theology of alcohol consumption.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Some men’s sins are evident, preceding them to judgment, and some also follow later.",
+          "explainer": "'The sins of some people are conspicuous, going before them to judgment, but the sins of others appear later.' Some sins are immediately obvious; others are hidden and only emerge over time. This is why Paul warns against hasty ordination -- character takes time to reveal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.",
+          "explainer": "Likewise, good works are sometimes conspicuous, and even when they are not, 'they cannot remain hidden.' Both sin and virtue eventually come to light. Time reveals character.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "explainer": {
+        "summary": "The final chapter addresses slaves' conduct, returns to the problem of false teachers who use religion for profit, delivers the famous warning that 'the love of money is a root of all kinds of evil,' and closes with a magnificent charge to Timothy to 'fight the good fight of the faith.' Paul instructs the wealthy to be generous and store up treasure in heaven. The letter ends with a final plea to guard the deposit of faith entrusted to Timothy.",
+        "themes": [
+          "Slaves and masters in the church",
+          "False teaching as a business",
+          "The love of money",
+          "Contentment with godliness",
+          "Fighting the good fight",
+          "Guarding the deposit of faith"
+        ],
+        "contextInBook": "Chapter 6 brings the letter full circle. It opened with false teachers; it closes with false teachers. It opened with Timothy's commission to fight; it closes with the same charge. The pastoral letter format allows Paul to address multiple issues, but the bookends reveal his core concerns."
+      },
+      "wordStudies": [
+        {
+          "id": "contentment",
+          "greek": "Greek: autarkeia",
+          "transliteration": "Contentment",
+          "translatedAs": "Self-sufficiency, having enough",
+          "meaning": "Self-sufficiency, having enough. In Stoic philosophy, this meant needing nothing external for happiness. Paul transforms the concept: contentment comes not from self-reliance but from trusting God's provision. Having food and clothing is enough because God is enough.",
+          "significance": "6:6"
+        },
+        {
+          "id": "fight_the_good_fight",
+          "greek": "Greek: agonizomai ton kalon agona",
+          "transliteration": "Fight the good fight",
+          "translatedAs": "The language of athletic competition",
+          "meaning": "The language of athletic competition. Agonizomai is the verb behind 'agonize' and 'agony.' The good fight is not a military battle but an athletic contest requiring maximum effort, discipline, and endurance.",
+          "significance": "6:12"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed.",
+          "explainer": "Slaves should regard their masters as worthy of all honor, 'so that the name of God and the teaching may not be reviled.' Paul does not challenge the institution of slavery here but focuses on how Christian slaves can witness to their faith through exemplary service.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Slavery in the Roman Empire', 'explanation': \"Roman slavery was pervasive and varied enormously in conditions -- from brutal agricultural labor to educated household management. An estimated one-third of the population of major cities were enslaved. Paul's instructions operate within this reality, focusing on the believer's witness rather than the institution's reform.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Those who have believing masters, let them not despise them, because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things.",
+          "explainer": "Slaves with believing masters should not be disrespectful because they are 'brothers.' Instead, they should serve even better, because those who benefit from their service are 'believers and beloved.' Shared faith complicates but does not eliminate the master-slave relationship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The early church included both slaves and slaveholders. Worshipping together as spiritual equals while maintaining social inequality created enormous tension. Paul's letters show him navigating this tension without resolving it.",
+            "now": "This passage has been used both to defend slavery and to plant the seeds of its abolition. The principle that master and slave are spiritual brothers eventually undermined the institution, but the journey from Paul's letters to emancipation took centuries."
+          }
+        },
+        {
+          "number": 3,
+          "text": "If anyone teaches a different doctrine, and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness,",
+          "explainer": "Anyone who teaches 'a different doctrine' and does not agree with 'the sound words of our Lord Jesus Christ and the teaching that accords with godliness' is the problem. Paul returns to his central concern: false teaching that deviates from the apostolic gospel.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "he is conceited, knowing nothing, but obsessed with arguments, disputes, and word battles, from which come envy, strife, insulting, evil suspicions,",
+          "explainer": "Such a person is 'puffed up with conceit and understands nothing.' He has 'an unhealthy craving for controversy and for quarrels about words.' The false teacher's disease is intellectual arrogance combined with a love of argument. Paul diagnoses it as a spiritual pathology.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such.",
+          "explainer": "These quarrels produce 'envy, dissension, slander, evil suspicions, and constant friction among people who are depraved in mind and deprived of the truth.' The fruit of false teaching is social destruction. The test of any teaching is its relational result: does it produce love or division?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But godliness with contentment is great gain.",
+          "explainer": "'But godliness with contentment is great gain.' After describing the misery of greed-driven religion, Paul offers the alternative: a combination of reverent living and inner satisfaction. This is the letter's ethical ideal in one sentence.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "godliness with contentment",
+              "personId": null,
+              "wordId": "contentment",
+              "startIndex": 4
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For we brought nothing into the world, and we certainly can’t carry anything out.",
+          "explainer": "'For we brought nothing into the world, and we cannot take anything out of the world.' A universal truth: every human enters and leaves the world empty-handed. Possessions are temporary; only what is invested in God's kingdom endures.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "But having food and clothing, we will be content with that.",
+          "explainer": "'If we have food and clothing, with these we will be content.' Paul reduces human material needs to the absolute basics. This is not a call to asceticism (he rejected that in chapter 4) but a recalibration of expectations away from luxury toward sufficiency.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "But those who are determined to be rich fall into a temptation and a snare and many foolish and harmful lusts, such as drown men in ruin and destruction.",
+          "explainer": "'Those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction.' The progression is vivid: desire leads to temptation, temptation to a trap, the trap to destruction. Wealth-seeking is portrayed as a downward spiral.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows.",
+          "explainer": "'For the love of money is a root of all kinds of evils.' One of the most quoted (and misquoted) verses in the Bible. Note: Paul does not say money is evil but that the love of money is a root of evil. Money is morally neutral; obsession with it is spiritually lethal. 'Through this craving, some have wandered away from the faith and pierced themselves with many pangs.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The false teachers in Ephesus appear to have been using religion for financial gain. Paul's warning is not abstract but targeted at specific people who have commodified the gospel.",
+            "now": "The 'prosperity gospel' and the commercialization of religion make Paul's warning urgently relevant. The love of money as a root of evil is observable in every culture and era."
+          }
+        },
+        {
+          "number": 11,
+          "text": "But you, man of God, flee these things, and follow after righteousness, godliness, faith, love, perseverance, and gentleness.",
+          "explainer": "'But as for you, O man of God, flee these things. Pursue righteousness, godliness, faith, love, steadfastness, gentleness.' Paul contrasts Timothy with the money-lovers: flee what they pursue, pursue what they neglect. 'Man of God' is an Old Testament title for prophets -- Paul applies it to Timothy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Fight the good fight of faith. Take hold of the eternal life to which you were called, and you confessed the good confession in the sight of many witnesses.",
+          "explainer": "'Fight the good fight of the faith. Take hold of the eternal life to which you were called and about which you made the good confession in the presence of many witnesses.' Athletic and military imagery merge. Timothy's ministry is both a race and a battle, and his public confession of faith committed him to see it through.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Timothy 4:7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I command you before God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate testified the good confession,",
+          "explainer": "Paul charges Timothy 'in the presence of God, who gives life to all things, and of Christ Jesus, who in his testimony before Pontius Pilate made the good confession.' Timothy's witness is linked to Jesus' own witness before Pilate. Both involve standing firm under pressure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 18:36-37",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "that you keep the commandment without spot, blameless, until the appearing of our Lord Jesus Christ;",
+          "explainer": "Timothy must keep this commandment 'unstained and free from reproach until the appearing of our Lord Jesus Christ.' The timeline extends to Christ's return. Timothy's faithfulness is not a short-term project but a lifelong commitment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "which in its own times he will show, who is the blessed and only Ruler, the King of kings, and Lord of lords;",
+          "explainer": "Christ's appearing will happen at 'the proper time' -- determined by the 'blessed and only Sovereign, the King of kings and Lord of lords.' This title, applied to God, directly challenged the Roman emperor's claim to supreme sovereignty.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'King of kings', 'explanation': 'This was a title used by Persian emperors and claimed by Roman rulers. Paul applies it to God alone, making a politically subversive theological statement: no earthly ruler is truly supreme.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "who alone has immortality, dwelling in unapproachable light; whom no man has seen, nor can see: to whom be honor and eternal power. Amen.",
+          "explainer": "God 'alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see.' Paul emphasizes God's radical transcendence. God is not one being among many but the source of all being, dwelling in light so intense that no created being can approach it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy;",
+          "explainer": "Paul turns to the wealthy: 'As for the rich in this present age, charge them not to be haughty, nor to set their hopes on the uncertainty of riches, but on God, who richly provides us with everything to enjoy.' The rich are not condemned for being rich but warned against arrogance and misplaced trust.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the Ephesian church, wealthy members had significant social power. Paul does not tell them to renounce their wealth but to use it generously and not let it define their identity.",
+            "now": "The instructions to the wealthy remain directly applicable in any society with economic inequality. Generosity, humility, and hope in God rather than money -- these are timeless principles for those with financial resources."
+          }
+        },
+        {
+          "number": 18,
+          "text": "that they do good, that they be rich in good works, that they be ready to distribute, willing to share;",
+          "explainer": "The rich should 'do good, be rich in good works, be generous and ready to share.' Paul redefines wealth: the truly rich are those rich in good works. Financial wealth is a tool for generosity, not an end in itself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "laying up in store for themselves a good foundation against the time to come, that they may lay hold of eternal life.",
+          "explainer": "By being generous, they are 'storing up treasure for themselves as a good foundation for the future, so that they may take hold of that which is truly life.' Generosity is not losing money -- it is investing it in eternal returns.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 6:19-21",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Timothy, guard that which is committed to you, turning away from the empty chatter and oppositions of what is falsely called knowledge;",
+          "explainer": "'O Timothy, guard the deposit entrusted to you.' The 'deposit' (paratheke) is the apostolic gospel -- the body of truth Paul has transmitted. Timothy's primary job is not innovation but faithful preservation and transmission of what he has received.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "which some profess, and thus have wandered from the faith. Grace be with you. Amen.",
+          "explainer": "'Avoid the irreverent babble and contradictions of what is falsely called knowledge.' The Greek for 'knowledge' here is gnosis -- possibly an early reference to what would later develop into the Gnostic heresy. The letter ends with 'Grace be with you' -- the same grace that opened it (1:2), encompassing the entire letter in divine favor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

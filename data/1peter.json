@@ -1,0 +1,1435 @@
+{
+  "book": {
+    "id": "1peter",
+    "name": "1 Peter",
+    "testament": "New Testament",
+    "author": "The apostle Peter (possibly through the secretary Silvanus)",
+    "dateWritten": "c. 62-64 AD",
+    "writtenFrom": "Rome (called 'Babylon' in 5:13)",
+    "writtenTo": "Christians scattered throughout Asia Minor (modern Turkey)",
+    "chapterCount": 5,
+    "verseCount": 105,
+    "explainer": {
+      "overview": "1 Peter is a letter of hope written to suffering Christians. The recipients are 'elect exiles' -- chosen by God but marginalized by their society. They face social harassment, verbal abuse, and discrimination for their faith. Peter's response is not to tell them suffering will end but to reframe it: suffering is temporary, Christ suffered before them, and an imperishable inheritance awaits. The letter weaves together theology (what God has done), ethics (how to live), and encouragement (why to hope) into a masterful pastoral document.",
+      "historicalContext": "The recipients lived in five Roman provinces covering most of modern Turkey: Pontus, Galatia, Cappadocia, Asia, and Bithynia. As Christians, they had withdrawn from the social and religious activities that defined civic life -- temple feasts, trade guild rituals, emperor worship. This withdrawal made them suspicious outsiders. The 'fiery trial' Peter mentions (4:12) likely refers to social persecution rather than state-sponsored violence, though Nero's persecution (c. 64 AD) may have been imminent.",
+      "whyItMatters": "1 Peter provides the New Testament's most sustained theology of suffering. It does not explain why God allows suffering but shows how suffering can be transformed through hope, holiness, and identification with Christ. The letter's vision of Christians as 'living stones' built into a spiritual house, a 'royal priesthood,' has profoundly shaped Christian self-understanding. Its instructions about submitting to authorities, household relationships, and suffering for doing good have been both treasured and debated throughout church history.",
+      "keyThemes": [
+        "Living hope through Christ's resurrection",
+        "The identity of God's people: chosen, holy, royal priesthood",
+        "Suffering as a Christian and identifying with Christ",
+        "Holy living in a hostile society",
+        "Submission and humility in relationships"
+      ]
+    },
+    "people": [
+      {
+        "id": "peter_1peter",
+        "name": "Peter (Simon Peter)",
+        "role": "Apostle, author of the letter",
+        "bio": "Peter identifies himself as 'an apostle of Jesus Christ' and later as 'a fellow elder and witness of the sufferings of Christ.' He writes from 'Babylon' (almost certainly Rome) with Silvanus as secretary and Mark as a companion. The fisherman from Galilee has become a leader of the global church, writing pastoral theology from the capital of the empire.",
+        "culturalContext": "By the early 60s AD, Peter was one of the most prominent figures in early Christianity. His presence in Rome placed him at the heart of the empire and the growing Christian community there. Tradition holds that he was martyred in Rome under Nero, probably by crucifixion upside down."
+      },
+      {
+        "id": "silvanus",
+        "name": "Silvanus (Silas)",
+        "role": "Peter's secretary and letter carrier",
+        "bio": "Identified in 5:12 as the one 'through whom' Peter wrote. Silvanus is almost certainly the Silas who accompanied Paul on his second missionary journey (Acts 15-18). He was a leader in the Jerusalem church, a Roman citizen, and an experienced writer. His involvement may explain the letter's polished Greek style.",
+        "culturalContext": "Using a secretary (amanuensis) was standard practice in the ancient world. The secretary could range from a simple scribe to a co-author who helped shape the language and style. Silvanus' literary skills may have refined Peter's message for its educated audience."
+      }
+    ],
+    "places": [
+      {
+        "id": "babylon_rome",
+        "name": "Babylon (Rome)",
+        "description": "Peter writes from 'Babylon' (5:13), which is almost universally understood as a code name for Rome. Just as ancient Babylon had conquered Jerusalem and exiled God's people, Rome had destroyed Jerusalem (or was about to) and was now the seat of imperial power.",
+        "culturalSignificance": "Calling Rome 'Babylon' was a form of prophetic critique that became common in both Jewish and Christian literature. It identified Rome as the latest in a long line of empires that opposed God's people. The book of Revelation uses the same code name extensively.",
+        "modernLocation": "Rome, Italy.",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      {
+        "id": "asia_minor",
+        "name": "Asia Minor (Provinces)",
+        "description": "The five Roman provinces listed in 1:1 -- Pontus, Galatia, Cappadocia, Asia, and Bithynia -- covered most of modern Turkey. The circular order suggests the route the letter carrier would follow.",
+        "culturalSignificance": "These provinces contained diverse populations: Greek cities, Roman colonies, indigenous peoples, and Jewish diaspora communities. Christianity was one of many competing religious movements, and converts from paganism faced intense social pressure to return to their former practices.",
+        "modernLocation": "Modern Turkey.",
+        "latitude": 39.0,
+        "longitude": 35.0
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection; Peter as lead disciple",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 33-49 AD",
+        "event": "Peter leads the Jerusalem church; mission to Jews and Gentiles",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 49 AD",
+        "event": "Jerusalem Council; Peter supports Gentile inclusion",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 50-60 AD",
+        "event": "Paul establishes churches in Asia Minor (some of Peter's recipients)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 62-64 AD",
+        "event": "Peter writes 1 Peter from Rome to encourage persecuted Christians",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 64 AD",
+        "event": "Great Fire of Rome; Nero blames Christians",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 64-68 AD",
+        "event": "Peter martyred in Rome under Nero (tradition)",
+        "isThisBook": false
+      },
+      {
+        "date": "70 AD",
+        "event": "Romans destroy Jerusalem and the Temple",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Peter opens with a stunning theological affirmation: God has caused believers to be born again into a living hope through Christ's resurrection, to an inheritance that is imperishable, undefiled, and unfading. Even their present suffering serves a purpose -- it refines their faith like gold tested by fire. The prophets of old longed to understand what they were predicting. Peter then pivots to ethics: because God is holy, they must be holy in all their conduct, knowing they were ransomed not with perishable things but with the precious blood of Christ.",
+        "themes": [
+          "Living hope through resurrection",
+          "Imperishable inheritance",
+          "Suffering refines faith",
+          "Called to holiness",
+          "Ransomed by Christ's blood",
+          "Born again through God's living word"
+        ],
+        "contextInBook": "Chapter 1 establishes the theological foundation for everything that follows. The identity (chosen exiles), resources (living hope, imperishable inheritance), and calling (holiness) described here ground the practical instructions in chapters 2-5."
+      },
+      "wordStudies": [
+        {
+          "id": "living_hope",
+          "greek": "Greek: elpida zosan",
+          "transliteration": "Living hope",
+          "translatedAs": "A hope that is alive, dynamic, and growing -- not ",
+          "meaning": "A hope that is alive, dynamic, and growing -- not a static wish but an active, breathing expectation grounded in the resurrection of Jesus. Dead hopes disappoint; a living hope energizes and sustains.",
+          "significance": "1:3"
+        },
+        {
+          "id": "ransomed",
+          "greek": "Greek: elytrothete",
+          "transliteration": "Ransomed",
+          "translatedAs": "Redeemed, liberated by payment of a price",
+          "meaning": "Redeemed, liberated by payment of a price. The word was used for buying a slave's freedom or ransoming a prisoner of war. Peter says the ransom price was not gold or silver but Christ's blood.",
+          "significance": "1:18"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Peter, an apostle of Jesus Christ, to the chosen ones who are living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+          "explainer": "Peter writes to the 'elect exiles of the Dispersion' scattered across five Roman provinces. Two words define the recipients: 'elect' (chosen by God) and 'exiles' (displaced in the world). They are simultaneously honored and marginalized -- chosen by heaven, rejected by their neighbors.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "according to the foreknowledge of God the Father, in sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied.",
+          "explainer": "They are chosen according to the foreknowledge of God the Father, sanctified by the Spirit, for obedience and sprinkling of the blood of Jesus Christ. All three persons of the Trinity are involved in their salvation: the Father's choice, the Spirit's sanctifying work, and the Son's sacrificial blood.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Trinitarian greeting would have assured these scattered, marginalized believers that the full resources of God were engaged on their behalf -- not one person of the Trinity but all three.",
+            "now": "This verse provides one of the New Testament's clearest Trinitarian formulas, showing that the doctrine of the Trinity was not a later philosophical invention but a feature of the earliest Christian experience."
+          }
+        },
+        {
+          "number": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+          "explainer": "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead. The resurrection is not just a past event but the source of a present, living, dynamic hope. Dead men have no hope; a risen Christ generates hope that cannot die.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "to an incorruptible and undefiled inheritance that doesn’t fade away, reserved in Heaven for you,",
+          "explainer": "An inheritance that is imperishable, undefiled, and unfading, kept in heaven for you. Three negatives define this inheritance: it cannot decay (imperishable), it cannot be corrupted (undefiled), it cannot lose its beauty (unfading). Everything earthly fails these tests; this inheritance passes all three.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Inheritance', 'explanation': 'In the ancient world, inheritance was the primary means of wealth transfer between generations. But earthly inheritances could be lost to war, taxation, theft, or natural disaster. Peter describes an inheritance immune to every threat -- kept in heaven, beyond the reach of any earthly power.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "who by the power of God are guarded through faith for a salvation ready to be revealed in the last time.",
+          "explainer": "They are 'guarded by God's power through faith for a salvation ready to be revealed in the last time.' The inheritance is kept in heaven; the heirs are guarded on earth. Both ends of the relationship are secured by God's power.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Wherein you greatly rejoice, though now for a little while, if need be, you have been put to grief in various trials,",
+          "explainer": "In this they rejoice, even though they may have to suffer various trials for a little while. The contrast between eternal joy and temporary suffering is deliberate. 'A little while' measured against eternity makes even severe suffering brief.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "that the proof of your faith, which is more precious than gold that perishes even though it is tested by fire, may be found to result in praise, glory, and honor at the revelation of Jesus Christ—",
+          "explainer": "These trials test the genuineness of faith, which is more precious than gold that perishes even though tested by fire. Gold is refined by fire to remove impurities; faith is refined by suffering to remove what is false. The result: praise and glory and honor at the revelation of Jesus Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Metallurgy was well understood in the ancient world. Gold was purified by heating it until impurities rose to the surface and could be skimmed off. Peter's readers would have immediately grasped the analogy: suffering burns away what is false in faith.",
+            "now": "The metaphor of suffering as refining fire remains one of Christianity's most powerful and controversial claims. It does not romanticize suffering but insists that God can use it redemptively."
+          }
+        },
+        {
+          "number": 8,
+          "text": "whom not having known you love; in whom, though now you don’t see him, yet believing, you rejoice greatly with joy unspeakable and full of glory—",
+          "explainer": "Though they have not seen Jesus, they love him. Though they do not see him now, they believe in him and rejoice with 'joy that is inexpressible and filled with glory.' This describes a mystical paradox: deep love and overflowing joy directed toward someone they have never physically seen.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "receiving the result of your faith, the salvation of your souls.",
+          "explainer": "They are receiving the outcome of their faith: the salvation of their souls. Salvation is not only future; it is being received in the present through the experience of faith, love, and joy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Concerning this salvation, the prophets sought and searched diligently, who prophesied of the grace that would come to you,",
+          "explainer": "The prophets who prophesied about this grace searched and inquired carefully, trying to understand what they were predicting. The Old Testament prophets glimpsed something extraordinary but could not fully comprehend it. They were given pieces of a puzzle they could not assemble.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "searching for who or what kind of time the Spirit of Christ, which was in them, pointed to, when he predicted the sufferings of Christ, and the glories that would follow them.",
+          "explainer": "They tried to find out 'what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories.' The Spirit of Christ was at work in the Old Testament prophets -- the same Spirit who now indwells believers. The prophets saw suffering followed by glory but could not identify the person or the timeline.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 53",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "To them it was revealed, that not to themselves, but to you, they ministered these things, which now have been announced to you through those who preached the Good News to you by the Holy Spirit sent out from heaven; which things angels desire to look into.",
+          "explainer": "It was revealed to the prophets that they were serving not themselves but future generations -- Peter's readers. Even angels long to look into these things. The gospel is so glorious that angels are fascinated by it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Therefore prepare your minds for action, be sober, and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ—",
+          "explainer": "Therefore, prepare your minds for action, be sober-minded, and set your hope fully on the grace coming at the revelation of Jesus Christ. The 'therefore' connects theology to ethics: because of what God has done, here is how to live. Mental discipline and forward-looking hope are the foundations.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "as children of obedience, not conforming yourselves according to your former lusts as in your ignorance,",
+          "explainer": "As obedient children, do not be conformed to the desires of your former ignorance. Before knowing Christ, their desires were shaped by ignorance of God's character and purposes. Now that ignorance has been replaced by knowledge, their desires must change too.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "but just as he who called you is holy, you yourselves also be holy in all of your behavior;",
+          "explainer": "As the one who called you is holy, you also be holy in all your conduct. Holiness is not a special spiritual achievement but the basic family trait of God's children. A holy God produces holy people.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Leviticus 19:2",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "because it is written, “You shall be holy; for I am holy.”",
+          "explainer": "Since it is written: 'You shall be holy, for I am holy.' Peter grounds his ethical instruction in the Old Testament, showing continuity between the Levitical call to holiness and the Christian call.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "If you call on him as Father, who without respect of persons judges according to each man’s work, pass the time of your living as foreigners here in reverent fear:",
+          "explainer": "If you call on him as Father who judges impartially according to each person's work, conduct yourselves with reverence during the time of your exile. God is both Father (intimate) and Judge (impartial). The combination of familial warmth and judicial seriousness shapes how believers should live in their temporary exile.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Time of exile', 'explanation': \"Peter consistently describes the Christian experience as 'exile' (paroikia -- from which we get 'parish'). Just as Israel lived as strangers in Egypt and Babylon, Christians live as strangers in a world that is not their true home. This exile is temporary; the homeland is heaven.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "knowing that you were redeemed, not with corruptible things, with silver or gold, from the useless way of life handed down from your fathers,",
+          "explainer": "You were ransomed from the futile ways inherited from your ancestors, not with perishable things like silver or gold. The word 'ransomed' evokes the slave market and the prisoner-of-war camp. Freedom was purchased, but not with money.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "but with precious blood, as of a lamb without blemish or spot, the blood of Christ;",
+          "explainer": "But with the precious blood of Christ, like that of a lamb without blemish or spot. The Passover imagery is unmistakable: Jesus is the sacrificial lamb whose blood provides deliverance. His blood is 'precious' -- infinitely valuable because of who he is.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 12:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "who was foreknown indeed before the foundation of the world, but was revealed in this last age for your sake,",
+          "explainer": "He was foreknown before the foundation of the world but was made manifest in these last times for your sake. The incarnation was not an afterthought but the execution of an eternal plan. God was not caught off guard by human sin; the remedy preceded the disease.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "who through him are believers in God, who raised him from the dead, and gave him glory; so that your faith and hope might be in God.",
+          "explainer": "Through Christ, they believe in God who raised him from the dead and gave him glory, so that their faith and hope are in God. The resurrection is not just evidence for faith; it is the foundation of faith. Because God raised Christ, they can trust God with everything.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "Seeing you have purified your souls in your obedience to the truth through the Spirit in sincere brotherly affection, love one another from the heart fervently:",
+          "explainer": "Having purified your souls by your obedience to the truth for a sincere love of the brothers, love one another earnestly from a pure heart. Obedience to truth produces the capacity for genuine love. The progression is: truth received, souls purified, love unleashed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "having been born again, not of corruptible seed, but of incorruptible, through the word of God, which lives and remains forever.",
+          "explainer": "You have been born again, not of perishable seed but of imperishable, through the living and abiding word of God. The new birth is accomplished through God's word -- which, like the inheritance it promises, is imperishable. The seed of the new life cannot die because the word that planted it cannot die.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "For,\n“All flesh is like grass,\nand all of man’s glory like the flower in the grass.\nThe grass withers, and its flower falls;",
+          "explainer": "All flesh is like grass, and all its glory like the flower of grass. The grass withers, and the flower falls off. Peter quotes Isaiah 40 to contrast human transience with divine permanence. Everything human fades; only God's word endures.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 40:6-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "but the Lord’s word endures forever.”\nThis is the word of Good News which was preached to you.",
+          "explainer": "But the word of the Lord remains forever. And this is the word that was preached to you. The gospel they received is not a temporary message but the eternal word of God. Their faith rests on the most permanent reality in existence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Chapter 2 develops two major themes. First, Peter describes the Christian community as a spiritual building: believers are 'living stones' being built into a spiritual house, a holy priesthood. Christ is the cornerstone that the builders rejected. Second, Peter gives practical instructions about submission: to human institutions, to masters (even unjust ones), and ultimately to the example of Christ, who suffered unjustly without retaliating.",
+        "themes": [
+          "Living stones and spiritual priesthood",
+          "Christ the cornerstone",
+          "Submission to authorities",
+          "Suffering unjustly like Christ",
+          "The example of Christ's suffering"
+        ],
+        "contextInBook": "Chapter 2 transitions from the theological foundations of chapter 1 to practical instructions for life in a hostile society. The identity established in chapter 1 (chosen, holy, ransomed) now shapes behavior in the public sphere."
+      },
+      "wordStudies": [
+        {
+          "id": "living_stones",
+          "greek": "Greek: lithoi zontes",
+          "transliteration": "Living stones",
+          "translatedAs": "An oxymoron -- stones are inert, but these stones ",
+          "meaning": "An oxymoron -- stones are inert, but these stones are alive. Each believer is a living building block in God's spiritual temple. The image combines permanence (stone) with vitality (living), capturing the dynamic nature of the church.",
+          "significance": "2:5"
+        },
+        {
+          "id": "overseer",
+          "greek": "Greek: episkopos",
+          "transliteration": "Overseer",
+          "translatedAs": "Guardian, superintendent, one who watches over",
+          "meaning": "Guardian, superintendent, one who watches over. Applied to Christ as the 'Shepherd and Overseer of your souls.' The word eventually became the title 'bishop' in church governance, but here it describes Christ's direct pastoral care.",
+          "significance": "2:25"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking,",
+          "explainer": "Put away all malice, deceit, hypocrisy, envy, and slander. These five vices are the social poisons that destroy community. They must be stripped off like dirty clothes before the new identity can be fully lived out.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "as newborn babies, long for the pure milk of the Word, that with it you may grow,",
+          "explainer": "Like newborn babies, long for the pure spiritual milk, so that by it you may grow up into salvation. The metaphor is tender: new believers need nourishment the way infants need milk -- desperately, instinctively, and constantly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, infant mortality was devastating. The survival of a newborn depended entirely on receiving adequate nourishment. Peter's metaphor carries life-or-death urgency.",
+            "now": "The image of spiritual nourishment as essential as mother's milk challenges a culture that treats spiritual growth as optional or recreational. Peter says it is a survival necessity."
+          }
+        },
+        {
+          "number": 3,
+          "text": "if indeed you have tasted that the Lord is gracious:",
+          "explainer": "If indeed you have tasted that the Lord is good. The word 'tasted' (geuomai) implies personal experience, not secondhand report. They have experienced God's goodness directly, and that experience should create an appetite for more.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 34:8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "coming to him, a living stone, rejected indeed by men, but chosen by God, precious.",
+          "explainer": "Coming to him, a living stone rejected by men but in the sight of God chosen and precious. Christ is the original 'living stone' -- rejected by human builders but chosen by God. His followers share his experience: rejected by the world, precious to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "You also, as living stones, are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ.",
+          "explainer": "You yourselves, like living stones, are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. The church is not a building; it is a living organism made of living people. Every believer is both a building block and a priest.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Judaism, the Temple was the exclusive meeting place between God and humanity, and only designated priests could mediate. Peter dismantles both limitations: every believer is a priest, and the community itself is the temple.",
+            "now": "The 'priesthood of all believers' became one of the Reformation's foundational principles. It asserts that every Christian has direct access to God and a ministry to offer, not just ordained clergy."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Because it is contained in Scripture,\n“Behold, I lay in Zion a chief cornerstone, chosen, and precious:\nHe who believes in him will not be disappointed.”",
+          "explainer": "Scripture says: 'Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.' Peter applies Isaiah 28:16 to Christ: he is the foundation stone on which everything else is built.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 28:16",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For you who believe therefore is the honor, but for those who are disobedient,\n“The stone which the builders rejected,\nhas become the chief cornerstone,”",
+          "explainer": "The stone is precious to those who believe, but to those who do not believe, 'the stone that the builders rejected has become the cornerstone.' The same stone is either the foundation of life or a stumbling block, depending on whether you accept or reject it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 118:22",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "and,\n“a stone of stumbling, and a rock of offense.”\nFor they stumble at the word, being disobedient, to which also they were appointed.",
+          "explainer": "And 'a stone of stumbling and a rock of offense.' They stumble because they disobey the word, as they were destined to do. The rejection of Christ is not random; it is the consequence of disobeying God's word.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 8:14",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, that you may proclaim the excellence of him who called you out of darkness into his marvelous light:",
+          "explainer": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession. Four Old Testament titles originally applied to Israel are now applied to the church. The chosen-exile community has an astonishing identity: royal, priestly, holy, and possessed by God himself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 19:5-6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "who in time past were no people, but now are God’s people, who had not obtained mercy, but now have obtained mercy.",
+          "explainer": "Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy. Peter quotes Hosea, originally about Israel's restoration, and applies it to Gentile converts who had no covenant relationship with God but now do.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Hosea 2:23",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Beloved, I beg you as foreigners and pilgrims, to abstain from fleshly lusts, which war against the soul;",
+          "explainer": "Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. The exile metaphor returns: as foreigners in a hostile land, they must not adopt the local customs that destroy the soul.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "having good behavior among the nations, so in that of which they speak against you as evildoers, they may by your good works, which they see, glorify God in the day of visitation.",
+          "explainer": "Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation. The strategy for dealing with slander is not self-defense but visible goodness. Good works are the best apologetic.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Christians were accused of atheism (they rejected the gods), cannibalism (misunderstanding the Eucharist), and incest (calling each other 'brother' and 'sister'). Peter's response: live so visibly well that the accusations collapse under the weight of evidence.",
+            "now": "The principle that consistent good conduct is the most powerful response to hostile misrepresentation remains relevant for any community facing unfair criticism."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme;",
+          "explainer": "Submit to every human institution for the Lord's sake, whether to the emperor as supreme or to governors as sent by him. Peter does not endorse the empire's values but instructs submission to its structures 'for the Lord's sake' -- as a witness, not as agreement.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Submission to authorities', 'explanation': \"Peter writes during a time when Christian loyalty was already suspect. Refusal to participate in the imperial cult raised questions about political reliability. Peter's instruction to submit to governing authorities was partly strategic -- demonstrating that Christians were not seditious -- and partly theological: God works through imperfect human structures.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "or to governors, as sent by him for vengeance on evildoers and for praise to those who do well.",
+          "explainer": "Governors are sent to punish those who do evil and to praise those who do good. This is the ideal function of government, which Peter affirms even while living under a regime that would soon persecute Christians.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men:",
+          "explainer": "For this is the will of God, that by doing good you should put to silence the ignorance of foolish people. Good behavior silences slander. The 'ignorance' of the critics can be overcome not by argument but by undeniable evidence of transformed lives.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "as free, and not using your freedom for a cloak of wickedness, but as bondservants of God.",
+          "explainer": "Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God. Freedom and servanthood are not contradictions; true freedom finds its expression in willing service to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Honor all men. Love the brotherhood. Fear God. Honor the king.",
+          "explainer": "Honor everyone. Love the brotherhood. Fear God. Honor the emperor. Four brief commands that define the believer's social posture: respect for all, deep love for fellow believers, reverent awe before God, and appropriate honor for political authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Servants, be in subjection to your masters with all fear; not only to the good and gentle, but also to the wicked.",
+          "explainer": "Servants, submit to your masters with all respect, not only to the good and gentle but also to the unjust. Peter addresses household slaves -- a significant portion of the early church. His instruction to submit even to unjust masters is troubling to modern ears but must be read in its context.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Household slavery', 'explanation': \"Roman household slavery was not identical to chattel slavery in the Americas, though it was still dehumanizing. Household slaves had some legal protections and could sometimes earn their freedom. Peter does not endorse slavery but addresses the reality of his readers' situation, offering theological meaning within an unjust system.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "For it is commendable if someone endures pain, suffering unjustly, because of conscience toward God.",
+          "explainer": "For this is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly. Suffering unjustly while maintaining awareness of God is 'grace' -- an act that reflects divine character. This reframes unjust suffering from meaningless cruelty to spiritual achievement.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "For what glory is it if, when you sin, you patiently endure beating? But if, when you do well, you patiently endure suffering, this is commendable with God.",
+          "explainer": "What credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God. Suffering for wrongdoing is just punishment. Suffering for doing right is something extraordinary -- it catches God's attention.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "For to this you were called, because Christ also suffered for us, leaving you an example, that you should follow his steps,",
+          "explainer": "For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps. Suffering is not an interruption of the Christian calling; it is part of the calling. Christ's suffering is both the means of salvation and the pattern for living.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a society where suffering was seen as divine punishment or cosmic indifference, the claim that suffering could be a calling and that it followed Christ's own pattern was radical.",
+            "now": "The theology of redemptive suffering remains one of Christianity's most powerful and most controversial teachings. It offers meaning in suffering while risking the romanticization of oppression."
+          }
+        },
+        {
+          "number": 22,
+          "text": "who did not sin, “neither was deceit found in his mouth.”",
+          "explainer": "He committed no sin, neither was deceit found in his mouth. Peter quotes Isaiah 53, the Suffering Servant passage, and applies it directly to Christ. The one who suffered was sinless -- his suffering was entirely undeserved.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 53:9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Who, when he was cursed, didn’t curse back. When he suffered, didn’t threaten, but committed himself to him who judges righteously.",
+          "explainer": "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly. Christ's response to injustice was not retaliation or threats but trust in God's ultimate justice. This is the example believers are called to follow.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness; by whose stripes you were healed.",
+          "explainer": "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed. Peter combines the imagery of Isaiah 53 (bearing sins, healing through wounds) with the language of the cross ('the tree'). The cross is both punishment (for sin) and medicine (for the soul).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 53:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "For you were going astray like sheep; but now have returned to the Shepherd and Overseer of your souls.",
+          "explainer": "For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls. The sheep-shepherd imagery from Isaiah 53:6 is completed. They were lost; now they are found. Christ is both their shepherd (who guides and feeds) and their overseer (who watches and protects).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Chapter 3 continues the household code with instructions for wives and husbands, then broadens to address the whole community: be unified, compassionate, humble. Peter addresses the blessing of suffering for righteousness, Christ's proclamation to imprisoned spirits (one of the most mysterious passages in the New Testament), and the connection between baptism and salvation. The chapter grounds confident living in the reality of Christ's resurrection and ascension.",
+        "themes": [
+          "Household relationships: wives and husbands",
+          "Suffering for righteousness rather than evil",
+          "Christ's proclamation to imprisoned spirits",
+          "Baptism as an appeal to God",
+          "Christ's authority over all powers"
+        ],
+        "contextInBook": "Chapter 3 completes the household code begun in 2:18 and then transitions back to the theme of suffering for righteousness. The mysterious passage about Christ preaching to spirits in prison (3:18-22) connects Christ's suffering, resurrection, and cosmic authority."
+      },
+      "wordStudies": [
+        {
+          "id": "appeal_to_god",
+          "greek": "Greek: eperotema eis theon",
+          "transliteration": "Appeal to God",
+          "translatedAs": "The word eperotema can mean 'pledge,' 'appeal,' or",
+          "meaning": "The word eperotema can mean 'pledge,' 'appeal,' or 'answer.' Baptism is described as an 'appeal to God for a good conscience' -- not a magical ritual but a conscious commitment to live with integrity before God.",
+          "significance": "3:21"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word;",
+          "explainer": "Wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives. Peter addresses a specific situation: Christian women married to non-Christian men. Their witness is not through preaching but through the quality of their lives.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Christian wives with non-believing husbands', 'explanation': \"In the Greco-Roman world, wives were generally expected to follow their husband's religion. A woman who converted to Christianity while her husband remained pagan was in a socially precarious position. Peter's advice is strategic: win them through conduct, not confrontation, because a wife who openly challenged her husband's authority could face severe consequences.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "seeing your pure behavior in fear.",
+          "explainer": "When they see your respectful and pure conduct. The 'winning without a word' strategy depends on visible character: purity and respect that are so evident they create curiosity about their source.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Let your beauty be not just the outward adorning of braiding the hair, and of wearing jewels of gold, or of putting on fine clothing;",
+          "explainer": "Do not let your adorning be external -- braiding of hair, putting on gold jewelry, or the clothing you wear. Peter is not banning all jewelry or hairstyling; he is saying that character, not appearance, should be the source of a woman's influence.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'External adornment', 'explanation': \"Elaborate hairstyles, gold jewelry, and expensive clothing were markers of wealth and social status in the Roman world. Roman moralists (both pagan and Christian) criticized women who used external adornment as a substitute for inner virtue. Peter's concern is the priority of character over appearance, not a blanket ban on looking nice.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "but in the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is in the sight of God very precious.",
+          "explainer": "Let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious. 'Gentle and quiet' does not mean passive or silent; it describes an inner stability that is not shaken by external circumstances. This inner beauty is 'imperishable' -- it outlasts physical attractiveness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For this is how the holy women before, who hoped in God also adorned themselves, being in subjection to their own husbands:",
+          "explainer": "For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands. Peter grounds his instruction in the example of Old Testament women, particularly Sarah.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "as Sarah obeyed Abraham, calling him lord, whose children you now are, if you do well, and are not put in fear by any terror.",
+          "explainer": "As Sarah obeyed Abraham, calling him lord. You are her children if you do good and do not fear anything that is frightening. The key phrase is 'do not fear' -- these women are encouraged to be courageous, not timid. They are Sarah's daughters through bravery, not through passivity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "You husbands, in the same way, live with your wives according to knowledge, giving honor to the woman, as to the weaker vessel, as being also joint heirs of the grace of life; that your prayers may not be hindered.",
+          "explainer": "Husbands, live with your wives in an understanding way, showing honor to the woman as the weaker vessel, since they are heirs with you of the grace of life, so that your prayers may not be hindered. The instruction to husbands is brief but powerful: understand your wife, honor her, and recognize that she is your equal heir of God's grace. Failure to do this will hinder your prayers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a patriarchal culture where women had few legal rights, Peter's instruction to honor wives as 'fellow heirs of the grace of life' was revolutionary. Spiritual equality between husband and wife was a radical concept.",
+            "now": "The phrase 'weaker vessel' is often debated. In context, it likely refers to physical vulnerability, not intellectual or spiritual inferiority. The point is that physical difference should produce honor, not exploitation."
+          }
+        },
+        {
+          "number": 8,
+          "text": "Finally, be all like-minded, compassionate, loving as brothers, tender hearted, courteous,",
+          "explainer": "Finally, all of you be like-minded, sympathetic, loving as brothers, compassionate, and humble. Five qualities for the whole community: unity, empathy, family love, tenderness, and humility. These are the social virtues that hold a persecuted community together.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "not rendering evil for evil, or insult for insult; but instead blessing; knowing that to this were you called, that you may inherit a blessing.",
+          "explainer": "Do not repay evil for evil or insult for insult, but on the contrary, bless, for to this you were called, that you may obtain a blessing. The refusal to retaliate is not weakness but calling. Blessing those who curse you is a supernatural response that breaks the cycle of hostility.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 12:17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For,\n“He who would love life,\nand see good days,\nlet him keep his tongue from evil,\nand his lips from speaking deceit.",
+          "explainer": "Whoever desires to love life and see good days, let him keep his tongue from evil and his lips from speaking deceit. Peter quotes Psalm 34 to show that the good life depends on controlling speech and pursuing peace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 34:12-16",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Let him turn away from evil, and do good.\nLet him seek peace, and pursue it.",
+          "explainer": "Let him turn away from evil and do good; let him seek peace and pursue it. Peace is not passive; it must be actively sought and energetically pursued.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For the eyes of the Lord are on the righteous,\nand his ears open to their prayer;\nbut the face of the Lord is against those who do evil.”",
+          "explainer": "For the eyes of the Lord are on the righteous, and his ears are open to their prayer. But the face of the Lord is against those who do evil. God's attention is not neutral; he actively watches over the righteous and opposes evildoers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Now who is he who will harm you, if you become imitators of that which is good?",
+          "explainer": "Now who is there to harm you if you are zealous for what is good? In most cases, doing good protects you from harm. People generally do not attack those who are clearly beneficial to society.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”",
+          "explainer": "But even if you should suffer for righteousness' sake, you will be blessed. Peter acknowledges the exception: sometimes doing good still results in suffering. But even then, suffering for righteousness brings blessing, not curse.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 5:10",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "But sanctify the Lord God in your hearts; and always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear:",
+          "explainer": "But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect. This verse has become the charter for Christian apologetics: be ready to explain your hope, but do it with gentleness, not aggression. The defense is prompted by the quality of life that makes people ask questions.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the context of social persecution, 'giving a reason for your hope' may have had legal overtones -- defending yourself before authorities who questioned your loyalty. The instruction to do so with gentleness and respect prevented confrontation.",
+            "now": "This verse is foundational for Christian apologetics. It assumes that a well-lived life creates curiosity, and that believers should be intellectually prepared to explain why they hope. The combination of intellectual readiness and relational gentleness is the model."
+          }
+        },
+        {
+          "number": 16,
+          "text": "having a good conscience; that, while you are spoken against as evildoers, they may be disappointed who curse your good way of life in Christ.",
+          "explainer": "Having a good conscience, so that when you are slandered, those who revile your good behavior in Christ may be put to shame. A clear conscience backed by visible good behavior is the most powerful defense against false accusation. Eventually, the accusers will be ashamed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "For it is better, if it is God’s will, that you suffer for doing well than for doing evil.",
+          "explainer": "For it is better to suffer for doing good, if that should be God's will, than for doing evil. If suffering must come, let it come for the right reasons. Suffering for goodness has meaning; suffering for wrongdoing is just punishment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Because Christ also suffered for sins once, the righteous for the unrighteous, that he might bring you to God; being put to death in the flesh, but made alive in the spirit;",
+          "explainer": "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit. Christ's suffering was substitutionary (the righteous for the unrighteous), purposeful (to bring us to God), and victorious (death in flesh, life in spirit).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "in which he also went and preached to the spirits in prison,",
+          "explainer": "In which he went and proclaimed to the spirits in prison. This is one of the most debated verses in the New Testament. Who are these spirits? When did Christ preach to them? The most common interpretations involve Christ proclaiming victory to fallen angels (those from Genesis 6/1 Enoch) or to the dead from Noah's era.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Spirits in prison', 'explanation': \"The interpretation depends on identifying the 'spirits.' Options include: (1) fallen angels from Genesis 6, imprisoned in chains (as in Jude 6 and 2 Peter 2:4); (2) the dead from Noah's generation; (3) all the righteous dead in Sheol/Hades. The 'proclamation' may be a victory announcement rather than an evangelistic sermon. This passage influenced the credal statement 'he descended into hell.'\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "who before were disobedient, when God waited patiently in the days of Noah, while the ship was being built. In it, few, that is, eight souls, were saved through water.",
+          "explainer": "Because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. The connection to Noah narrows the identity of the spirits to those who rejected God in Noah's day. Eight people were saved through the flood waters -- a tiny remnant preserved through judgment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 6-8",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "2 Peter 2:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "This is a symbol of baptism, which now saves you—not the putting away of the filth of the flesh, but the answer of a good conscience toward God, through the resurrection of Jesus Christ,",
+          "explainer": "Baptism, which corresponds to this, now saves you -- not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ. Peter connects baptism to the flood: as water saved Noah (by carrying the ark), water in baptism saves believers. But he immediately clarifies: not the physical washing but the spiritual commitment it represents.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Baptism in the early church was a public act that could have serious social consequences -- declaring loyalty to Christ meant declaring independence from pagan society. The 'appeal to God for a good conscience' carried real weight.",
+            "now": "This verse is central to debates about baptism's role in salvation. Peter affirms that baptism 'saves' while specifying that its power comes not from the water itself but from the resurrection of Christ and the believer's commitment to God."
+          }
+        },
+        {
+          "number": 22,
+          "text": "who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.",
+          "explainer": "Jesus Christ has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him. The chapter ends with a cosmic vision: the Christ who suffered is now enthroned in absolute authority over every spiritual power. Suffering led to glory; rejection led to exaltation. This is the pattern Peter's readers can expect to follow.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Chapter 4 calls believers to arm themselves with the same mindset as Christ: readiness to suffer. Those who suffer in the flesh are done with sin. Peter warns that former pagan friends will be surprised and hostile when believers stop participating in their lifestyle. He encourages the use of spiritual gifts for mutual service and then addresses the 'fiery trial' directly: do not be surprised by it, but rejoice in sharing Christ's sufferings. Judgment begins with the household of God, and if it is hard for the righteous to be saved, what about the ungodly?",
+        "themes": [
+          "Arming yourself with Christ's mindset",
+          "Living for God vs. former passions",
+          "Spiritual gifts for mutual service",
+          "The fiery trial as sharing Christ's sufferings",
+          "Judgment begins with God's household"
+        ],
+        "contextInBook": "Chapter 4 intensifies the suffering theme. The 'fiery trial' mentioned in 4:12 suggests that persecution has escalated from social ostracism to more severe forms. Peter's response remains consistent: suffering for Christ is not a sign of God's absence but of his presence."
+      },
+      "wordStudies": [
+        {
+          "id": "fiery_trial",
+          "greek": "Greek: pyrosis",
+          "transliteration": "Fiery trial",
+          "translatedAs": "A burning, a smelting process",
+          "meaning": "A burning, a smelting process. The word is used for the refining of metals by fire. Peter uses it both for the literal persecution his readers face and for the spiritual purpose it serves -- purification. The trial is 'fiery' because it is intense, consuming, and transformative.",
+          "significance": "4:12"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin;",
+          "explainer": "Since Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin. 'Arming' yourself with Christ's mindset means accepting that suffering is part of the mission, not an interruption of it. Suffering in the flesh has a purifying effect -- it breaks the power of sinful desires.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God.",
+          "explainer": "So as to live for the rest of the time in the flesh no longer for human passions but for the will of God. The before-and-after contrast: the old life was driven by human desires; the new life is driven by God's purpose. The transition from one to the other often passes through suffering.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries.",
+          "explainer": "The time that is past is sufficient for doing what the Gentiles want to do -- living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry. Peter lists the typical social activities of pagan culture that new converts had abandoned. These were not just private vices but public, communal events tied to civic and religious life.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Pagan social life', 'explanation': 'Most social life in the Greco-Roman world revolved around religious festivals, trade guild banquets, and public celebrations -- all of which involved sacrifice to pagan gods, heavy drinking, and sexual license. Withdrawing from these events meant withdrawing from virtually all social life, which is why Christians seemed so anti-social to their neighbors.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "They think it is strange that you don’t run with them into the same excess of riot, blaspheming:",
+          "explainer": "With respect to this they are surprised when you do not join them in the same flood of debauchery, and they malign you. Former friends and associates react with hostility when believers stop participating. The word 'flood' (anachusis -- a pouring out) suggests the excessive, uncontrolled nature of the lifestyle they left behind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "who will give account to him who is ready to judge the living and the dead.",
+          "explainer": "They will give account to him who is ready to judge the living and the dead. The slanderers will face divine judgment. God judges both the living and the dead -- no one escapes accountability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit.",
+          "explainer": "For this is why the gospel was preached even to those who are dead, that though judged in the flesh the way people are, they might live in the spirit the way God does. Another difficult verse. 'Those who are dead' likely refers to Christians who heard the gospel, believed, and have since died. Even though they suffered physical death (as all humans do), they live spiritually before God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Some early Christians worried about fellow believers who had died before Christ's return. Had they missed out? Peter assures that the gospel was effective for them too -- physical death did not cancel their spiritual life.",
+            "now": "This verse addresses the universal human anxiety about death. For believers who have lost loved ones who professed faith, it offers assurance: death does not end the life that the gospel creates."
+          }
+        },
+        {
+          "number": 7,
+          "text": "But the end of all things is near. Therefore be of sound mind, self-controlled, and sober in prayer.",
+          "explainer": "The end of all things is at hand; therefore be self-controlled and sober-minded for the sake of your prayers. The eschatological urgency drives practical instruction: the approaching end demands mental discipline and focused prayer, not panic or hedonism.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "And above all things be earnest in your love among yourselves, for love covers a multitude of sins.",
+          "explainer": "Above all, keep loving one another earnestly, since love covers a multitude of sins. Love is the top priority. The phrase 'love covers a multitude of sins' means that love creates an environment of grace where failures can be forgiven rather than catalogued.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 10:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Be hospitable to one another without grumbling.",
+          "explainer": "Show hospitality to one another without grumbling. In a world where Christians depended on each other for support and traveling believers needed housing, hospitality was not optional. The 'without grumbling' recognizes that it was genuinely costly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms.",
+          "explainer": "As each has received a gift, use it to serve one another, as good stewards of God's varied grace. Every believer has received a spiritual gift (charisma), and it is meant for service, not self-aggrandizement. Gifts are entrusted, not owned -- believers are stewards, not proprietors.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In small house churches, every member's contribution was essential. There was no professional clergy to handle everything -- spiritual gifts were the community's operating system.",
+            "now": "The principle that every believer has a spiritual gift meant for communal service continues to challenge churches where ministry is left to paid professionals and the congregation is passive."
+          }
+        },
+        {
+          "number": 11,
+          "text": "If anyone speaks, let it be as it were the very words of God. If anyone serves, let it be as of the strength which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.",
+          "explainer": "Whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies -- in order that in everything God may be glorified through Jesus Christ. Two broad categories of gifts: speaking and serving. Both are to be exercised as divine activities -- speaking God's words, serving with God's power. The purpose is always God's glory, never personal fame.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Beloved, don’t be astonished at the fiery trial which has come upon you, to test you, as though a strange thing happened to you.",
+          "explainer": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. The 'fiery trial' is not an anomaly but an expected part of the Christian experience. Being surprised by suffering is a sign of theological naivety -- Christ promised persecution to his followers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But because you are partakers of Christ’s sufferings, rejoice; that at the revelation of his glory you also may rejoice with exceeding joy.",
+          "explainer": "But rejoice insofar as you share Christ's sufferings, that you may also rejoice and be glad when his glory is revealed. Suffering now, glory later -- the same pattern Christ experienced. Sharing his sufferings is the prerequisite for sharing his glory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 8:17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "If you are insulted for the name of Christ, you are blessed; because the Spirit of glory and of God rests on you. On their part he is blasphemed, but on your part he is glorified.",
+          "explainer": "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you. Being insulted for Christ's name is not shame but blessing -- it attracts the special presence of God's Spirit. The Spirit of glory rests on the persecuted, not the comfortable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For let none of you suffer as a murderer, or a thief, or an evil doer, or a meddler in other men’s matters.",
+          "explainer": "But let none of you suffer as a murderer, a thief, an evildoer, or as a meddler. The suffering that brings blessing is suffering for Christ, not suffering for wrongdoing. Peter adds 'meddler' (allotrioepiskopos -- literally 'overseer of others' affairs') alongside murder and theft, suggesting that busybody behavior was a real problem.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "But if one of you suffers for being a Christian, let him not be ashamed; but let him glorify God in this matter.",
+          "explainer": "Yet if anyone suffers as a Christian, let him not be ashamed but let him glorify God in that name. This is one of only three uses of the word 'Christian' in the New Testament. The name was originally an outsider's label, possibly derogatory. Peter reclaims it: suffering under that name is an occasion for glorifying God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "For the time has come for judgment to begin with the household of God. If it begins first with us, what will happen to those who don’t obey the Good News of God?",
+          "explainer": "For it is time for judgment to begin at the household of God; and if it begins with us, what will be the outcome for those who do not obey the gospel of God? Judgment starts with God's own people. If even the righteous face refining fire, the unrighteous face something far worse.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Ezekiel 9:6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "“If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?”",
+          "explainer": "If the righteous person is scarcely saved, what will become of the ungodly and the sinner? Peter quotes Proverbs to intensify the warning: if salvation is demanding even for the righteous, what hope is there for those who refuse God's grace entirely?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 11:31",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.",
+          "explainer": "Therefore let those who suffer according to God's will entrust their souls to a faithful Creator while doing good. The chapter ends with a simple, powerful instruction: trust God and keep doing good. When suffering is unavoidable, the response is not despair or retaliation but trust in the Creator's faithfulness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "The final chapter addresses church leadership (elders should shepherd willingly, not for money or power), calls the whole community to humility, warns about the devil who prowls like a roaring lion, and closes with greetings from 'Babylon' (Rome) and a prayer for grace. Peter's last word is peace -- offered to a community under fire.",
+        "themes": [
+          "Shepherding the flock of God",
+          "Humility before God and one another",
+          "Resisting the devil",
+          "The God of all grace",
+          "Final greetings from Babylon/Rome"
+        ],
+        "contextInBook": "Chapter 5 brings the letter to its practical conclusion. After the theology of suffering and hope in chapters 1-4, Peter addresses the leaders who must guide the community through these trials and the attitude (humility) that will sustain everyone."
+      },
+      "wordStudies": [
+        {
+          "id": "shepherd",
+          "greek": "Greek: poimaino",
+          "transliteration": "Shepherd",
+          "translatedAs": "To tend as a shepherd tends sheep -- feeding, guid",
+          "meaning": "To tend as a shepherd tends sheep -- feeding, guiding, protecting. Peter uses Jesus' own commission to him ('Feed my sheep,' John 21:15-17) as the model for church leadership. The shepherd does not own the sheep; they belong to the 'Chief Shepherd' (Christ).",
+          "significance": "5:2"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Therefore I exhort the elders among you, as a fellow elder, and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed.",
+          "explainer": "I exhort the elders among you as a fellow elder and a witness of the sufferings of Christ and a partaker of the glory that is going to be revealed. Peter does not pull rank as an apostle but addresses elders as a 'fellow elder' -- one of them. His authority comes not from title but from experience: he witnessed Christ's suffering and anticipates sharing his glory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily, not for dishonest gain, but willingly;",
+          "explainer": "Shepherd the flock of God that is among you, exercising oversight, not under compulsion but willingly, as God would have you; not for shameful gain, but eagerly. Three contrasts define good shepherding: willing (not forced), eager (not greedy), and exemplary (not domineering). Leadership is a calling to be embraced, not a burden to be endured or a position to be exploited.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 21:15-17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "In the early church, elders were unpaid leaders drawn from the community. The temptation to use the position for personal gain was real, especially when hosting the community's resources and finances.",
+            "now": "Peter's three warnings -- against reluctance, greed, and authoritarianism -- address the three most common corruptions of religious leadership in every era."
+          }
+        },
+        {
+          "number": 3,
+          "text": "neither as lording it over those entrusted to you, but making yourselves examples to the flock.",
+          "explainer": "Not domineering over those in your charge, but being examples to the flock. The word 'domineering' (katakyrieuo) is the same word Jesus used in Mark 10:42 for how Gentile rulers lord it over their subjects. Church leadership must be categorically different from political power.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.",
+          "explainer": "And when the Chief Shepherd appears, you will receive the unfading crown of glory. The elders are under-shepherds; Christ is the Chief Shepherd. Their reward is not earthly compensation but an 'unfading crown' -- echoing the 'unfading inheritance' of 1:4. The crown is glory, not gold.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility, to subject yourselves to one another; for “God resists the proud, but gives grace to the humble.”",
+          "explainer": "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for 'God opposes the proud but gives grace to the humble.' The command to humility is universal: young toward old, all toward each other. The Proverbs quotation makes the stakes clear -- God actively resists the proud.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 3:34",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "James 4:6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time;",
+          "explainer": "Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you. Humility is not self-deprecation but willing submission to God's timing. The 'mighty hand of God' refers to his sovereign control over events, including the timing of deliverance and exaltation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "For a persecuted community, the promise of future exaltation required trust that God's timing was trustworthy even when circumstances were terrible.",
+            "now": "The instruction to 'humble yourselves under God's mighty hand' challenges every impulse to force outcomes, manipulate situations, or refuse to wait for God's timing."
+          }
+        },
+        {
+          "number": 7,
+          "text": "casting all your worries on him, because he cares for you.",
+          "explainer": "Cast all your anxieties on him, because he cares for you. One of the most beloved verses in the letter. Anxiety is not denied or dismissed but redirected -- cast it on God, because he is actively and personally concerned about you. The care is not abstract but specific: he cares for you.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 55:22",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour.",
+          "explainer": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. The devil is not a cartoon figure but a real predator. Lions roar to terrify prey into panicking and running into an ambush. The devil uses fear as a weapon -- persecution is designed to make believers panic and abandon their faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.",
+          "explainer": "Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world. Resistance to the devil is not exorcism but faithfulness under pressure. And the suffering is not unique -- the whole Christian family worldwide shares the same experience. They are not alone.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you.",
+          "explainer": "And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you. Four powerful verbs describe what God will do after the suffering passes: restore (repair what was broken), confirm (make solid), strengthen (add power), and establish (set on a firm foundation). The suffering is temporary; God's restoration is permanent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "For communities in active persecution, the promise that suffering would last 'a little while' and then God himself would restore them was a lifeline of hope.",
+            "now": "This verse has been a source of comfort for Christians in every form of suffering. Its power lies in the combination of honesty about present pain and confidence in God's future restoration."
+          }
+        },
+        {
+          "number": 11,
+          "text": "To him be the glory and the power forever and ever. Amen.",
+          "explainer": "To him be the dominion forever and ever. Amen. A brief doxology affirming God's eternal sovereignty. Whatever powers currently persecute the church, God's dominion outlasts them all.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting, and testifying that this is the true grace of God in which you stand.",
+          "explainer": "By Silvanus, a faithful brother as I regard him, I have written briefly to you, exhorting and declaring that this is the true grace of God. Stand firm in it. Silvanus (Silas) is identified as the secretary and likely letter carrier. Peter summarizes his entire letter in one phrase: 'This is the true grace of God -- stand firm in it.'",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Silvanus",
+              "personId": "silvanus",
+              "wordId": null,
+              "startIndex": 8
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "She who is in Babylon, chosen together with you, greets you; and so does Mark, my son.",
+          "explainer": "She who is at Babylon, who is likewise chosen, sends you greetings, and so does Mark my son. 'Babylon' is almost certainly code for Rome. 'She who is chosen' refers to the church in Rome. Mark is John Mark, author of the Gospel of Mark, whom Peter considers a spiritual son.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Greet one another with a kiss of love. Peace be to you all who are in Christ Jesus. Amen.",
+          "explainer": "Greet one another with the kiss of love. Peace to all of you who are in Christ. The letter ends with an instruction for physical affection (the holy kiss was a standard Christian greeting) and a benediction of peace. For a community under fire, peace is the last and most needed word.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

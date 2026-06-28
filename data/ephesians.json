@@ -1,0 +1,1859 @@
+{
+  "book": {
+    "id": "ephesians",
+    "name": "Ephesians",
+    "testament": "New Testament",
+    "author": "Paul the Apostle (debated; possibly a close associate writing in Paul's name)",
+    "dateWritten": "c. 60-62 AD",
+    "writtenFrom": "Rome, during Paul's first imprisonment",
+    "writtenTo": "The church in Ephesus and surrounding churches in Asia Minor",
+    "chapterCount": 6,
+    "verseCount": 155,
+    "explainer": {
+      "overview": "Ephesians is the most majestic and cosmic of Paul's letters. While Galatians is a battlefield and Corinthians a courtroom, Ephesians is a cathedral. Paul soars to theological heights describing God's eternal plan to unite all things in Christ -- things in heaven and on earth. The letter divides cleanly: chapters 1-3 describe what God has done (spiritual blessings, salvation by grace, the mystery of Jew-Gentile unity in Christ); chapters 4-6 describe how believers should live in response (unity, holiness, household relationships, and spiritual warfare). The language is elevated, the sentences are long, and the vision is breathtaking.",
+      "historicalContext": "Paul writes from prison in Rome (c. 60-62 AD). Ephesus was the capital of the Roman province of Asia and one of the largest cities in the empire. Paul spent over two years there (Acts 19) and had deep relationships with the church. Some scholars believe the letter was circular -- sent to multiple churches in the region, not just Ephesus. The oldest manuscripts omit 'in Ephesus' from 1:1, supporting this theory.",
+      "whyItMatters": "Ephesians presents the most expansive vision of the church in the New Testament. It is not a local congregation but a cosmic reality -- the body of Christ, the fullness of him who fills all in all. The letter's teaching on grace ('by grace you have been saved through faith, and this is not your own doing') is the clearest summary of the gospel in Paul's letters. Its vision of Jew-Gentile unity, household ethics, and spiritual warfare continue to shape Christian theology and practice.",
+      "keyThemes": [
+        "Spiritual blessings in Christ",
+        "Salvation by grace through faith",
+        "The mystery of the church: Jew and Gentile united",
+        "The body of Christ",
+        "Walking worthy of the calling",
+        "The armor of God"
+      ]
+    },
+    "people": [
+      {
+        "id": "paul",
+        "name": "Paul the Apostle",
+        "role": "Author, apostle to the Gentiles, prisoner for Christ",
+        "bio": "Paul writes as 'a prisoner for Christ Jesus' (3:1), giving the letter a weight that comes from someone who is suffering for the very truths he proclaims. His vision of God's cosmic plan contrasts sharply with his actual circumstances -- chained to a Roman guard, awaiting trial. The letter's triumphant theology emerges from a prison cell.",
+        "culturalContext": "Paul's imprisonment was not incarceration as we know it but a form of house arrest where he could receive visitors and write letters. Still, the loss of freedom was real, and the outcome of his trial was uncertain."
+      }
+    ],
+    "places": [
+      {
+        "id": "ephesus",
+        "name": "Ephesus",
+        "description": "The fourth-largest city in the Roman Empire and the capital of the province of Asia. It was home to the Temple of Artemis (one of the Seven Wonders of the Ancient World) and a major center of commerce, religion, and culture.",
+        "culturalSignificance": "Ephesus was a hub of pagan worship, magic arts (Acts 19:19), and emperor worship. The church there existed in a context of intense spiritual competition. Paul's emphasis on cosmic spiritual warfare and the power of Christ over 'every ruler, authority, power, and dominion' would have resonated powerfully in this setting.",
+        "modernLocation": "Near Selcuk in western Turkey. Extensive archaeological ruins remain, including the Great Theater where the riot against Paul took place (Acts 19).",
+        "latitude": 37.9414,
+        "longitude": 27.3419
+      },
+      {
+        "id": "rome",
+        "name": "Rome",
+        "description": "The imperial capital from which Paul writes as a prisoner. His imprisonment gave him time to reflect on the cosmic scope of God's plan.",
+        "culturalSignificance": "Rome was the center of worldly power. Paul's claim that Christ is seated 'far above all rule and authority' was a direct challenge to Roman imperial ideology.",
+        "modernLocation": "Rome, Italy.",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 52-55 AD",
+        "event": "Paul establishes the church in Ephesus during his third missionary journey",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 55 AD",
+        "event": "Riot of the silversmiths in Ephesus (Acts 19:23-41)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 57 AD",
+        "event": "Paul's farewell to the Ephesian elders at Miletus (Acts 20:17-38)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60 AD",
+        "event": "Paul arrives in Rome as a prisoner",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Paul writes Ephesians from Roman imprisonment",
+        "isThisBook": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Paul opens with the longest sentence in the Greek New Testament (verses 3-14) -- a single, breathless outpouring of praise for God's blessings in Christ. God chose believers before the foundation of the world, predestined them for adoption, redeemed them through Christ's blood, and sealed them with the Holy Spirit as a guarantee of their inheritance. Paul then prays that the Ephesians would grasp the immensity of what God has done: raising Christ from the dead and seating him far above all authority.",
+        "themes": [
+          "Chosen before the foundation of the world",
+          "Predestination and adoption",
+          "Redemption through Christ's blood",
+          "The mystery of God's will",
+          "The Holy Spirit as seal and guarantee",
+          "Christ exalted above all powers"
+        ],
+        "contextInBook": "This chapter is the theological foundation for everything that follows. Every blessing Paul describes flows from God's initiative. The prayer in verses 15-23 asks that the Ephesians would actually comprehend what they already have -- the same power that raised Christ from the dead is at work in them."
+      },
+      "wordStudies": [
+        {
+          "id": "blessed",
+          "greek": "Greek: eulogetos / eulogeo",
+          "transliteration": "Blessed",
+          "translatedAs": "Two related words: God is 'blessed' (praised, eulo",
+          "meaning": "Two related words: God is 'blessed' (praised, eulogetos) and has 'blessed' us (eulogeo, bestowed benefits). The same root gives us 'eulogy.' God is praised because he has bestowed every spiritual benefit.",
+          "significance": "1:3"
+        },
+        {
+          "id": "mystery",
+          "greek": "Greek: mysterion",
+          "transliteration": "Mystery",
+          "translatedAs": "Not a puzzle to be solved but a divine secret now ",
+          "meaning": "Not a puzzle to be solved but a divine secret now revealed. In Paul's usage, the 'mystery' is God's plan to unite Jews and Gentiles in Christ -- something hidden for ages but now made known through the gospel.",
+          "significance": "1:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:",
+          "explainer": "Paul, an apostle of Christ Jesus by the will of God, to the saints who are in Ephesus and are faithful in Christ Jesus. Some ancient manuscripts omit 'in Ephesus,' suggesting this was a circular letter for multiple churches in Asia Minor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "explainer": "Grace and peace from God our Father and the Lord Jesus Christ. The standard Pauline greeting -- grace as the source, peace as the result.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ;",
+          "explainer": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places. This verse launches the longest sentence in the Greek New Testament (vv. 3-14). 'Every spiritual blessing' -- nothing is held back. The blessings are already given, not promised for the future.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The phrase 'in the heavenly places' locates the blessings in the spiritual realm -- they are real but not yet fully visible. This was important for Christians who saw no material benefit from their faith.",
+            "now": "The idea that believers already possess every spiritual blessing challenges both materialism (which says real blessings are physical) and deferred-hope theology (which says all blessings are future)."
+          }
+        },
+        {
+          "number": 4,
+          "text": "even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love;",
+          "explainer": "God chose us in Christ before the foundation of the world, that we should be holy and blameless before him. Election happens before creation. The purpose of being chosen is not privilege but holiness. God did not choose us because we were holy; he chose us to make us holy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 8:29-30",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,",
+          "explainer": "In love he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will. Predestination is toward adoption, not condemnation. The destination is a family, not a courtroom.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,",
+          "explainer": "To the praise of his glorious grace, with which he has blessed us in the Beloved. The phrase 'the Beloved' as a title for Christ emphasizes the intimate relationship between Father and Son. Believers are blessed because they are 'in' the one whom God loves.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,",
+          "explainer": "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace. Redemption means being bought out of slavery. The price was Christ's blood. The measure of grace is not its existence but its riches -- God gives extravagantly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Colossians 1:14",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "which he made to abound toward us in all wisdom and prudence,",
+          "explainer": "Grace that God lavished upon us with all wisdom and insight. 'Lavished' -- grace is not rationed but poured out abundantly. God does not give grudgingly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "making known to us the mystery of his will, according to his good pleasure which he purposed in him",
+          "explainer": "He made known to us the mystery of his will, according to his purpose which he set forth in Christ. The 'mystery' is revealed: God's eternal plan to unite all things in Christ. What was hidden is now disclosed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the Greco-Roman world, 'mystery religions' offered secret knowledge to initiates. Paul subverts the concept: God's mystery is not exclusive but publicly revealed in the gospel.",
+            "now": "The idea that God has a plan for all of history -- not just individual salvation but cosmic reconciliation -- gives Christianity a narrative scope unmatched by most philosophies."
+          }
+        },
+        {
+          "number": 10,
+          "text": "to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens, and the things on the earth, in him;",
+          "explainer": "A plan for the fullness of time, to unite all things in him, things in heaven and things on earth. This is the thesis statement of Ephesians: God's ultimate purpose is the unification of all reality under Christ's headship. The Greek word for 'unite' (anakephalaioo) means to sum up, to bring everything under one head.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "in whom also we were assigned an inheritance, having been foreordained according to the purpose of him who does all things after the counsel of his will;",
+          "explainer": "In him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will. The inheritance is not earned but obtained as a gift. God's purposes are not reactive but planned.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "to the end that we should be to the praise of his glory, we who had before hoped in Christ.",
+          "explainer": "So that we who were the first to hope in Christ might be to the praise of his glory. The 'we' here may refer to Jewish believers who hoped in the Messiah before Gentile believers joined them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,",
+          "explainer": "In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit. The 'you' shifts to Gentile believers. They heard, believed, and were sealed. The Holy Spirit is a seal -- a mark of ownership and authenticity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.",
+          "explainer": "The Holy Spirit is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory. The Spirit is the down payment (arrabon) on the full inheritance. What believers experience now of the Spirit is a taste of the full reality to come.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints,",
+          "explainer": "Paul has heard of the Ephesians' faith in the Lord Jesus and their love toward all the saints. The phrasing suggests some distance between Paul and the recipients, consistent with the circular letter theory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "don’t cease to give thanks for you, making mention of you in my prayers,",
+          "explainer": "Paul does not cease giving thanks for them, remembering them in his prayers. Persistent prayer for other believers is a hallmark of Paul's pastoral practice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him;",
+          "explainer": "Paul prays that the God of our Lord Jesus Christ, the Father of glory, would give them the Spirit of wisdom and of revelation in the knowledge of him. He does not pray for new blessings but for understanding of blessings already given.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,",
+          "explainer": "Paul prays for enlightened eyes of the heart, so they may know the hope to which God has called them, the riches of his glorious inheritance in the saints. 'Eyes of the heart' -- spiritual perception that goes beyond intellectual knowledge to deep, transformative understanding.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Hebrew thought, the 'heart' was the center of the whole person -- intellect, emotion, and will. 'Enlightened eyes of the heart' means a complete transformation of perception.",
+            "now": "This prayer reminds us that spiritual understanding is itself a gift from God, not merely the product of study or effort."
+          }
+        },
+        {
+          "number": 19,
+          "text": "and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might",
+          "explainer": "Paul prays they would know the immeasurable greatness of God's power toward those who believe, according to the working of his great might. Paul piles up four words for power (dynamis, energeia, kratos, ischus) to emphasize that language itself is inadequate to describe God's strength.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "which he worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places,",
+          "explainer": "That power is the same power God worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places. The resurrection and exaltation of Christ are the ultimate demonstrations of divine power -- and that same power is now directed toward believers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 110:1",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "far above all rule, and authority, and power, and dominion, and every name that is named, not only in this age, but also in that which is to come.",
+          "explainer": "Far above all rule, authority, power, dominion, and every name that is named, not only in this age but also in the one to come. Christ's exaltation is above every conceivable power structure -- spiritual, political, cosmic. Paul catalogs every category of authority and puts Christ above them all.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Spiritual powers', 'explanation': \"In the world of Ephesus, people lived in fear of spiritual forces -- angels, demons, astrological powers, magical beings. Paul's list of 'rule, authority, power, dominion' covers every category of supernatural power the Ephesians might fear. Christ is above them all.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "He put all things in subjection under his feet, and gave him to be head over all things for the assembly,",
+          "explainer": "God has put all things under Christ's feet and gave him as head over all things to the church. The universal Christ is given specifically to the church. The cosmic Lord is also the intimate head of his body.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "which is his body, the fullness of him who fills all in all.",
+          "explainer": "The church is his body, the fullness of him who fills all in all. This is one of the most extraordinary claims in the New Testament: the church is the 'fullness' (pleroma) of Christ. Christ fills everything, and the church is the vessel through which he does it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Paul moves from cosmic praise to personal transformation. The Ephesians were dead in their sins, following the world, the devil, and the flesh. But God, rich in mercy, made them alive with Christ. The declaration 'by grace you have been saved through faith' is the clearest summary of the gospel anywhere in Paul. The chapter's second half addresses the ethnic divide: Christ has broken down the wall of hostility between Jew and Gentile, creating one new humanity and one household of God.",
+        "themes": [
+          "Dead in sin, alive in Christ",
+          "By grace through faith",
+          "God's workmanship created for good works",
+          "The wall of hostility demolished",
+          "One new humanity",
+          "Built together as God's temple"
+        ],
+        "contextInBook": "This chapter applies the theology of chapter 1 to the Ephesians' personal experience. They were dead; now they are alive. They were alienated; now they are members of God's household. The movement from death to life and from exclusion to inclusion defines the gospel's scope."
+      },
+      "wordStudies": [
+        {
+          "id": "grace",
+          "greek": "Greek: charis",
+          "transliteration": "Grace",
+          "translatedAs": "Unmerited favor, a free gift",
+          "meaning": "Unmerited favor, a free gift. In Ephesians 2:8-9, Paul makes grace the sole basis of salvation, explicitly excluding human works as a contributing factor. Grace is not a reward for effort but a gift that precedes and enables any response.",
+          "significance": "2:8"
+        },
+        {
+          "id": "workmanship",
+          "greek": "Greek: poiema",
+          "transliteration": "Workmanship",
+          "translatedAs": "Something made, a product of creative work",
+          "meaning": "Something made, a product of creative work. English 'poem' derives from it. Believers are God's artwork, his masterpiece. They are not self-made but God-made, created for a purpose.",
+          "significance": "2:10"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "You were made alive when you were dead in transgressions and sins,",
+          "explainer": "You were dead in the trespasses and sins in which you once walked. 'Dead' is not a metaphor for feeling bad -- it means complete spiritual lifelessness. Dead people do not need help; they need resurrection.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience;",
+          "explainer": "They followed the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience. Three forces: the world system, the devil, and the sinful nature. All three conspired to keep them in spiritual death.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "among whom we also all once lived in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest.",
+          "explainer": "All of us once lived in the passions of our flesh, carrying out the desires of the body and the mind. 'All of us' -- Paul includes himself. Jews and Gentiles alike were children of wrath by nature. No one is exempt.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "But God, being rich in mercy, for his great love with which he loved us,",
+          "explainer": "But God, being rich in mercy, because of the great love with which he loved us -- 'But God' is one of the most important two-word phrases in the Bible. It marks the turning point from human hopelessness to divine intervention. The motive is not human merit but God's rich mercy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where patron-client relationships defined social life, mercy from the powerful to the powerless was understood in relational terms. God's mercy is like a patron who elevates someone from the gutter to the palace.",
+            "now": "The phrase 'but God' has become a beloved summary of the gospel: we were dead, but God acted. Human inability met divine ability."
+          }
+        },
+        {
+          "number": 5,
+          "text": "even when we were dead through our trespasses, made us alive together with Christ (by grace you have been saved),",
+          "explainer": "Even when we were dead in our trespasses, God made us alive together with Christ -- by grace you have been saved. The parenthetical 'by grace you have been saved' interrupts the sentence because Paul cannot contain himself. He will develop this in verses 8-9, but he blurts it out here first.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus,",
+          "explainer": "God raised us up with Christ and seated us with him in the heavenly places in Christ Jesus. Believers are not just alive -- they are enthroned. Their position in Christ is in the heavenly places, sharing in his exaltation. This is already true, though not yet fully experienced.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Colossians 3:1-3",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;",
+          "explainer": "In the coming ages God will show the immeasurable riches of his grace in kindness toward us in Christ Jesus. Grace is not just for now -- it will continue to unfold forever. Eternity is an endless revelation of God's generosity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+          "explainer": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God. The most concise summary of the gospel in the entire Bible. Three clarifications: (1) the means is grace, (2) the instrument is faith, (3) even the faith is God's gift.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where every relationship involved obligation and reciprocity, a completely free gift with no strings attached was almost unthinkable. Paul insists salvation is entirely gratuitous.",
+            "now": "This verse is the foundation of Protestant soteriology (doctrine of salvation). The debate over whether 'this' refers to grace, faith, or the whole package has occupied theologians for centuries, but the basic point is clear: salvation is a gift."
+          }
+        },
+        {
+          "number": 9,
+          "text": "not of works, that no one would boast.",
+          "explainer": "Not a result of works, so that no one may boast. The exclusion of works eliminates boasting. If salvation included any human contribution, the one who contributed more could boast over the one who contributed less. Grace levels the playing field absolutely.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.",
+          "explainer": "We are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them. Works are not the cause of salvation but the result. God prepared the good works before we were born; we walk into them by his design.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Therefore remember that once you, the Gentiles in the flesh, who are called “uncircumcision” by that which is called “circumcision”, (in the flesh, made by hands);",
+          "explainer": "Therefore remember that at one time you Gentiles in the flesh, called 'the uncircumcision' by what is called 'the circumcision' (made in the flesh by hands) -- Paul shifts from individual salvation to ethnic reconciliation. The Gentiles' former status was defined by what they lacked: circumcision.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Circumcision/Uncircumcision', 'explanation': \"Jews defined Gentiles by their lack of circumcision. The term 'uncircumcision' was a slur -- it meant 'outsider, unclean, not part of God's people.' Paul notes that circumcision itself is merely 'made by hands,' implying it is a human work, not the ultimate marker of belonging.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world.",
+          "explainer": "Remember that you were separated from Christ, alienated from the commonwealth of Israel, strangers to the covenants of promise, having no hope and without God in the world. Five deprivations: no Messiah, no citizenship, no covenants, no hope, no God. This was the Gentile condition -- total spiritual bankruptcy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But now in Christ Jesus you who once were far off are made near in the blood of Christ.",
+          "explainer": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ. 'Far off' and 'near' are technical Jewish terms. Jews were 'near' to God; Gentiles were 'far off.' Christ's blood has eliminated the distance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 57:19",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For he is our peace, who made both one, and broke down the middle wall of partition,",
+          "explainer": "Christ himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility. The 'dividing wall' likely alludes to the barrier in the Jerusalem Temple that separated the Gentile court from the inner courts. A warning sign (fragments have been found) threatened death to any Gentile who crossed it. Christ demolished that wall.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'The dividing wall', 'explanation': 'The Jerusalem Temple had a literal stone barrier (the soreg) separating the Court of the Gentiles from the inner courts. Inscriptions in Greek and Latin warned that any Gentile who passed beyond it would be responsible for their own death. This physical wall symbolized the theological wall between Jew and Gentile.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Temple barrier was a physical reality that every Jew and Gentile in the first century knew about. Claiming it was demolished was a radical theological statement with political implications.",
+            "now": "The metaphor of 'walls of hostility' between groups applies to every form of ethnic, racial, and social division. Paul's claim is that Christ has demolished the deepest human divisions."
+          }
+        },
+        {
+          "number": 15,
+          "text": "having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace;",
+          "explainer": "By abolishing the law of commandments expressed in ordinances, he created in himself one new man in place of the two, making peace. Christ did not merely reconcile two existing groups -- he created a third, entirely new entity: 'one new humanity.' Neither Jew nor Gentile but something unprecedented.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "and might reconcile them both in one body to God through the cross, having killed the hostility thereby.",
+          "explainer": "He reconciled us both to God in one body through the cross, thereby killing the hostility. The cross accomplishes vertical reconciliation (humanity to God) and horizontal reconciliation (Jew to Gentile) simultaneously.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "He came and preached peace to you who were far off and to those who were near.",
+          "explainer": "He came and preached peace to you who were far off and peace to those who were near. Christ's peace is for both groups -- Gentiles who were far and Jews who were near. The gospel does not favor either side.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "For through him we both have our access in one Spirit to the Father.",
+          "explainer": "Through Christ we both have access in one Spirit to the Father. Trinitarian access: through Christ (the mediator), in the Spirit (the means), to the Father (the destination). Jew and Gentile approach God on the same terms.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "So then you are no longer strangers and foreigners, but you are fellow citizens with the saints, and of the household of God,",
+          "explainer": "You are no longer strangers and aliens but fellow citizens with the saints and members of the household of God. The political metaphor (citizenship) merges with the family metaphor (household). Gentiles have both civic rights and family belonging.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;",
+          "explainer": "Built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone. The church is a building. The apostles and prophets are the foundation. Christ is the cornerstone -- the stone that determines the alignment of everything else.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Corinthians 3:10-11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "in whom the whole building, fitted together, grows into a holy temple in the Lord;",
+          "explainer": "In Christ the whole structure, being joined together, grows into a holy temple in the Lord. The building is alive -- it grows. The church is not a static structure but a living, expanding temple.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "in whom you also are built together for a habitation of God in the Spirit.",
+          "explainer": "In Christ you also are being built together into a dwelling place for God by the Spirit. The final image: the church is God's address. God does not live in temples made with hands but in the community of believers. The Ephesians, who lived near one of the greatest temples in the world (Artemis), are told that they are the real temple.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Paul describes himself as a prisoner of Christ for the sake of the Gentiles. He has been given a special stewardship: to reveal the mystery hidden for ages -- that Gentiles are fellow heirs with Jews, members of the same body, sharers in the same promise. Through the church, even the cosmic powers learn of God's wisdom. Paul closes with one of the most beautiful prayers in Scripture, asking that believers would be strengthened, rooted in love, and able to comprehend the incomprehensible dimensions of Christ's love.",
+        "themes": [
+          "Paul as prisoner and steward of the mystery",
+          "The mystery: Gentiles as co-heirs",
+          "The church displays God's wisdom to cosmic powers",
+          "Rooted and grounded in love",
+          "The love of Christ that surpasses knowledge"
+        ],
+        "contextInBook": "This chapter is the bridge between doctrine (chs. 1-2) and ethics (chs. 4-6). Paul's prayer (3:14-21) asks for the inner transformation that will make the ethical instructions possible. The doxology (3:20-21) is the letter's emotional and theological peak."
+      },
+      "wordStudies": [
+        {
+          "id": "stewardship/dispensation",
+          "greek": "Greek: oikonomia",
+          "transliteration": "Stewardship/Dispensation",
+          "translatedAs": "The management of a household",
+          "meaning": "The management of a household. Paul was given the 'stewardship of God's grace' -- he is the household manager responsible for distributing God's grace to the Gentiles. The English word 'economy' comes from this root.",
+          "significance": "3:2"
+        },
+        {
+          "id": "comprehend",
+          "greek": "Greek: katalambano",
+          "transliteration": "Comprehend",
+          "translatedAs": "To seize, grasp, lay hold of",
+          "meaning": "To seize, grasp, lay hold of. Paul prays that believers would be able to 'seize' the dimensions of Christ's love. The word implies both intellectual understanding and experiential apprehension -- you do not just think about it; you grab hold of it.",
+          "significance": "3:18"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles,",
+          "explainer": "For this reason I, Paul, a prisoner for Christ Jesus on behalf of you Gentiles -- Paul starts a sentence he will not finish until verse 14. He interrupts himself to explain the mystery he has been entrusted with.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "if it is so that you have heard of the administration of that grace of God which was given me toward you;",
+          "explainer": "Assuming they have heard of the stewardship of God's grace that was given to Paul for them. Paul is a steward -- a household manager distributing God's grace to the Gentile world.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "how that by revelation the mystery was made known to me, as I wrote before in few words,",
+          "explainer": "The mystery was made known to Paul by revelation, as he has briefly written. 'Briefly' may refer to what he has already written in this letter or to an earlier communication.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "by which, when you read, you can perceive my understanding in the mystery of Christ;",
+          "explainer": "When they read this, they can perceive Paul's insight into the mystery of Christ. The mystery is not abstract but can be understood by attentive reading.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "which in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit;",
+          "explainer": "The mystery was not made known to previous generations as it has now been revealed to his holy apostles and prophets by the Spirit. Previous generations had hints (the Abrahamic promise to bless all nations) but not the full picture. The revelation is both new and continuous with the old.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The concept of progressive revelation -- that God reveals his plan gradually over time -- was already present in Jewish thought. Paul claims the final piece has now been unveiled.",
+            "now": "This verse grounds the Christian claim that the New Testament fulfills rather than replaces the Old. The mystery was always there; it was just not yet fully revealed."
+          }
+        },
+        {
+          "number": 6,
+          "text": "that the Gentiles are fellow heirs, and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News,",
+          "explainer": "This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel. Three aspects of the mystery: co-heirs (shared inheritance), co-members (same body), co-sharers (same promise). The triple 'co-' (syn- in Greek) emphasizes complete equality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "of which I was made a servant, according to the gift of that grace of God which was given me according to the working of his power.",
+          "explainer": "Of this gospel Paul was made a minister according to the gift of God's grace given to him by the working of God's power. Ministry is a gift enabled by divine power, not a career achieved by human ambition.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ,",
+          "explainer": "To Paul, the very least of all the saints, this grace was given: to preach to the Gentiles the unsearchable riches of Christ. 'The very least of all saints' -- Paul coins a word (elachistoteros, a comparative of a superlative) to express how undeserving he feels. The greatest missionary in history considers himself the smallest saint.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ;",
+          "explainer": "Paul's task is to bring to light for everyone the plan of the mystery hidden for ages in God who created all things. The mystery was hidden in God -- in the mind of the Creator from the beginning. Paul is simply turning on the light.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places,",
+          "explainer": "Through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. This is one of the most staggering claims in the New Testament: the church is God's display of his wisdom to cosmic powers. Angels and demons learn about God's character by watching the church.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 Peter 1:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "according to the eternal purpose which he purposed in Christ Jesus our Lord;",
+          "explainer": "This was according to the eternal purpose that God has realized in Christ Jesus our Lord. The plan is not an afterthought but an eternal purpose that has now been executed in history through Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "in whom we have boldness and access in confidence through our faith in him.",
+          "explainer": "In Christ we have boldness and access with confidence through our faith in him. Boldness (parrhesia) and access (prosagoge) -- believers can approach God with the confidence of a child approaching a loving parent, not the terror of a subject approaching a king.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Therefore I ask that you may not lose heart at my troubles for you, which are your glory.",
+          "explainer": "Paul asks them not to lose heart over his sufferings on their behalf, which are their glory. Paul's imprisonment should not discourage them -- it is actually evidence of the gospel's power and their worth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For this cause, I bow my knees to the Father of our Lord Jesus Christ,",
+          "explainer": "For this reason Paul bows his knees before the Father. He finally returns to the thought he started in verse 1. Kneeling in prayer was less common than standing in the Jewish tradition; it indicated special intensity.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Bowing the knees', 'explanation': \"Standing was the normal Jewish posture for prayer. Kneeling indicated special urgency, humility, or intensity. Paul's kneeling signals that what follows is not routine prayer but a deeply felt petition.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "from whom every family in heaven and on earth is named,",
+          "explainer": "From whom every family in heaven and on earth is named. There is a wordplay in Greek: pater (Father) and patria (family/fatherhood). Every family derives its meaning from the ultimate Father. All fatherhood is a reflection of God's fatherhood.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inward man;",
+          "explainer": "Paul prays that God would grant them, according to the riches of his glory, to be strengthened with power through his Spirit in their inner being. The resource: God's riches. The means: the Spirit. The location: the inner being. The result: strength.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "that Christ may dwell in your hearts through faith; to the end that you, being rooted and grounded in love,",
+          "explainer": "So that Christ may dwell in their hearts through faith -- that they, being rooted and grounded in love. Two metaphors: rooted (botanical -- a tree drawing nourishment from soil) and grounded (architectural -- a building on a firm foundation). Both images speak to stability that comes from love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "may be strengthened to comprehend with all the saints what is the width and length and height and depth,",
+          "explainer": "May they have strength to comprehend with all the saints what is the breadth and length and height and depth. Paul wants them to grasp the dimensions of something so vast it exceeds measurement. The four dimensions suggest totality -- Christ's love extends in every direction.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Some scholars connect the four dimensions to the cosmic structure of the ancient worldview -- north, south, east, west; or earth to heaven and back. Others see it as simply expressing immeasurable vastness.",
+            "now": "This prayer reminds us that knowing Christ's love is not a private, individual experience but a communal one -- 'with all the saints.' The dimensions of love are too big for one person to grasp alone."
+          }
+        },
+        {
+          "number": 19,
+          "text": "and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.",
+          "explainer": "To know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God. A beautiful paradox: Paul prays they would 'know' what 'surpasses knowledge.' Some realities can be experienced even though they cannot be fully comprehended.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,",
+          "explainer": "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us. This doxology is the emotional peak of the letter. God's ability exceeds our imagination. Whatever we can ask or conceive, God can surpass it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "to him be the glory in the assembly and in Christ Jesus to all generations forever and ever. Amen.",
+          "explainer": "To him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen. God is glorified in the church -- this flawed, struggling community is the vehicle of God's eternal glory. The doxology closes the doctrinal half of the letter.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Paul turns from theology to ethics with the phrase 'walk worthy of the calling.' He urges unity grounded in the seven 'ones' (one body, one Spirit, one hope, one Lord, one faith, one baptism, one God). Christ has given gifts to the church through ministers (apostles, prophets, evangelists, pastors, teachers) who equip the saints for ministry. The chapter concludes with practical instructions: put off the old self, put on the new self, and transform specific behaviors like lying, anger, stealing, and corrupt speech.",
+        "themes": [
+          "Walking worthy of the calling",
+          "The seven unities",
+          "Christ's gifts to the church",
+          "The fivefold ministry",
+          "Put off the old self, put on the new self",
+          "Practical holiness"
+        ],
+        "contextInBook": "Chapter 4 is the hinge of the letter. The word 'therefore' (4:1) connects everything that follows to everything that preceded. Because God has done all of chapters 1-3, believers should live according to chapters 4-6."
+      },
+      "wordStudies": [
+        {
+          "id": "equip/equipping",
+          "greek": "Greek: katartismos",
+          "transliteration": "Equip/Equipping",
+          "translatedAs": "To mend, prepare, make complete",
+          "meaning": "To mend, prepare, make complete. Used for setting a broken bone, mending fishing nets, or preparing something for its intended purpose. The church's ministers do not do the ministry themselves -- they prepare the saints to do it.",
+          "significance": "4:12"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called,",
+          "explainer": "Paul, a prisoner for the Lord, urges them to walk in a manner worthy of the calling to which they have been called. 'Walk' (peripateo) is Paul's favorite word for daily conduct. The calling of chapters 1-3 demands a corresponding lifestyle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "with all lowliness and humility, with patience, bearing with one another in love;",
+          "explainer": "With all humility and gentleness, with patience, bearing with one another in love. Four qualities that make community possible: humility (not thinking too highly of yourself), gentleness (not being harsh), patience (not giving up on people), and bearing with one another (tolerating each other's flaws).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "being eager to keep the unity of the Spirit in the bond of peace.",
+          "explainer": "Eager to maintain the unity of the Spirit in the bond of peace. Unity is not something believers create -- it already exists as a gift of the Spirit. Their job is to maintain it, which requires effort and intentionality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "There is one body, and one Spirit, even as you also were called in one hope of your calling;",
+          "explainer": "There is one body and one Spirit -- just as you were called to the one hope that belongs to your call. The first three of seven unities. One body (the church), one Spirit (who animates it), one hope (the shared destination).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "one Lord, one faith, one baptism,",
+          "explainer": "One Lord, one faith, one baptism. Three more unities centered on Christ: one Lord (Jesus), one faith (trust in him), one baptism (the entry rite into the community).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "one God and Father of all, who is over all, and through all, and in us all.",
+          "explainer": "One God and Father of all, who is over all and through all and in all. The seventh and culminating unity: one God who is universally sovereign (over all), universally active (through all), and universally present (in all).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a polytheistic world with hundreds of gods, the declaration of one God was not a philosophical abstraction but a radical claim. It unified the diverse Ephesian church under a single divine authority.",
+            "now": "The seven 'ones' remain the basis for ecumenical dialogue among Christians. Despite denominational differences, these seven realities unite all believers."
+          }
+        },
+        {
+          "number": 7,
+          "text": "But to each one of us was the grace given according to the measure of the gift of Christ.",
+          "explainer": "But grace was given to each one of us according to the measure of Christ's gift. Unity does not mean uniformity. Each person receives a distinct measure of grace for a distinct contribution.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Therefore he says, “When he ascended on high, he led captivity captive, and gave gifts to men.”",
+          "explainer": "Paul quotes Psalm 68:18: 'When he ascended on high he led a host of captives, and he gave gifts to men.' Paul applies the psalm to Christ's ascension after his victory over sin and death.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 68:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Now this, “He ascended”, what is it but that he also first descended into the lower parts of the earth?",
+          "explainer": "The phrase 'he ascended' implies that he had also descended into the lower regions of the earth. Christ descended (incarnation and/or descent to the dead) before ascending. The full range of movement -- from the heights to the depths and back -- shows Christ's comprehensive authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "He who descended is the one who also ascended far above all the heavens, that he might fill all things.",
+          "explainer": "He who descended is the same one who ascended far above all the heavens, so that he might fill all things. Christ's ascension is not an escape from the world but the means of filling it with his presence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "He gave some to be apostles; and some, prophets; and some, evangelists; and some, shepherds and teachers;",
+          "explainer": "He gave the apostles, the prophets, the evangelists, the shepherds and teachers. Five types of gifted leaders given to the church. These are often called the 'fivefold ministry.' They are gifts from the ascended Christ.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'The fivefold ministry', 'explanation': \"Apostles (sent ones who pioneer new work), prophets (who speak God's current word), evangelists (who proclaim the gospel to outsiders), shepherds/pastors (who care for the flock), and teachers (who instruct in the faith). Whether these are five distinct roles or overlapping functions is debated.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "for the perfecting of the saints, to the work of serving, to the building up of the body of Christ;",
+          "explainer": "Their purpose: to equip the saints for the work of ministry, for building up the body of Christ. The ministers' job is not to do all the ministry themselves but to prepare every believer to serve. The saints do the ministry; the leaders equip them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In ancient religion, the priesthood performed sacred functions that ordinary people could not. Paul's model is radically different: every believer is a minister, and the leaders' role is to prepare them.",
+            "now": "This verse is the theological basis for the Protestant 'priesthood of all believers' and challenges any ministry model where clergy do everything while laity watch."
+          }
+        },
+        {
+          "number": 13,
+          "text": "until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a full grown man, to the measure of the stature of the fullness of Christ;",
+          "explainer": "Until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ. The goal: corporate maturity measured against Christ himself. The church grows toward Christ-likeness as a body, not just as individuals.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "that we may no longer be children, tossed back and forth and carried about with every wind of doctrine, by the trickery of men, in craftiness, after the wiles of error;",
+          "explainer": "So that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes. Maturity provides stability. Immaturity makes people vulnerable to every new teaching that comes along.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "but speaking truth in love, we may grow up in all things into him, who is the head, Christ;",
+          "explainer": "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ. Truth without love is brutality; love without truth is sentimentality. Paul insists on both together as the means of growth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "from whom all the body, being fitted and knit together through that which every joint supplies, according to the working in measure of each individual part, makes the body increase to the building up of itself in love.",
+          "explainer": "From Christ the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love. The body metaphor at its richest: Christ is the head, every joint connects, every part contributes, and the whole organism grows through love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "This I say therefore, and testify in the Lord, that you no longer walk as the rest of the Gentiles also walk, in the futility of their mind,",
+          "explainer": "Paul insists that they must no longer walk as the Gentiles do, in the futility of their minds. The ethical section begins with a contrast: the old way of life vs. the new.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "being darkened in their understanding, alienated from the life of God, because of the ignorance that is in them, because of the hardening of their hearts;",
+          "explainer": "They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart. A chain of spiritual decline: hardness leads to ignorance, ignorance leads to alienation, alienation leads to darkness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "who having become callous gave themselves up to lust, to work all uncleanness with greediness.",
+          "explainer": "Having become callous, they have given themselves up to sensuality, greedy to practice every kind of impurity. Moral numbness leads to moral abandonment. When conscience dies, there is no limit to excess.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "But you did not learn Christ that way;",
+          "explainer": "But that is not the way they learned Christ! Christ is not just a subject to study but a person to 'learn.' The phrase 'learning Christ' implies personal encounter, not mere intellectual content.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "if indeed you heard him, and were taught in him, even as truth is in Jesus:",
+          "explainer": "Assuming they have heard about him and were taught in him, as the truth is in Jesus. 'Truth is in Jesus' -- not in a system, not in a philosophy, but in a person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "that you put away, as concerning your former way of life, the old man, that grows corrupt after the lusts of deceit;",
+          "explainer": "Put off the old self, which belongs to their former manner of life and is corrupt through deceitful desires. The clothing metaphor: strip off the old self like dirty clothes. The old self is not just flawed -- it is actively decaying through self-deception.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "and that you be renewed in the spirit of your mind,",
+          "explainer": "Be renewed in the spirit of your minds. Transformation begins in the mind. The renewal is not a one-time event but an ongoing process.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "and put on the new man, who in the likeness of God has been created in righteousness and holiness of truth.",
+          "explainer": "Put on the new self, created after the likeness of God in true righteousness and holiness. Put on new clothes -- the new self, which is God's creation, characterized by God-likeness. Holiness is not self-improvement but God-resemblance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "Therefore putting away falsehood, speak truth each one with his neighbor. For we are members of one another.",
+          "explainer": "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another. Specific application: stop lying. The reason: lying destroys the body. You do not lie to your own arm -- so do not lie to a fellow member of Christ's body.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "“Be angry, and don’t sin.” Don’t let the sun go down on your wrath,",
+          "explainer": "Be angry and do not sin; do not let the sun go down on your anger. Anger itself is not sinful -- but holding onto it is. Paul sets a daily deadline: resolve anger before nightfall.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 4:4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "and don’t give place to the devil.",
+          "explainer": "Give no opportunity to the devil. Unresolved anger creates an opening for Satan to exploit. The devil works through human relational fractures.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 28,
+          "text": "Let him who stole steal no more; but rather let him labor, producing with his hands something that is good, that he may have something to give to him who has need.",
+          "explainer": "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need. The transformation is not just from stealing to not-stealing but from taking to giving. The thief becomes a philanthropist.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Theft was common in the ancient world, especially among the poor. Paul's instruction is practical: work with your hands so you have enough to share.",
+            "now": "This verse moves beyond 'don't steal' to a positive ethic of generosity. The goal of honest work is not just self-sufficiency but the ability to help others."
+          }
+        },
+        {
+          "number": 29,
+          "text": "Let no corrupt speech proceed out of your mouth, but only what is good for building others up as the need may be, that it may give grace to those who hear.",
+          "explainer": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear. Speech has power to corrupt or to build. Every conversation is an opportunity to distribute grace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 30,
+          "text": "Don’t grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.",
+          "explainer": "Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption. The Spirit is not a force but a person who can be grieved. The things listed in this context -- lying, anger, stealing, corrupt speech -- cause the Spirit pain.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 63:10",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 31,
+          "text": "Let all bitterness, wrath, anger, outcry, and slander, be put away from you, with all malice.",
+          "explainer": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice. A comprehensive list of relational poisons to be eliminated. Each one destroys community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 32,
+          "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+          "explainer": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you. The positive replacement for the vices of verse 31. The standard of forgiveness is not human generosity but God's forgiveness in Christ -- an impossibly high bar that is also a gift.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "Paul continues the ethical instructions with three commands: walk in love (following Christ's self-sacrificial example), walk in light (exposing the works of darkness), and be filled with the Spirit (which produces worship, thanksgiving, and mutual submission). The chapter concludes with the household code on marriage, where Paul uses the Christ-church relationship as the model for husband-wife relationships. The wife is to submit to her husband as the church submits to Christ; the husband is to love his wife as Christ loved the church and gave himself up for her.",
+        "themes": [
+          "Walking in love",
+          "Walking as children of light",
+          "Being filled with the Spirit",
+          "Marriage as a reflection of Christ and the church",
+          "Mutual submission"
+        ],
+        "contextInBook": "This chapter intensifies the ethical application. The household code (5:22-33) is the most extended treatment of marriage in the New Testament. Paul sees marriage not as a merely human institution but as a reflection of the cosmic relationship between Christ and the church."
+      },
+      "wordStudies": [
+        {
+          "id": "submit",
+          "greek": "Greek: hypotasso",
+          "transliteration": "Submit",
+          "translatedAs": "To arrange oneself under, to voluntarily yield",
+          "meaning": "To arrange oneself under, to voluntarily yield. It is a military term for soldiers arranging themselves under a commander. In Ephesians 5, it is mutual (5:21) before being applied specifically to wives (5:22). The wife's submission is modeled on the church's voluntary response to Christ, not coerced obedience.",
+          "significance": "5:21-22"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Be therefore imitators of God, as beloved children.",
+          "explainer": "Therefore be imitators of God, as beloved children. The standard for behavior is nothing less than God himself. But the motivation is not fear -- it is identity. They imitate God because they are his beloved children.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Walk in love, even as Christ also loved you, and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.",
+          "explainer": "Walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God. Christ's self-sacrifice is the definition of love and the model for daily life. Love is not a feeling but an act of self-giving.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Galatians 2:20",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "But sexual immorality, and all uncleanness, or covetousness, let it not even be mentioned among you, as becomes saints;",
+          "explainer": "Sexual immorality and all impurity or covetousness must not even be named among them. The standard is not merely avoidance but absence of even the vocabulary of these sins.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "nor filthiness, nor foolish talking, nor jesting, which are not appropriate; but rather giving of thanks.",
+          "explainer": "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving. Speech reflects character. Gratitude replaces vulgarity as the default tone of conversation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the Kingdom of Christ and God.",
+          "explainer": "Everyone who is sexually immoral or impure, or who is covetous (that is, an idolater) has no inheritance in the kingdom of Christ and God. Paul equates covetousness with idolatry -- wanting more is a form of worship directed at the wrong object.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Let no one deceive you with empty words. For because of these things, the wrath of God comes on the children of disobedience.",
+          "explainer": "Let no one deceive them with empty words, for because of these things the wrath of God comes upon the sons of disobedience. Some teachers may have been minimizing the seriousness of sin. Paul pushes back: divine judgment is real.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Therefore don’t be partakers with them.",
+          "explainer": "Therefore do not become partners with them. Association with those who practice these things is dangerous. Not social contact (which is unavoidable) but partnership -- shared life and shared values.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For you were once darkness, but are now light in the Lord. Walk as children of light,",
+          "explainer": "For at one time they were darkness, but now they are light in the Lord. Walk as children of light. Paul does not say they were 'in darkness' but that they were darkness itself. The transformation is ontological -- their very nature has changed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "for the fruit of the Spirit is in all goodness and righteousness and truth,",
+          "explainer": "For the fruit of light is found in all that is good and right and true. Three qualities characterize life in the light: goodness, righteousness, and truth. These are the outward evidence of inward transformation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "proving what is well pleasing to the Lord.",
+          "explainer": "Try to discern what is pleasing to the Lord. Christian ethics is not a rule book but a relationship. The question is always: what pleases the one who loves us?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Have no fellowship with the unfruitful deeds of darkness, but rather even reprove them.",
+          "explainer": "Take no part in the unfruitful works of darkness, but instead expose them. The light does not just avoid darkness -- it exposes it. Christians are called to be diagnostic, revealing what is hidden.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For the things which are done by them in secret, it is a shame even to speak of.",
+          "explainer": "For it is shameful even to speak of the things done by them in secret. Some sins are so degrading that even describing them perpetuates their power.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But all things, when they are reproved, are revealed by the light, for everything that reveals is light.",
+          "explainer": "But when anything is exposed by the light, it becomes visible. Light transforms what it touches. Exposure is the first step toward healing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Therefore he says, “Awake, you who sleep, and arise from the dead, and Christ will shine on you.”",
+          "explainer": "Therefore it says: 'Awake, O sleeper, and arise from the dead, and Christ will shine on you.' This appears to be an early Christian hymn, possibly sung at baptisms. The convert is called to wake from spiritual death into Christ's light.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Early Christian hymn', 'explanation': \"Paul introduces this with 'it says' (dio legei), suggesting he is quoting a known source. The rhythmic, poetic structure supports the theory that this was a baptismal hymn sung when new converts emerged from the water.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Therefore watch carefully how you walk, not as unwise, but as wise;",
+          "explainer": "Look carefully then how they walk, not as unwise but as wise. Wisdom is not intelligence but the ability to navigate life according to God's purposes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "redeeming the time, because the days are evil.",
+          "explainer": "Making the best use of the time, because the days are evil. 'Redeeming the time' -- buying up every opportunity as if it were a scarce commodity. Time is precious because the context is hostile.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Therefore don’t be foolish, but understand what the will of the Lord is.",
+          "explainer": "Therefore do not be foolish, but understand what the will of the Lord is. Understanding God's will is not mystical but practical -- it involves the ethical discernment Paul has been describing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit,",
+          "explainer": "Do not get drunk with wine, for that is debauchery, but be filled with the Spirit. The contrast is not accidental: both wine and the Spirit alter behavior. But wine produces dissolution; the Spirit produces worship, gratitude, and community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Drunkenness was associated with pagan worship (especially of Dionysus/Bacchus). Paul contrasts the Spirit's influence with alcohol's influence -- both affect behavior, but in opposite directions.",
+            "now": "Being 'filled with the Spirit' is a foundational concept in charismatic and Pentecostal traditions. Paul's focus here is on the communal results: singing, thanksgiving, and mutual submission."
+          }
+        },
+        {
+          "number": 19,
+          "text": "speaking to one another in psalms, hymns, and spiritual songs; singing, and making melody in your heart to the Lord;",
+          "explainer": "Addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart. Spirit-filling produces corporate worship. Three types of musical expression reflect the diversity of early Christian worship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "giving thanks always concerning all things in the name of our Lord Jesus Christ, to God, even the Father;",
+          "explainer": "Giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ. Gratitude is not occasional but constant, not selective but comprehensive. Even in suffering, thanksgiving is possible because of who God is.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "subjecting yourselves to one another in the fear of Christ.",
+          "explainer": "Submitting to one another out of reverence for Christ. This verse is the heading for the entire household code. Before Paul addresses specific relationships, he establishes the principle of mutual submission. Everyone submits to everyone else, motivated by reverence for Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Greco-Roman household codes, submission was always one-directional: wives to husbands, children to parents, slaves to masters. Paul's introduction of mutual submission was genuinely countercultural.",
+            "now": "This verse is central to debates about marriage and authority in the church. Those who emphasize mutual submission read the household code differently from those who emphasize hierarchical roles."
+          }
+        },
+        {
+          "number": 22,
+          "text": "Wives, be subject to your own husbands, as to the Lord.",
+          "explainer": "Wives, submit to your own husbands, as to the Lord. The Greek text has no verb here -- it borrows 'submit' from verse 21. The wife's submission is voluntary (not coerced), specific (to her own husband, not to all men), and analogical (as to the Lord, not as to a master).",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Household codes', 'explanation': \"Greco-Roman philosophers (Aristotle, Seneca) wrote household codes prescribing relationships between husband/wife, parent/child, and master/slave. Paul adopts the form but transforms the content: the model for every relationship is Christ's self-giving love, and mutual submission is the governing principle.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "For the husband is the head of the wife, as Christ also is the head of the assembly, being himself the savior of the body.",
+          "explainer": "For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior. 'Head' (kephale) is debated: does it mean 'authority over' or 'source/origin'? In either reading, the analogy with Christ as head of the church sets an extraordinarily high standard.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "But as the assembly is subject to Christ, so let the wives also be to their own husbands in everything.",
+          "explainer": "Now as the church submits to Christ, so also wives should submit in everything to their husbands. The church's submission to Christ is the model -- it is willing, joyful, and trusting, not servile or fearful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "Husbands, love your wives, even as Christ also loved the assembly, and gave himself up for it;",
+          "explainer": "Husbands, love your wives, as Christ loved the church and gave himself up for her. This is the most demanding instruction in the passage. If the wife's model is the church's submission, the husband's model is Christ's crucifixion. The husband is called to self-sacrificial death for his wife's benefit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a patriarchal culture where husbands had virtually unlimited authority, telling them to love their wives sacrificially -- to the point of death -- was radical. No Greco-Roman household code demanded this of husbands.",
+            "now": "The call for husbands to love like Christ loved the church -- sacrificially, selflessly, for the other's benefit -- remains the most challenging model of marital love in any tradition."
+          }
+        },
+        {
+          "number": 26,
+          "text": "that he might sanctify it, having cleansed it by the washing of water with the word,",
+          "explainer": "That he might sanctify her, having cleansed her by the washing of water with the word. Christ's purpose in loving the church is to make her holy. The 'washing of water' likely refers to baptism accompanied by the gospel message.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing; but that it should be holy and without defect.",
+          "explainer": "So that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. Christ is both the bridegroom and the one who prepares the bride. He does not demand perfection -- he produces it through his love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 28,
+          "text": "Even so husbands also ought to love their own wives as their own bodies. He who loves his own wife loves himself.",
+          "explainer": "In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself. Love for one's wife is not altruistic in the normal sense -- because the two are one, loving her is loving yourself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 29,
+          "text": "For no man ever hated his own flesh; but nourishes and cherishes it, even as the Lord also does the assembly;",
+          "explainer": "No one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church. Self-care is natural; Paul says spousal care should be equally natural.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 30,
+          "text": "because we are members of his body, of his flesh and bones.",
+          "explainer": "Because we are members of his body. The church is literally Christ's body. The marriage analogy and the body metaphor converge.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 31,
+          "text": "“For this cause a man will leave his father and mother, and will be joined to his wife. The two will become one flesh.”",
+          "explainer": "Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh. Paul quotes Genesis 2:24, the foundational text for marriage in the Bible.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 2:24",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 32,
+          "text": "This mystery is great, but I speak concerning Christ and of the assembly.",
+          "explainer": "This mystery is profound, and Paul is saying that it refers to Christ and the church. The 'mystery' is not that marriage is mysterious but that the Genesis description of marriage was always, at the deepest level, about Christ and the church. Marriage is a living parable of the gospel.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 33,
+          "text": "Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.",
+          "explainer": "However, let each one of you love his wife as himself, and let the wife see that she respects her husband. Paul summarizes with two practical commands: husbands love, wives respect. Both are active choices, not emotional states.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "explainer": {
+        "summary": "Paul completes the household code with instructions for children/parents and slaves/masters, then pivots to the letter's dramatic climax: the armor of God. Believers are in a battle not against flesh and blood but against cosmic spiritual forces. Paul equips them with the full armor of God: truth, righteousness, the gospel, faith, salvation, the Spirit's sword (God's word), and prayer. The letter closes with a commendation of Tychicus and a benediction of peace, love, faith, and grace.",
+        "themes": [
+          "Children and parents",
+          "Slaves and masters",
+          "Spiritual warfare",
+          "The full armor of God",
+          "The supremacy of prayer"
+        ],
+        "contextInBook": "The armor of God is the practical conclusion to the entire letter. Everything Paul has described -- spiritual blessings, salvation by grace, the mystery of the church, walking worthy, the new self -- requires spiritual protection. The cosmic powers mentioned in 1:21 and 3:10 are now the enemies the church must resist."
+      },
+      "wordStudies": [
+        {
+          "id": "wrestle/struggle",
+          "greek": "Greek: pale",
+          "transliteration": "Wrestle/Struggle",
+          "translatedAs": "A wrestling term for hand-to-hand combat",
+          "meaning": "A wrestling term for hand-to-hand combat. The imagery is not distant warfare but close, personal conflict. The spiritual battle is intimate and demanding, not abstract.",
+          "significance": "6:12"
+        },
+        {
+          "id": "stand",
+          "greek": "Greek: histemi",
+          "transliteration": "Stand",
+          "translatedAs": "To stand firm, to hold one's ground",
+          "meaning": "To stand firm, to hold one's ground. Paul uses it four times in verses 11-14. The armor is defensive -- the goal is not to advance territory but to hold the ground Christ has already won. The battle is to stand, not to conquer.",
+          "significance": "6:11, 13, 14"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Children, obey your parents in the Lord, for this is right.",
+          "explainer": "Children, obey your parents in the Lord, for this is right. The instruction is straightforward: obedience to parents. 'In the Lord' qualifies the obedience -- it is done as an expression of faith, not mere social conformity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "“Honor your father and mother,” which is the first commandment with a promise:",
+          "explainer": "Honor your father and mother -- this is the first commandment with a promise. Paul quotes the fifth commandment and notes that it comes with a built-in reward.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 20:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "“that it may be well with you, and you may live long on the earth.”",
+          "explainer": "That it may go well with you and that you may live long in the land. The promise of blessing and longevity accompanies the commandment. Paul takes it at face value.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord.",
+          "explainer": "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord. The reciprocal command: fathers have obligations too. Do not exasperate your children; nurture them. In a culture where the paterfamilias had absolute authority, this was a significant qualification.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Roman paterfamilias had legal power of life and death over his children. Telling fathers not to provoke their children was a counter-cultural limitation on patriarchal authority.",
+            "now": "This verse remains foundational to Christian parenting philosophy: authority must be exercised with sensitivity to the child's emotional needs, not just the parent's expectations."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ;",
+          "explainer": "Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ. Paul addresses slaves directly as moral agents -- unusual in the ancient world. He does not endorse slavery but addresses slaves where they are.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Slavery in the Roman Empire', 'explanation': 'Roman slavery was not race-based but was ubiquitous. Slaves could be educated, skilled professionals. Paul does not call for revolution (which would have been suicidal) but subverts the institution by treating slaves as full members of the community and reminding masters they have a Master in heaven.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "not in the way of service only when eyes are on you, as men pleasers; but as servants of Christ, doing the will of God from the heart;",
+          "explainer": "Not by way of eye-service, as people-pleasers, but as bondservants of Christ, doing the will of God from the heart. The slave's true master is Christ, not the human owner. This reframes the entire relationship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "with good will doing service, as to the Lord, and not to men;",
+          "explainer": "Rendering service with a good will as to the Lord and not to man. Every act of service, even forced labor, can be offered to Christ. This does not justify oppression but provides dignity within it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "knowing that whatever good thing each one does, he will receive the same again from the Lord, whether he is bound or free.",
+          "explainer": "Knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a bondservant or is free. God's reward is impartial. Social status is irrelevant to divine recompense.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.",
+          "explainer": "Masters, do the same to them, and stop your threatening, knowing that he who is both their Master and yours is in heaven, and that there is no partiality with him. Masters are accountable to God for how they treat their slaves. They have a Master too. This relativizes their authority and introduces accountability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Telling masters to stop threatening their slaves and reminding them of divine accountability was a radical challenge to the absolute power masters held under Roman law.",
+            "now": "While slavery is abolished in most of the world, the principles apply to all authority relationships: employers to employees, leaders to followers. Power comes with divine accountability."
+          }
+        },
+        {
+          "number": 10,
+          "text": "Finally, be strong in the Lord, and in the strength of his might.",
+          "explainer": "Finally, be strong in the Lord and in the strength of his might. The strength for spiritual warfare comes from God, not from human determination. Paul has been saying this all along: divine power, not human effort.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+          "explainer": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil. The armor is God's -- it belongs to him and comes from him. The enemy's weapons are 'schemes' (methodeia) -- strategic, calculated attacks, not random assaults.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For our wrestling is not against flesh and blood, but against the principalities, against the powers, against the world’s rulers of the darkness of this age, and against the spiritual forces of wickedness in the heavenly places.",
+          "explainer": "We do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places. The real enemy is not human. Behind human opposition stand invisible spiritual forces. This does not diminish human responsibility but adds a deeper dimension to every conflict.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Ephesians lived in a world saturated with belief in spiritual powers. The Temple of Artemis, magical practices, and astrological anxiety were everyday realities. Paul affirms the reality of these powers while declaring Christ's supremacy over them.",
+            "now": "Modern readers debate whether 'spiritual forces' are personal beings or systemic structures (racism, corruption, injustice). Paul would likely say: both. The powers are real, personal, and expressed through human systems."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Therefore put on the whole armor of God, that you may be able to withstand in the evil day, and, having done all, to stand.",
+          "explainer": "Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm. 'The evil day' -- every day is potentially an evil day. The armor must be worn constantly, not just in crisis.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Stand therefore, having the utility belt of truth buckled around your waist, and having put on the breastplate of righteousness,",
+          "explainer": "Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness. Truth is the belt that holds everything together -- without truth, the armor falls apart. Righteousness (both imputed and lived) protects the heart.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 59:17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "and having fitted your feet with the preparation of the Good News of peace;",
+          "explainer": "And, as shoes for your feet, having put on the readiness given by the gospel of peace. The soldier's boots provide stability and mobility. The 'readiness' of the gospel gives believers firm footing and the ability to move forward.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "above all, taking up the shield of faith, with which you will be able to quench all the fiery darts of the evil one.",
+          "explainer": "In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one. The Roman soldier's large shield (thureos) could be doused with water to extinguish flaming arrows. Faith does not prevent attacks but neutralizes them.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Flaming darts', 'explanation': 'Ancient armies used arrows dipped in pitch and set on fire. The Roman scutum (large shield) was covered in leather that could be soaked in water to extinguish these missiles. Paul sees temptation, accusation, and doubt as flaming projectiles that faith can quench.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+          "explainer": "Take the helmet of salvation, and the sword of the Spirit, which is the word of God. The helmet protects the mind (the assurance of salvation guards against despair). The sword of the Spirit is the only offensive weapon in the list -- God's word is how believers attack, not just defend.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Hebrews 4:12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "with all prayer and requests, praying at all times in the Spirit, and being watchful to this end in all perseverance and requests for all the saints:",
+          "explainer": "Praying at all times in the Spirit, with all prayer and supplication. To that end, keeping alert with all perseverance, making supplication for all the saints. Prayer is not a separate piece of armor -- it is the atmosphere in which all the armor functions. Without prayer, the armor is costume, not equipment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The armor of God passage draws on the image of the Roman legionary that Paul, as a prisoner chained to a guard, saw daily. He transformed his captivity into theology.",
+            "now": "The armor of God remains the most widely taught passage on spiritual warfare in the Christian tradition. Its emphasis on truth, righteousness, faith, and Scripture as defensive and offensive weapons shapes how millions of Christians understand spiritual conflict."
+          }
+        },
+        {
+          "number": 19,
+          "text": "on my behalf, that utterance may be given to me in opening my mouth, to make known with boldness the mystery of the Good News,",
+          "explainer": "Paul asks for prayer that words may be given to him in opening his mouth boldly to proclaim the mystery of the gospel. Even Paul needs prayer for boldness. The apostle does not claim self-sufficiency.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "for which I am an ambassador in chains; that in it I may speak boldly, as I ought to speak.",
+          "explainer": "For which Paul is an ambassador in chains. He asks that he may declare the gospel boldly, as he ought to speak. An 'ambassador in chains' is an ironic image -- ambassadors represent the power of their sovereign, but Paul is imprisoned. His chains do not negate his authority; they authenticate it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "But that you also may know my affairs, how I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make known to you all things;",
+          "explainer": "So that they may also know how Paul is, Tychicus the beloved brother and faithful minister in the Lord will tell them everything.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "whom I have sent to you for this very purpose, that you may know our state, and that he may comfort your hearts.",
+          "explainer": "Paul has sent Tychicus for this very purpose, that they may know how he and his companions are, and that Tychicus may encourage their hearts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ.",
+          "explainer": "Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ. The benediction begins with the letter's key themes: peace (between Jew and Gentile), love (the ethic of the new humanity), and faith (the means of salvation).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Grace be with all those who love our Lord Jesus Christ with incorruptible love. Amen.",
+          "explainer": "Grace be with all who love our Lord Jesus Christ with love incorruptible. The letter that began with grace (1:2) ends with grace. 'Love incorruptible' -- undying, unfading love for Christ is the final mark of genuine faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

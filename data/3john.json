@@ -1,0 +1,328 @@
+{
+  "book": {
+    "id": "3john",
+    "name": "3 John",
+    "testament": "New Testament",
+    "author": "The Elder (traditionally John the Apostle)",
+    "dateWritten": "c. 85-95 AD",
+    "writtenFrom": "Traditionally Ephesus",
+    "writtenTo": "Gaius, a faithful church member",
+    "chapterCount": 1,
+    "verseCount": 14,
+    "explainer": {
+      "overview": "3 John is the most personal of the Johannine letters -- a brief note from 'the elder' to a man named Gaius, commending him for his hospitality to traveling missionaries. The letter provides a rare window into the practical politics of the early church. Three characters drive the action: Gaius (the faithful host), Diotrephes (a domineering leader who refuses the elder's authority and expels those who disagree), and Demetrius (commended as a trustworthy person). The letter is essentially about the right use and abuse of authority in the church.",
+      "historicalContext": "By the late first century, the informal networks of traveling teachers and hosts that sustained early Christianity were coming under strain. Local leaders like Diotrephes were asserting control over who could teach in their churches, sometimes for good reasons (protecting against false teachers) and sometimes for bad ones (maintaining personal power). This letter captures a moment in the transition from apostolic to institutional authority.",
+      "whyItMatters": "3 John is the most vivid snapshot we have of early church politics -- the struggle between traveling apostolic authority and emerging local leadership. Diotrephes represents the danger of a leader who loves preeminence more than truth, while Gaius represents the beauty of quiet faithfulness. The letter reminds every generation that how leaders treat people reveals more about their character than their theology does.",
+      "keyThemes": [
+        "Hospitality to traveling missionaries",
+        "The abuse of church authority",
+        "The contrast between Gaius and Diotrephes",
+        "Walking in truth",
+        "Imitating good, not evil"
+      ]
+    },
+    "people": [
+      {
+        "id": "the_elder_3john",
+        "name": "The Elder",
+        "role": "Author of the letter",
+        "bio": "The same 'elder' who wrote 2 John. He represents the older, apostolic authority structure of the early church. His conflict with Diotrephes shows that his authority, though real, was not unchallenged. He writes with warmth and pastoral concern, commending Gaius and promising to deal with Diotrephes in person.",
+        "culturalContext": "The elder's authority appears to extend across multiple house churches in a region, suggesting a network of congregations connected by shared leadership and traveling teachers. This network was being disrupted by local leaders asserting independence."
+      },
+      {
+        "id": "gaius",
+        "name": "Gaius",
+        "role": "Faithful church member, host of traveling missionaries",
+        "bio": "Gaius is commended for his hospitality to traveling Christian workers, even though they were strangers to him. The elder says his soul prospers, and other believers have testified to his faithfulness. He represents the ideal of Christian generosity -- supporting the mission of the gospel through practical hospitality.",
+        "culturalContext": "Gaius was a very common Roman name (like 'John' in English). This Gaius is probably not the same as any other Gaius mentioned in the New Testament. His ability to host travelers suggests he had some financial means and a house large enough to accommodate guests."
+      },
+      {
+        "id": "diotrephes",
+        "name": "Diotrephes",
+        "role": "Domineering local church leader",
+        "bio": "Diotrephes 'loves to be first' -- he refuses to acknowledge the elder's authority, spreads malicious gossip about him, refuses to welcome traveling missionaries, and excommunicates church members who try to show hospitality. He is the most negative portrait of a church leader in the New Testament epistles -- a cautionary tale about the corruption of authority.",
+        "culturalContext": "Diotrephes may have been a legitimate local leader (perhaps a house church host) who was asserting the independence of his congregation against what he perceived as outside interference. His behavior, however -- slandering the elder and expelling dissenters -- goes far beyond legitimate boundary-setting into authoritarianism."
+      },
+      {
+        "id": "demetrius",
+        "name": "Demetrius",
+        "role": "Commended believer, possibly the letter bearer",
+        "bio": "Demetrius receives a triple commendation: from everyone, from the truth itself, and from the elder personally. He may be the person carrying this letter to Gaius, or he may be one of the traveling missionaries whom Gaius should welcome. His good reputation stands in sharp contrast to Diotrephes' behavior.",
+        "culturalContext": "Letters of recommendation were essential in the ancient world, where there was no way to verify a stranger's credentials. The elder's commendation of Demetrius served as a credential that would open doors for him in the network of house churches."
+      }
+    ],
+    "places": [
+      {
+        "id": "ephesus_3john",
+        "name": "Ephesus",
+        "description": "The traditional location of the elder's community and the center of the Johannine network of churches.",
+        "culturalSignificance": "Ephesus served as a hub for early Christianity in the province of Asia. Multiple house churches operated in the city, and traveling teachers moved between them and the surrounding communities. The elder's letters suggest he oversaw this network from Ephesus.",
+        "modernLocation": "Ruins near Selcuk, Izmir Province, Turkey.",
+        "latitude": 37.9394,
+        "longitude": 27.3417
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 50-60 AD",
+        "event": "Paul's ministry in Ephesus",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "Gospel of John written",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "1 John written addressing Christological controversies",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "2 John written warning about false teachers",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "3 John written about hospitality and church leadership",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 95 AD",
+        "event": "Revelation written during Domitian's persecution",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "This personal letter to Gaius unfolds in three character studies. First, Gaius is praised for his hospitality to traveling missionaries -- strangers whom he welcomed and supported on their journey. Then Diotrephes is exposed as a power-hungry leader who refuses the elder's authority, slanders him, and expels anyone who shows hospitality to the elder's representatives. Finally, Demetrius is commended as trustworthy. The letter closes with the elder's plan to visit and settle matters in person.",
+        "themes": [
+          "Christian hospitality as mission support",
+          "The abuse of leadership authority",
+          "Three character portraits: Gaius, Diotrephes, Demetrius",
+          "Imitating good rather than evil"
+        ],
+        "contextInBook": "As the complete letter, this chapter provides a unique window into early church conflicts that were not primarily theological but political -- about who controls access, who gets to teach, and how authority is exercised within the community."
+      },
+      "wordStudies": [
+        {
+          "id": "fellow_workers",
+          "greek": "Greek: synergoi",
+          "transliteration": "Fellow workers",
+          "translatedAs": "Co-laborers, partners in the work",
+          "meaning": "Co-laborers, partners in the work. By showing hospitality to traveling missionaries, Gaius becomes a 'fellow worker with the truth' -- a partner in the gospel mission even though he is not traveling himself. Support roles are not secondary roles.",
+          "significance": "1:8"
+        },
+        {
+          "id": "loves_to_be_first",
+          "greek": "Greek: philoproteuo",
+          "transliteration": "Loves to be first",
+          "translatedAs": "To love being preeminent, to desire the first plac",
+          "meaning": "To love being preeminent, to desire the first place. This word appears nowhere else in the New Testament or in earlier Greek literature. It may have been coined by the elder to describe Diotrephes' distinctive vice -- an obsession with being number one.",
+          "significance": "1:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The elder to Gaius the beloved, whom I love in truth.",
+          "explainer": "The elder writes to 'beloved Gaius, whom I love in truth.' The warmth is personal and genuine -- this is not a form letter but a note to a trusted friend. Four times in this short letter, the elder calls Gaius 'beloved.'",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Gaius",
+              "personId": "gaius",
+              "wordId": null,
+              "startIndex": 13
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Beloved, I pray that you may prosper in all things and be healthy, even as your soul prospers.",
+          "explainer": "The elder prays that Gaius may prosper and be in good health, just as his soul prospers. This is not prosperity gospel -- it is a personal prayer for a friend. The point is that Gaius' spiritual health is already excellent, and the elder wishes his physical and material circumstances would match.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient letter greetings typically included a health wish. The elder transforms this convention by making Gaius' spiritual vitality the standard against which everything else is measured.",
+            "now": "This verse is sometimes misused to support prosperity theology -- the idea that God wants all believers to be materially wealthy. In context, it is simply a warm personal greeting, not a doctrinal statement about wealth."
+          }
+        },
+        {
+          "number": 3,
+          "text": "For I rejoiced greatly, when brothers came and testified about your truth, even as you walk in truth.",
+          "explainer": "Traveling brothers have come to the elder and testified to Gaius' faithfulness -- that he is 'walking in the truth.' The elder's information comes from eyewitness reports by people who have experienced Gaius' hospitality firsthand.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "I have no greater joy than this, to hear about my children walking in truth.",
+          "explainer": "The elder's greatest joy is hearing that his spiritual children are walking in the truth. This is the language of a pastor whose deepest satisfaction comes from seeing people he has nurtured living out their faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Beloved, you do a faithful work in whatever you accomplish for those who are brothers and strangers.",
+          "explainer": "Gaius is commended for acting faithfully 'in whatever you do for the brothers, especially when they are strangers.' Hospitality to known friends is easy; hospitality to unknown travelers who arrive claiming to be fellow believers requires discernment and generosity.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Hospitality to strangers', 'explanation': 'In the ancient world without hotels (inns were notoriously dangerous and disreputable), hospitality was essential for travelers. Christian missionaries depended entirely on the hospitality of fellow believers. Hosts provided food, lodging, and often financial support for the next leg of the journey.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "They have testified about your love before the assembly. You will do well to send them forward on their journey in a way worthy of God,",
+          "explainer": "These missionaries have testified about Gaius' love before the elder's church. The elder now asks Gaius to send them on their way 'in a manner worthy of God.' This means providing supplies, money, and companions for the next stage of their journey -- not just a bed for the night.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Sending missionaries 'on their way' (propempo) was a technical term for provisioning travelers for the next stage of their journey. It involved significant practical and financial commitment.",
+            "now": "The concept of supporting missionaries through hospitality and practical provision continues in churches worldwide. Short-term mission hosting, supporting church planters, and provisioning traveling ministers are modern equivalents of what Gaius did."
+          }
+        },
+        {
+          "number": 7,
+          "text": "because for the sake of the Name they went out, taking nothing from the Gentiles.",
+          "explainer": "These missionaries went out 'for the sake of the Name, accepting nothing from the Gentiles.' They refused support from non-believers to keep the gospel free from any appearance of commercial motivation. Their integrity depended on support from fellow Christians like Gaius.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "We therefore ought to receive such, that we may be fellow workers for the truth.",
+          "explainer": "Therefore 'we ought to support such people, so that we may be fellow workers with the truth.' Hospitality to missionaries is not charity; it is partnership. Those who support the mission share in its fruit. The back-office worker is as essential as the front-line preacher.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Philippians 4:14-17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "I wrote to the assembly, but Diotrephes, who loves to be first among them, doesn’t accept what we say.",
+          "explainer": "Now the letter's tone shifts dramatically: 'I wrote something to the church, but Diotrephes, who loves to be first among them, does not acknowledge our authority.' A previous letter from the elder was suppressed or rejected by Diotrephes. This is a power struggle, and Diotrephes is winning locally.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Diotrephes",
+              "personId": "diotrephes",
+              "wordId": null,
+              "startIndex": 29
+            }
+          ],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Loves to be first', 'explanation': \"The Greek philoproteuo is found nowhere else in ancient literature. The elder may have coined it to describe Diotrephes' specific pathology -- not just wanting authority (which could be legitimate) but loving preeminence itself. The disease is not leadership but the addiction to being number one.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Therefore if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words. Not content with this, neither does he himself receive the brothers, and those who would, he forbids and throws out of the assembly.",
+          "explainer": "The elder lists Diotrephes' offenses: he spreads malicious gossip about the elder (unjustly accusing with evil words), refuses to welcome the traveling brothers, prevents others from welcoming them, and excommunicates anyone who tries. This is a comprehensive abuse of power -- controlling information, controlling access, and punishing dissent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the small, intimate world of house churches, a dominant personality could easily control who spoke, who visited, and who stayed. Excommunication (putting someone out of the church) was the ultimate social weapon in a community that was your entire support network.",
+            "now": "The pattern of authoritarian church leadership -- controlling information, punishing dissent, isolating the congregation from outside voices -- remains a recognized form of spiritual abuse. Diotrephes is the New Testament's clearest portrait of this dynamic."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Beloved, don’t imitate that which is evil, but that which is good. He who does good is of God. He who does evil hasn’t seen God.",
+          "explainer": "The elder's principle: 'Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God.' The choice between Diotrephes' example and Gaius' example is the choice between evil and good, between knowing God and not knowing him. Character reveals theology.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Demetrius has the testimony of all, and of the truth itself; yes, we also testify, and you know that our testimony is true.",
+          "explainer": "Demetrius has a good testimony from everyone, from the truth itself, and from the elder personally. Three witnesses confirm his character -- a pattern that echoes the biblical requirement of two or three witnesses to establish a matter. Demetrius may be carrying this letter and needs Gaius' trust.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Demetrius",
+              "personId": "demetrius",
+              "wordId": null,
+              "startIndex": 0
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 19:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I had many things to write to you, but I am unwilling to write to you with ink and pen;",
+          "explainer": "The elder has much to write but does not want to use pen and ink. He hopes to come face to face and talk directly. Some matters require presence, not paper -- especially conflicts as sensitive as the situation with Diotrephes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 John 12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "but I hope to see you soon, and we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name.",
+          "explainer": "Peace to you. The friends greet you. Greet the friends by name. The letter ends with the simplest possible blessing -- 'peace' -- and the warmest possible instruction: greet the friends individually, by name. In a letter about the abuse and proper use of personal relationships, the elder's final word is personal connection.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Greeting people 'by name' was significant in communities where personal recognition conveyed honor and belonging. In a culture of honor and shame, being known by name meant being valued.",
+            "now": "In an age of mass communication and anonymous online interaction, the elder's insistence on personal, named relationships remains counter-cultural. Authentic community still requires knowing and being known by name."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "book": {
+    "id": "titus",
+    "name": "Titus",
+    "testament": "New Testament",
+    "author": "Paul (attributed; debated among scholars)",
+    "dateWritten": "c. 62-66 AD",
+    "writtenFrom": "Uncertain, possibly Nicopolis or Macedonia",
+    "writtenTo": "Titus, Paul's delegate on the island of Crete",
+    "chapterCount": 3,
+    "verseCount": 46,
+    "explainer": {
+      "overview": "Titus is a compact pastoral letter written to Paul's trusted associate Titus, whom Paul has left on the island of Crete to organize the young churches there. Like 1 Timothy, it addresses church leadership qualifications and the threat of false teachers. But Titus has a distinctive emphasis on the relationship between sound doctrine and good works -- the idea that what you believe must show up in how you live. The letter contains two magnificent theological summaries of the gospel (2:11-14 and 3:4-7) that are among the most beautiful and complete in all of Paul's writing. The cultural challenge of Crete adds a unique flavor: Cretans were famously difficult, and Paul quotes a Cretan poet who called his own people 'liars, evil beasts, lazy gluttons.'",
+      "historicalContext": "Crete is a large island in the Mediterranean south of Greece. Paul appears to have evangelized Crete after his first Roman imprisonment, during a period of ministry not covered in Acts. He left Titus there to finish organizing the churches and appointing elders in every town. The Cretan culture presented unique challenges -- the island had a reputation for dishonesty and moral laxity. The false teachers on Crete were of the 'circumcision party' -- Jewish Christians who insisted on Torah observance and promoted Jewish myths and genealogies.",
+      "whyItMatters": "Titus provides the clearest statement in Paul's letters that grace and good works are not opposed but deeply connected. Grace is not a license to do nothing; it is the power that trains us to live rightly (2:11-12). The letter's insistence that 'those who have believed in God should be careful to devote themselves to good works' (3:8) has been foundational for Christian ethics. Its leadership qualifications parallel 1 Timothy and have shaped church governance across traditions.",
+      "keyThemes": [
+        "Church leadership and elder qualifications",
+        "Sound doctrine producing good works",
+        "Grace that trains us to live rightly",
+        "Confronting false teachers",
+        "The Cretan cultural challenge",
+        "The appearing of God's grace and glory"
+      ]
+    },
+    "people": [
+      {
+        "id": "paul",
+        "name": "Paul (the Apostle)",
+        "role": "Author, Titus's mentor",
+        "bio": "Paul writes as a seasoned church planter giving instructions to a trusted delegate. His tone is businesslike and confident -- Titus apparently needs less encouragement than the timid Timothy. Paul is focused on practical organization and theological clarity.",
+        "culturalContext": "Paul's authority over the Cretan churches rests on his role as their founder. He writes to reinforce Titus's delegated authority in a challenging cultural environment."
+      },
+      {
+        "id": "titus",
+        "name": "Titus",
+        "role": "Recipient, Paul's delegate on Crete",
+        "bio": "Titus was a Greek convert who became one of Paul's most capable associates. He successfully mediated the conflict in the Corinthian church (2 Corinthians 7:6-7) and organized their collection for Jerusalem (2 Corinthians 8:6). Despite his importance, he is never mentioned in Acts. Paul calls him 'my true child in a common faith' and entrusts him with the demanding task of organizing churches across Crete.",
+        "culturalContext": "As a Greek, Titus was a living proof of the gospel's reach beyond Judaism. Paul specifically did not circumcise him (Galatians 2:3), making him a symbol of Gentile freedom from the law. His work on Crete -- a culturally challenging island -- demonstrates his toughness and competence."
+      }
+    ],
+    "places": [
+      {
+        "id": "crete",
+        "name": "Crete",
+        "description": "A large island in the Mediterranean Sea, south of mainland Greece. In Paul's time, Crete was a Roman province with numerous towns and a mixed population of Greeks, Romans, and Jews. The island had a reputation for moral laxity and dishonesty.",
+        "culturalSignificance": "Crete had a long history stretching back to the Minoan civilization. By the first century, its reputation was poor -- 'to cretize' meant 'to lie' in Greek. This cultural context made church planting there particularly challenging. The false teachers appear to have been primarily Jewish Christians promoting circumcision, myths, and genealogies.",
+        "modernLocation": "Crete, Greece -- the largest Greek island, located in the southern Aegean Sea.",
+        "latitude": 35.2401,
+        "longitude": 24.8093
+      },
+      {
+        "id": "nicopolis",
+        "name": "Nicopolis",
+        "description": "The city where Paul plans to spend the winter and asks Titus to meet him. There were several cities named Nicopolis ('city of victory') in the Roman Empire; this is likely the one on the western coast of Greece in Epirus.",
+        "culturalSignificance": "Founded by Augustus to commemorate his victory at Actium (31 BC), Nicopolis was a significant city in western Greece. Paul's plan to winter there suggests it was a strategic base for ministry.",
+        "modernLocation": "Ruins near Preveza, western Greece.",
+        "latitude": 38.9167,
+        "longitude": 20.7167
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 49 AD",
+        "event": "Titus accompanies Paul to the Jerusalem Council (Galatians 2:1-3)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 55-57 AD",
+        "event": "Titus mediates conflict in Corinth and organizes the collection",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Paul's first Roman imprisonment (Acts 28)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 62-66 AD",
+        "event": "Paul evangelizes Crete and leaves Titus to organize the churches",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 62-66 AD",
+        "event": "Paul writes to Titus from elsewhere, instructing him on church order",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 62-66 AD",
+        "event": "Paul plans to winter in Nicopolis and summons Titus to join him",
+        "isThisBook": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Paul opens with one of his longest and most theologically rich introductions, grounding his authority in God's eternal plan. He then reminds Titus of his assignment: appoint elders in every town on Crete. The qualifications for elders closely parallel those in 1 Timothy 3 but with sharper urgency, because the Cretan situation is dire. The chapter's second half turns to the false teachers -- members of 'the circumcision party' who are ruining whole households with their teaching. Paul quotes a Cretan poet to characterize the problem and tells Titus to 'rebuke them sharply.'",
+        "themes": [
+          "Paul's apostolic authority and God's eternal plan",
+          "Elder qualifications",
+          "The threat of false teachers from the circumcision party",
+          "Cretan cultural challenges",
+          "Sharp rebuke as pastoral necessity"
+        ],
+        "contextInBook": "Chapter 1 establishes the twin agenda of the letter: appoint good leaders and confront bad teachers. The organizational and polemical tasks are inseparable -- you cannot build healthy churches without both."
+      },
+      "wordStudies": [
+        {
+          "id": "elder",
+          "greek": "Greek: presbyteros",
+          "transliteration": "Elder",
+          "translatedAs": "An older man, and by extension, a community leader",
+          "meaning": "An older man, and by extension, a community leader. In Jewish and early Christian usage, elders were respected leaders who governed the community. Paul uses 'elder' (presbyteros) and 'overseer' (episkopos) interchangeably here.",
+          "significance": "1:5"
+        },
+        {
+          "id": "sound",
+          "greek": "Greek: hygiaino",
+          "transliteration": "Sound",
+          "translatedAs": "To be healthy",
+          "meaning": "To be healthy. Paul uses this medical term repeatedly for doctrine: 'sound' teaching is 'healthy' teaching. Doctrine is not abstract -- it either heals or sickens the community.",
+          "significance": "1:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness,",
+          "explainer": "Paul identifies himself as 'a servant of God and an apostle of Jesus Christ, for the sake of the faith of God's elect and their knowledge of the truth, which accords with godliness.' The introduction links three things: faith, truth, and godliness. Genuine belief produces genuine knowledge, which produces genuine living.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "in hope of eternal life, which God, who can’t lie, promised before time began;",
+          "explainer": "This is all 'in hope of eternal life, which God, who never lies, promised before the ages began.' Paul traces the gospel back before creation. Eternal life is not a new idea -- it was promised before time existed by a God whose character makes deception impossible.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The phrase 'God who never lies' may be a deliberate contrast with the Cretans, who were known as liars (see verse 12). God's truthfulness stands against Cretan cultural dishonesty.",
+            "now": "The claim that God made promises before creation raises deep questions about the nature of time, God's eternal plan, and the relationship between divine sovereignty and human history. Paul drops this massive theological claim into his opening greeting almost casually."
+          }
+        },
+        {
+          "number": 3,
+          "text": "but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior;",
+          "explainer": "At 'the proper time' God manifested his word through the preaching entrusted to Paul 'by the command of God our Savior.' The gospel was hidden for ages and revealed at precisely the right moment in history. Paul's preaching is not his idea but God's command.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.",
+          "explainer": "'To Titus, my true child in a common faith: Grace and peace from God the Father and Christ Jesus our Savior.' Titus receives the same 'true child' designation as Timothy (1 Timothy 1:2). The 'common faith' emphasizes what Paul and Titus share despite their different ethnic backgrounds (Jew and Greek).",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Titus, my true child",
+              "personId": "titus",
+              "wordId": null,
+              "startIndex": 3
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "I left you in Crete for this reason, that you would set in order the things that were lacking, and appoint elders in every city, as I directed you;",
+          "explainer": "'This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you.' Titus has a dual mission: organize what Paul began and install qualified leadership everywhere. 'Every town' suggests multiple Cretan churches needing structure.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Appointing elders in every town', 'explanation': 'The Jewish synagogue model of elder governance was the template for early Christian church organization. Every Jewish community had a council of elders who managed community affairs. Paul adapted this model for Gentile churches, ensuring each local congregation had accountable leadership.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior.",
+          "explainer": "An elder must be 'above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination.' The family test again: an elder's household reflects his leadership capacity. On Crete, where moral standards were notoriously low, these qualifications were demanding.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For the overseer must be blameless, as God’s steward; not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain;",
+          "explainer": "'For an overseer, as God's steward, must be above reproach.' Paul shifts from 'elder' to 'overseer' without any transition, confirming they are the same office. The list of disqualifications follows: 'not arrogant, not quick-tempered, not a drunkard, not violent, not greedy for gain.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled;",
+          "explainer": "Positively, he must be 'hospitable, a lover of good, self-controlled, upright, holy, and disciplined.' Six positive qualities balance the five negatives of verse 7. An elder is defined by what he is, not just by what he avoids.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.",
+          "explainer": "He must 'hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and also to rebuke those who contradict it.' Two competencies: positive teaching (instruction in sound doctrine) and negative defense (rebuking opposition). Both require a firm grip on the apostolic message.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a context where false teachers were active and aggressive, elders needed to be intellectually equipped for theological combat. Mere moral character was not enough -- they had to understand and defend the faith.",
+            "now": "The dual requirement for positive teaching and defensive rebuttal remains central to pastoral ministry. Leaders who can only teach but not engage opponents leave their congregations vulnerable; leaders who can only argue but not edify leave them malnourished."
+          }
+        },
+        {
+          "number": 10,
+          "text": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision,",
+          "explainer": "'For there are many who are insubordinate, empty talkers and deceivers, especially those of the circumcision party.' Paul names the primary threat: Jewish Christians who insist on Torah observance for Gentile converts. 'Many' indicates this is not an isolated problem but a widespread movement on Crete.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "whose mouths must be stopped; men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake.",
+          "explainer": "'They must be silenced, since they are upsetting whole families by teaching for shameful gain what they ought not to teach.' The false teachers are motivated by money and are destroying entire households. 'Silenced' is strong language -- Paul does not want dialogue with these teachers but their suppression.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Teaching for shameful gain', 'explanation': 'Itinerant teachers in the ancient world often charged for their instruction. The false teachers on Crete were apparently profiting financially from their false teaching -- turning theology into a business that exploited families.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.”",
+          "explainer": "'One of the Cretans, a prophet of their own, said, \"Cretans are always liars, evil beasts, lazy gluttons.\"' Paul quotes the Cretan poet Epimenides (c. 6th century BC), who was considered a prophet on Crete. This creates a logical paradox: if all Cretans are liars, and a Cretan said this, is the statement true?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith,",
+          "explainer": "'This testimony is true.' Paul endorses the characterization -- not as ethnic prejudice but as a cultural assessment relevant to ministry. The false teachers' behavior exemplifies the very vices their own poet identified. 'Therefore rebuke them sharply, that they may be sound in the faith.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "not paying attention to Jewish fables and commandments of men who turn away from the truth.",
+          "explainer": "The goal is that they stop 'devoting themselves to Jewish myths and the commands of people who turn away from the truth.' The false teaching combines speculative mythology with human religious rules. Both distract from the gospel and lead away from truth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.",
+          "explainer": "'To the pure, all things are pure, but to the defiled and unbelieving, nothing is pure; but both their minds and their consciences are defiled.' Paul strikes at the root of the false teachers' asceticism: they make things unclean that God made clean. The problem is not in the things but in the people -- a defiled mind corrupts everything it touches.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Mark 7:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.",
+          "explainer": "'They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work.' The chapter's devastating conclusion: the false teachers' behavior contradicts their confession. Profession without practice is worthless. Being 'unfit for any good work' is the ultimate insult in a letter that makes good works central to the Christian life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Paul instructs Titus on what 'accords with sound doctrine' for different groups: older men, older women, younger women, younger men, and slaves. Each group receives specific behavioral expectations rooted in their social context. The chapter then soars into one of the great theological passages of the New Testament: the grace of God has appeared, bringing salvation for all people and training us to renounce ungodliness and live self-controlled, upright, and godly lives as we await Christ's glorious appearing. Grace is not just forgiveness -- it is a transforming power that educates us in righteousness.",
+        "themes": [
+          "Age- and role-specific instruction",
+          "Sound doctrine expressed in behavior",
+          "Grace as training for godly living",
+          "The blessed hope of Christ's appearing",
+          "Christ's self-giving to purify a people"
+        ],
+        "contextInBook": "Chapter 2 answers the question 'What does sound doctrine look like in practice?' After establishing leadership (ch. 1), Paul now addresses the entire congregation, showing that healthy theology produces healthy living. The theological climax in 2:11-14 is the heart of the whole letter."
+      },
+      "wordStudies": [
+        {
+          "id": "appeared",
+          "greek": "Greek: epiphaino",
+          "transliteration": "Appeared",
+          "translatedAs": "To shine upon, to become visible",
+          "meaning": "To shine upon, to become visible. The root of our word 'epiphany.' Paul uses it both for grace's first appearing in Christ and for the future glorious appearing at Christ's return. The gospel is bookended by two epiphanies.",
+          "significance": "2:11"
+        },
+        {
+          "id": "trains",
+          "greek": "Greek: paideuo",
+          "transliteration": "Trains",
+          "translatedAs": "To educate, discipline, train",
+          "meaning": "To educate, discipline, train. The word behind 'pedagogy.' Grace does not simply forgive -- it educates. It trains believers the way a tutor trains a child, shaping character through instruction and correction over time.",
+          "significance": "2:12"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "But say the things which fit sound doctrine,",
+          "explainer": "'But as for you, teach what accords with sound doctrine.' The contrast is with the false teachers of chapter 1. Where they taught myths and rules, Titus must teach what produces healthy community life. 'Sound' (hygiaino) means healthy -- doctrine that heals.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance:",
+          "explainer": "'Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in patience.' Three behavioral qualities (sober, dignified, self-controlled) and three theological virtues (faith, love, patience). Older men should model the integration of character and conviction.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Older men as models', 'explanation': \"In the ancient world, older men were expected to be the moral backbone of the community. Their behavior set the standard. Paul's instructions align with cultural expectations but ground them in Christian theology rather than social convention.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good;",
+          "explainer": "'Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine. They are to teach what is good.' Older women have a teaching role -- specifically mentoring younger women. They must model the behavior they teach.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "that they may train the young wives to love their husbands, to love their children,",
+          "explainer": "Older women should 'train the young women to love their husbands and children.' The word 'train' (sophronizo) means to bring to one's senses, to make wise. The assumption is that loving well is a skill that must be learned, not just an emotion that happens naturally.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, many marriages were arranged, and young women entered households as virtual strangers. Learning to love a husband and manage children required mentoring from experienced women.",
+            "now": "While the cultural context has changed, the principle that relational skills require mentoring and community support remains valid. Programs for marriage mentoring and parenting support operate on the same logic Paul establishes here."
+          }
+        },
+        {
+          "number": 5,
+          "text": "to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed.",
+          "explainer": "Young women should be 'self-controlled, pure, working at home, kind, and submissive to their own husbands, that the word of God may not be reviled.' The purpose clause is crucial: the behavior protects the gospel's reputation. In a culture hostile to Christianity, women who defied social norms could bring accusations against the whole community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Likewise, exhort the younger men to be sober minded;",
+          "explainer": "'Likewise, urge the younger men to be self-controlled.' Paul's instruction for young men is strikingly brief -- one word: self-control. In a culture known for male impulsiveness and excess, this single virtue addressed the most pressing need.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "in all things showing yourself an example of good works; in your teaching showing integrity, seriousness, incorruptibility,",
+          "explainer": "'Show yourself in all respects to be a model of good works, and in your teaching show integrity, dignity.' Paul now speaks directly to Titus: be a personal example. Teaching is not just words but a way of life. Integrity (aphthorian -- incorruptibility) means Titus's teaching must be free from corruption and ulterior motives.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "and soundness of speech that can’t be condemned; that he who opposes you may be ashamed, having no evil thing to say about us.",
+          "explainer": "His teaching should give 'sound speech that cannot be condemned, so that an opponent may be put to shame, having nothing evil to say about us.' The best defense against critics is irreproachable conduct and teaching. When opponents can find nothing legitimate to criticize, their attacks shame only themselves.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Exhort servants to be in subjection to their own masters, and to be well-pleasing in all things; not contradicting;",
+          "explainer": "'Bondservants are to be submissive to their own masters in everything; they are to be well-pleasing, not argumentative.' Paul addresses slaves within the social realities of the ancient world. His focus is on how enslaved believers can witness to the gospel in their current situation.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Slaves and masters on Crete', 'explanation': \"Slavery was pervasive throughout the Roman Empire. Cretan households included enslaved people in domestic and agricultural roles. Paul's instructions aim to make Christian slaves distinctive in their conduct, not to endorse the institution.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "not stealing, but showing all good fidelity; that they may adorn the doctrine of God, our Savior, in all things.",
+          "explainer": "'Not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.' The stunning phrase: slaves can 'adorn' (kosmeo -- make beautiful, decorate) the doctrine of God. The lowest members of society, by their faithful conduct, make the gospel attractive. This is revolutionary -- the enslaved person becomes a theologian in action.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For the grace of God has appeared, bringing salvation to all men,",
+          "explainer": "'For the grace of God has appeared, bringing salvation for all people.' This begins one of the greatest theological passages in Paul's letters. Grace is personified -- it 'appeared' (epiphany language), like the sun rising. It brings salvation not for a select group but for all people. This is the theological foundation for everything Paul has been instructing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where salvation was typically reserved for the elite, the initiated, or the ethnically chosen, Paul's claim that grace brings salvation 'for all people' was revolutionary. Slave and free, Cretan and Jew, male and female -- all are included.",
+            "now": "The universal scope of God's saving grace remains the theological engine of Christian mission. This verse grounds the conviction that the gospel is for everyone, everywhere, always."
+          }
+        },
+        {
+          "number": 12,
+          "text": "instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;",
+          "explainer": "Grace is 'training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age.' Grace is not passive permission but active pedagogy. It trains (paideuo) -- like a tutor disciplining a child. Grace teaches us to say no to sin and yes to righteousness. Three dimensions of right living: self-controlled (inward), upright (toward others), and godly (toward God).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 6:1-2",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ;",
+          "explainer": "'Waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ.' Between the two epiphanies -- grace's past appearing and glory's future appearing -- believers live in hopeful expectation. The phrase 'our great God and Savior Jesus Christ' is one of the clearest affirmations of Christ's deity in the New Testament.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "who gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works.",
+          "explainer": "Christ 'gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.' Three things Christ accomplishes: redemption (freedom from lawlessness), purification (cleansing), and creation of a people defined by good works. Good works are not the cause of salvation but its purpose.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 19:5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Say these things and exhort and reprove with all authority. Let no man despise you.",
+          "explainer": "'Declare these things; exhort and rebuke with all authority. Let no one disregard you.' Titus has the full weight of apostolic authority behind him. His teaching is not opinion but proclamation. 'Let no one disregard you' echoes the similar charge to Timothy (1 Timothy 4:12).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Paul begins with instructions about civic responsibility -- submitting to authorities, being gentle, avoiding quarrels. He then grounds these behaviors in theology with the second great doctrinal passage of the letter: 'When the goodness and loving kindness of God our Savior appeared, he saved us, not because of works done by us in righteousness, but according to his own mercy.' Salvation comes through the washing of regeneration and renewal by the Holy Spirit. Paul insists that those who believe should be careful to devote themselves to good works. He warns against foolish controversies, gives instructions about specific people, and closes with greetings.",
+        "themes": [
+          "Civic responsibility and gentleness",
+          "Salvation by mercy, not works",
+          "The washing of regeneration",
+          "Good works as the fruit of faith",
+          "Avoiding foolish controversies",
+          "Community and fellowship"
+        ],
+        "contextInBook": "Chapter 3 brings the letter full circle: from leadership appointment (ch. 1) to congregational instruction (ch. 2) to civic engagement and theological grounding (ch. 3). The second great theological passage (3:4-7) balances the first (2:11-14), and together they form the doctrinal spine of the letter."
+      },
+      "wordStudies": [
+        {
+          "id": "regeneration",
+          "greek": "Greek: palingenesia",
+          "transliteration": "Regeneration",
+          "translatedAs": "New birth, renewal, being born again",
+          "meaning": "New birth, renewal, being born again. Used only here and in Matthew 19:28 in the New Testament. It describes the radical new beginning that salvation brings -- not improvement but complete re-creation.",
+          "significance": "3:5"
+        },
+        {
+          "id": "justified",
+          "greek": "Greek: dikaioo",
+          "transliteration": "Justified",
+          "translatedAs": "To declare righteous, to put right with God",
+          "meaning": "To declare righteous, to put right with God. Justification is a legal metaphor: God the judge pronounces the defendant 'not guilty' -- not because of innocence but because of grace. In Titus, justification leads to inheritance -- becoming heirs of eternal life.",
+          "significance": "3:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,",
+          "explainer": "'Remind them to be submissive to rulers and authorities, to be obedient, to be ready for every good work.' Christians should be model citizens. In a Roman province like Crete, this was both practical wisdom (avoid persecution) and theological conviction (government serves God's purposes).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 13:1-7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.",
+          "explainer": "'To speak evil of no one, to avoid quarreling, to be gentle, and to show perfect courtesy toward all people.' Four social virtues: no slander, no fighting, gentleness, and courtesy. On an island known for quarreling and dishonesty, Christians should stand out by their civility.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the honor-shame culture of the Mediterranean, quarreling and verbal attacks were common tools for gaining social status. Paul asks Christians to opt out of this competitive system entirely.",
+            "now": "The instruction to show 'perfect courtesy toward all people' -- not just fellow Christians -- is increasingly countercultural in polarized societies. Paul's vision of Christian civility extends to every human encounter."
+          }
+        },
+        {
+          "number": 3,
+          "text": "For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.",
+          "explainer": "'For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.' Paul includes himself: 'we' were just as bad. This prevents any self-righteousness in Christian moral instruction. The catalog of pre-conversion vices is stark and honest.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "But when the kindness of God our Savior and his love toward mankind appeared,",
+          "explainer": "'But when the goodness and loving kindness of God our Savior appeared.' The second great epiphany statement (parallel to 2:11). This time it is not grace but 'goodness and loving kindness' (philanthropia -- literally 'love for humanity') that appears. The word philanthropia was used for the generosity of rulers; Paul applies it to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,",
+          "explainer": "'He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit.' The most complete statement of salvation by grace in the Pastoral Epistles. Three negatives and three positives: not our works, not our righteousness, not our merit -- but his mercy, his washing, his Spirit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The false teachers promoted works-based righteousness through Jewish law observance. Paul counters with the most explicit denial possible: salvation is not based on 'works done by us in righteousness' but on God's mercy alone.",
+            "now": "This verse is a cornerstone of Protestant theology and the doctrine of sola gratia (grace alone). The phrase 'washing of regeneration' has been connected to baptism by many traditions, creating an ongoing discussion about the relationship between baptism and salvation."
+          }
+        },
+        {
+          "number": 6,
+          "text": "whom he poured out on us richly, through Jesus Christ our Savior;",
+          "explainer": "The Holy Spirit was 'poured out on us richly through Jesus Christ our Savior.' The Spirit is not given sparingly but lavishly -- 'poured out richly.' Each person of the Trinity is active in salvation: the Father's mercy, the Son's mediation, the Spirit's renewal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Joel 2:28",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "that being justified by his grace, we might be made heirs according to the hope of eternal life.",
+          "explainer": "'So that being justified by his grace we might become heirs according to the hope of eternal life.' Justification by grace leads to inheritance. The legal metaphor (justified) flows into the family metaphor (heirs). We are declared righteous and adopted as children -- and children inherit the family estate.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "This saying is faithful, and concerning these things I desire that you affirm confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men;",
+          "explainer": "'The saying is trustworthy, and I want you to insist on these things, so that those who have believed in God may be careful to devote themselves to good works.' Another 'trustworthy saying' formula. The punchline of the entire letter: those saved by grace should be devoted to good works. Grace and works are not opposed -- grace produces works.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The false teachers on Crete were producing arguments and divisions, not good works. Paul's emphasis on practical goodness was a direct counter to their speculative, fruitless theology.",
+            "now": "The tension between grace and works continues to generate theological discussion. Titus 3:5-8 is one of the clearest passages showing how they relate: grace saves (v.5), and saved people do good works (v.8). Works are not the cause but the result of salvation."
+          }
+        },
+        {
+          "number": 9,
+          "text": "but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain.",
+          "explainer": "'But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.' Paul draws a sharp line between profitable activity (good works) and unprofitable activity (arguments). The false teachers' favorite activities -- genealogies, legal debates, controversies -- produce nothing of value.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Avoid a factious man after a first and second warning,",
+          "explainer": "'As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him.' Church discipline for divisive people: two warnings, then separation. Paul does not prescribe endless patience with those who actively tear the community apart.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Two warnings then separation', 'explanation': 'This mirrors the Jewish principle of multiple witnesses and warnings before judgment (Deuteronomy 19:15). Paul adapts it for church discipline: give the divisive person two chances to repent, then protect the community by separating.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "knowing that such a one is perverted and sins, being self-condemned.",
+          "explainer": "'Knowing that such a person is warped and sinful; he is self-condemned.' The divisive person has been given opportunity to repent and refused. His continued behavior condemns him -- not Titus's judgment but his own choices.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there.",
+          "explainer": "'When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, for I have decided to spend the winter there.' Practical travel plans. Paul will send a replacement for Titus so that Titus can join Paul. Nicopolis in western Greece is the winter destination.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Send Zenas, the lawyer, and Apollos on their journey speedily, that nothing may be lacking for them.",
+          "explainer": "'Do your best to speed Zenas the lawyer and Apollos on their way; see that they lack nothing.' Zenas and Apollos are apparently traveling through Crete, and Titus should support their journey. 'Speed on their way' (propempo) means to supply them with provisions for travel -- a concrete expression of the good works Paul has been commanding.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Acts 18:24-28",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Let our people also learn to maintain good works for necessary uses, that they may not be unfruitful.",
+          "explainer": "'And let our people learn to devote themselves to good works, so as to help cases of urgent need, and not be unfruitful.' The letter's final instruction circles back to its central theme: good works. 'Our people' must learn (it requires training) to be proactively generous, especially in emergencies. Fruitfulness, not just faith, is the goal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.",
+          "explainer": "'All who are with me send greetings to you. Greet those who love us in the faith. Grace be with you all.' The closing is brief and warm. 'Those who love us in the faith' -- the community is defined by mutual love. The letter ends with its favorite word: grace. Grace opened the letter, grounded its theology, and now closes it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3139 @@
+{
+  "book": {
+    "id": "2corinthians",
+    "name": "2 Corinthians",
+    "testament": "New Testament",
+    "author": "Paul the Apostle",
+    "dateWritten": "c. 55-56 AD",
+    "writtenFrom": "Macedonia (likely Philippi)",
+    "writtenTo": "The church in Corinth, Greece",
+    "chapterCount": 13,
+    "verseCount": 257,
+    "explainer": {
+      "overview": "Second Corinthians is Paul's most personal and emotionally raw letter. Unlike the structured arguments of Romans or the doctrinal corrections of Galatians, this letter reads like a man pouring out his heart. Paul had been deeply hurt by the Corinthian church -- they questioned his authority, preferred flashier speakers, and some had actively undermined him. He writes to defend his ministry, but in doing so he turns conventional ideas of leadership upside down. His 'boasting' is in his weaknesses, his sufferings, and his dependence on God. The letter contains some of Paul's most memorable phrases: 'we have this treasure in jars of clay,' 'if anyone is in Christ, he is a new creation,' and 'my grace is sufficient for you, for my power is made perfect in weakness.'",
+      "historicalContext": "After writing 1 Corinthians, Paul visited Corinth and had a painful confrontation with someone in the church (the 'painful visit' of 2:1). He then wrote a severe letter (now lost, or possibly chapters 10-13) that caused the Corinthians grief. Titus brought news that most of the church had repented, which prompted this letter of reconciliation. However, a faction of 'super-apostles' -- itinerant Jewish-Christian preachers with impressive credentials -- continued to undermine Paul. The last four chapters are Paul's fiercest defense against them.",
+      "whyItMatters": "Second Corinthians offers the most authentic window into Paul's inner life. He is vulnerable about his struggles, transparent about his tears, and honest about feeling crushed beyond his ability to endure. For anyone who has faced criticism, betrayal, or exhaustion in leadership, Paul's words offer both solidarity and a radical reframing: weakness is not the opposite of effective ministry -- it is the prerequisite. God's power works best through broken vessels.",
+      "keyThemes": [
+        "Strength through weakness",
+        "The ministry of reconciliation",
+        "New creation in Christ",
+        "Generous giving",
+        "Suffering and comfort",
+        "Authentic vs. counterfeit leadership"
+      ]
+    },
+    "people": [
+      {
+        "id": "paul",
+        "name": "Paul the Apostle",
+        "role": "Author, founder of the Corinthian church",
+        "bio": "Paul founded the church in Corinth around 50-51 AD during his second missionary journey. His relationship with this church was the most turbulent of all his congregations. In this letter he reveals more about his personal struggles than anywhere else -- beatings, imprisonments, shipwrecks, sleepless nights, and a mysterious 'thorn in the flesh' that God refused to remove. He defends his apostleship not with credentials but with scars.",
+        "culturalContext": "Paul's opponents judged leaders by Greco-Roman rhetorical standards: polished speech, impressive presence, and visible success. Paul's admission of weakness and suffering made him look like a failure by those standards. He deliberately inverts the values system -- true power comes through weakness."
+      },
+      {
+        "id": "titus",
+        "name": "Titus",
+        "role": "Paul's trusted coworker and emissary to Corinth",
+        "bio": "A Gentile convert who became one of Paul's most reliable associates. Paul sent him to Corinth to deal with the crisis, and Titus brought back encouraging news that the church had largely repented. Paul also entrusted him with organizing the collection for the Jerusalem church. His diplomatic skills made him ideal for handling the volatile Corinthian situation.",
+        "culturalContext": "As an uncircumcised Gentile serving as Paul's representative to a mixed Jewish-Gentile church, Titus himself embodied Paul's gospel of inclusion. His effectiveness demonstrated that leadership was about character, not ethnic credentials."
+      },
+      {
+        "id": "timothy",
+        "name": "Timothy",
+        "role": "Paul's co-sender of the letter",
+        "bio": "Timothy is named as co-sender in the opening greeting, indicating his close association with Paul's ministry to Corinth. He had been sent to Corinth earlier (1 Corinthians 4:17) and was known to the congregation. His inclusion in the greeting lent additional authority to the letter.",
+        "culturalContext": "Timothy's mixed heritage (Jewish mother, Greek father) made him a bridge figure in the early church's negotiations between Jewish and Gentile Christians."
+      },
+      {
+        "id": "super_apostles",
+        "name": "The 'Super-Apostles'",
+        "role": "Rival teachers undermining Paul in Corinth",
+        "bio": "A group of Jewish-Christian teachers who arrived in Corinth with impressive credentials -- letters of recommendation, rhetorical skill, and possibly connections to the Jerusalem church. They charged for their teaching (unlike Paul), boasted of their spiritual experiences, and questioned Paul's legitimacy. Paul sarcastically calls them 'super-apostles' and eventually labels them 'false apostles, deceitful workers.'",
+        "culturalContext": "In Greco-Roman culture, itinerant teachers were judged by their eloquence, appearance, and the fees they charged (higher fees implied higher quality). Paul's refusal to accept payment and his unimpressive appearance made him look inferior by these cultural standards."
+      }
+    ],
+    "places": [
+      {
+        "id": "corinth",
+        "name": "Corinth",
+        "description": "A major Greek city on the narrow isthmus connecting mainland Greece to the Peloponnese. It controlled two harbors and was a commercial hub. The church Paul founded there was diverse, contentious, and reflected the city's complex social dynamics.",
+        "culturalSignificance": "Corinth was rebuilt by Rome as a colony in 44 BC and quickly became one of the wealthiest cities in Greece. Its population was a mix of Roman veterans, freed slaves, Greeks, Jews, and merchants from across the Mediterranean. The city's reputation for sexual immorality (the verb 'to Corinthianize' meant to practice fornication) and its obsession with status and rhetoric shaped the problems Paul had to address.",
+        "modernLocation": "Near modern Corinth, Greece, about 50 miles west of Athens.",
+        "latitude": 37.9059,
+        "longitude": 22.8799
+      },
+      {
+        "id": "macedonia",
+        "name": "Macedonia",
+        "description": "The Roman province in northern Greece where Paul wrote this letter, likely from Philippi. He had traveled there after leaving Asia and was waiting anxiously for news from Corinth via Titus.",
+        "culturalSignificance": "Macedonia was the homeland of Alexander the Great and a major Roman province. The Macedonian churches (Philippi, Thessalonica, Berea) were among Paul's most generous supporters and are held up in this letter as models of sacrificial giving.",
+        "modernLocation": "Northern Greece.",
+        "latitude": 41.0,
+        "longitude": 22.0
+      },
+      {
+        "id": "jerusalem",
+        "name": "Jerusalem",
+        "description": "The center of the early Christian movement and home of the 'mother church.' Paul was organizing a collection from his Gentile churches to support the impoverished Jerusalem believers -- a project that dominates chapters 8-9.",
+        "culturalSignificance": "The collection for Jerusalem was not mere charity. It was Paul's tangible demonstration that Gentile and Jewish Christians belonged to one body. If the Gentile churches gave generously to Jerusalem, it would prove that the gospel had created real unity across ethnic lines.",
+        "modernLocation": "Modern Jerusalem, Israel/Palestine.",
+        "latitude": 31.7683,
+        "longitude": 35.2137
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 50-51 AD",
+        "event": "Paul founds the church in Corinth during his second missionary journey",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 53-54 AD",
+        "event": "Paul writes 1 Corinthians from Ephesus",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 54-55 AD",
+        "event": "Paul makes a 'painful visit' to Corinth that ends badly",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 55 AD",
+        "event": "Paul writes a 'severe letter' (now lost) delivered by Titus",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 55-56 AD",
+        "event": "Titus meets Paul in Macedonia with good news of repentance",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 55-56 AD",
+        "event": "Paul writes 2 Corinthians from Macedonia",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 56-57 AD",
+        "event": "Paul visits Corinth for three months (Acts 20:2-3)",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 57 AD",
+        "event": "Paul writes Romans from Corinth during this visit",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Paul opens by grounding suffering in divine comfort. He has been through something so severe in Asia that he despaired of life itself, but God delivered him. He then defends his change of travel plans -- he did not come to Corinth as promised, not from fickleness but to spare them another painful visit. The chapter establishes the letter's emotional register: raw, vulnerable, and deeply personal.",
+        "themes": [
+          "God as the source of all comfort",
+          "Suffering as preparation for ministry",
+          "Paul's sincerity and changed plans",
+          "The reliability of God's promises"
+        ],
+        "contextInBook": "This opening sets the tone for the entire letter. Paul will return to the theme of suffering-producing-comfort repeatedly. His defense of his travel plans hints at the breach of trust between him and the Corinthians that the letter aims to repair."
+      },
+      "wordStudies": [
+        {
+          "id": "comfort",
+          "greek": "Greek: paraklesis",
+          "transliteration": "Comfort",
+          "translatedAs": "More than emotional soothing -- it means encourage",
+          "meaning": "More than emotional soothing -- it means encouragement, exhortation, and coming alongside someone in their distress. The root is the same as 'Paraclete' (parakletos), the Holy Spirit as advocate and helper. Paul uses this word ten times in verses 3-7 alone.",
+          "significance": "1:3"
+        },
+        {
+          "id": "affliction",
+          "greek": "Greek: thlipsis",
+          "transliteration": "Affliction",
+          "translatedAs": "Literally 'pressure' or 'crushing",
+          "meaning": "Literally 'pressure' or 'crushing.' It describes external tribulation that presses in on a person. Paul uses it throughout 2 Corinthians to describe his ministry experiences -- not minor inconveniences but life-threatening pressures.",
+          "significance": "1:4"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:",
+          "explainer": "Paul identifies himself as 'an apostle of Christ Jesus by the will of God.' This is not a casual greeting -- it is an assertion of divine authority that will matter enormously as the letter progresses and Paul defends his legitimacy against rival teachers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "explainer": "The standard Pauline greeting combining the Greek 'grace' (charis) with the Hebrew 'peace' (shalom). Together they capture both the unmerited gift of God and the wholeness that results from it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort;",
+          "explainer": "Paul blesses 'the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort.' This is one of Paul's most tender descriptions of God. Before addressing any conflict, he grounds everything in God's character as a comforting parent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "who comforts us in all our affliction, that we may be able to comfort those who are in any affliction, through the comfort with which we ourselves are comforted by God.",
+          "explainer": "God comforts us in all our affliction so that we can comfort others with the same comfort we received. Suffering is not pointless -- it equips us to minister to others. Paul is building a theology of purposeful suffering.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Greco-Roman culture, suffering was seen as a sign of divine disfavor or personal failure. Paul radically reframes it as preparation for ministry.",
+            "now": "The idea that personal pain can become a resource for helping others remains central to pastoral care, counseling, and recovery programs like AA's principle of 'wounded healers.'"
+          }
+        },
+        {
+          "number": 5,
+          "text": "For as the sufferings of Christ abound to us, even so our comfort also abounds through Christ.",
+          "explainer": "As the sufferings of Christ overflow to us, so through Christ our comfort also overflows. Paul sees a direct connection between Christ's suffering and his own. The pattern of the Christian life mirrors the pattern of Christ's life: suffering followed by consolation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But if we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort, which produces in you the patient enduring of the same sufferings which we also suffer.",
+          "explainer": "If Paul is afflicted, it is for their comfort and salvation. If he is comforted, it is also for their comfort. Everything Paul experiences has a communal purpose -- nothing is just about him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Our hope for you is steadfast, knowing that, since you are partakers of the sufferings, so also are you of the comfort.",
+          "explainer": "Paul expresses firm hope because the Corinthians share in his sufferings and therefore will share in his comfort. Suffering creates solidarity between Paul and his churches.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For we don’t desire to have you uninformed, brothers, concerning our affliction which happened to us in Asia, that we were weighed down exceedingly, beyond our power, so much that we despaired even of life.",
+          "explainer": "Paul reveals that he experienced such extreme affliction in Asia that he 'despaired even of life.' This is one of the most vulnerable statements in all of Paul's letters. Whatever happened in Asia was so severe that Paul thought he would die.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Affliction in Asia', 'explanation': 'The exact event is debated -- it could refer to the riot in Ephesus (Acts 19:23-41), an imprisonment, a serious illness, or some other crisis. Whatever it was, it pushed Paul to the absolute limit of his endurance.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Yes, we ourselves have had the sentence of death within ourselves, that we should not trust in ourselves, but in God who raises the dead,",
+          "explainer": "Paul says the death sentence he felt within himself was so that he would rely not on himself but on God who raises the dead. Even the experience of nearly dying had a purpose -- it destroyed self-reliance and forced total dependence on God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Corinthians 4:7-12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "who delivered us out of so great a death, and does deliver; on whom we have set our hope that he will also still deliver us;",
+          "explainer": "God delivered Paul from such a deadly peril, and Paul is convinced God will continue to deliver him. His confidence is not in his own resilience but in God's faithfulness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "you also helping together on our behalf by your supplication; that, for the gift given to us by means of many, thanks may be given by many persons on your behalf.",
+          "explainer": "Paul asks for the Corinthians' prayers on his behalf. The result of many people praying is that many will give thanks when God answers. Community prayer produces community gratitude.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For our boasting is this: the testimony of our conscience, that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God we behaved ourselves in the world, and more abundantly toward you.",
+          "explainer": "Paul boasts in his sincerity and godly integrity, acting not by worldly wisdom but by the grace of God. He is preemptively defending himself against the accusations he will address more directly later -- that he is manipulative or insincere.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For we write no other things to you, than what you read or even acknowledge, and I hope you will acknowledge to the end;",
+          "explainer": "Paul insists that his letters contain nothing other than what the Corinthians can read and understand. No hidden agenda, no doublespeak. This may respond to accusations that Paul said one thing in letters and another in person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "as also you acknowledged us in part, that we are your boasting, even as you also are ours, in the day of our Lord Jesus.",
+          "explainer": "He hopes they will understand him fully, just as they have partially understood that Paul is their reason to boast -- and they are his -- on the day of the Lord Jesus.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "In this confidence, I was determined to come first to you, that you might have a second benefit;",
+          "explainer": "Paul had planned to visit Corinth twice -- once on his way to Macedonia and once on his return. He wanted them to have a 'double benefit' of his presence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "and by you to pass into Macedonia, and again from Macedonia to come to you, and to be sent forward by you on my journey to Judea.",
+          "explainer": "The plan was to go from Corinth to Macedonia and then return to Corinth, from where they would send him on to Judea. This was a reasonable travel plan along standard Roman routes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "When I therefore was thus determined, did I show fickleness? Or the things that I purpose, do I purpose according to the flesh, that with me there should be the “Yes, yes” and the “No, no?”",
+          "explainer": "Paul asks whether he was being 'vacillating' when he changed his plans. He anticipates the accusation: if Paul cannot keep a simple travel commitment, how can his gospel be trusted? He insists his plans are not made 'according to the flesh' -- carelessly or selfishly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, a person's word was their bond. Changing plans without explanation could be seen as evidence of unreliable character.",
+            "now": "The tension between commitment and flexibility in leadership remains relevant. When leaders change plans, they owe explanations -- exactly what Paul is providing here."
+          }
+        },
+        {
+          "number": 18,
+          "text": "But as God is faithful, our word toward you was not “Yes and no.”",
+          "explainer": "Paul invokes God's faithfulness to back up his own. Just as God is faithful, Paul's word to them was not 'yes and no' -- he does not say one thing and mean another.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "For the Son of God, Jesus Christ, who was preached among you by us, by me, Silvanus, and Timothy, was not “Yes and no,” but in him is “Yes.”",
+          "explainer": "Jesus Christ, proclaimed by Paul, Silvanus, and Timothy, was not 'yes and no' but in him it is always 'yes.' Christ is the ground of all divine reliability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "For however many are the promises of God, in him is the “Yes.” Therefore also through him is the “Amen”, to the glory of God through us.",
+          "explainer": "All of God's promises find their 'Yes' in Christ. Through Christ we say 'Amen' to the glory of God. This is a remarkable theological statement: Jesus is the fulfillment of every promise God ever made.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Revelation 3:14",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Now he who establishes us with you in Christ, and anointed us, is God;",
+          "explainer": "God establishes Paul and the Corinthians together in Christ, and has anointed them. The language of establishment and anointing emphasizes divine initiative -- God is the actor, not human effort.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "who also sealed us, and gave us the down payment of the Spirit in our hearts.",
+          "explainer": "God has sealed them and given the Spirit in their hearts as a guarantee. The Spirit is the 'down payment' (arrabon) on the full inheritance to come.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "But I call God for a witness to my soul, that I didn’t come to Corinth to spare you.",
+          "explainer": "Paul calls God as witness that it was to spare the Corinthians that he did not come to Corinth. His changed plans were an act of mercy, not fickleness. He was avoiding another painful confrontation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Not that we control your faith, but are fellow workers with you for your joy. For you stand firm in faith.",
+          "explainer": "Paul clarifies: he is not trying to lord it over their faith. They stand firm in their own faith. He works with them for their joy. This distinction between authority and domination is crucial to Paul's understanding of apostolic leadership.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Paul explains that his painful letter was written through tears, not to hurt but to express love. He urges the Corinthians to forgive and restore the person who caused the offense, lest Satan exploit the division. He then describes his anxiety over not finding Titus in Troas, and closes with the striking image of Christians as the 'aroma of Christ' -- a fragrance of life to some and death to others.",
+        "themes": [
+          "Forgiveness and restoration of the offender",
+          "Paul's anxiety and love for Corinth",
+          "Christians as the aroma of Christ",
+          "Sufficiency for ministry"
+        ],
+        "contextInBook": "This chapter bridges the personal defense of chapter 1 with the theological vision of chapters 3-5. The forgiveness of the offender shows that reconciliation, not punishment, is Paul's goal -- foreshadowing the 'ministry of reconciliation' he will describe in chapter 5."
+      },
+      "wordStudies": [
+        {
+          "id": "aroma/fragrance",
+          "greek": "Greek: osme/euodia",
+          "transliteration": "Aroma/Fragrance",
+          "translatedAs": "The image comes from Roman triumphal processions w",
+          "meaning": "The image comes from Roman triumphal processions where incense was burned along the route. To the victorious army, the smell meant triumph; to the captives being led to execution, it meant death. Paul says Christians are that fragrance -- the same gospel brings life to some and judgment to others.",
+          "significance": "2:14-16"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "But I determined this for myself, that I would not come to you again in sorrow.",
+          "explainer": "Paul resolved not to make another painful visit. This confirms that between 1 and 2 Corinthians, Paul had visited Corinth and it went badly. The 'painful visit' is one of the key events behind this letter.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "For if I make you sorry, then who will make me glad but he who is made sorry by me?",
+          "explainer": "If Paul causes them grief, who is left to make him glad except those he has grieved? Paul and the Corinthians are emotionally intertwined -- their pain is his pain.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "And I wrote this very thing to you, so that, when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy would be shared by all of you.",
+          "explainer": "Paul wrote the severe letter so that when he did come, he would not be grieved by those who should make him rejoice. He is confident that his joy is shared by all of them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made sorry, but that you might know the love that I have so abundantly for you.",
+          "explainer": "Paul wrote 'out of much affliction and anguish of heart and with many tears.' This is not a detached authority figure issuing commands. This is a pastor weeping over his congregation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Greco-Roman rhetoric, expressing emotion could be seen as weakness. Paul's opponents likely pointed to his tears as evidence of instability.",
+            "now": "The tension between emotional authenticity and professional composure in leadership remains unresolved. Paul models a kind of leadership that does not hide behind a facade of strength."
+          }
+        },
+        {
+          "number": 5,
+          "text": "But if any has caused sorrow, he has caused sorrow, not to me, but in part (that I not press too heavily) to you all.",
+          "explainer": "The one who caused pain has not only pained Paul but, to some extent, the whole community. Paul is careful not to exaggerate -- 'not to put it too severely.' Even in addressing wrongdoing, he is measured.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "This punishment which was inflicted by the many is sufficient for such a one;",
+          "explainer": "The punishment inflicted by the majority is sufficient. We do not know exactly what happened -- it could be the incestuous man from 1 Corinthians 5, or someone who publicly insulted Paul during his painful visit. Either way, the church disciplined this person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.",
+          "explainer": "Now Paul urges forgiveness and comfort, so the offender is not overwhelmed by excessive sorrow. The goal of church discipline is restoration, not destruction. Once repentance has occurred, continued punishment becomes cruelty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Galatians 6:1",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Therefore I beg you to confirm your love toward him.",
+          "explainer": "Paul urges them to reaffirm their love for this person. After discipline comes active, intentional re-embrace. Passive tolerance is not enough -- the community must actively welcome the restored person back.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "For to this end I also wrote, that I might know the proof of you, whether you are obedient in all things.",
+          "explainer": "Paul explains that one reason he wrote was to test whether they would be obedient in everything. Their willingness to both discipline and forgive demonstrates their maturity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ,",
+          "explainer": "If the Corinthians forgive, Paul forgives too. Whatever he has forgiven, he has done in the presence of Christ for their sake. Paul models the forgiveness he is asking them to practice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "that no advantage may be gained over us by Satan; for we are not ignorant of his schemes.",
+          "explainer": "The reason for forgiveness: so that Satan does not outwit them. Paul is aware of Satan's 'schemes' (noemata -- thought patterns, strategies). Unforgiveness is one of Satan's favorite tools for destroying Christian community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Now when I came to Troas for the Good News of Christ, and when a door was opened to me in the Lord,",
+          "explainer": "Paul arrived in Troas to preach the gospel and found an open door from the Lord. Despite favorable conditions for ministry, he could not take advantage of them because of his anxiety about Corinth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I had no relief for my spirit, because I didn’t find Titus, my brother, but taking my leave of them, I went out into Macedonia.",
+          "explainer": "Paul had no rest in his spirit because he did not find Titus there. So he said goodbye to the Troas believers and went on to Macedonia. Paul's pastoral concern for Corinth was so consuming that he walked away from a successful ministry opportunity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Titus was Paul's emissary to Corinth, carrying the severe letter and tasked with gauging the church's response. Ancient communication was slow and uncertain -- Paul had no way to know how things were going.",
+            "now": "The anxiety of waiting for crucial news is universal. Paul's honesty about his restlessness shows that faith does not eliminate human anxiety -- it coexists with it."
+          }
+        },
+        {
+          "number": 14,
+          "text": "Now thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.",
+          "explainer": "Paul suddenly breaks into thanksgiving: 'Thanks be to God, who in Christ always leads us in triumphal procession.' The image is a Roman triumph -- a military parade where the victorious general displayed his captives. Paul sees himself as a captive in Christ's victory parade.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Triumphal procession', 'explanation': \"A Roman triumphus was the highest military honor. The victorious general rode through Rome in a chariot while captives, spoils, and soldiers paraded behind. Incense was burned along the route. Paul's use of this image is subversive -- he is not the general but the captive, yet he celebrates this.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For we are a sweet aroma of Christ to God, in those who are saved, and in those who perish;",
+          "explainer": "Christians are 'the aroma of Christ' to God among both those who are being saved and those who are perishing. The same fragrance produces opposite reactions depending on the hearer's posture toward God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "to the one a stench from death to death; to the other a sweet aroma from life to life. Who is sufficient for these things?",
+          "explainer": "To one group, the fragrance means death; to another, life. Paul then asks the devastating question: 'Who is sufficient for these things?' The weight of carrying a message that determines eternal destiny is almost unbearable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.",
+          "explainer": "Unlike so many who peddle the word of God, Paul speaks with sincerity, as from God, in the sight of God. The word 'peddle' (kapeleuontes) means to sell like a huckster, adulterating the product for profit. Paul's opponents were in ministry for money; Paul was in it at cost.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Paul contrasts the old covenant ministry of Moses with the new covenant ministry of the Spirit. Moses needed letters carved in stone; Paul's credentials are the Corinthians themselves -- living letters written by the Spirit on human hearts. The glory of Moses' ministry was real but fading; the glory of the Spirit's ministry is permanent and increasing. Moses veiled his face to hide the fading glory; in Christ, the veil is removed and believers are transformed from glory to glory.",
+        "themes": [
+          "Letters of recommendation vs. living proof",
+          "Old covenant vs. new covenant",
+          "The fading glory of Moses and the surpassing glory of Christ",
+          "The veil removed by the Spirit",
+          "Transformation into Christ's image"
+        ],
+        "contextInBook": "This chapter is the theological heart of Paul's defense. His opponents had letters of recommendation (3:1); Paul's credential is the transformed lives of the Corinthians. The old/new covenant contrast also answers the question of 2:16 -- sufficiency comes not from Paul but from God who made him a minister of the new covenant."
+      },
+      "wordStudies": [
+        {
+          "id": "letter/spirit",
+          "greek": "Greek: gramma/pneuma",
+          "transliteration": "Letter/Spirit",
+          "translatedAs": "The 'letter' refers to the written code of the Mos",
+          "meaning": "The 'letter' refers to the written code of the Mosaic law; the 'Spirit' is the Holy Spirit who writes God's will on hearts. The contrast is not between literal and figurative readings of Scripture but between two eras of God's dealing with humanity.",
+          "significance": "3:6"
+        },
+        {
+          "id": "glory",
+          "greek": "Greek: doxa",
+          "transliteration": "Glory",
+          "translatedAs": "The visible radiance of God's presence",
+          "meaning": "The visible radiance of God's presence. In the Old Testament, God's glory filled the tabernacle and Temple. Paul argues that the glory of the new covenant surpasses the old as permanent light surpasses a fading glow.",
+          "significance": "3:7-11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you?",
+          "explainer": "Paul asks whether they are beginning to commend themselves again, or whether they need letters of recommendation. His opponents apparently arrived in Corinth carrying impressive endorsement letters. Paul has none -- and does not need them.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Letters of recommendation', 'explanation': \"In the ancient world, traveling teachers carried letters from respected authorities vouching for their credentials. These were essential for gaining a hearing in new communities. Paul's opponents had them; Paul relied on his track record instead.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "You are our letter, written in our hearts, known and read by all men;",
+          "explainer": "The Corinthians themselves are Paul's letter of recommendation, 'written on our hearts, known and read by everyone.' The proof of Paul's ministry is not a piece of paper but the transformed lives of real people.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.",
+          "explainer": "They are a letter from Christ, delivered by Paul, 'written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.' This echoes Jeremiah's new covenant promise and Ezekiel's vision of new hearts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jeremiah 31:33",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Ezekiel 36:26",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Such confidence we have through Christ toward God;",
+          "explainer": "Paul's confidence comes through Christ toward God. He is not boasting in his own abilities but in what God has done through him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God;",
+          "explainer": "Paul is not competent in himself to claim anything as from himself. His competence comes from God. This directly answers the question of 2:16 -- 'who is sufficient?' Answer: no one, apart from God's enabling.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "who also made us sufficient as servants of a new covenant; not of the letter, but of the Spirit. For the letter kills, but the Spirit gives life.",
+          "explainer": "God has made Paul a minister of a new covenant -- not of the letter but of the Spirit. The letter kills, but the Spirit gives life. This is one of Paul's most consequential theological statements, distinguishing between law-based and Spirit-based religion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The new covenant was a prophetic hope in Jeremiah 31. Paul claims it has arrived in the ministry of the Spirit through Christ.",
+            "now": "The 'letter vs. Spirit' distinction continues to shape Christian debates about legalism versus grace, rules versus relationship, and the role of the Old Testament in Christian life."
+          }
+        },
+        {
+          "number": 7,
+          "text": "But if the service of death, written engraved on stones, came with glory, so that the children of Israel could not look steadfastly on the face of Moses for the glory of his face, which was passing away;",
+          "explainer": "The ministry of death, carved in letters on stone, came with such glory that Israel could not gaze at Moses' face. Even the old covenant, which Paul calls a ministry of death because it condemns sin without empowering obedience, was glorious.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 34:29-35",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "won’t service of the Spirit be with much more glory?",
+          "explainer": "If the ministry of condemnation had glory, how much more will the ministry of the Spirit have glory? Paul argues from lesser to greater: if the old was glorious, the new must be far more so.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "For if the service of condemnation has glory, the service of righteousness exceeds much more in glory.",
+          "explainer": "If there was glory in the ministry of condemnation, the ministry of righteousness must overflow with even more glory. The old covenant diagnosed the disease; the new covenant provides the cure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For most certainly that which has been made glorious has not been made glorious in this respect, by reason of the glory that surpasses.",
+          "explainer": "What once had glory has come to have no glory at all because of the surpassing glory. Like a candle in sunlight -- the candle still burns, but you cannot see it because the greater light overwhelms it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For if that which passes away was with glory, much more that which remains is in glory.",
+          "explainer": "If what was being brought to an end came with glory, much more will what is permanent come with glory. The old covenant was temporary by design; the new covenant is permanent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Having therefore such a hope, we use great boldness of speech,",
+          "explainer": "Since Paul has such a hope, he acts with great boldness. The Greek word is parrhesia -- free, open, uninhibited speech. Paul does not hedge or qualify his message.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "and not as Moses, who put a veil on his face, that the children of Israel wouldn’t look steadfastly on the end of that which was passing away.",
+          "explainer": "Paul is not like Moses, who put a veil over his face so that the Israelites would not gaze at the end of what was being brought to an end. The veil hid the fact that the glory was fading. Paul reads Moses' veil as concealment of the old covenant's obsolescence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "But their minds were hardened, for until this very day at the reading of the old covenant the same veil remains, because in Christ it passes away.",
+          "explainer": "Their minds were hardened. The same veil remains when the old covenant is read -- it is not removed because only through Christ is it taken away. Israel's inability to see the new covenant is a spiritual blindness, not an intellectual one.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "But to this day, when Moses is read, a veil lies on their heart.",
+          "explainer": "Even today, whenever Moses is read, a veil lies over their hearts. Paul grieves over his fellow Jews' inability to see Christ in their own Scriptures.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "But whenever one turns to the Lord, the veil is taken away.",
+          "explainer": "But when one turns to the Lord, the veil is removed. The solution is not better arguments or more education but a turning of the heart toward Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 34:34",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Now the Lord is the Spirit and where the Spirit of the Lord is, there is liberty.",
+          "explainer": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom. One of the most important verses in Paul's theology. The Spirit's presence means liberation from the condemning power of the law.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Paul's context, 'freedom' meant release from the obligation to achieve righteousness through Torah observance. The Spirit enables what the law demanded but could not produce.",
+            "now": "This verse is foundational to Christian understandings of spiritual freedom -- freedom not to do whatever we want, but freedom from the impossible burden of earning God's approval through perfect performance."
+          }
+        },
+        {
+          "number": 18,
+          "text": "But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit.",
+          "explainer": "We all, with unveiled faces, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another. This comes from the Lord who is the Spirit. Transformation happens by beholding -- we become what we gaze at. This is Paul's vision of progressive sanctification: not striving harder but seeing Christ more clearly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Paul presents one of his most powerful images: the gospel is a treasure carried in 'jars of clay' -- fragile, ordinary vessels that crack and break. This is by design. God chose weak containers so that the extraordinary power would clearly be God's and not human. Paul catalogs his sufferings -- afflicted, perplexed, persecuted, struck down -- but insists he is never destroyed. His outer self is wasting away, but his inner self is being renewed day by day.",
+        "themes": [
+          "Treasure in jars of clay",
+          "The gospel veiled to the perishing",
+          "Suffering that does not destroy",
+          "The unseen and eternal vs. the seen and temporary"
+        ],
+        "contextInBook": "This chapter is the practical application of chapter 3's theology. If the new covenant ministry surpasses Moses' glory, why does Paul look so beaten up? Because God deliberately chose fragile containers. Paul's weakness is not evidence against his ministry -- it is the strategy of his ministry."
+      },
+      "wordStudies": [
+        {
+          "id": "jars_of_clay",
+          "greek": "Greek: ostrakinos skeuos",
+          "transliteration": "Jars of clay",
+          "translatedAs": "Cheap, breakable pottery -- the ancient equivalent",
+          "meaning": "Cheap, breakable pottery -- the ancient equivalent of disposable containers. They were the most common and least valuable household items. Paul compares himself and other ministers to these fragile vessels to emphasize that the power comes from God, not from them.",
+          "significance": "4:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Therefore seeing we have this ministry, even as we obtained mercy, we don’t faint.",
+          "explainer": "Having this ministry by the mercy of God, Paul does not lose heart. The ministry itself is a gift of mercy, not an achievement. This prevents both pride and despair.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "But we have renounced the hidden things of shame, not walking in craftiness, nor handling the word of God deceitfully; but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.",
+          "explainer": "Paul has renounced 'disgraceful, underhanded ways.' He does not practice cunning or tamper with God's word. This is an implicit accusation against his opponents who apparently use deceptive methods.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Even if our Good News is veiled, it is veiled in those who are dying;",
+          "explainer": "If the gospel is veiled, it is veiled to those who are perishing. The gospel's hiddenness is not a defect in the message but a reflection of spiritual blindness in some hearers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "in whom the god of this world has blinded the minds of the unbelieving, that the light of the Good News of the glory of Christ, who is the image of God, should not dawn on them.",
+          "explainer": "The god of this age has blinded the minds of unbelievers to keep them from seeing the light of the gospel of the glory of Christ. Paul attributes spiritual blindness to Satan's active interference.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For we don’t preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake;",
+          "explainer": "Paul does not proclaim himself but Jesus Christ as Lord, and himself as the Corinthians' servant for Jesus' sake. The message is not about the messenger. Paul's self-understanding is servant, not celebrity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Greco-Roman teachers often promoted themselves and their rhetorical abilities. Paul deliberately deflects attention from himself to Christ.",
+            "now": "The temptation for religious leaders to become the center of attention rather than pointing to Christ remains a perennial problem in every generation."
+          }
+        },
+        {
+          "number": 6,
+          "text": "seeing it is God who said, “Light will shine out of darkness,” who has shone in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+          "explainer": "The God who said 'Let light shine out of darkness' has shone in Paul's heart to give the light of the knowledge of the glory of God in the face of Jesus Christ. Conversion is a new creation -- the same God who created physical light creates spiritual illumination.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 1:3",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "But we have this treasure in clay vessels, that the exceeding greatness of the power may be of God, and not from ourselves.",
+          "explainer": "We have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us. This is the key verse of the chapter and one of the most quoted lines in Paul's letters. The fragility of the vessel is not a problem to be solved but a strategy to be embraced.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Jars of clay', 'explanation': 'Earthenware pottery was the cheapest container available. It cracked, broke, and was easily replaced. Using such a vessel to hold something precious made the treasure -- not the container -- the focus. Archaeological digs frequently find broken pottery; it was ancient trash.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "We are pressed on every side, yet not crushed; perplexed, yet not to despair;",
+          "explainer": "Afflicted in every way but not crushed; perplexed but not driven to despair. Paul begins a series of contrasts that show his suffering always stops short of destruction. The pattern is real danger, real deliverance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "pursued, yet not forsaken; struck down, yet not destroyed;",
+          "explainer": "Persecuted but not forsaken; struck down but not destroyed. The rhythm continues -- each pair acknowledges genuine suffering while affirming divine preservation. Paul is not minimizing his pain; he is testifying to God's faithfulness in the middle of it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "always carrying in the body the putting to death of the Lord Jesus, that the life of Jesus may also be revealed in our body.",
+          "explainer": "Always carrying in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies. Paul's physical suffering reenacts Christ's death, and God's preservation reenacts Christ's resurrection. His body is a theater of the gospel.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Galatians 2:20",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For we who live are always delivered to death for Jesus’ sake, that the life also of Jesus may be revealed in our mortal flesh.",
+          "explainer": "We who live are always being given over to death for Jesus' sake, so that the life of Jesus may be manifested in our mortal flesh. This is not metaphorical -- Paul is describing real, physical danger that he faces continually.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "So then death works in us, but life in you.",
+          "explainer": "Death is at work in Paul, but life is at work in the Corinthians. Paul's suffering produces spiritual benefit for his churches. The minister absorbs the cost so that others receive the blessing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But having the same spirit of faith, according to that which is written, “I believed, and therefore I spoke.” We also believe, and therefore also we speak;",
+          "explainer": "Paul has the same spirit of faith described in Psalm 116:10 -- 'I believed, therefore I spoke.' Despite everything, Paul keeps speaking because he believes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 116:10",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "knowing that he who raised the Lord Jesus will raise us also with Jesus, and will present us with you.",
+          "explainer": "Paul knows that the one who raised the Lord Jesus will raise him also and bring him with the Corinthians into God's presence. The resurrection is not just a past event or a future hope -- it is the guarantee that suffering is not the final word.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For all things are for your sakes, that the grace, being multiplied through the many, may cause the thanksgiving to abound to the glory of God.",
+          "explainer": "Everything is for the Corinthians' sake, so that as grace extends to more and more people, it may increase thanksgiving to the glory of God. The ultimate goal of Paul's ministry is not his own success but the expansion of gratitude toward God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Therefore we don’t faint, but though our outward man is decaying, yet our inward man is renewed day by day.",
+          "explainer": "Paul does not lose heart. Though his outer self is wasting away, his inner self is being renewed day by day. Physical decay and spiritual renewal happen simultaneously. Aging and suffering do not diminish the inner life -- they can actually deepen it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Greek philosophy often denigrated the body in favor of the soul. Paul is not being Greek here -- he affirms bodily resurrection elsewhere. But he insists that physical decline does not determine spiritual reality.",
+            "now": "For anyone facing illness, aging, or disability, this verse offers a counter-narrative to a culture that equates physical vitality with personal worth."
+          }
+        },
+        {
+          "number": 17,
+          "text": "For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory;",
+          "explainer": "This light momentary affliction is preparing for us an eternal weight of glory beyond all comparison. Paul calls his life-threatening sufferings 'light' and 'momentary' -- not because they are trivial, but because they are outweighed by eternal glory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal.",
+          "explainer": "We look not to the things that are seen but to the things that are unseen. The things that are seen are transient; the things that are unseen are eternal. Paul's entire value system is oriented toward the invisible. What matters most cannot be photographed or measured.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "Paul moves from suffering to hope, describing his longing to be clothed with a heavenly body. He lives by faith, not by sight, and his ambition is to please the Lord whether alive or dead. Before the judgment seat of Christ, everyone will receive what is due. The chapter climaxes with two of Paul's most famous declarations: 'if anyone is in Christ, he is a new creation' and 'God was in Christ reconciling the world to himself.'",
+        "themes": [
+          "The heavenly body and longing for home",
+          "The judgment seat of Christ",
+          "The love of Christ compels us",
+          "New creation",
+          "The ministry of reconciliation",
+          "Ambassadors for Christ"
+        ],
+        "contextInBook": "This chapter is the theological summit of 2 Corinthians. Everything has been building to this: suffering and comfort (ch. 1), the new covenant (ch. 3), treasure in clay jars (ch. 4) -- all of it leads to the ministry of reconciliation. God is not counting people's sins against them, and he has given Paul the message that makes this known."
+      },
+      "wordStudies": [
+        {
+          "id": "reconciliation",
+          "greek": "Greek: katallage",
+          "transliteration": "Reconciliation",
+          "translatedAs": "The restoration of a broken relationship",
+          "meaning": "The restoration of a broken relationship. In Paul's theology, God took the initiative to reconcile the world to himself through Christ. It is not humans who reconcile themselves to God but God who reconciles humans to himself -- absorbing the offense and bridging the gap.",
+          "significance": "5:18-19"
+        },
+        {
+          "id": "ambassador",
+          "greek": "Greek: presbeuo",
+          "transliteration": "Ambassador",
+          "translatedAs": "An official representative of a ruler or governmen",
+          "meaning": "An official representative of a ruler or government, authorized to speak on their behalf. In the Roman world, ambassadors carried the full authority of the emperor. Paul sees himself as Christ's authorized representative to the world.",
+          "significance": "5:20"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "For we know that if the earthly house of our tent is dissolved, we have a building from God, a house not made with hands, eternal, in the heavens.",
+          "explainer": "If the earthly tent we live in is destroyed, we have a building from God -- an eternal house in the heavens, not made with hands. Paul compares the current body to a tent (temporary, portable, fragile) and the resurrection body to a permanent building.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Tent vs. building', 'explanation': \"Tents were associated with transience and vulnerability in the ancient world -- nomads, soldiers, and travelers used them. A permanent stone building represented security and permanence. Paul's own trade as a tentmaker makes this metaphor personally resonant.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "For most certainly in this we groan, longing to be clothed with our habitation which is from heaven;",
+          "explainer": "In this tent we groan, longing to put on our heavenly dwelling. The groaning is not mere dissatisfaction with life but a deep, Spirit-driven longing for the completion of God's redemptive work.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Romans 8:22-23",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "if so be that being clothed we will not be found naked.",
+          "explainer": "By putting on the heavenly dwelling, we will not be found naked. Paul does not want a disembodied existence -- he wants to be re-clothed with a glorified body. The fear of nakedness reflects his conviction that humans were made for embodiment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For indeed we who are in this tent do groan, being burdened; not that we desire to be unclothed, but that we desire to be clothed, that what is mortal may be swallowed up by life.",
+          "explainer": "We groan because we do not want to be unclothed but further clothed, so that what is mortal may be swallowed up by life. Paul prefers transformation over death -- he would rather be alive when Christ returns and be changed directly into the resurrection body.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Now he who made us for this very thing is God, who also gave to us the down payment of the Spirit.",
+          "explainer": "God has prepared us for this very thing and has given us the Spirit as a guarantee. The Spirit's presence now is the first installment of the full resurrection life to come.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Therefore we are always confident and know that while we are at home in the body, we are absent from the Lord;",
+          "explainer": "We are always of good courage. While we are at home in the body, we are away from the Lord. Being alive means being at a distance from Christ's immediate presence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "for we walk by faith, not by sight.",
+          "explainer": "We walk by faith, not by sight. One of the most quoted verses in the Bible. The Christian life is navigated by trust in what cannot be seen, not by evidence that can be measured.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world without the concept of 'blind faith' as a virtue, Paul's claim that invisible realities guide his life was countercultural. Greek philosophy valued sight and reason; Paul prioritizes trust.",
+            "now": "This verse is often quoted in contexts of uncertainty and waiting. It does not mean Christians ignore evidence but that they orient their lives around promises not yet fulfilled."
+          }
+        },
+        {
+          "number": 8,
+          "text": "We are courageous, I say, and are willing rather to be absent from the body, and to be at home with the Lord.",
+          "explainer": "We are of good courage and would prefer to be away from the body and at home with the Lord. Paul sees death as a homecoming. His preference is to be with Christ, though he is willing to remain for the sake of his ministry.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Therefore also we make it our aim, whether at home or absent, to be well pleasing to him.",
+          "explainer": "Whether at home or away, Paul makes it his ambition to please the Lord. The word 'ambition' (philotimeomai) means to strive eagerly. Pleasing Christ is the organizing goal of Paul's entire existence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For we must all be revealed before the judgment seat of Christ; that each one may receive the things in the body, according to what he has done, whether good or bad.",
+          "explainer": "We must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil. This is not about salvation by works but about accountability. Even the saved will have their lives reviewed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Knowing therefore the fear of the Lord, we persuade men, but we are revealed to God; and I hope that we are revealed also in your consciences.",
+          "explainer": "Knowing the fear of the Lord, Paul tries to persuade people. His motives are open to God and, he hopes, to the Corinthians' consciences as well.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For we are not commending ourselves to you again, but speak as giving you occasion of boasting on our behalf, that you may have something to answer those who boast in appearance, and not in heart.",
+          "explainer": "Paul is not commending himself again but giving the Corinthians a reason to be proud of him, so they can answer those who boast in outward appearance rather than the heart. Paul's opponents look impressive on the surface; Paul's credentials are internal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For if we are beside ourselves, it is for God. Or if we are of sober mind, it is for you.",
+          "explainer": "If Paul is out of his mind, it is for God; if he is in his right mind, it is for the Corinthians. His opponents may have called him crazy. Paul says: fine -- his 'madness' serves God and his 'sanity' serves them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For the love of Christ constrains us; because we judge thus, that one died for all, therefore all died.",
+          "explainer": "The love of Christ controls us, because we have concluded that one has died for all, therefore all have died. Christ's love is not a warm feeling but a controlling force that determines the direction of Paul's life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "He died for all, that those who live should no longer live to themselves, but to him who for their sakes died and rose again.",
+          "explainer": "He died for all so that those who live might no longer live for themselves but for him who died and was raised for their sake. The purpose of salvation is not just forgiveness but reorientation -- a life no longer centered on self.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Therefore we know no one after the flesh from now on. Even though we have known Christ after the flesh, yet now we know him so no more.",
+          "explainer": "From now on we regard no one according to the flesh. Even if Paul once regarded Christ from a human point of view, he does so no longer. Old categories of evaluation -- ethnicity, status, appearance -- are obsolete.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new.",
+          "explainer": "If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come. One of the most important verses in all of Paul's writings. Union with Christ is not renovation but recreation -- as radical as the original act of creation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 43:18-19",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Galatians 6:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "In Judaism, 'new creation' language was associated with the eschatological renewal of the entire cosmos. Paul applies it to individual believers in the present -- the future has broken into the now.",
+            "now": "This verse is foundational to Christian identity. It says the deepest truth about a person in Christ is not their past, their failures, or their circumstances, but that they are genuinely new."
+          }
+        },
+        {
+          "number": 18,
+          "text": "But all things are of God, who reconciled us to himself through Jesus Christ, and gave to us the ministry of reconciliation;",
+          "explainer": "All this is from God, who through Christ reconciled us to himself and gave us the ministry of reconciliation. God is the initiator. Humans did not reconcile themselves to God; God reconciled them to himself and then commissioned them to spread the message.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "namely, that God was in Christ reconciling the world to himself, not reckoning to them their trespasses, and having committed to us the word of reconciliation.",
+          "explainer": "In Christ, God was reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation. The divine bookkeeping has changed: sins are no longer being tallied. This is the heart of the gospel as Paul understands it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God.",
+          "explainer": "We are ambassadors for Christ, God making his appeal through us. We implore you on behalf of Christ: be reconciled to God. Paul sees himself as a diplomat of the new creation, carrying the most important message in history.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Ambassador', 'explanation': \"Roman ambassadors (legati) represented the emperor with full authority. They spoke not their own words but the emperor's. Paul claims this role for Christ -- his message is not his opinion but God's official communication to humanity.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "For him who knew no sin he made to be sin on our behalf; so that in him we might become the righteousness of God.",
+          "explainer": "For our sake God made him who knew no sin to be sin, so that in him we might become the righteousness of God. This is one of the most theologically dense verses in the Bible. Christ absorbed human sinfulness; believers receive divine righteousness. The 'great exchange' is the foundation of Protestant theology.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 53:4-6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "explainer": {
+        "summary": "Paul catalogs the credentials of his ministry -- not impressive titles but endurance through suffering, purity of character, and the power of the Holy Spirit. He then makes an emotional appeal for the Corinthians to open their hearts to him, and closes with a stern warning against being 'unequally yoked' with unbelievers, calling the church to holiness and separation.",
+        "themes": [
+          "The cost of authentic ministry",
+          "Paul's catalog of sufferings",
+          "Open hearts and reciprocal affection",
+          "Separation from idolatry"
+        ],
+        "contextInBook": "This chapter bridges Paul's theological defense (chs. 3-5) with his practical appeal about the collection (chs. 8-9). The hardship catalog proves his sincerity; the 'unequally yoked' passage may address the Corinthians' ongoing entanglement with pagan culture."
+      },
+      "wordStudies": [
+        {
+          "id": "unequally_yoked",
+          "greek": "Greek: heterozygountes",
+          "transliteration": "Unequally yoked",
+          "translatedAs": "Literally 'mismatched in a yoke",
+          "meaning": "Literally 'mismatched in a yoke.' The image comes from Deuteronomy 22:10, which forbade yoking an ox and a donkey together because they pull differently. Paul applies it to believers partnering with unbelievers in ways that compromise their faith.",
+          "significance": "6:14"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Working together, we entreat also that you do not receive the grace of God in vain,",
+          "explainer": "Working together with God, Paul urges the Corinthians not to receive the grace of God in vain. Grace that does not transform is grace wasted. Paul has just described the ministry of reconciliation; now he asks: will you actually live it?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "for he says,\n“At an acceptable time I listened to you,\nin a day of salvation I helped you.”\nBehold, now is the acceptable time. Behold, now is the day of salvation.",
+          "explainer": "Paul quotes Isaiah 49:8 -- 'In a favorable time I listened to you, and in a day of salvation I helped you.' Then he adds: 'Behold, now is the favorable time; behold, now is the day of salvation.' The prophetic future has become the present moment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Isaiah 49:8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "We give no occasion of stumbling in anything, that our service may not be blamed,",
+          "explainer": "Paul puts no obstacle in anyone's way so that no fault will be found with his ministry. His conduct must match his message. If the messenger is corrupt, the message is discredited.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "but in everything commending ourselves, as servants of God, in great endurance, in afflictions, in hardships, in distresses,",
+          "explainer": "Paul commends himself as a servant of God through great endurance -- in afflictions, hardships, and calamities. The list begins. Where his opponents boast of credentials, Paul boasts of scars.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Hardship catalogs', 'explanation': 'Lists of sufferings endured were a recognized rhetorical form in the ancient world (peristasis catalogs). Stoic philosophers used them to demonstrate moral toughness. Paul adopts the form but fills it with Christian content -- his endurance is not stoic self-sufficiency but dependence on God.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "in beatings, in imprisonments, in riots, in labors, in watchings, in fastings;",
+          "explainer": "Beatings, imprisonments, riots, labors, sleepless nights, hunger. Paul is not exaggerating -- Acts confirms many of these experiences. The physical toll of his ministry was enormous.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "in pureness, in knowledge, in perseverance, in kindness, in the Holy Spirit, in sincere love,",
+          "explainer": "Paul also commends himself through purity, knowledge, patience, kindness, the Holy Spirit, genuine love. The list shifts from external sufferings to internal qualities. His character matches his endurance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "in the word of truth, in the power of God; by the armor of righteousness on the right hand and on the left,",
+          "explainer": "Through truthful speech and the power of God, with the weapons of righteousness for the right hand and the left. Paul fights with spiritual weapons in both hands -- fully armed, but not with worldly weapons.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "by glory and dishonor, by evil report and good report; as deceivers, and yet true;",
+          "explainer": "Through honor and dishonor, through slander and praise. Paul's reputation swings wildly depending on who is evaluating him. He lives with the paradox of being honored by some and defamed by others.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "as unknown, and yet well known; as dying, and behold, we live; as punished, and not killed;",
+          "explainer": "Treated as impostors yet true, as unknown yet well known, as dying yet alive, as punished yet not killed. The paradoxes accelerate. Paul's life is a series of apparent contradictions that only make sense in light of the crucified Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.",
+          "explainer": "As sorrowful yet always rejoicing, as poor yet making many rich, as having nothing yet possessing everything. The climactic paradox: Paul is simultaneously impoverished and infinitely wealthy. This is the 'jars of clay' theology in personal form.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Greco-Roman society measured success by wealth, status, and public honor. Paul claims to possess everything while having nothing -- a direct challenge to the world's metrics.",
+            "now": "The tension between material poverty and spiritual wealth continues to challenge prosperity theology and consumer culture. Paul models a form of abundance that is independent of bank accounts."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Our mouth is open to you, Corinthians. Our heart is enlarged.",
+          "explainer": "Paul has spoken freely to the Corinthians; his heart is wide open. After the formal catalog of sufferings, Paul shifts to raw emotion. He is laying himself bare.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "You are not restricted by us, but you are restricted by your own affections.",
+          "explainer": "The Corinthians are not restricted by Paul -- they are restricted in their own affections. The problem is not that Paul withholds love but that they withhold theirs from him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Now in return, I speak as to my children, you also open your hearts.",
+          "explainer": "In return -- Paul speaks as to children -- widen your hearts also. He asks for reciprocal vulnerability. He has opened his heart; now it is their turn.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Don’t be unequally yoked with unbelievers, for what fellowship have righteousness and iniquity? Or what fellowship has light with darkness?",
+          "explainer": "Do not be unequally yoked with unbelievers. What partnership has righteousness with lawlessness? What fellowship has light with darkness? Paul shifts to a series of rhetorical questions that assume an obvious answer: none.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Corinth, social and economic life was deeply intertwined with pagan religion. Business deals, civic events, and social gatherings often took place in or near temples. Complete separation was nearly impossible.",
+            "now": "This verse is most commonly applied to marriage between believers and unbelievers, though Paul's original context was broader. The principle of avoiding partnerships that compromise core convictions applies to business, organizations, and alliances of all kinds."
+          }
+        },
+        {
+          "number": 15,
+          "text": "What agreement has Christ with Belial? Or what portion has a believer with an unbeliever?",
+          "explainer": "What accord has Christ with Belial? What portion does a believer share with an unbeliever? 'Belial' is a Jewish name for Satan or the spirit of worthlessness. The contrast is absolute -- there is no middle ground between Christ and Belial.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "What agreement has a temple of God with idols? For you are a temple of the living God. Even as God said, “I will dwell in them, and walk in them; and I will be their God, and they will be my people.”",
+          "explainer": "What agreement has the temple of God with idols? For we are the temple of the living God. Paul quotes a chain of Old Testament passages: God will dwell among them and walk among them, and he will be their God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Leviticus 26:11-12",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Therefore\n“‘Come out from among them,\nand be separate,’ says the Lord.\n‘Touch no unclean thing.\nI will receive you.",
+          "explainer": "Therefore go out from their midst and be separate, says the Lord. Touch no unclean thing, and I will welcome you. Paul weaves together Isaiah 52:11 and Ezekiel 20:34 to call the Corinthians to holiness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "I will be to you a Father.\nYou will be to me sons and daughters,’\nsays the Lord Almighty.”",
+          "explainer": "God will be a Father to them, and they shall be his sons and daughters. This is drawn from 2 Samuel 7:14 but expanded -- the original promise to David's son is now extended to all believers, including daughters. Paul's addition of 'daughters' is notable in a patriarchal context.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Samuel 7:14",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "explainer": {
+        "summary": "Paul resumes his personal narrative, describing his anxiety in Macedonia until Titus arrived with good news. The Corinthians had responded to his severe letter with godly grief that produced repentance. Paul distinguishes between godly grief (which leads to salvation) and worldly grief (which leads to death). The chapter overflows with relief, joy, and restored confidence in the Corinthian church.",
+        "themes": [
+          "Godly grief vs. worldly grief",
+          "Repentance and restoration",
+          "Paul's joy at good news from Corinth",
+          "The comfort of Titus' report"
+        ],
+        "contextInBook": "This chapter completes the narrative arc that began in 2:12-13, where Paul was too anxious to stay in Troas. He finally meets Titus in Macedonia and hears that the crisis is resolving. The emotional relief is palpable and sets up the practical appeal of chapters 8-9."
+      },
+      "wordStudies": [
+        {
+          "id": "godly_grief",
+          "greek": "Greek: kata theon lype",
+          "transliteration": "Godly grief",
+          "translatedAs": "Sorrow that is 'according to God' -- grief that al",
+          "meaning": "Sorrow that is 'according to God' -- grief that aligns with God's perspective and leads to genuine change. It contrasts with worldly grief, which is mere regret, self-pity, or fear of consequences without actual transformation.",
+          "significance": "7:10"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Having therefore these promises, beloved, let us cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.",
+          "explainer": "Since we have these promises, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God. Paul connects the promises of chapter 6 to practical sanctification. Theology must lead to transformed behavior.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Open your hearts to us. We wronged no one. We corrupted no one. We took advantage of no one.",
+          "explainer": "Paul again asks the Corinthians to make room in their hearts for him. He has wronged no one, corrupted no one, taken advantage of no one. He preemptively refutes any accusations of misconduct.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "I say this not to condemn you, for I have said before, that you are in our hearts to die together and live together.",
+          "explainer": "Paul is not saying this to condemn them. They are in his heart, to die together and to live together. Even when correcting, Paul affirms his deep bond with the Corinthians.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Great is my boldness of speech toward you. Great is my boasting on your behalf. I am filled with comfort. I overflow with joy in all our affliction.",
+          "explainer": "Paul has great confidence and pride in the Corinthians. He is filled with comfort and overflowing with joy in all their affliction. The tone has shifted dramatically from the anxiety of 2:13.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For even when we had come into Macedonia, our flesh had no relief, but we were afflicted on every side. Fightings were outside. Fear was inside.",
+          "explainer": "When Paul came to Macedonia, his body had no rest. He was afflicted at every turn -- fighting without, fear within. This picks up the thread from 2:13. Paul was in genuine distress, both externally and internally.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Paul's admission of fear and anxiety would have been unusual for a leader in Greco-Roman culture, where showing weakness was considered shameful.",
+            "now": "Modern leadership culture increasingly values vulnerability and authenticity. Paul models this centuries before it became fashionable."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Nevertheless, he who comforts the lowly, God, comforted us by the coming of Titus;",
+          "explainer": "But God, who comforts the downcast, comforted Paul by the coming of Titus. The comfort theme from chapter 1 returns. God comforts Paul not through a mystical experience but through a friend showing up.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "and not by his coming only, but also by the comfort with which he was comforted in you, while he told us of your longing, your mourning, and your zeal for me; so that I rejoiced still more.",
+          "explainer": "Not only by Titus' coming but by the comfort Titus himself had received from the Corinthians. Titus reported their longing, their mourning, their zeal for Paul. Hearing this made Paul rejoice even more.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For though I made you sorry with my letter, I do not regret it, though I did regret it. For I see that my letter made you sorry, though just for a while.",
+          "explainer": "Even though his letter caused them grief, Paul does not regret it -- or rather, he did regret it but now sees the grief was temporary and productive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "I now rejoice, not that you were made sorry, but that you were made sorry to repentance. For you were made sorry in a godly way, that you might suffer loss by us in nothing.",
+          "explainer": "Paul now rejoices not because they were grieved but because their grief led to repentance. They were grieved 'according to God' so that they suffered no loss from Paul's intervention.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For godly sorrow produces repentance to salvation, which brings no regret. But the sorrow of the world produces death.",
+          "explainer": "Godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death. This is one of the most pastorally important distinctions in the New Testament. Not all sorrow leads to change; some sorrow just leads to deeper despair.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The distinction between productive and destructive sorrow was recognized in ancient philosophy, but Paul roots it in relationship with God. Godly grief faces God; worldly grief faces only consequences.",
+            "now": "This distinction remains crucial in pastoral counseling and addiction recovery. True repentance is not just feeling bad -- it is a change of direction that leads to life."
+          }
+        },
+        {
+          "number": 11,
+          "text": "For behold, this same thing, that you were made sorry in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vengeance! In everything you demonstrated yourselves to be pure in the matter.",
+          "explainer": "Look at what godly grief produced in the Corinthians: earnestness, eagerness to clear themselves, indignation, fear, longing, zeal, and punishment of the wrong. Seven results of genuine repentance -- a complete transformation of attitude.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "So although I wrote to you, I wrote not for his cause that did the wrong, nor for his cause that suffered the wrong, but that your earnest care for us might be revealed in you in the sight of God.",
+          "explainer": "Paul wrote not primarily for the sake of the offender or the one offended, but so that the Corinthians' earnestness for Paul might be revealed to them in the sight of God. The letter was a test of their loyalty and commitment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Therefore we have been comforted. In our comfort we rejoiced the more exceedingly for the joy of Titus, because his spirit has been refreshed by you all.",
+          "explainer": "Paul is comforted. Beyond his own comfort, he is even more delighted by the joy of Titus, because his spirit has been refreshed by all of them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For if in anything I have boasted to him on your behalf, I was not disappointed. But as we spoke all things to you in truth, so our glorying also which I made before Titus was found to be truth.",
+          "explainer": "If Paul boasted about the Corinthians to Titus, he was not put to shame. Everything Paul told Titus about them proved true, just as everything Paul told the Corinthians proved true.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him.",
+          "explainer": "Titus' affection for them is even greater as he remembers their obedience and how they received him with fear and trembling. The relationship between Titus and the Corinthians has been strengthened by the crisis.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "I rejoice that in everything I am confident concerning you.",
+          "explainer": "Paul rejoices because he has complete confidence in the Corinthians. This is the high point of reconciliation -- full trust restored. It also sets up the practical request that follows in chapters 8-9.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "explainer": {
+        "summary": "Paul turns to practical matters: the collection for the impoverished believers in Jerusalem. He holds up the Macedonian churches as models of radical generosity -- they gave beyond their means out of deep poverty and begged for the privilege of participating. Paul urges the Corinthians to complete the collection they started a year ago, grounding generosity in Christ's example: though rich, he became poor so that through his poverty they might become rich.",
+        "themes": [
+          "The Macedonians' radical generosity",
+          "Christ's example of self-giving",
+          "Completing the collection",
+          "Equality and mutual aid",
+          "Financial integrity and accountability"
+        ],
+        "contextInBook": "Chapters 8-9 form a unit on the collection for Jerusalem. This was not mere fundraising -- it was Paul's tangible demonstration that Gentile and Jewish Christians were one body. If the wealthy Corinthians gave generously to impoverished Jerusalem, it would prove the gospel had created real unity."
+      },
+      "wordStudies": [
+        {
+          "id": "grace",
+          "greek": "Greek: charis",
+          "transliteration": "Grace",
+          "translatedAs": "Paul uses 'grace' (charis) to describe the collect",
+          "meaning": "Paul uses 'grace' (charis) to describe the collection itself (8:6-7), not just God's favor. Giving is a 'grace' -- both a gift from God that enables generosity and the generous act itself. The financial offering is a spiritual act.",
+          "significance": "8:1"
+        },
+        {
+          "id": "equality",
+          "greek": "Greek: isotes",
+          "transliteration": "Equality",
+          "translatedAs": "Fairness or balance",
+          "meaning": "Fairness or balance. Paul is not arguing for absolute economic leveling but for mutual aid: those who have more now should help those who have less, knowing the situation may reverse someday.",
+          "significance": "8:13-14"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia;",
+          "explainer": "Paul tells the Corinthians about the grace of God given among the churches of Macedonia. He frames the Macedonians' generosity as God's work in them, not their own achievement.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "how that in much proof of affliction the abundance of their joy and their deep poverty abounded to the riches of their generosity.",
+          "explainer": "In a severe test of affliction, the Macedonians' abundance of joy and their extreme poverty overflowed in a wealth of generosity. This is one of the great paradoxes of the letter: extreme poverty producing rich generosity. Joy, not wealth, is the engine of giving.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Macedonia was economically depressed under Roman rule. The churches there (Philippi, Thessalonica, Berea) had far less money than the commercially thriving Corinthians.",
+            "now": "Studies consistently show that lower-income people give a higher percentage of their income to charity than the wealthy. The Macedonian pattern repeats across cultures and centuries."
+          }
+        },
+        {
+          "number": 3,
+          "text": "For according to their power, I testify, yes and beyond their power, they gave of their own accord,",
+          "explainer": "They gave according to their means and beyond their means, of their own accord. Paul emphasizes their voluntary initiative. No one pressured them -- they chose to give sacrificially.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "begging us with much entreaty to receive this grace and the fellowship in the service to the saints.",
+          "explainer": "The Macedonians begged earnestly for the privilege of sharing in the ministry to the saints. They saw giving not as an obligation but as a privilege. Paul had to be persuaded to accept their gift, not the other way around.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "This was not as we had expected, but first they gave their own selves to the Lord, and to us through the will of God.",
+          "explainer": "They gave themselves first to the Lord and then by the will of God to Paul. The order matters: commitment to God preceded commitment to the collection. Generosity flows from surrender, not from guilt.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "So we urged Titus, that as he had made a beginning before, so he would also complete in you this grace.",
+          "explainer": "Paul urged Titus, who had started the collection in Corinth, to complete this act of grace among them. Titus is the point person for the collection, bridging Paul's appeal and the Corinthians' action.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "But as you abound in everything, in faith, utterance, knowledge, all earnestness, and in your love to us, see that you also abound in this grace.",
+          "explainer": "Since the Corinthians excel in everything -- faith, speech, knowledge, earnestness, love -- they should also excel in this act of grace. Paul flatters them before making the ask. If they are so gifted, surely generosity should be among their gifts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "I speak not by way of commandment, but as proving through the earnestness of others the sincerity also of your love.",
+          "explainer": "Paul is not commanding but testing the genuineness of their love by the earnestness of others. The Macedonians set the standard; now the Corinthians' response will reveal whether their love is real.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "For you know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that you through his poverty might become rich.",
+          "explainer": "You know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich. This is the theological foundation of Christian generosity. Christ's self-impoverishment is the model and motivation for all giving.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Philippians 2:6-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "The 'riches' Christ left behind were divine glory and prerogatives. His 'poverty' was the incarnation itself -- God becoming human, with all its vulnerability and limitation.",
+            "now": "This verse challenges any theology that sees wealth as a sign of God's blessing. If Christ chose poverty, prosperity cannot be the highest good."
+          }
+        },
+        {
+          "number": 10,
+          "text": "I give a judgment in this: for this is expedient for you, who were the first to start a year ago, not only to do, but also to be willing.",
+          "explainer": "Paul gives his opinion: the Corinthians should complete what they started a year ago. They were the first to begin both the desire and the deed; now they should finish.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "But now complete the doing also, that as there was the readiness to be willing, so there may be the completion also out of your ability.",
+          "explainer": "Complete the doing of it so that the readiness to desire it may be matched by completion. Good intentions without follow-through are insufficient. Paul is pastorally direct: finish what you started.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For if the readiness is there, it is acceptable according to what you have, not according to what you don’t have.",
+          "explainer": "If the readiness is there, the gift is acceptable according to what a person has, not according to what he does not have. God does not measure giving by absolute amounts but by proportion and willingness. The widow's mite principle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For this is not that others may be eased and you distressed,",
+          "explainer": "Paul's goal is not that others are eased and the Corinthians burdened, but that there would be equality. He is not trying to impoverish Corinth to enrich Jerusalem.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "but for equality. Your abundance at this present time supplies their lack, that their abundance also may become a supply for your lack; that there may be equality.",
+          "explainer": "The Corinthians' present abundance can supply Jerusalem's need, and if the situation reverses, Jerusalem's abundance can supply theirs. Paul envisions reciprocal generosity across the body of Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Exodus 16:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "As it is written, “He who gathered much had nothing left over, and he who gathered little had no lack.”",
+          "explainer": "As it is written: 'Whoever gathered much had nothing left over, and whoever gathered little had no lack.' The manna principle: God provides enough for everyone when the community shares.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "But thanks be to God, who puts the same earnest care for you into the heart of Titus.",
+          "explainer": "Thanks be to God who put the same earnest care for the Corinthians into the heart of Titus. Titus' concern for them is itself a gift from God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "For he indeed accepted our exhortation, but being himself very earnest, he went out to you of his own accord.",
+          "explainer": "Titus accepted Paul's appeal but is also coming to Corinth of his own accord. He is not a reluctant messenger but an eager partner.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "We have sent together with him the brother whose praise in the Good News is known throughout all the assemblies.",
+          "explainer": "Paul is sending along with Titus a brother who is famous among all the churches for his preaching of the gospel. This unnamed brother's identity has been debated for centuries -- Luke, Barnabas, and Apollos are the most common guesses.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Not only so, but he was also appointed by the assemblies to travel with us in this grace, which is served by us to the glory of the Lord himself, and to show our readiness.",
+          "explainer": "This brother was appointed by the churches to travel with Paul in administering the collection. Having church-appointed companions ensures financial transparency and accountability.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "We are avoiding this, that any man should blame us concerning this abundance which is administered by us.",
+          "explainer": "Paul takes this precaution so that no one can blame him for how the generous gift is administered. Financial integrity in ministry is not optional -- Paul goes out of his way to ensure above-reproach handling of money.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient religious leaders were frequently accused of financial corruption. The temples of pagan gods often served as banks, and priests controlled enormous wealth.",
+            "now": "Financial scandals continue to damage religious institutions. Paul's insistence on accountability, third-party oversight, and transparency remains the gold standard for handling donated funds."
+          }
+        },
+        {
+          "number": 21,
+          "text": "Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men.",
+          "explainer": "Paul aims for what is honorable not only in the Lord's sight but also in the sight of man. Internal integrity is not enough -- there must also be the appearance of integrity. Paul anticipates the modern principle of avoiding even the appearance of impropriety.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "We have sent with them our brother, whom we have many times proved earnest in many things, but now much more earnest, by reason of the great confidence which he has in you.",
+          "explainer": "Paul sends yet another brother whom he has often tested and found earnest. Three delegates are coming -- Titus and two unnamed brothers -- ensuring a team approach to financial oversight.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "As for Titus, he is my partner and fellow worker for you. As for our brothers, they are the apostles of the assemblies, the glory of Christ.",
+          "explainer": "Titus is Paul's partner and fellow worker for the Corinthians. The other brothers are messengers of the churches, the glory of Christ. Paul gives all three the highest commendation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Therefore show the proof of your love to them before the assemblies, and of our boasting on your behalf.",
+          "explainer": "Paul asks the Corinthians to show these men the proof of their love and to vindicate Paul's boasting about them to all the churches. The Corinthians' generosity will either confirm or embarrass Paul's confidence in them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "explainer": {
+        "summary": "Paul continues his appeal for the collection, explaining that he has been boasting to the Macedonians about the Corinthians' readiness. He urges them to have their gift ready so neither he nor they will be embarrassed. The chapter contains some of the Bible's best-known principles of giving: God loves a cheerful giver, whoever sows generously will also reap generously, and God is able to make all grace abound so that you always have enough for every good work.",
+        "themes": [
+          "Readiness and preparation",
+          "Sowing and reaping",
+          "God loves a cheerful giver",
+          "God's abundant provision",
+          "Generosity producing thanksgiving to God"
+        ],
+        "contextInBook": "This chapter completes the collection appeal. It moves from practical logistics to theological vision: generosity is not just meeting a need but producing a cascade of thanksgiving to God. The collection is worship in financial form."
+      },
+      "wordStudies": [
+        {
+          "id": "cheerful",
+          "greek": "Greek: hilaron",
+          "transliteration": "Cheerful",
+          "translatedAs": "Joyful, glad, willing",
+          "meaning": "Joyful, glad, willing. The English word 'hilarious' derives from it. God does not want grudging compliance but joyful generosity that delights in giving.",
+          "significance": "9:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "It is indeed unnecessary for me to write to you concerning the service to the saints,",
+          "explainer": "It is superfluous for Paul to write about the ministry to the saints. He knows their readiness. This polite opening is also a gentle prod -- if they are truly ready, they should prove it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "for I know your readiness, of which I boast on your behalf to them of Macedonia, that Achaia has been prepared for a year past. Your zeal has stirred up very many of them.",
+          "explainer": "Paul has been boasting about the Corinthians' eagerness to the Macedonians, saying that Achaia has been ready since last year. Their zeal stirred up most of the Macedonians. Now Paul needs the Corinthians to deliver on the promise he made on their behalf.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "But I have sent the brothers that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,",
+          "explainer": "Paul is sending the brothers ahead so that his boasting about the Corinthians will not prove empty. He wants the gift to be ready when he arrives, not assembled under last-minute pressure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting.",
+          "explainer": "If Macedonians come with Paul and find the Corinthians unprepared, the humiliation would fall on Paul and the Corinthians alike. This is practical leadership -- Paul is transparent about the stakes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "I thought it necessary therefore to entreat the brothers that they would go before to you, and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness.",
+          "explainer": "Paul wants the gift to be ready as a willing offering, not as an exaction. The word for 'exaction' (pleonexia) can also mean 'greediness.' The gift should reflect generosity, not reluctant obligation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Remember this: he who sows sparingly will also reap sparingly. He who sows bountifully will also reap bountifully.",
+          "explainer": "Whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. The agricultural metaphor is straightforward: you harvest in proportion to what you plant. Generosity produces abundance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Proverbs 11:24-25",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver.",
+          "explainer": "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver. This is one of the most quoted verses on giving. Three principles: individual decision, freedom from pressure, and joyful willingness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Temple taxes and tithes in Judaism were obligatory. Paul's insistence on voluntary, cheerful giving represented a significant shift in how religious communities funded their work.",
+            "now": "Churches still debate whether tithing (10% of income) is mandatory for Christians or whether Paul's principle of cheerful, voluntary generosity replaced the fixed percentage. This verse is central to that debate."
+          }
+        },
+        {
+          "number": 8,
+          "text": "And God is able to make all grace abound to you, that you, always having all sufficiency in everything, may abound to every good work.",
+          "explainer": "God is able to make all grace abound to you, so that having all sufficiency in all things at all times, you may abound in every good work. Paul piles up 'all' language to emphasize God's unlimited provision. The purpose of abundance is not accumulation but generosity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "As it is written,\n“He has scattered abroad, he has given to the poor.\nHis righteousness remains forever.”",
+          "explainer": "As it is written: 'He has distributed freely, he has given to the poor; his righteousness endures forever.' Paul quotes Psalm 112:9, describing the righteous person whose generosity endures eternally.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Psalm 112:9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Now may he who supplies seed to the sower and bread for food, supply and multiply your seed for sowing, and increase the fruits of your righteousness;",
+          "explainer": "God who supplies seed to the sower and bread for food will supply and multiply the Corinthians' seed for sowing and increase the harvest of their righteousness. God provides both the resources to give and the results of giving.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "you being enriched in everything to all generosity, which produces through us thanksgiving to God.",
+          "explainer": "They will be enriched in every way to be generous in every way, which through Paul produces thanksgiving to God. Enrichment is for the purpose of generosity, and generosity produces worship. The cycle is: God gives, believers give, recipients give thanks to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For this service of giving that you perform not only makes up for lack among the saints, but abounds also through much giving of thanks to God;",
+          "explainer": "This ministry not only supplies the needs of the saints but also overflows in many thanksgivings to God. The collection has a double effect: meeting physical needs and generating spiritual worship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "seeing that through the proof given by this service, they glorify God for the obedience of your confession to the Good News of Christ, and for the generosity of your contribution to them and to all;",
+          "explainer": "By their proven character through this ministry, the Jerusalem believers will glorify God for the Corinthians' submission to the gospel of Christ and for their generosity in sharing. The collection is a confession of faith -- it proves that the gospel has transformed the Corinthians' relationship with money.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "while they themselves also, with supplication on your behalf, yearn for you by reason of the exceeding grace of God in you.",
+          "explainer": "The Jerusalem believers will pray for the Corinthians with deep affection because of the surpassing grace of God upon them. The gift creates a relational bond between communities that have never met face to face.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Now thanks be to God for his unspeakable gift!",
+          "explainer": "Thanks be to God for his indescribable gift! Paul closes the collection appeal by pointing to the ultimate gift -- God's gift of Christ, which is the source and model for all Christian generosity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "explainer": {
+        "summary": "The tone shifts dramatically. Paul addresses those who accuse him of being 'bold in letters but timid in person.' He insists that his weapons are not worldly but divinely powerful, capable of destroying strongholds and every argument raised against God. He warns his opponents that when he comes, his actions will match his letters. The contrast between Paul's self-effacing style and his opponents' self-promotion could not be sharper.",
+        "themes": [
+          "Spiritual weapons vs. worldly power",
+          "Paul's authority in person and in letter",
+          "Boasting in the Lord alone",
+          "The territory God has assigned"
+        ],
+        "contextInBook": "Chapters 10-13 form a distinct unit that many scholars believe was originally a separate letter (possibly the 'severe letter' Paul mentions). The tone shifts from the warm reconciliation of chapters 1-9 to fierce polemic. Paul directly engages the 'super-apostles' who are undermining him."
+      },
+      "wordStudies": [
+        {
+          "id": "strongholds",
+          "greek": "Greek: ochyroma",
+          "transliteration": "Strongholds",
+          "translatedAs": "A military fortification",
+          "meaning": "A military fortification. Paul uses it metaphorically for deeply entrenched patterns of thought that resist God's truth. His spiritual weapons are designed to demolish these intellectual and spiritual defenses.",
+          "significance": "10:4"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Now I Paul, myself, entreat you by the humility and gentleness of Christ; I who in your presence am lowly among you, but being absent am bold toward you.",
+          "explainer": "Paul appeals by the meekness and gentleness of Christ -- this same Paul who is accused of being humble when face to face but bold at a distance. He turns the accusation into a Christlike virtue.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Greco-Roman rhetoric, a speaker's physical presence and forcefulness were considered essential to authority. Paul's meek demeanor in person was seen as weakness.",
+            "now": "The tension between gentle presence and strong written communication resonates in the age of email and social media, where people often seem bolder online than in person."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh.",
+          "explainer": "Paul begs not to have to show boldness when he comes, against those who think he walks 'according to the flesh.' His opponents accuse him of operating by worldly standards.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "For though we walk in the flesh, we don’t wage war according to the flesh;",
+          "explainer": "Though Paul walks in the flesh, he does not wage war according to the flesh. He lives in a human body but fights with supernatural weapons.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds,",
+          "explainer": "The weapons of Paul's warfare are not of the flesh but have divine power to destroy strongholds. This is the foundational text for understanding spiritual warfare in Paul's thought -- it is primarily intellectual and argumentative, not mystical.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Ephesians 6:10-18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "throwing down imaginations and every high thing that is exalted against the knowledge of God, and bringing every thought into captivity to the obedience of Christ;",
+          "explainer": "Paul destroys arguments and every lofty opinion raised against the knowledge of God, and takes every thought captive to obey Christ. Spiritual warfare is waged in the realm of ideas. The battlefield is the mind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "and being in readiness to avenge all disobedience, when your obedience will be made full.",
+          "explainer": "Paul is ready to punish every disobedience when the Corinthians' obedience is complete. He will deal with the rebels, but first he wants the loyal majority to demonstrate their allegiance clearly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Do you look at things only as they appear in front of your face? If anyone trusts in himself that he is Christ’s, let him consider this again with himself, that, even as he is Christ’s, so also we are Christ’s.",
+          "explainer": "Paul challenges them to look at what is right in front of them. If anyone is confident that they belong to Christ, they should consider that Paul belongs to Christ just as much as they do.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For though I should boast somewhat abundantly concerning our authority, (which the Lord gave for building you up, and not for casting you down) I will not be disappointed,",
+          "explainer": "Even if Paul boasts somewhat freely about his authority -- which the Lord gave for building up, not tearing down -- he will not be ashamed. His authority serves a constructive purpose.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "that I may not seem as if I desire to terrify you by my letters.",
+          "explainer": "Paul does not want to seem to be frightening them with his letters. He anticipates and preempts the accusation that he is all bark and no bite.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For, “His letters”, they say, “are weighty and strong, but his bodily presence is weak, and his speech is despised.”",
+          "explainer": "His opponents say: 'His letters are weighty and strong, but his bodily presence is weak, and his speech of no account.' This is a direct quote from Paul's critics. They find his letters impressive but his person unimpressive.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Physical presence and rhetoric', 'explanation': \"In Greco-Roman culture, a speaker's body, voice, and delivery were considered as important as the content of their message. Paul apparently lacked the commanding physical presence and polished oratory his opponents possessed.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Let such a person consider this, that what we are in word by letters when we are absent, such are we also in deed when we are present.",
+          "explainer": "Let such people understand that what Paul says by letter when absent, he will do when present. This is a warning: do not mistake Paul's gentleness for weakness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For we are not bold to number or compare ourselves with some of those who commend themselves. But they themselves, measuring themselves by themselves, and comparing themselves with themselves, are without understanding.",
+          "explainer": "Paul will not dare to compare himself with those who commend themselves. When they measure themselves by one another and compare themselves with one another, they are without understanding. Self-referential evaluation is meaningless.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But we will not boast beyond proper limits, but within the boundaries with which God appointed to us, which reach even to you.",
+          "explainer": "Paul will not boast beyond limits but will confine his boasting to the area God assigned to him, which includes Corinth. Paul claims divine authorization for his territory of ministry.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For we don’t stretch ourselves too much, as though we didn’t reach to you. For we came even as far as to you with the Good News of Christ,",
+          "explainer": "Paul is not overextending himself -- he was the first to come to Corinth with the gospel of Christ. His opponents arrived after him. He has prior claim to this church.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "not boasting beyond proper limits in other men’s labors, but having hope that as your faith grows, we will be abundantly enlarged by you in our sphere of influence,",
+          "explainer": "Paul does not boast in other people's work. His hope is that as the Corinthians' faith increases, his area of influence will be greatly enlarged through them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "so as to preach the Good News even to the parts beyond you, not to boast in what someone else has already done.",
+          "explainer": "Paul wants to preach the gospel in lands beyond Corinth, without boasting about work already done in someone else's area. He respects missionary boundaries and wants to break new ground.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "But “he who boasts, let him boast in the Lord.”",
+          "explainer": "Let the one who boasts, boast in the Lord. Paul quotes Jeremiah 9:24 as the final standard: the only legitimate boast is in what God has done.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Jeremiah 9:23-24",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "For it isn’t he who commends himself who is approved, but whom the Lord commends.",
+          "explainer": "It is not the one who commends himself who is approved, but the one whom the Lord commends. Self-promotion means nothing. Only God's evaluation counts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "explainer": {
+        "summary": "Paul engages in what he calls 'foolish' boasting -- matching his opponents' self-promotion while subverting it at every turn. He is jealous for the Corinthians with a godly jealousy, fearing they are being seduced by a different Jesus. He provides the most detailed catalog of his sufferings anywhere in the New Testament: beatings, shipwrecks, imprisonments, hunger, and constant danger. His 'boasting' is in his weaknesses, not his achievements.",
+        "themes": [
+          "Foolish boasting that subverts worldly values",
+          "The super-apostles as false apostles",
+          "Paul's catalog of sufferings",
+          "Weakness as the true credential of ministry"
+        ],
+        "contextInBook": "This is Paul at his most rhetorically brilliant and emotionally intense. The 'fool's speech' (11:1-12:13) is a masterpiece of ironic self-defense. Paul enters the boasting contest his opponents started, but he boasts about the very things they would consider disqualifying."
+      },
+      "wordStudies": [
+        {
+          "id": "super-apostles",
+          "greek": "Greek: hyperlian apostoloi",
+          "transliteration": "Super-apostles",
+          "translatedAs": "Literally 'super-duper apostles' -- Paul's sarcast",
+          "meaning": "Literally 'super-duper apostles' -- Paul's sarcastic label for the rival teachers who claimed superiority over him. The prefix hyper- (beyond, above) is used mockingly.",
+          "significance": "11:5"
+        },
+        {
+          "id": "fool",
+          "greek": "Greek: aphron",
+          "transliteration": "Fool",
+          "translatedAs": "Without sense, foolish",
+          "meaning": "Without sense, foolish. Paul repeatedly calls himself a fool for engaging in self-promotion, because he knows boasting is inherently foolish. But his opponents have forced his hand.",
+          "significance": "11:1"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I wish that you would bear with me in a little foolishness, but indeed you do bear with me.",
+          "explainer": "Paul asks the Corinthians to bear with a little foolishness from him. He is about to engage in self-promotion, which he considers absurd, but his opponents have left him no choice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "For I am jealous over you with a godly jealousy. For I married you to one husband, that I might present you as a pure virgin to Christ.",
+          "explainer": "Paul is jealous for the Corinthians with a divine jealousy. He betrothed them to one husband, Christ, and wants to present them as a pure virgin. The metaphor casts Paul as the father of the bride arranging the marriage.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Hosea 2:19-20",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ.",
+          "explainer": "Paul fears that as the serpent deceived Eve by his cunning, the Corinthians' thoughts will be led astray from sincere and pure devotion to Christ. The super-apostles are cast as the serpent in the garden.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 3:1-6",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For if he who comes preaches another Jesus, whom we did not preach, or if you receive a different spirit, which you did not receive, or a different “good news”, which you did not accept, you put up with that well enough.",
+          "explainer": "If someone comes and proclaims another Jesus, a different spirit, or a different gospel, the Corinthians put up with it readily enough. Paul is astonished at their gullibility -- they tolerate false teaching more readily than they tolerate him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "For I reckon that I am not at all behind the very best apostles.",
+          "explainer": "Paul considers himself not at all inferior to these 'super-apostles.' The sarcasm drips. He will now prove his point -- but not with the credentials they value.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.",
+          "explainer": "Even if Paul is unskilled in speaking, he is not unskilled in knowledge. He has made this clear in every way. Paul concedes that his rhetorical delivery may be lacking but insists his message is sound.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Rhetorical skill', 'explanation': \"Corinth was a city that prized eloquent speakers. Sophists (traveling orators) were celebrities. Paul's opponents apparently had superior speaking abilities. Paul admits this but argues that content matters more than style.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge?",
+          "explainer": "Did Paul commit a sin by humbling himself so that they might be exalted, by preaching God's gospel free of charge? This rhetorical question exposes the absurdity: his opponents charge fees and are respected; Paul works for free and is criticized.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In Greco-Roman culture, refusing payment could signal low status -- only slaves worked for free. Professional teachers expected compensation, and higher fees implied higher quality.",
+            "now": "The debate about whether ministers should accept payment or work 'tent-making' jobs continues. Paul's example shows that context determines the right approach -- he accepted support from some churches but not from Corinth."
+          }
+        },
+        {
+          "number": 8,
+          "text": "I robbed other assemblies, taking wages from them that I might serve you.",
+          "explainer": "Paul 'robbed' other churches by accepting support from them to serve the Corinthians. The language is deliberately provocative. He took money from Macedonia to serve Corinth for free.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "When I was present with you and was in need, I wasn’t a burden on anyone, for the brothers, when they came from Macedonia, supplied the measure of my need. In everything I kept myself from being burdensome to you, and I will continue to do so.",
+          "explainer": "When Paul was in need in Corinth, he did not burden anyone. Brothers from Macedonia supplied what he needed. He kept himself from being a burden and will continue to do so.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "As the truth of Christ is in me, no one will stop me from this boasting in the regions of Achaia.",
+          "explainer": "As the truth of Christ is in Paul, this boast of his will not be silenced in the regions of Achaia. He is proud of his financial independence and will not let anyone take this boast from him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Why? Because I don’t love you? God knows.",
+          "explainer": "Why does Paul refuse Corinthian money? Because he does not love them? God knows he does. This question reveals the hurt: some Corinthians interpreted his refusal of payment as rejection.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "But what I do, that I will do, that I may cut off occasion from them that desire an occasion, that in which they boast, they may be found even as we.",
+          "explainer": "Paul will continue refusing payment to undercut those who want an opportunity to be regarded as equal to him. If Paul charged nothing and they charged fees, who is the genuine article?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For such men are false apostles, deceitful workers, masquerading as Christ’s apostles.",
+          "explainer": "These people are false apostles, deceitful workers, disguising themselves as apostles of Christ. The gloves come off. Paul drops the sarcasm and makes a direct accusation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "And no wonder, for even Satan masquerades as an angel of light.",
+          "explainer": "Even Satan disguises himself as an angel of light. Paul's ultimate charge: the super-apostles' attractive exterior hides satanic deception.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works.",
+          "explainer": "It is no surprise that Satan's servants disguise themselves as servants of righteousness. Their end will correspond to their deeds. Paul predicts divine judgment on the false teachers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "I say again, let no one think me foolish. But if so, yet receive me as foolish, that I also may boast a little.",
+          "explainer": "Paul repeats: let no one think him foolish. But even if they do, let them accept him as a fool so he can do a little boasting. He is entering the boasting contest against his better judgment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting.",
+          "explainer": "What Paul is about to say, he says not according to the Lord but as a fool in this business of boasting. He explicitly disclaims divine authority for the form (not the content) of what follows. Self-promotion is inherently foolish.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Seeing that many boast after the flesh, I will also boast.",
+          "explainer": "Since many boast according to the flesh, Paul will boast too. He adopts the method to expose its absurdity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "For you bear with the foolish gladly, being wise.",
+          "explainer": "The Corinthians gladly bear with fools, being wise themselves. The irony is cutting -- if they are so wise, why do they tolerate fools? And if they tolerate the super-apostles' foolish boasting, they can tolerate Paul's.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "For you bear with a man, if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, if he strikes you on the face.",
+          "explainer": "The Corinthians put up with anyone who enslaves them, devours them, takes advantage of them, puts on airs, or strikes them in the face. Paul catalogs the abuses of the super-apostles in escalating severity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "I speak by way of disparagement, as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also.",
+          "explainer": "Paul says with shame that he was 'too weak' for such behavior. Then he pivots: whatever anyone else dares to boast about, Paul dares too. The irony is that his 'weakness' is actually his integrity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the offspring of Abraham? So am I.",
+          "explainer": "Are they Hebrews? So is Paul. Israelites? So is he. Offspring of Abraham? So is he. Paul can match their ethnic and religious credentials point for point.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Are they servants of Christ? (I speak as one beside himself) I am more so; in labors more abundantly, in prisons more abundantly, in stripes above measure, in deaths often.",
+          "explainer": "Are they servants of Christ? Paul is a better one -- and he speaks as a fool in saying it. Then the flood gates open: far greater labors, far more imprisonments, countless beatings, often near death.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': \"Paul's suffering catalog\", 'explanation': \"This is the most extensive autobiography Paul ever provides. Many of these events are not recorded in Acts, revealing that Luke's account covers only a fraction of Paul's experiences.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Five times from the Jews I received forty stripes minus one.",
+          "explainer": "Five times Paul received from the Jews the forty lashes minus one. The Jewish punishment was thirty-nine stripes -- one less than the lethal forty. Paul endured this five times, meaning he submitted to synagogue authority and kept returning to Jewish communities despite the beatings.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep.",
+          "explainer": "Three times Paul was beaten with rods, once stoned, three times shipwrecked, and he spent a night and a day adrift at sea. Acts records one rod-beating (Philippi) and one stoning (Lystra), but Paul experienced far more than what Luke narrated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Acts 16:22-24",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers;",
+          "explainer": "On frequent journeys, in danger from rivers, robbers, his own people, Gentiles, cities, wilderness, the sea, and false brothers. Danger from every direction. The ancient world was genuinely dangerous for travelers, and Paul's controversial message made him a target everywhere.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness.",
+          "explainer": "In toil and hardship, through many a sleepless night, in hunger and thirst, often without food, in cold and exposure. The physical toll of Paul's ministry was extreme. This is not metaphorical -- he was frequently without adequate food, sleep, or shelter.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 28,
+          "text": "Besides those things that are outside, there is that which presses on me daily: anxiety for all the assemblies.",
+          "explainer": "Apart from all these external pressures, there is the daily anxiety Paul feels for all the churches. Physical suffering is complemented by emotional burden. He carries the weight of every congregation in his mind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 29,
+          "text": "Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?",
+          "explainer": "Who is weak, and Paul is not weak? Who is made to stumble, and Paul is not indignant? He identifies so completely with each church member that their struggles become his own.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 30,
+          "text": "If I must boast, I will boast of the things that concern my weakness.",
+          "explainer": "If Paul must boast, he will boast of the things that show his weakness. This is the key to the entire fool's speech: Paul enters the boasting contest and wins by losing. His credentials are his scars.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Every item in Paul's suffering catalog would have been considered evidence of failure by Greco-Roman standards. A successful person would not have been beaten, shipwrecked, or hungry.",
+            "now": "Paul's inversion of success metrics challenges cultures that equate visible achievement with divine favor. His 'resume of failures' remains countercultural in any era that worships success."
+          }
+        },
+        {
+          "number": 31,
+          "text": "The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don’t lie.",
+          "explainer": "The God and Father of the Lord Jesus knows that Paul is not lying. He invokes God as witness to the truthfulness of his catalog. The sufferings are real, not exaggerated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 32,
+          "text": "In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me.",
+          "explainer": "In Damascus, the governor under King Aretas guarded the city in order to seize Paul. This is the earliest datable event in Paul's autobiography -- his escape from Damascus, which occurred shortly after his conversion.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Aretas IV', 'explanation': \"Aretas IV was the Nabataean king whose daughter Herod Antipas had divorced to marry Herodias. His control or influence over Damascus in this period helps date Paul's conversion to the early-to-mid 30s AD.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 33,
+          "text": "Through a window I was let down in a basket by the wall, and escaped his hands.",
+          "explainer": "Paul was let down in a basket through a window in the wall and escaped. He closes his suffering catalog with the most undignified image possible -- a grown man being lowered from a city wall in a basket. His opponents boasted of triumphs; Paul boasts of a humiliating escape.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Acts 9:23-25",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "explainer": {
+        "summary": "Paul describes a man (himself, speaking in the third person) who was caught up to the third heaven fourteen years ago and heard things too sacred to repeat. But lest he become conceited, he was given a 'thorn in the flesh' -- a chronic affliction he begged God three times to remove. God's answer: 'My grace is sufficient for you, for my power is made perfect in weakness.' This is the theological climax of the letter and one of the most profound passages in Scripture.",
+        "themes": [
+          "Heavenly visions and inexpressible revelations",
+          "The thorn in the flesh",
+          "Power made perfect in weakness",
+          "Signs of a true apostle",
+          "Paul's selfless love for Corinth"
+        ],
+        "contextInBook": "This chapter brings the fool's speech to its climax. Paul's opponents boasted of spiritual experiences; Paul can match them (third heaven!) but immediately pivots to his weakness. The thorn in the flesh passage is the theological summit of 2 Corinthians -- everything in the letter has been building to 'my power is made perfect in weakness.'"
+      },
+      "wordStudies": [
+        {
+          "id": "thorn_in_the_flesh",
+          "greek": "Greek: skolops te sarki",
+          "transliteration": "Thorn in the flesh",
+          "translatedAs": "A 'stake' or 'thorn' embedded in the body",
+          "meaning": "A 'stake' or 'thorn' embedded in the body. The exact nature of Paul's affliction is unknown -- theories include chronic eye disease, malaria, epilepsy, migraines, speech impediment, and spiritual opposition. Paul deliberately does not specify, perhaps so that every suffering reader can identify with him.",
+          "significance": "12:7"
+        },
+        {
+          "id": "third_heaven",
+          "greek": "Greek: tritos ouranos",
+          "transliteration": "Third heaven",
+          "translatedAs": "In Jewish cosmology, multiple heavens existed",
+          "meaning": "In Jewish cosmology, multiple heavens existed. The first was the atmosphere, the second the stars, and the third was God's throne room -- the highest heaven. Being 'caught up' there meant being in the immediate presence of God.",
+          "significance": "12:2"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "It is doubtless not profitable for me to boast. For I will come to visions and revelations of the Lord.",
+          "explainer": "Paul must go on boasting, though there is nothing to be gained by it. He will move to visions and revelations of the Lord. His opponents claimed ecstatic spiritual experiences; Paul can match them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "I know a man in Christ, fourteen years ago (whether in the body, I don’t know, or whether out of the body, I don’t know; God knows), such a one caught up into the third heaven.",
+          "explainer": "Paul knows a man in Christ who fourteen years ago was caught up to the third heaven -- whether in the body or out of the body, he does not know. The third-person narration is a deliberate distancing device. Paul describes the experience without claiming it as a personal achievement.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "I know such a man (whether in the body, or outside of the body, I don’t know; God knows),",
+          "explainer": "Paul repeats: whether in the body or out of the body, he does not know -- God knows. The repeated uncertainty about embodiment suggests the experience was so overwhelming that normal categories of physical awareness did not apply.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "how he was caught up into Paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+          "explainer": "He was caught up into paradise and heard things that cannot be told, which man may not utter. Paul cannot and will not reveal what he heard. His silence stands in sharp contrast to his opponents' eagerness to publicize their experiences.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Paradise', 'explanation': \"From the Persian word for 'enclosed garden.' In Jewish thought, paradise was the heavenly realm of the blessed dead, associated with Eden restored. Jesus promised the thief on the cross: 'Today you will be with me in paradise' (Luke 23:43).\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "On behalf of such a one I will boast, but on my own behalf I will not boast, except in my weaknesses.",
+          "explainer": "On behalf of this man Paul will boast, but on his own behalf he will not boast, except of his weaknesses. The split is deliberate: the heavenly experience belongs to the 'man in Christ'; Paul's own identity is defined by weakness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "For if I would desire to boast, I will not be foolish; for I will speak the truth. But I refrain, so that no man may think more of me than that which he sees in me, or hears from me.",
+          "explainer": "Even if Paul wished to boast, he would not be a fool because he would be speaking the truth. But he refrains so that no one may think more of him than what they see and hear from him. Paul wants to be evaluated by his observable life, not his private experiences.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "By reason of the exceeding greatness of the revelations, that I should not be exalted excessively, there was given to me a thorn in the flesh, a messenger of Satan to torment me, that I should not be exalted excessively.",
+          "explainer": "To keep Paul from becoming conceited because of the surpassing greatness of the revelations, a thorn was given him in the flesh, a messenger of Satan to harass him. The thorn serves a dual function: it is a satanic attack and a divine safeguard against pride.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Paul's opponents would have seen chronic affliction as evidence of divine disfavor. A true apostle blessed by God would not suffer from an unhealed condition. Paul completely inverts this logic.",
+            "now": "The 'thorn in the flesh' has become one of the most discussed concepts in Christian experience. It validates the reality that God sometimes answers prayer with 'no' and that unanswered prayer does not indicate lack of faith."
+          }
+        },
+        {
+          "number": 8,
+          "text": "Concerning this thing, I begged the Lord three times that it might depart from me.",
+          "explainer": "Three times Paul pleaded with the Lord to remove the thorn. The number three echoes Jesus' three prayers in Gethsemane to remove the cup of suffering. Like Jesus, Paul receives a 'no' -- but with a profound reason.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 26:39-44",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "He has said to me,\n“My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me.",
+          "explainer": "The Lord said to Paul: 'My grace is sufficient for you, for my power is made perfect in weakness.' This is the most important verse in 2 Corinthians and arguably one of the most important in all of Paul's letters. God's power and human weakness are not opposites -- they are partners. God's strength is most fully displayed through human fragility.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Therefore I take pleasure in weaknesses, in injuries, in necessities, in persecutions, in distresses, for Christ’s sake. For when I am weak, then am I strong.",
+          "explainer": "For the sake of Christ, Paul is content with weaknesses, insults, hardships, persecutions, and calamities. For when he is weak, then he is strong. This is the ultimate paradox and the key that unlocks the entire letter. Paul's weakness is not a liability to be overcome but a strategy to be embraced.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Roman world worshiped power, strength, and victory. Paul's celebration of weakness was genuinely countercultural -- it sounded like madness to Greco-Roman ears.",
+            "now": "This verse continues to challenge every culture that equates strength with value. For anyone experiencing chronic illness, disability, failure, or limitation, Paul offers a radical reframing: your weakness is the place where God's power shows up most clearly."
+          }
+        },
+        {
+          "number": 11,
+          "text": "I have become foolish in boasting. You compelled me, for I ought to have been commended by you, for in nothing was I inferior to the very best apostles, though I am nothing.",
+          "explainer": "Paul has been a fool. The Corinthians drove him to it. He ought to have been commended by them, for he is not at all inferior to the super-apostles, even though he is 'nothing.' The fool's speech is over. Paul blames the Corinthians for making it necessary.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Truly the signs of an apostle were worked among you in all perseverance, in signs and wonders and mighty works.",
+          "explainer": "The signs of a true apostle were performed among the Corinthians with utmost patience -- signs, wonders, and mighty works. Paul did perform miracles in Corinth. His opponents cannot claim otherwise.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "For what is there in which you were made inferior to the rest of the assemblies, unless it is that I myself was not a burden to you? Forgive me this wrong.",
+          "explainer": "In what way were the Corinthians treated worse than other churches, except that Paul himself did not burden them financially? He sarcastically asks them to forgive him for this 'wrong.' His refusal of payment is ironically presented as an offense.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Behold, this is the third time I am ready to come to you, and I will not be a burden to you; for I seek not your possessions, but you. For the children ought not to save up for the parents, but the parents for the children.",
+          "explainer": "Paul is ready to come to Corinth for the third time, and he will not be a burden. He seeks not their possessions but them. Parents save up for their children, not children for their parents.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "I will most gladly spend and be spent for your souls. If I love you more abundantly, am I loved the less?",
+          "explainer": "Paul will most gladly spend and be spent for their souls. If he loves them more, is he to be loved less? The emotional intensity is raw. Paul's love for the Corinthians is costing him everything, and they are returning less and less.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "But be it so, I did not myself burden you. But, being crafty, I caught you with deception.",
+          "explainer": "Paul did not burden them. But some say he was crafty and took them in by deceit. Even his financial integrity is twisted into an accusation -- perhaps he is laundering money through the collection!",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Did I take advantage of you by anyone of them whom I have sent to you?",
+          "explainer": "Did Paul take advantage of the Corinthians through anyone he sent? He challenges them to name a single instance of financial exploitation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "I exhorted Titus, and I sent the brother with him. Did Titus take any advantage of you? Didn’t we walk in the same spirit? Didn’t we walk in the same steps?",
+          "explainer": "Paul urged Titus to visit and sent the brother with him. Did Titus take advantage of them? They walked in the same spirit and the same steps. Paul's associates are equally above reproach.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Again, do you think that we are excusing ourselves to you? In the sight of God we speak in Christ. But all things, beloved, are for your edifying.",
+          "explainer": "Paul has been defending himself, but everything he does is for building up the Corinthians. Even his self-defense serves their edification, not his ego.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "For I am afraid that by any means, when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire; that by any means there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, riots;",
+          "explainer": "Paul fears that when he comes he may find quarreling, jealousy, anger, selfishness, slander, gossip, conceit, and disorder. This list of sins suggests the Corinthian problems described in 1 Corinthians have not been fully resolved.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "that again when I come my God would humble me before you, and I would mourn for many of those who have sinned before now, and not repented of the uncleanness and sexual immorality and lustfulness which they committed.",
+          "explainer": "Paul is afraid that God will humble him before the Corinthians, and he will mourn over many who have sinned previously and have not repented of impurity, sexual immorality, and sensuality. The sexual ethics problems also persist. Paul approaches his third visit with dread, not confidence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "explainer": {
+        "summary": "Paul issues final warnings before his third visit. He will not be lenient -- every charge will be established by two or three witnesses. He calls the Corinthians to examine themselves to see whether they are in the faith. The letter closes with one of the most beautiful benedictions in the Bible: 'The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.'",
+        "themes": [
+          "Warning of Paul's coming discipline",
+          "Self-examination",
+          "Christ's power and weakness",
+          "The trinitarian benediction"
+        ],
+        "contextInBook": "This brief chapter brings the letter full circle. Paul's third visit is imminent, and he wants the Corinthians to prepare by self-examination rather than face his discipline. The trinitarian benediction at the end has become the most widely used blessing in Christian worship."
+      },
+      "wordStudies": [
+        {
+          "id": "examine/test",
+          "greek": "Greek: peirazo/dokimazo",
+          "transliteration": "Examine/Test",
+          "translatedAs": "Paul uses two different words for testing: peirazo",
+          "meaning": "Paul uses two different words for testing: peirazo (to test, put on trial) and dokimazo (to prove, approve after testing). He asks the Corinthians to examine whether their faith is genuine, applying the same scrutiny to themselves that they apply to him.",
+          "significance": "13:5"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”",
+          "explainer": "This is the third time Paul is coming to them. Every charge must be established by the evidence of two or three witnesses. He invokes the Deuteronomic legal standard for his coming visit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 19:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare;",
+          "explainer": "Paul warned those who sinned before and all the others, and he warns them now while absent: if he comes again, he will not spare them. This is not an empty threat. Paul's gentleness should not be mistaken for tolerance of unrepentant sin.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "seeing that you seek a proof of Christ who speaks in me; who toward you is not weak, but is powerful in you.",
+          "explainer": "The Corinthians want proof that Christ speaks in Paul. Christ is not weak in dealing with them but is powerful among them. They questioned Paul's authority; Paul says testing him means testing Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.",
+          "explainer": "Christ was crucified in weakness but lives by the power of God. Paul is weak in Christ but will live with Christ by the power of God directed toward the Corinthians. The pattern of the entire letter compressed into one verse: weakness followed by divine power. Christ's cross looked like defeat; the resurrection proved it was victory.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The crucifixion was the most shameful form of execution in the Roman world. Claiming that the crucified Jesus was Lord was an offense to every Roman value of power and honor.",
+            "now": "The 'weakness-to-power' pattern remains the distinctive shape of Christian life and ministry. It challenges every model of leadership built on dominance rather than service."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know as to your own selves, that Jesus Christ is in you?—unless indeed you are disqualified.",
+          "explainer": "Examine yourselves to see whether you are in the faith. Test yourselves. Do you not realize that Jesus Christ is in you? -- unless indeed you fail to meet the test! Paul redirects the testing. Instead of testing him, the Corinthians should test themselves.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "But I hope that you will know that we aren’t disqualified.",
+          "explainer": "Paul hopes they will find that he has not failed the test. If their faith is genuine (Christ is in them), then Paul -- who brought them the gospel -- has not failed either.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we are as reprobate.",
+          "explainer": "Paul prays that the Corinthians will do no wrong -- not so that Paul may appear to have passed the test, but so that they may do what is right, even if Paul seems to have failed. He cares more about their holiness than his reputation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For we can do nothing against the truth, but for the truth.",
+          "explainer": "Paul cannot do anything against the truth, only for the truth. His authority is limited to building up, not tearing down. Even apostolic power has boundaries set by truth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "For we rejoice when we are weak and you are strong. And this we also pray for, even your perfecting.",
+          "explainer": "Paul is glad when he is weak and the Corinthians are strong. He prays for their restoration. The word 'restoration' (katartisis) means being put in proper order, like setting a broken bone. Paul wants them whole.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up, and not for tearing down.",
+          "explainer": "Paul writes these things while absent so that when he comes he may not have to be severe in his use of authority, which the Lord gave for building up and not for tearing down. The purpose of the letter is to prevent the need for harsh discipline on his arrival.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Finally, brothers, rejoice. Be perfected, be comforted, be of the same mind, live in peace, and the God of love and peace will be with you.",
+          "explainer": "Finally, brothers, rejoice. Aim for restoration, comfort one another, agree with one another, live in peace, and the God of love and peace will be with you. Five imperatives compressed into one sentence -- a blueprint for community health.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Greet one another with a holy kiss.",
+          "explainer": "Greet one another with a holy kiss. This was a standard greeting in the early church, signifying affection and unity among believers.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Holy kiss', 'explanation': 'A kiss on the cheek was a common greeting in the ancient Mediterranean world. The early church adopted it as a liturgical practice, signifying the peace and unity of believers. Paul mentions it in multiple letters (Romans 16:16, 1 Corinthians 16:20, 1 Thessalonians 5:26).'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "All the saints greet you.",
+          "explainer": "All the saints greet the Corinthians. Paul extends greetings from the broader Christian community, reminding Corinth that they are part of something larger than their local conflicts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with you all. Amen.",
+          "explainer": "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. This trinitarian benediction is the most explicitly triadic formula in Paul's letters and has become the most widely used blessing in Christian worship across traditions.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 28:19",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "Paul did not set out to articulate a doctrine of the Trinity, but this benediction attributes distinct roles to three divine persons: grace from Christ, love from God the Father, and fellowship from the Holy Spirit.",
+            "now": "This benediction is spoken in virtually every Christian worship service worldwide. It is the closing blessing in Catholic, Orthodox, Anglican, Lutheran, Reformed, and many evangelical traditions -- a rare point of unity across a deeply divided church."
+          }
+        }
+      ]
+    }
+  ]
+}

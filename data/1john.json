@@ -1,0 +1,1377 @@
+{
+  "book": {
+    "id": "1john",
+    "name": "1 John",
+    "testament": "New Testament",
+    "author": "Traditionally John the Apostle (the Elder)",
+    "dateWritten": "c. 85-95 AD",
+    "writtenFrom": "Traditionally Ephesus",
+    "writtenTo": "Johannine churches in Asia Minor",
+    "chapterCount": 5,
+    "verseCount": 105,
+    "explainer": {
+      "overview": "1 John is not a typical letter -- it has no greeting, no named author, and no named recipients. It reads more like a sermon or pastoral tract addressed to a community in crisis. A group of former members has left the church, denying that Jesus is the Christ come in the flesh, and their departure has shaken the remaining believers. John writes to reassure them with three interlocking tests of genuine faith: believing the right things about Jesus (the doctrinal test), obeying God's commands (the moral test), and loving fellow believers (the social test). Woven throughout is the stunning declaration that 'God is love' -- not merely that God loves, but that love is the very essence of who God is.",
+      "historicalContext": "The Johannine community appears to have suffered a painful schism. A group that had been part of the church left, apparently embracing a proto-Gnostic theology that separated the spiritual Christ from the human Jesus. They may have claimed that the divine Christ descended on Jesus at baptism and departed before the crucifixion, denying that the Son of God truly suffered and died. This departure left the remaining community questioning whether they had the truth.",
+      "whyItMatters": "1 John contains some of the most profound theological statements in Scripture: 'God is light' (1:5), 'God is love' (4:8, 16), 'perfect love casts out fear' (4:18). These are not abstract philosophical claims but pastoral responses to a community in pain. The letter insists that authentic Christianity is simultaneously intellectual (right belief), ethical (right behavior), and relational (right love). You cannot have one without the others.",
+      "keyThemes": [
+        "God is light; God is love",
+        "Tests of genuine faith: belief, obedience, love",
+        "The incarnation of Christ",
+        "Assurance of salvation",
+        "Overcoming the world",
+        "Sin, confession, and God's faithfulness"
+      ]
+    },
+    "people": [
+      {
+        "id": "john_author",
+        "name": "John (the Elder/Apostle)",
+        "role": "Author, eyewitness of Jesus",
+        "bio": "The author does not name himself but claims to be an eyewitness of Jesus -- 'what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands.' Church tradition identifies him as the apostle John, the 'beloved disciple' of the Gospel, writing in old age from Ephesus. He writes with the authority of a spiritual father addressing his 'little children.'",
+        "culturalContext": "By the late first century, the apostle John (if he is the author) would have been one of the last surviving eyewitnesses of Jesus. His authority derived from direct experience with Jesus, making him irreplaceable. His death would sever the living link between the churches and the historical Jesus."
+      },
+      {
+        "id": "secessionists",
+        "name": "The Secessionists",
+        "role": "Former members who left the community",
+        "bio": "John refers to them as those who 'went out from us, but they were not of us' (2:19). They denied that Jesus is the Christ come in the flesh, claimed to be sinless while disregarding God's commands, and apparently did not love their former brothers and sisters. John calls them 'antichrists' -- not a future apocalyptic figure but present-day opponents of the true Christ.",
+        "culturalContext": "These secessionists likely held an early form of what later became Gnostic Christianity -- the belief that the material world is evil, that the divine Christ could not truly inhabit a human body, and that spiritual knowledge was more important than moral behavior. Their departure from the community was deeply traumatic."
+      }
+    ],
+    "places": [
+      {
+        "id": "ephesus_1john",
+        "name": "Ephesus",
+        "description": "The traditional location of the Johannine community and the probable setting for 1 John. A major commercial and religious center in the Roman province of Asia.",
+        "culturalSignificance": "Ephesus was a crossroads of Greek philosophy, Roman imperial cult, and diverse religious traditions. The variety of competing ideas made it fertile ground for theological controversy. The Johannine community there had to define and defend its understanding of Christ against multiple alternative interpretations.",
+        "modernLocation": "Ruins near Selcuk, Izmir Province, Turkey.",
+        "latitude": 37.9394,
+        "longitude": 27.3417
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection witnessed by John",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 50-60 AD",
+        "event": "Paul's ministry establishes churches in Ephesus and Asia",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "Gospel of John written",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "Schism in the Johannine community; secessionists depart",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "1 John written to reassure the remaining community",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "2 and 3 John written addressing related issues",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 95 AD",
+        "event": "Revelation written during Domitian's persecution",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "1 John opens not with a greeting but with a proclamation: the author has personally seen, heard, and touched the Word of life -- Jesus Christ. He writes so that his readers may share in this fellowship and have complete joy. Then he introduces the letter's first great declaration: God is light, and in him there is no darkness at all. This sets up a series of contrasts between walking in light and walking in darkness, between claiming sinlessness and honestly confessing sin.",
+        "themes": [
+          "Eyewitness testimony to the incarnation",
+          "God is light",
+          "Walking in light vs. darkness",
+          "Confession of sin and God's faithfulness"
+        ],
+        "contextInBook": "This chapter establishes the foundation for everything that follows. The incarnation is real (against the secessionists), fellowship with God requires moral honesty, and God is faithful to forgive when we confess."
+      },
+      "wordStudies": [
+        {
+          "id": "fellowship",
+          "greek": "Greek: koinonia",
+          "transliteration": "Fellowship",
+          "translatedAs": "Shared participation, partnership, communion",
+          "meaning": "Shared participation, partnership, communion. It means more than socializing -- it denotes a deep sharing of life, resources, and experience. Fellowship with God and with one another are inseparable in John's thought.",
+          "significance": "1:3"
+        },
+        {
+          "id": "advocate",
+          "greek": "Greek: parakletos",
+          "transliteration": "Advocate",
+          "translatedAs": "One called alongside to help; a legal advocate or ",
+          "meaning": "One called alongside to help; a legal advocate or intercessor. The same word Jesus used for the Holy Spirit in John 14-16. Here it describes Jesus' ongoing intercession for believers before the Father.",
+          "significance": "2:1"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life",
+          "explainer": "The opening deliberately echoes Genesis 1:1 ('In the beginning') and John 1:1 ('In the beginning was the Word'). But John adds the sensory details: what we have heard, seen, looked at, and touched. This is not abstract theology but embodied experience. The Word of life was physically present and personally known.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 1:1-4",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Luke 24:39",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "The secessionists denied that the divine Christ truly became flesh. John counters with the most physical language possible: we touched him. You cannot touch a phantom.",
+            "now": "The incarnation -- God truly becoming human -- remains Christianity's most distinctive and controversial claim. John insists it is not a metaphor but a historical reality verified by physical witnesses."
+          }
+        },
+        {
+          "number": 2,
+          "text": "(and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);",
+          "explainer": "The life was manifested -- 'made visible' -- and the author bears witness to it. He proclaims the eternal life that was with the Father and appeared to them. The invisible God made himself visible in Jesus. This is the scandal of the incarnation: the infinite became touchable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Jesus Christ.",
+          "explainer": "The purpose of John's proclamation is fellowship: 'that you also may have fellowship with us, and indeed our fellowship is with the Father and with his Son Jesus Christ.' Human fellowship and divine fellowship are interconnected. You cannot have one without the other.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "And we write these things to you, that our joy may be fulfilled.",
+          "explainer": "John writes these things 'so that our joy may be made full.' The letter that will contain some of the most severe warnings in the New Testament is motivated by joy. True joy requires truth, even when truth is painful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.",
+          "explainer": "The first great declaration: 'God is light, and in him is no darkness at all.' This is not a metaphor about God's personality but a statement about his nature. Light represents truth, holiness, and moral purity. There is no mixture in God -- no hidden dark side, no moral ambiguity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the dualistic thought that influenced the secessionists, light and darkness were often equal and opposite cosmic forces. John insists that God is entirely light -- darkness is not God's counterpart but his absence.",
+            "now": "The declaration that God is pure light challenges every attempt to use God to justify evil, violence, or moral compromise. If God is light with no darkness, then anything done in God's name must be transparent and morally pure."
+          }
+        },
+        {
+          "number": 6,
+          "text": "If we say that we have fellowship with him and walk in the darkness, we lie, and don’t tell the truth.",
+          "explainer": "If we say we have fellowship with God but walk in darkness, we lie and do not practice the truth. The first of several 'if we say' tests. John confronts people who claim a spiritual relationship with God while living in moral darkness. Words without corresponding behavior are lies.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.",
+          "explainer": "But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus cleanses us from all sin. Walking in the light does not mean being sinless (verse 8 makes that clear); it means being honest, transparent, and morally engaged. In the light, both fellowship and cleansing happen.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 3:20-21",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+          "explainer": "If we say we have no sin, we deceive ourselves, and the truth is not in us. The second 'if we say' test. The secessionists may have claimed that spiritual enlightenment put them beyond sin. John calls this self-deception.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+          "explainer": "If we confess our sins, God is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness. This is one of the most important verses in the letter. Forgiveness is not uncertain; it is grounded in God's faithfulness (he keeps his promises) and righteousness (Jesus' sacrifice satisfied justice).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community shaken by the departure of people who claimed superiority, the assurance that honest confession leads to certain forgiveness was deeply comforting. You did not need to be perfect; you needed to be honest.",
+            "now": "This verse remains foundational for Christian practice of confession and assurance. It grounds forgiveness not in the quality of the confession but in the character of God -- he is faithful and just."
+          }
+        },
+        {
+          "number": 10,
+          "text": "If we say that we haven’t sinned, we make him a liar, and his word is not in us.",
+          "explainer": "If we say we have not sinned, we make God a liar, and his word is not in us. The third 'if we say' test, and the strongest. Denying sin does not just deceive yourself (v.8); it contradicts God himself, who says all have sinned. This is the opposite of walking in light -- it is calling God a liar.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Chapter 2 moves through several themes: Jesus as our advocate when we sin, the test of obedience (those who truly know God keep his commands), the old-new commandment to love one another, a warning against loving the world, the appearance of 'antichrists' who have left the community, and the reassurance that believers have an anointing from the Holy One that enables them to discern truth from error.",
+        "themes": [
+          "Jesus as advocate and atoning sacrifice",
+          "The test of obedience",
+          "The old-new commandment of love",
+          "Warning against worldliness",
+          "Antichrists and the community's anointing"
+        ],
+        "contextInBook": "Chapter 2 introduces all three tests of genuine faith: believing rightly (the doctrinal test, vv.18-27), obeying God (the moral test, vv.3-6), and loving others (the social test, vv.7-11). These tests will be repeated and developed through the rest of the letter."
+      },
+      "wordStudies": [
+        {
+          "id": "propitiation",
+          "greek": "Greek: hilasmos",
+          "transliteration": "Propitiation",
+          "translatedAs": "An atoning sacrifice that turns away wrath",
+          "meaning": "An atoning sacrifice that turns away wrath. The word was used in Greek religion for offerings that appease an angry deity. John transforms it: Jesus is the sacrifice that satisfies divine justice, not by placating an angry God but by expressing God's own love (see 4:10).",
+          "significance": "2:2"
+        },
+        {
+          "id": "antichrist",
+          "greek": "Greek: antichristos",
+          "transliteration": "Antichrist",
+          "translatedAs": "Against Christ or in place of Christ",
+          "meaning": "Against Christ or in place of Christ. Unique to 1 and 2 John in the New Testament. John uses it not for a future apocalyptic figure but for present opponents who deny the incarnation. There are 'many antichrists' (2:18), not just one.",
+          "significance": "2:18"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.",
+          "explainer": "John addresses them as 'my little children' and says he writes so they will not sin. But if anyone does sin, 'we have an Advocate with the Father, Jesus Christ the righteous.' The word 'advocate' (parakletos) is the same word Jesus used for the Holy Spirit. Jesus is the believer's defense attorney before God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.",
+          "explainer": "Jesus is the atoning sacrifice for our sins -- and not for ours only but for the sins of the whole world. The scope is universal: Jesus' death is sufficient for all humanity, not just for the Christian community. This is one of the strongest universalist statements in the New Testament.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community that had just experienced a painful split, the temptation might be to narrow God's love to 'our group.' John insists that Christ's sacrifice covers the whole world -- the scope of divine love is unlimited.",
+            "now": "This verse continues to fuel debates about the extent of the atonement. Does 'the whole world' mean every individual or the world in general? Either way, the scope of God's saving intention extends far beyond any one community."
+          }
+        },
+        {
+          "number": 3,
+          "text": "This is how we know that we know him: if we keep his commandments.",
+          "explainer": "The moral test: 'By this we know that we have come to know him, if we keep his commandments.' Knowledge of God is not theoretical; it is demonstrated by obedience. The secessionists claimed to know God while disregarding his commands. John says that is impossible.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him.",
+          "explainer": "Anyone who says 'I know him' but does not keep his commandments 'is a liar, and the truth is not in him.' John does not mince words. The gap between claim and behavior is not a minor inconsistency; it is a lie.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "But whoever keeps his word, God’s love has most certainly been perfected in him. This is how we know that we are in him:",
+          "explainer": "Whoever keeps God's word, in that person the love of God has truly been perfected. Obedience is not the opposite of love; it is the completion of love. Love that does not express itself in action is incomplete.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "he who says he remains in him ought himself also to walk just like he walked.",
+          "explainer": "Whoever claims to abide in him ought to walk in the same way that he walked. The ultimate standard is not a list of rules but a person -- Jesus himself. Christian ethics is fundamentally about imitating Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you heard from the beginning.",
+          "explainer": "The commandment is not new but old -- one they have had from the beginning. Yet it is also new, 'because the darkness is passing away and the true light is already shining.' The love command is ancient in origin but perpetually fresh in application.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 13:34",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Again, I write a new commandment to you, which is true in him and in you; because the darkness is passing away, and the true light already shines.",
+          "explainer": "John writes a new commandment that is true in Christ and in them, because the darkness is passing away and the true light already shines. The love commandment is not a static rule but a living reality being worked out in the community's life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "He who says he is in the light and hates his brother, is in the darkness even until now.",
+          "explainer": "The social test: whoever says they are in the light but hates their brother or sister is still in the darkness. Light and love go together. You cannot claim spiritual illumination while harboring hatred toward fellow believers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "He who loves his brother remains in the light, and there is no occasion for stumbling in him.",
+          "explainer": "Whoever loves their brother or sister abides in the light, and in them there is no cause for stumbling. Love provides moral clarity; hatred produces moral blindness. The one who loves can see where they are going.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "But he who hates his brother is in the darkness, and walks in the darkness, and doesn’t know where he is going, because the darkness has blinded his eyes.",
+          "explainer": "The one who hates their brother walks in darkness, does not know where they are going, and has been blinded by the darkness. Hatred is not just a moral failure; it is an epistemological one. It destroys your ability to perceive reality accurately.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community torn by schism, hatred between former friends and fellow believers was a real temptation. John insists that giving in to hatred means giving up the light entirely.",
+            "now": "The connection between hatred and blindness remains psychologically and spiritually accurate. Contempt for others distorts perception, making it impossible to see them -- or yourself -- clearly."
+          }
+        },
+        {
+          "number": 12,
+          "text": "I write to you, little children, because your sins are forgiven you for his name’s sake.",
+          "explainer": "John addresses them as 'little children' whose sins have been forgiven for Jesus' sake. This begins a poetic section addressing three groups (children, fathers, young people) with assurances of what they already possess in Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I write to you, fathers, because you know him who is from the beginning.\nI write to you, young men, because you have overcome the evil one.\nI write to you, little children, because you know the Father.",
+          "explainer": "He writes to the fathers who have known 'him who is from the beginning' and to the young people who have 'overcome the evil one.' Each group has its own spiritual achievement to celebrate.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "I have written to you, fathers, because you know him who is from the beginning.\nI have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one.",
+          "explainer": "The address is repeated with variations: the children know the Father, the fathers know the eternal one, and the young people are strong because the word of God abides in them and they have overcome the evil one. The repetition reinforces assurance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Don’t love the world or the things that are in the world. If anyone loves the world, the Father’s love isn’t in him.",
+          "explainer": "Do not love the world or the things in the world. 'If anyone loves the world, the love of the Father is not in them.' In Johannine vocabulary, 'the world' (kosmos) does not mean creation (which God made and loves) but the system of values and priorities that operates in opposition to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn’t the Father’s, but is the world’s.",
+          "explainer": "Everything in the world -- the desire of the flesh, the desire of the eyes, and the pride of life -- is not from the Father but from the world. Three categories of temptation: bodily appetite, covetous sight, and arrogant self-sufficiency. These cover the entire range of human rebellion.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Desire of the flesh, eyes, pride of life', 'explanation': \"This triad maps onto classical temptation patterns. Some commentators connect it to Eve's temptation in Genesis 3:6 (the fruit was good for food, pleasing to the eyes, and desirable for wisdom). Whether or not the parallel is intentional, the triad is comprehensive -- it covers physical, aesthetic, and social temptation.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "The world is passing away with its lusts, but he who does God’s will remains forever.",
+          "explainer": "The world and its desires are passing away, but whoever does the will of God abides forever. The impermanence of worldly desires contrasts with the permanence of God's will. Investing in the temporary at the expense of the eternal is a losing strategy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "Little children, these are the end times, and as you heard that the Antichrist is coming, even now many antichrists have arisen. By this we know that it is the final hour.",
+          "explainer": "Children, it is the last hour. Many antichrists have come -- 'by this we know it is the last hour.' John does not point to a single future Antichrist but to multiple present ones. The secessionists who left the community are themselves evidence that the final conflict between truth and falsehood has begun.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Early Christians lived with a sense of apocalyptic urgency. The 'last hour' was not a clock prediction but a theological conviction that the decisive battle between God and evil was underway.",
+            "now": "Nearly two millennia later, the 'last hour' language requires theological interpretation. Many scholars understand it as describing the entire period between Christ's first and second comings -- an era characterized by the ongoing conflict between truth and deception."
+          }
+        },
+        {
+          "number": 19,
+          "text": "They went out from us, but they didn’t belong to us; for if they had belonged to us, they would have continued with us. But they left, that they might be revealed that none of them belong to us.",
+          "explainer": "They went out from us, but they were not of us. If they had been of us, they would have continued with us. But their departure shows that 'not all of them belong to us.' The secessionists' leaving is reinterpreted not as a loss but as a revelation -- it showed they were never truly part of the community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "You have an anointing from the Holy One, and you all have knowledge.",
+          "explainer": "But you have an anointing from the Holy One, and you all have knowledge. The 'anointing' (chrisma) is the Holy Spirit, who enables believers to discern truth from error. The secessionists may have claimed special knowledge; John says all believers share in this anointing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "I have not written to you because you don’t know the truth, but because you know it, and because no lie is of the truth.",
+          "explainer": "John writes not because they do not know the truth but because they do know it, and because no lie comes from the truth. He is reinforcing what they already possess, not introducing something new. Their existing knowledge is sufficient.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "Who is the liar but he who denies that Jesus is the Christ? This is the Antichrist, he who denies the Father and the Son.",
+          "explainer": "The doctrinal test stated clearly: 'Who is the liar but the one who denies that Jesus is the Christ? This is the antichrist: the one who denies the Father and the Son.' The specific heresy is denying the unity of the human Jesus and the divine Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 John 7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Whoever denies the Son, the same doesn’t have the Father. He who confesses the Son has the Father also.",
+          "explainer": "No one who denies the Son has the Father. Whoever confesses the Son has the Father also. The Father and Son are inseparable. You cannot claim to worship God the Father while rejecting Jesus the Son. The relationship is a package deal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Therefore, as for you, let that remain in you which you heard from the beginning. If that which you heard from the beginning remains in you, you also will remain in the Son, and in the Father.",
+          "explainer": "Let what you heard from the beginning abide in you. If it abides in you, then you will abide in the Son and in the Father. Stability comes from holding fast to the original apostolic teaching, not from chasing new revelations.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "This is the promise which he promised us, the eternal life.",
+          "explainer": "This is the promise he made to us: eternal life. The ultimate gift is not temporal blessing or spiritual experience but eternal life -- unending, unbreakable fellowship with God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "These things I have written to you concerning those who would lead you astray.",
+          "explainer": "John writes about those who are trying to deceive them. He does not minimize the threat -- active deception is underway. But he also does not panic. The anointing they have received is sufficient for discernment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "As for you, the anointing which you received from him remains in you, and you don’t need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him.",
+          "explainer": "The anointing they received from Christ abides in them, and they do not need anyone to teach them -- the anointing teaches them about everything and is true. This does not mean human teachers are unnecessary (John himself is teaching them); it means they do not need the secessionists' supposedly superior knowledge.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The secessionists may have claimed that ordinary believers needed their advanced teaching to truly understand spiritual reality. John counters that the Holy Spirit's anointing gives every believer direct access to truth.",
+            "now": "This verse has been used to support both the importance of individual spiritual discernment and (sometimes problematically) the rejection of all human teaching authority. In context, John affirms the Spirit's direct work while himself functioning as a teacher."
+          }
+        },
+        {
+          "number": 28,
+          "text": "Now, little children, remain in him, that when he appears, we may have boldness, and not be ashamed before him at his coming.",
+          "explainer": "Abide in Christ, so that when he appears they may have confidence and not shrink from him in shame at his coming. The goal of abiding is confidence at Christ's return -- not fear or embarrassment but the settled assurance of a life well lived.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 29,
+          "text": "If you know that he is righteous, you know that everyone who practices righteousness has been born of him.",
+          "explainer": "If you know that Christ is righteous, you know that everyone who practices righteousness has been born of God. Righteous behavior is evidence of spiritual birth. The tree is known by its fruit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "Chapter 3 begins with an astonished exclamation about the love of God that makes us his children. It develops the themes of sin and righteousness, insisting that those born of God cannot practice sin as a lifestyle. The chapter then moves to the commandment of love, using Cain as a negative example and Christ's self-sacrifice as the positive one. It concludes with the assurance that God is greater than our hearts and that we can have confidence before him.",
+        "themes": [
+          "The identity of God's children",
+          "Sin and the new birth",
+          "Love in action: Cain vs. Christ",
+          "Confidence before God",
+          "The indwelling Spirit"
+        ],
+        "contextInBook": "Chapter 3 deepens the moral and social tests introduced in chapter 2. The children of God are distinguished from the children of the devil not by their group membership but by their behavior -- specifically, whether they practice righteousness and love one another."
+      },
+      "wordStudies": [
+        {
+          "id": "children_of_god",
+          "greek": "Greek: tekna theou",
+          "transliteration": "Children of God",
+          "translatedAs": "Born ones of God -- not just 'sons' (huioi) in the",
+          "meaning": "Born ones of God -- not just 'sons' (huioi) in the sense of legal status, but children in the sense of sharing God's nature through birth. The emphasis is on origin and family resemblance: God's children look like their Father.",
+          "significance": "3:1"
+        },
+        {
+          "id": "laid_down_his_life",
+          "greek": "Greek: tithemi ten psychen",
+          "transliteration": "Laid down his life",
+          "translatedAs": "To place or set down one's life -- the same phrase",
+          "meaning": "To place or set down one's life -- the same phrase Jesus used in John 10:11 ('the good shepherd lays down his life for the sheep'). It implies voluntary, deliberate sacrifice, not merely dying but choosing to die.",
+          "significance": "3:16"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him.",
+          "explainer": "See what great love the Father has given to us, that we should be called children of God -- and so we are! The exclamation mark is in the original: 'and so we are!' John cannot contain his amazement that the love of God actually transforms human identity. The reason the world does not know us is that it did not know him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, identity was determined by family, tribe, and social status. To be called 'children of God' was a radical redefinition of identity that cut across all social categories.",
+            "now": "The claim that human identity is ultimately defined by relationship with God rather than by race, nationality, achievement, or social media following remains counter-cultural in every era."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that, when he is revealed, we will be like him; for we will see him just as he is.",
+          "explainer": "Beloved, we are God's children now, and what we will be has not yet been revealed. But we know that when he appears, we shall be like him, because we shall see him as he is. The tension between already (children now) and not yet (what we will be) defines the Christian life. The final transformation will come through seeing Christ as he really is.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Corinthians 3:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Everyone who has this hope set on him purifies himself, even as he is pure.",
+          "explainer": "Everyone who has this hope in him purifies themselves, just as he is pure. Hope is not passive waiting but active preparation. The expectation of seeing Christ motivates moral transformation in the present.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Everyone who sins also commits lawlessness. Sin is lawlessness.",
+          "explainer": "Everyone who practices sin also practices lawlessness; sin is lawlessness. Sin is not merely breaking rules; it is the fundamental rejection of God's order and authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "You know that he was revealed to take away our sins, and in him is no sin.",
+          "explainer": "You know that he appeared to take away sins, and in him there is no sin. The incarnation had a specific purpose: the removal of sin. Christ's sinlessness qualifies him uniquely for this task.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Whoever remains in him doesn’t sin. Whoever sins hasn’t seen him and doesn’t know him.",
+          "explainer": "No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him. The present tense is crucial: John is not saying believers never sin (1:8-10 says they do) but that they do not practice sin as a habitual lifestyle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous.",
+          "explainer": "Little children, let no one deceive you. Whoever practices righteousness is righteous, just as he is righteous. The test is simple and external: you can observe behavior. The secessionists may have claimed a spiritual righteousness detached from daily conduct. John insists that real righteousness is visible.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.",
+          "explainer": "Whoever practices sin is of the devil, for the devil has been sinning from the beginning. The Son of God appeared 'to destroy the works of the devil.' The cosmic struggle between God and evil is enacted in the moral choices of every individual.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 3:1-15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Whoever is born of God doesn’t commit sin, because his seed remains in him; and he can’t sin, because he is born of God.",
+          "explainer": "No one who is born of God practices sin, because God's seed abides in them, and they cannot keep on sinning because they have been born of God. The divine 'seed' (sperma) -- God's nature implanted through new birth -- creates an inner resistance to sin. It does not make sin impossible but makes habitual, unrepentant sin incompatible with the new identity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "In this the children of God are revealed, and the children of the devil. Whoever doesn’t do righteousness is not of God, neither is he who doesn’t love his brother.",
+          "explainer": "By this the children of God and the children of the devil are obvious: whoever does not practice righteousness is not of God, nor is the one who does not love his brother. Two tests combined: righteousness and love. Both must be present. Neither alone is sufficient.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For this is the message which you heard from the beginning, that we should love one another;",
+          "explainer": "This is the message you have heard from the beginning: that we should love one another. The love command is presented as foundational, not supplementary -- it has been there from the very start of the community's existence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 13:34-35",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous.",
+          "explainer": "Not like Cain, who was of the evil one and murdered his brother. And why did he murder him? Because his own works were evil and his brother's were righteous. Cain is the anti-model: hatred born from the resentment of another's goodness. The righteous provoke the wicked simply by being righteous.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 4:1-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Don’t be surprised, my brothers, if the world hates you.",
+          "explainer": "Do not be surprised, brothers, if the world hates you. Hatred from the world is normal, not exceptional. If the world hated the perfectly righteous Christ, his followers should expect the same.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "We know that we have passed out of death into life, because we love the brothers. He who doesn’t love his brother remains in death.",
+          "explainer": "We know that we have passed from death to life because we love the brothers. Whoever does not love remains in death. Love is the evidence of spiritual resurrection. The transition from death to life is verified not by a mystical experience but by the presence or absence of love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.",
+          "explainer": "Everyone who hates his brother is a murderer, and you know that no murderer has eternal life abiding in him. John extends Jesus' teaching from the Sermon on the Mount: hatred is murder in seed form. The inner disposition and the outward act share the same moral DNA.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 5:21-22",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers.",
+          "explainer": "By this we know love: he laid down his life for us, and we ought to lay down our lives for the brothers. The definition of love is not a feeling but an action -- Christ's voluntary self-sacrifice. And it is not just a doctrine to believe but a pattern to follow.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community where some members were being expelled and others were hoarding resources, the call to lay down your life for your brothers was not abstract. It meant tangible, costly sacrifice for the community's welfare.",
+            "now": "The call to sacrificial love -- not just emotional warmth but practical self-giving -- remains the most challenging and distinctive demand of Christian ethics."
+          }
+        },
+        {
+          "number": 17,
+          "text": "But whoever has the world’s goods, and sees his brother in need, and closes his heart of compassion against him, how does God’s love remain in him?",
+          "explainer": "If someone has the world's goods and sees a brother in need but closes their heart, how does the love of God abide in that person? Love is tested by economics. John makes it concrete: if you have resources and your fellow believer lacks necessities, love demands action, not sympathy.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': \"Closing one's heart\", 'explanation': \"The Greek literally says 'shuts his bowels of compassion.' In ancient thought, the bowels (splanchna) were the seat of deep emotion and compassion. To shut one's bowels meant to deliberately suppress the natural human response of empathy when confronted with need.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "My little children, let’s not love in word only, or with the tongue only, but in deed and truth.",
+          "explainer": "Little children, let us not love in word or talk but in deed and in truth. The summary is devastating in its simplicity: real love is verified by action, not by language. You can measure love by what it does, not by what it says.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "And by this we know that we are of the truth, and persuade our hearts before him,",
+          "explainer": "By this we shall know that we are of the truth and reassure our heart before him. The practice of concrete love provides assurance. When you doubt your standing with God, look at what you are doing for others.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "because if our heart condemns us, God is greater than our heart, and knows all things.",
+          "explainer": "Whenever our heart condemns us, God is greater than our heart, and he knows everything. This is one of the most pastorally important verses in the letter. Self-condemnation is real, but God's knowledge is greater than our guilt. He sees the full picture, including the love we practice even when we feel unworthy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community shaken by departure and division, many remaining members likely questioned their own faith. John assures them that God's comprehensive knowledge surpasses their anxious self-assessment.",
+            "now": "For anyone struggling with scrupulosity, self-doubt, or a condemning conscience, this verse offers profound comfort: God is bigger than your feelings of failure. His assessment is more accurate and more generous than your own."
+          }
+        },
+        {
+          "number": 21,
+          "text": "Beloved, if our hearts don’t condemn us, we have boldness toward God;",
+          "explainer": "Beloved, if our heart does not condemn us, we have confidence before God. A clear conscience is the foundation of confident prayer. When we are living in obedience and love, we approach God without shame.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.",
+          "explainer": "Whatever we ask we receive from him, because we keep his commandments and do what pleases him. Answered prayer is connected to obedience -- not as a transaction but as a relationship. Those who live in alignment with God's will naturally ask for things that align with his purposes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.",
+          "explainer": "This is his commandment: that we believe in the name of his Son Jesus Christ and love one another, just as he commanded us. The two great commands -- faith and love -- are united in a single commandment. Believing and loving are not separate activities but two expressions of the same response to God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 6:29",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.",
+          "explainer": "Whoever keeps his commandments abides in God, and God in them. And by this we know that he abides in us: by the Spirit he has given us. The chapter ends with the first explicit mention of the Holy Spirit as the evidence of God's indwelling presence. The Spirit is the bridge between divine and human.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Chapter 4 contains 1 John's theological summit: 'God is love.' The chapter begins with a test for spiritual claims -- every spirit that confesses Jesus Christ has come in the flesh is from God -- then moves into the most sustained meditation on divine love in all of Scripture. God's love is not an attribute among many but his essential nature. This love was demonstrated in sending his Son as an atoning sacrifice, and it is perfected when believers love one another. The chapter culminates in the declaration that 'perfect love casts out fear.'",
+        "themes": [
+          "Testing the spirits",
+          "God is love",
+          "The initiative of divine love",
+          "Love perfected in community",
+          "Perfect love casts out fear"
+        ],
+        "contextInBook": "Chapter 4 is the theological heart of the letter. The three tests of faith (doctrinal, moral, social) converge here in the revelation that God's own nature is love, and that this love was embodied in the incarnation and is now embodied in the community's mutual love."
+      },
+      "wordStudies": [
+        {
+          "id": "god_is_love",
+          "greek": "Greek: ho theos agape estin",
+          "transliteration": "God is love",
+          "translatedAs": "Not merely that God loves or that God is loving, b",
+          "meaning": "Not merely that God loves or that God is loving, but that love is the defining essence of God's being. This is arguably the most important theological statement in the Johannine writings. It does not mean that love is God (that would deify an abstraction) but that everything God does flows from and expresses love.",
+          "significance": "4:8"
+        },
+        {
+          "id": "perfect_love",
+          "greek": "Greek: teleia agape",
+          "transliteration": "Perfect love",
+          "translatedAs": "Love that has reached its intended goal (telos)",
+          "meaning": "Love that has reached its intended goal (telos). Not flawless love but mature, complete, fully-realized love. Love that has accomplished what it set out to do -- namely, the elimination of fear and the establishment of confidence before God.",
+          "significance": "4:18"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.",
+          "explainer": "Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. The command to 'test the spirits' assumes that not all spiritual experiences are from God. Discernment is not cynicism; it is a requirement.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the early church, where prophetic utterances were a normal part of worship, the ability to distinguish between genuine and counterfeit spiritual messages was critical. Without this discernment, the community was vulnerable to manipulation.",
+            "now": "The call to test spiritual claims against doctrinal standards remains essential in an age of competing spiritual voices, online prophets, and subjective experience elevated above objective truth."
+          }
+        },
+        {
+          "number": 2,
+          "text": "By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,",
+          "explainer": "The test: every spirit that confesses that Jesus Christ has come in the flesh is from God. The key phrase is 'in the flesh' -- the physical reality of the incarnation. Any spirituality that separates the divine from the material, or Christ from Jesus, fails this test.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 John 7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.",
+          "explainer": "Every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and now is already in the world. The antichrist is not merely future; it is present wherever the incarnation is denied.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world.",
+          "explainer": "Little children, you are from God and have overcome them, because 'he who is in you is greater than he who is in the world.' One of the most powerful assurance statements in the letter. The Holy Spirit within believers is greater than any false spirit operating in the world system.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "They are of the world. Therefore they speak of the world, and the world hears them.",
+          "explainer": "They are from the world; therefore what they say is from the world, and the world listens to them. The false teachers' popularity is not a sign of truth but of worldliness. The world naturally resonates with messages that come from its own value system.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error.",
+          "explainer": "We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of error. The apostolic community's teaching is the standard against which other claims are measured. Receptivity to this teaching is itself a test of spiritual origin.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
+          "explainer": "Beloved, let us love one another, for love is from God, and whoever loves has been born of God and knows God. The transition from doctrinal testing to love theology is seamless. Love is not just a command but evidence of divine birth. To love authentically is to demonstrate that you have been born of God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "He who doesn’t love doesn’t know God, for God is love.",
+          "explainer": "Anyone who does not love does not know God, because God is love. This is the first of two occurrences of the letter's most famous declaration (repeated in 4:16). 'God is love' is not a definition that limits God but a revelation that transforms our understanding of everything God does.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where gods were primarily understood through power, wrath, and caprice, the declaration that the supreme God's essential nature is love was revolutionary. It redefined divinity itself.",
+            "now": "The statement 'God is love' is so familiar that its radical implications are often missed. It means that God's power, justice, sovereignty, and even wrath are all expressions of love. Nothing God does is unloving, even when it is severe."
+          }
+        },
+        {
+          "number": 9,
+          "text": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
+          "explainer": "In this the love of God was made manifest among us: God sent his only Son into the world so that we might live through him. Divine love is not an abstract quality but a historical action. The incarnation is the concrete evidence of God's nature.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 3:16",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+          "explainer": "In this is love: not that we loved God, but that he loved us and sent his Son as the atoning sacrifice for our sins. Love's initiative is entirely God's. We did not ascend to God; God descended to us. The direction of love is always from God to humanity first, and from humanity to God in response.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Beloved, if God loved us in this way, we also ought to love one another.",
+          "explainer": "Beloved, if God so loved us, we also ought to love one another. The logic is inescapable: if God loved us at such cost, we cannot withhold love from each other. Divine love creates an obligation of human love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+          "explainer": "No one has ever seen God; if we love one another, God abides in us and his love is perfected in us. The invisible God becomes visible through human love. When believers love each other, God's love reaches its intended destination -- it achieves its purpose (teleioō) in the community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 1:18",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "By this we know that we remain in him and he in us, because he has given us of his Spirit.",
+          "explainer": "By this we know that we abide in him and he in us: because he has given us of his Spirit. The Spirit is the bridge between divine love and human love -- the mechanism by which God's love flows through believers into the community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "We have seen and testify that the Father has sent the Son as the Savior of the world.",
+          "explainer": "We have seen and testify that the Father has sent the Son as the Savior of the world. The eyewitness testimony returns. The elder does not offer a theory about God; he offers a report of what he has seen.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Whoever confesses that Jesus is the Son of God, God remains in him, and he in God.",
+          "explainer": "Whoever confesses that Jesus is the Son of God, God abides in them and they in God. The doctrinal test and the love ethic converge: confessing Christ and experiencing God's indwelling are inseparable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+          "explainer": "So we have come to know and to believe the love that God has for us. God is love, and whoever abides in love abides in God, and God abides in them. The second occurrence of 'God is love.' Knowing and believing God's love is the foundation of the entire spiritual life. Abiding in love and abiding in God are the same thing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "For a community that had experienced the trauma of members leaving and denying core truths, the repeated assurance that God's essential nature is love -- and that abiding in love means abiding in God -- was profoundly healing.",
+            "now": "In a world where religion is often associated with judgment, exclusion, and violence, the claim that God's essence is love remains both the most attractive and most challenging aspect of Christian theology."
+          }
+        },
+        {
+          "number": 17,
+          "text": "In this love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so are we in this world.",
+          "explainer": "By this, love is perfected with us, so that we may have confidence in the day of judgment; because as he is, so also are we in this world. Love drives out the fear of judgment. Those who abide in love can face the final accounting with confidence, not terror.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+          "explainer": "There is no fear in love, but perfect love casts out fear, because fear has to do with punishment. The one who fears has not been perfected in love. This is one of the most quoted verses in the letter. Fear and mature love are incompatible. As love matures, fear diminishes. The goal is not the absence of all fear but the presence of such complete love that fear has no foothold.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where the gods were feared and divine wrath was constantly anticipated, the claim that God's love eliminates fear was genuinely liberating. Early Christians experienced freedom from the terror that characterized much ancient religion.",
+            "now": "For anyone trapped in fear-based religion -- where God is primarily experienced as a judge to be appeased rather than a Father to be loved -- this verse is revolutionary. It does not deny accountability but reframes the relationship from legal to familial."
+          }
+        },
+        {
+          "number": 19,
+          "text": "We love him, because he first loved us.",
+          "explainer": "We love because he first loved us. The simplest and most profound statement of Christian ethics. Human love is always a response to divine love. We do not earn God's love by loving; we love because we have already received his love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?",
+          "explainer": "If someone says 'I love God' and hates his brother, he is a liar. For the one who does not love his brother whom he has seen cannot love God whom he has not seen. The logic is devastating: love for the invisible God must be expressed through love for visible people. There is no spiritual shortcut that bypasses human relationships.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "This commandment we have from him, that he who loves God should also love his brother.",
+          "explainer": "And this commandment we have from him: whoever loves God must also love his brother. The chapter ends where it began -- with a command. But now the command is grounded in the deepest possible theology: God's own nature is love, and therefore his children must love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "The final chapter brings the letter's themes to their conclusion. Faith in Jesus as the Son of God is the victory that overcomes the world. The testimony of God -- through water, blood, and Spirit -- confirms Christ's identity. John writes so that believers may know they have eternal life. The chapter addresses confidence in prayer, the sin that leads to death, and closes with three affirmations: believers are born of God, the whole world lies in the power of the evil one, and the Son of God has given understanding to know the true God.",
+        "themes": [
+          "Faith overcomes the world",
+          "The threefold testimony: water, blood, Spirit",
+          "Assurance of eternal life",
+          "Confidence in prayer",
+          "The sin unto death",
+          "Final affirmations"
+        ],
+        "contextInBook": "Chapter 5 functions as the letter's conclusion, gathering up the threads of faith, love, and obedience and weaving them into final assurances. The letter that began with proclamation ends with certainty."
+      },
+      "wordStudies": [
+        {
+          "id": "overcome",
+          "greek": "Greek: nikao",
+          "transliteration": "Overcome",
+          "translatedAs": "To conquer, to be victorious",
+          "meaning": "To conquer, to be victorious. The same word used extensively in Revelation for the conquering saints. Faith is presented not as passive belief but as an active force that defeats the world system. The victory is not future only but present.",
+          "significance": "5:4"
+        },
+        {
+          "id": "eternal_life",
+          "greek": "Greek: zoe aionios",
+          "transliteration": "Eternal life",
+          "translatedAs": "Not merely life that lasts forever (quantitative) ",
+          "meaning": "Not merely life that lasts forever (quantitative) but the quality of life that belongs to the age to come -- God's own life shared with believers. In Johannine theology, eternal life begins now, not after death.",
+          "significance": "5:13"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.",
+          "explainer": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him. Faith and family love are connected: if you love the Father, you love his children. The family metaphor runs through the entire letter -- believers are siblings because they share a Father.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "By this we know that we love the children of God, when we love God and keep his commandments.",
+          "explainer": "By this we know that we love the children of God: when we love God and obey his commandments. Love for God's children is verified by love for God and obedience to his commands. The three tests (faith, obedience, love) are fully integrated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "For this is loving God, that we keep his commandments. His commandments are not grievous.",
+          "explainer": "For this is the love of God: that we keep his commandments. And his commandments are not burdensome. God's commands are not oppressive because the one who is born of God has been given the capacity to obey through the new birth. What would be impossible for unregenerate humanity is natural for God's children.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 11:30",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
+          "explainer": "For everyone who has been born of God overcomes the world. And this is the victory that has overcome the world: our faith. Faith is the mechanism of victory. Not military power, not political influence, not intellectual superiority -- but trust in God's revelation in Jesus Christ.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "For tiny, marginalized Christian communities in the Roman Empire, the claim that their faith had 'overcome the world' was audacious. They had no worldly power, yet John declares them victors.",
+            "now": "The claim that faith overcomes the world continues to challenge materialist assumptions. In a culture that measures victory by wealth, influence, and visibility, John defines it as trust in the unseen God."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+          "explainer": "Who is it that overcomes the world except the one who believes that Jesus is the Son of God? The victory is specific: it comes through believing a specific truth about a specific person. Not generic faith or optimism but trust in Jesus as God's Son.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "This is he who came by water and blood, Jesus Christ; not with the water only, but with the water and the blood. It is the Spirit who testifies, because the Spirit is the truth.",
+          "explainer": "This is he who came by water and blood -- Jesus Christ -- not by water only but by water and by blood. And the Spirit is the one who testifies, because the Spirit is the truth. The 'water and blood' likely refer to Jesus' baptism (water) and death (blood). The secessionists may have accepted the baptism but denied the crucifixion. John insists: both are essential.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Water and blood', 'explanation': \"The most common interpretation: water = Jesus' baptism (when the Spirit descended), blood = Jesus' crucifixion (when he died). The secessionists may have taught that the divine Christ came upon Jesus at baptism but left before the crucifixion. John insists that the same Christ who was baptized also truly suffered and died.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For there are three who testify:",
+          "explainer": "For there are three that testify. John introduces a threefold witness -- Spirit, water, and blood -- that confirms the truth about Christ. Three witnesses meet the legal requirement for establishing testimony in Jewish law.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Deuteronomy 19:15",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "the Spirit, the water, and the blood; and the three agree as one.",
+          "explainer": "The Spirit and the water and the blood; and these three agree. The three witnesses converge on a single testimony: Jesus Christ truly came in the flesh, was truly baptized, and truly died. The Spirit continues to testify to this truth in the life of the community.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "If we receive the witness of men, the witness of God is greater; for this is God’s testimony which he has testified concerning his Son.",
+          "explainer": "If we receive the testimony of men, the testimony of God is greater. For the testimony of God is this: that he has testified concerning his Son. Human testimony is accepted routinely in courts and daily life. If we accept human witnesses, how much more should we accept God's own testimony about his Son?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "He who believes in the Son of God has the testimony in himself. He who doesn’t believe God has made him a liar, because he has not believed in the testimony that God has given concerning his Son.",
+          "explainer": "Whoever believes in the Son of God has the testimony in himself. Whoever does not believe God has made him a liar, because he has not believed in the testimony God has given about his Son. Unbelief is not neutral -- it calls God a liar. This echoes 1:10 where denying sin makes God a liar.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son.",
+          "explainer": "And the testimony is this: that God gave us eternal life, and this life is in his Son. God's testimony is not a proposition but a gift -- eternal life given through his Son. The testimony is embodied, not abstract.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
+          "explainer": "Whoever has the Son has life; whoever does not have the Son of God does not have life. The simplest possible summary of the letter's message. Life is found in Christ. Apart from Christ, there is no life. The line is absolute.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This stark either/or was directed at the secessionists who claimed spiritual life while denying the incarnate Son. John draws the sharpest possible line: no Son, no life.",
+            "now": "This verse raises profound questions about religious exclusivism and the fate of those outside Christian faith. It remains one of the most debated statements in the New Testament."
+          }
+        },
+        {
+          "number": 13,
+          "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.",
+          "explainer": "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life. The purpose statement of the letter: assurance. John writes not to create doubt but to establish certainty. Believers can know -- not merely hope or wish -- that they possess eternal life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 20:31",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "This is the boldness which we have toward him, that, if we ask anything according to his will, he listens to us.",
+          "explainer": "This is the confidence we have in approaching God: if we ask anything according to his will, he hears us. Confident prayer is grounded in alignment with God's will. The qualification 'according to his will' is not a loophole but a guide -- prayer at its best seeks what God desires, not just what we want.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
+          "explainer": "And if we know that he hears us in whatever we ask, we know that we have the requests that we asked of him. If the prayer is aligned with God's will, the answer is already certain. The confidence is not in the power of the prayer but in the faithfulness of the God who hears.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is a sin leading to death. I don’t say that he should make a request concerning this.",
+          "explainer": "If anyone sees his brother committing a sin not leading to death, he shall ask, and God will give him life. There is a sin leading to death; I do not say that one should pray for that. The 'sin leading to death' has been debated for centuries. In context, it likely refers to the secessionists' deliberate, final rejection of the incarnation -- apostasy so complete that it severs the person from the source of life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The distinction between sins 'leading to death' and those not leading to death reflects the early church's awareness that not all spiritual failures are equal. Temporary weakness differs from deliberate, permanent apostasy.",
+            "now": "This passage has generated enormous pastoral anxiety. Most theologians agree that the 'sin unto death' involves willful, sustained, final rejection of Christ -- not the ordinary struggles of sincere believers who sometimes fail."
+          }
+        },
+        {
+          "number": 17,
+          "text": "All unrighteousness is sin, and there is a sin not leading to death.",
+          "explainer": "All wrongdoing is sin, but there is sin that does not lead to death. John acknowledges that all sin is serious while maintaining the distinction. Not every sin is fatal to spiritual life. The pastoral balance is important: sin is always wrong, but not every sin is unforgivable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "We know that whoever is born of God doesn’t sin, but he who was born of God keeps himself, and the evil one doesn’t touch him.",
+          "explainer": "We know that everyone who has been born of God does not keep on sinning, but the one who was born of God protects them, and the evil one does not touch them. Three final affirmations begin here. The first: God's children are protected from habitual sin and from the evil one's ultimate power.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "We know that we are of God, and the whole world lies in the power of the evil one.",
+          "explainer": "We know that we are from God, and the whole world lies in the power of the evil one. The second affirmation: believers belong to God, while the world system remains under evil's influence. This is a realistic assessment, not pessimism. The battle is real, but the sides are clear.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "We know that the Son of God has come, and has given us an understanding, that we know him who is true, and we are in him who is true, in his Son Jesus Christ. This is the true God, and eternal life.",
+          "explainer": "We know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. This is the true God and eternal life. The third and climactic affirmation: Christ has given believers the ability to know the true God. The letter that began with eyewitness testimony ends with personal knowledge of God through his Son.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Little children, keep yourselves from idols.",
+          "explainer": "Little children, keep yourselves from idols. The letter ends with a startling final sentence that seems to come from nowhere. But in context, 'idols' may refer to the false images of Christ promoted by the secessionists -- any substitute for the true God revealed in the incarnate Jesus. The last word is a warning: do not accept any counterfeit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ephesus was famous for the temple of Artemis and for pervasive idolatry. The warning against idols would have had both literal and metaphorical force for John's readers.",
+            "now": "The warning against idols extends beyond statues to anything that replaces the true God in our affections and allegiance. In every age, the human heart manufactures substitutes for the God who revealed himself in Jesus Christ."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "book": {
+    "id": "philemon",
+    "name": "Philemon",
+    "testament": "New Testament",
+    "author": "Paul (with Timothy as co-sender)",
+    "dateWritten": "c. 60-62 AD",
+    "writtenFrom": "Rome, during Paul's first imprisonment",
+    "writtenTo": "Philemon, a wealthy Christian in Colossae",
+    "chapterCount": 1,
+    "verseCount": 25,
+    "explainer": {
+      "overview": "Philemon is the shortest of Paul's letters and the most personal. It is not addressed to a church but to an individual about a specific situation: Onesimus, a slave belonging to Philemon, has run away and somehow ended up with Paul in prison, where he has become a Christian. Paul writes to ask Philemon to take Onesimus back -- not as a runaway slave to be punished but as a 'beloved brother.' The letter is a masterclass in persuasion: Paul could simply order Philemon to comply (he has the apostolic authority), but instead he appeals on the basis of love, relationship, and the transformation the gospel creates. Every sentence is carefully crafted to make it almost impossible for Philemon to refuse.",
+      "historicalContext": "Roman slavery was a brutal institution. A runaway slave (fugitivus) faced severe punishment if caught -- branding, beating, or death. The slaveholder had absolute legal authority over the slave's body. Philemon was a wealthy Christian in Colossae whose house served as a church meeting place. By sending Onesimus back with this letter, Paul was navigating one of the most explosive intersections of the gospel and Roman social order: can a slaveholder treat his slave as an equal brother in Christ?",
+      "whyItMatters": "Philemon is the New Testament's most direct engagement with the institution of slavery. Paul does not call for abolition -- doing so would have been suicidal for the tiny Christian movement within the Roman Empire. Instead, he plants a seed that would eventually destroy the institution from within: if master and slave are brothers, equally loved by God, then the entire basis of slavery is undermined. The letter also demonstrates Paul's rhetorical genius and his preference for persuasion over coercion. Its vision of reconciliation -- the guilty welcomed back, the debt paid by another -- is a microcosm of the gospel itself.",
+      "keyThemes": [
+        "Reconciliation between estranged people",
+        "The gospel's power to transform social relationships",
+        "Appeal based on love, not authority",
+        "Christianity and the institution of slavery",
+        "Forgiveness and restoration",
+        "The gospel as a microcosm in a personal letter"
+      ]
+    },
+    "people": [
+      {
+        "id": "paul",
+        "name": "Paul (the Apostle)",
+        "role": "Author, imprisoned in Rome, mediator between Philemon and Onesimus",
+        "bio": "Paul writes from prison, but his confinement has not stopped his ministry. He has converted Onesimus during his imprisonment and now faces the delicate task of sending a runaway slave back to his master while ensuring the slave's safety and dignity. Paul's letter reveals his remarkable ability to combine authority, affection, theology, and social pressure into a single persuasive appeal.",
+        "culturalContext": "As a Roman citizen and an apostle, Paul had both legal and spiritual authority. His choice to appeal rather than command makes the letter more powerful, not less -- Philemon cannot claim he was forced into anything."
+      },
+      {
+        "id": "philemon",
+        "name": "Philemon",
+        "role": "Recipient, slaveholder, host of a house church in Colossae",
+        "bio": "A wealthy Christian in Colossae who was converted through Paul's ministry (verse 19). He hosts the local church in his home and is known for his love and generosity. He faces an excruciating choice: follow Roman law and punish Onesimus, or follow Paul's appeal and welcome him back as a brother. The letter puts his faith to the ultimate practical test.",
+        "culturalContext": "As a slaveholder, Philemon held absolute legal power over Onesimus. Roman law expected him to punish a runaway slave severely. Paul's letter asks him to defy social convention and legal norms in the name of the gospel."
+      },
+      {
+        "id": "onesimus",
+        "name": "Onesimus",
+        "role": "Runaway slave of Philemon, converted by Paul in prison",
+        "bio": "Onesimus fled from Philemon's household -- possibly after stealing something (verse 18) -- and ended up in Rome, where he encountered Paul and became a Christian. His name means 'useful' or 'profitable,' and Paul makes a wordplay on this: once 'useless' to Philemon, he is now 'useful' to both Paul and Philemon. Paul sends him back carrying this letter, which is essentially Onesimus's life insurance policy.",
+        "culturalContext": "A runaway slave in the Roman Empire was in grave danger. If caught, he could be branded on the forehead with the letter F (fugitivus), beaten, put in chains, or executed. Onesimus's decision to return to Philemon was an act of extraordinary courage, made possible only by Paul's letter of protection."
+      },
+      {
+        "id": "apphia",
+        "name": "Apphia",
+        "role": "Co-recipient, likely Philemon's wife",
+        "bio": "Listed alongside Philemon as a recipient of the letter. The early church father Chrysostom identified her as Philemon's wife. Her inclusion makes the letter a family matter, not just a private negotiation between Paul and Philemon.",
+        "culturalContext": "As the mistress of the household, Apphia would have had daily contact with household slaves. The reconciliation of Onesimus affected her directly."
+      },
+      {
+        "id": "archippus",
+        "name": "Archippus",
+        "role": "Co-recipient, called 'our fellow soldier'",
+        "bio": "Mentioned in Colossians 4:17 as someone who should 'fulfill the ministry you have received in the Lord.' He may be Philemon's son or a leader in the Colossian church. His inclusion as a co-recipient adds social pressure on Philemon to do the right thing.",
+        "culturalContext": "The military title 'fellow soldier' suggests Archippus had shared in the hardships of ministry with Paul."
+      }
+    ],
+    "places": [
+      {
+        "id": "colossae",
+        "name": "Colossae",
+        "description": "A small city in the Lycus Valley of western Asia Minor (modern Turkey). Once important, Colossae had declined by the first century, overshadowed by its neighbors Laodicea and Hierapolis. The church there may have been founded by Epaphras rather than Paul directly.",
+        "culturalSignificance": "Colossae's mixed population of Greeks, Romans, and Jews created a diverse church community. The city's decline may have made its inhabitants more receptive to new ideas, including Christianity.",
+        "modernLocation": "Near the modern town of Honaz, Denizli Province, southwestern Turkey.",
+        "latitude": 37.7874,
+        "longitude": 29.2614
+      },
+      {
+        "id": "rome",
+        "name": "Rome",
+        "description": "The city where Paul is imprisoned and where he met Onesimus. Paul is under house arrest (Acts 28:30-31), able to receive visitors and continue ministry despite being chained to a Roman soldier.",
+        "culturalSignificance": "Rome was the center of the empire and the slave trade. Runaway slaves gravitated to large cities where they could disappear into the population. Onesimus may have come to Rome for this reason and encountered Paul providentially.",
+        "modernLocation": "Rome, Italy.",
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 52-55 AD",
+        "event": "Church established in Colossae, probably by Epaphras",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 55-58 AD",
+        "event": "Philemon converted through Paul's ministry",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Paul imprisoned in Rome (first imprisonment)",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Onesimus encounters Paul in prison and becomes a Christian",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Paul writes to Philemon requesting Onesimus's restoration",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 60-62 AD",
+        "event": "Onesimus returns to Colossae carrying this letter and the letter to the Colossians",
+        "isThisBook": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "The entire letter unfolds in 25 verses as one of the most skillfully crafted pieces of persuasion in antiquity. Paul opens with warm praise for Philemon's love and faith (building goodwill), then transitions to his appeal for Onesimus, the runaway slave Paul has converted in prison. Paul emphasizes that he could command Philemon but chooses to appeal on the basis of love. He asks Philemon to receive Onesimus as a beloved brother -- no longer as property but as family. Paul offers to pay any debt Onesimus owes, subtly reminding Philemon that he owes Paul his own soul. The letter closes with confident expectation that Philemon will do even more than Paul asks, and with greetings from Paul's companions.",
+        "themes": [
+          "Philemon's love and faith",
+          "Appeal based on love, not authority",
+          "Onesimus's transformation",
+          "The gospel reshaping social relationships",
+          "Paul as mediator and guarantor",
+          "Reconciliation as the heart of the gospel"
+        ],
+        "contextInBook": "As a single-chapter letter, the entire book is this chapter. Every verse builds on the previous one in a carefully constructed rhetorical strategy designed to make Philemon's acceptance of Onesimus virtually inevitable."
+      },
+      "wordStudies": [
+        {
+          "id": "useful/useless",
+          "greek": "Greek: euchrestos/achrestos",
+          "transliteration": "Useful/Useless",
+          "translatedAs": "Onesimus's name means 'useful' or 'profitable",
+          "meaning": "Onesimus's name means 'useful' or 'profitable.' Paul puns on this: Onesimus was once 'useless' (achrestos -- a near-homophone of achristos, 'without Christ') but is now 'useful' (euchrestos) to both Paul and Philemon. The wordplay connects his conversion to his usefulness.",
+          "significance": "1:11"
+        },
+        {
+          "id": "partner",
+          "greek": "Greek: koinonos",
+          "transliteration": "Partner",
+          "translatedAs": "A sharer, one who participates in something togeth",
+          "meaning": "A sharer, one who participates in something together. A koinonos was a business partner who shared both investments and profits. Paul asks Philemon to treat Onesimus as he would treat Paul himself -- a full partner, not a subordinate.",
+          "significance": "1:17"
+        },
+        {
+          "id": "brother",
+          "greek": "Greek: adelphos",
+          "transliteration": "Brother",
+          "translatedAs": "A brother -- either biological or spiritual",
+          "meaning": "A brother -- either biological or spiritual. Paul asks Philemon to receive Onesimus no longer as a slave but as 'a beloved brother.' This single word fundamentally redefines the relationship and makes the institution of slavery theologically impossible between them.",
+          "significance": "1:16"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,",
+          "explainer": "'Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved fellow worker.' Paul identifies himself not as an apostle (his usual title) but as a prisoner. This is deliberate: he is appealing from a position of vulnerability, not authority. Calling Philemon 'beloved fellow worker' establishes the relationship before the request.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "to the beloved Apphia, to Archippus, our fellow soldier, and to the assembly in your house:",
+          "explainer": "'And Apphia our sister and Archippus our fellow soldier, and the church in your house.' Paul addresses not just Philemon but his wife, a church leader, and the entire house church. This is not a private letter -- it is a semi-public document. Philemon's response will be watched by his whole community.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'The church in your house', 'explanation': \"Early Christians met in private homes, not purpose-built churches. Philemon's house served as the meeting place for the Colossian congregation. This means the letter will be read aloud to the entire community, creating social pressure on Philemon to comply.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+          "explainer": "'Grace to you and peace from God our Father and the Lord Jesus Christ.' Paul's standard greeting, but in this letter the words 'grace' and 'peace' are loaded: grace is what transformed Onesimus, and peace is what Paul hopes to restore between Onesimus and Philemon.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "I thank my God always, making mention of you in my prayers,",
+          "explainer": "'I thank my God always when I remember you in my prayers.' Paul begins with gratitude and prayer -- establishing that his relationship with Philemon is grounded in genuine spiritual affection, not manipulation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In ancient letter-writing, the thanksgiving section was standard but could be tailored to prepare the reader for the letter's request. Paul uses this convention brilliantly, praising the very qualities he will soon ask Philemon to demonstrate.",
+            "now": "The letter demonstrates a communication principle that remains valid: begin with genuine affirmation before making a difficult request. Paul's approach is not flattery but strategic honesty."
+          }
+        },
+        {
+          "number": 5,
+          "text": "hearing of your love, and of the faith which you have toward the Lord Jesus, and toward all the saints;",
+          "explainer": "'Because I hear of your love and of the faith that you have toward the Lord Jesus and for all the saints.' Philemon is known for two things: love and faith. Paul will appeal to both. Note: his love is not just for Jesus but 'for all the saints.' Paul is about to ask: does 'all the saints' include Onesimus?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "that the fellowship of your faith may become effective, in the knowledge of every good thing which is in us in Christ Jesus.",
+          "explainer": "'And I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ.' A dense verse: Paul prays that Philemon's faith, as it is shared and expressed, will produce deeper understanding of all the good things Christians possess in Christ. The implication: accepting Onesimus back is one of those 'good things.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.",
+          "explainer": "'For I have derived much joy and comfort from your love, my brother, because the hearts of the saints have been refreshed through you.' Philemon is a refresher of hearts -- he makes people feel better. Paul sets the hook: if you are known for refreshing hearts, refresh mine by granting my request.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Therefore though I have all boldness in Christ to command you that which is appropriate,",
+          "explainer": "'Accordingly, though I am bold enough in Christ to command you to do what is required.' Paul establishes that he has the authority to give an order. He could command Philemon. He wants Philemon to know this -- and to know that he is choosing not to use it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Apostolic authority in the early church was the highest human authority in matters of faith and practice. Paul's ability to command Philemon was real and recognized. His decision not to use it was a deliberate rhetorical and theological choice.",
+            "now": "The principle of leading through persuasion rather than coercion -- even when you have the power to command -- has been studied by rhetoricians and ethicists for centuries. Paul models servant leadership before the term existed."
+          }
+        },
+        {
+          "number": 9,
+          "text": "yet for love’s sake I rather beg, being such a one as Paul, the aged, but also a prisoner of Jesus Christ.",
+          "explainer": "'Yet for love's sake I prefer to appeal to you -- I, Paul, an old man and now a prisoner also of Christ Jesus.' Instead of commanding, Paul appeals. His credentials: old age and imprisonment. Both evoke sympathy and respect. He is not pulling rank; he is pulling heartstrings.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Appeal of an elder', 'explanation': \"In the ancient Mediterranean, the appeal of an elderly person carried enormous cultural weight. Age commanded respect, and an old man's request was difficult to refuse without social disgrace. Paul leverages this cultural norm alongside his imprisonment.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "I beg you for my child, whom I have become the father of in my chains, Onesimus,",
+          "explainer": "'I appeal to you for my child, Onesimus, whose father I became in my imprisonment.' Paul has been building toward this name, and when it finally drops, it comes with a shock: Onesimus is Paul's spiritual child, born in prison. Before Philemon can react to the name of his runaway slave, Paul has reframed the man as his own son.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "who once was useless to you, but now is useful to you and to me.",
+          "explainer": "'Formerly he was useless to you, but now he is indeed useful to you and to me.' The masterful pun: Onesimus means 'useful.' As a runaway, he was achrestos (useless/without Christ). Now he is euchrestos (useful/with Christ). His conversion has made him what his name always promised he would be.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The wordplay would have been immediately recognized by Greek-speaking readers. Paul turns Onesimus's name into a theological argument: his identity is now defined by his faith, not his social status.",
+            "now": "The idea that a person's deepest identity comes not from their social position but from their relationship with Christ remains a core Christian conviction, with implications for how Christians view every human being."
+          }
+        },
+        {
+          "number": 12,
+          "text": "I am sending him back. Therefore receive him, that is, my own heart,",
+          "explainer": "'I am sending him back to you, sending my very heart.' 'My very heart' is again splanchna -- Paul's deepest self. By sending Onesimus, Paul is sending part of himself. Philemon cannot mistreat Onesimus without wounding Paul.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News.",
+          "explainer": "'I would have been glad to keep him with me, in order that he might serve me on your behalf during my imprisonment for the gospel.' Paul would love to keep Onesimus -- he is genuinely useful in prison ministry. But he will not keep someone else's slave without the owner's consent. He respects Philemon's rights even while challenging how those rights should be exercised.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will.",
+          "explainer": "'But I preferred to do nothing without your consent in order that your goodness might not be by compulsion but of your own accord.' This is the theological key: Paul wants Philemon's decision to be free, not forced. Coerced virtue is not virtue. Philemon must choose grace willingly for it to count.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Corinthians 9:7",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "For perhaps he was therefore separated from you for a while, that you would have him forever,",
+          "explainer": "'For this perhaps is why he was parted from you for a while, that you might have him back forever.' Paul reframes the entire episode: what looked like a slave running away was actually God arranging a permanent reunion. The word 'forever' transcends the temporal master-slave relationship and points to an eternal brotherhood.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Paul suggests that divine providence was at work in Onesimus's flight. What Philemon experienced as loss and betrayal, Paul reimagines as God's plan for something far better -- a pattern of Romans 8:28 thinking.",
+            "now": "The idea that God can work through human failure and sin to produce something good -- without endorsing the failure or sin itself -- remains one of the most challenging and comforting aspects of Christian theology."
+          }
+        },
+        {
+          "number": 16,
+          "text": "no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much rather to you, both in the flesh and in the Lord.",
+          "explainer": "'No longer as a bondservant but more than a bondservant, as a beloved brother -- especially to me, but how much more to you, both in the flesh and in the Lord.' The letter's climax. Onesimus is to be received not as a slave but as a brother. 'In the flesh' means in ordinary human terms; 'in the Lord' means in their shared faith. The categories of slave and master are being dissolved by the category of brotherhood.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Slavery and brotherhood', 'explanation': \"Roman law gave slaveholders absolute authority, including the power of life and death. Calling a slave 'brother' did not change his legal status, but it radically changed how a Christian slaveholder could treat him. The seed planted here took centuries to produce abolition, but the seed was real.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "If then you count me a partner, receive him as you would receive me.",
+          "explainer": "'So if you consider me your partner, receive him as you would receive me.' The word 'partner' (koinonos) implies mutual investment and shared benefit. If Philemon and Paul are partners in the gospel, then Philemon must treat Paul's spiritual son the way he would treat Paul himself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Matthew 25:40",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "But if he has wronged you at all, or owes you anything, put that to my account.",
+          "explainer": "'If he has wronged you at all, or owes you anything, charge that to my account.' Paul acknowledges that Onesimus may have stolen something when he ran away. Rather than minimizing the wrong, he offers to pay the debt personally. This is substitutionary language -- Paul taking on another's debt.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse mirrors the gospel itself: an innocent party taking on the debt of the guilty. Paul does for Onesimus what Christ did for all humanity -- he stands as surety for another's obligations.",
+            "now": "Theologians have long noted that Paul's offer is a miniature gospel in action. The dynamics of Philemon parallel the dynamics of salvation: guilty party, mediator, debt assumed, reconciliation achieved."
+          }
+        },
+        {
+          "number": 19,
+          "text": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides).",
+          "explainer": "'I, Paul, write this with my own hand: I will repay it -- to say nothing of your owing me even your own self.' Paul takes the pen to make a legally binding personal guarantee. Then the devastating parenthetical: Philemon owes Paul his very soul (Paul led him to Christ). The debt Onesimus owes Philemon is dwarfed by the debt Philemon owes Paul.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord.",
+          "explainer": "'Yes, brother, I want some benefit from you in the Lord. Refresh my heart in Christ.' Paul returns to the key word from verse 7: 'refresh.' Philemon is known for refreshing hearts. Now Paul asks for his own heart to be refreshed by Philemon's acceptance of Onesimus. The appeal comes full circle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say.",
+          "explainer": "'Confident of your obedience, I write to you, knowing that you will do even more than I say.' Paul expresses confidence that Philemon will comply -- and then adds 'even more than I say.' What is the 'more'? Freeing Onesimus? Sending him back to Paul? Paul leaves it open, trusting Philemon's generosity to exceed the minimum.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The phrase 'even more than I say' is deliberately ambiguous. Paul may be hinting at manumission (freeing Onesimus from slavery) without directly requesting it. By leaving it open, he gives Philemon the chance to be more generous than required.",
+            "now": "Some scholars believe the early church preserved this letter because Onesimus did become free and eventually became a bishop. Whether or not that tradition is accurate, the letter's influence on Christian attitudes toward slavery and human dignity is incalculable."
+          }
+        },
+        {
+          "number": 22,
+          "text": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you.",
+          "explainer": "'At the same time, prepare a guest room for me, for I am hoping that through your prayers I will be graciously given to you.' Paul plans to visit. This is not idle travel planning -- it is a final piece of social pressure. Philemon knows that Paul is coming and will see for himself how Onesimus has been treated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you,",
+          "explainer": "'Epaphras, my fellow prisoner in Christ Jesus, sends greetings to you.' Epaphras was the founder of the Colossian church (Colossians 1:7). His greeting connects this personal letter to the broader community that knows both Philemon and Paul.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Colossians 1:7-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers.",
+          "explainer": "'And so do Mark, Aristarchus, Demas, and Luke, my fellow workers.' Four additional men send greetings, further expanding the social network behind Paul's appeal. Demas, mentioned here as a faithful colleague, will later abandon Paul (2 Timothy 4:10).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Timothy 4:10-11",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
+          "explainer": "'The grace of the Lord Jesus Christ be with your spirit.' The letter ends with grace -- the same grace that saved Paul, transformed Onesimus, and now asks Philemon to act. 'Your spirit' is singular in Greek but addressed to the community (the letter was to Philemon, Apphia, Archippus, and the church). Grace encompasses them all.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

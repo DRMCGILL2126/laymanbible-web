@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Layman Bible — The Bible explained in plain language</title>
+<meta name="description" content="Read the Bible with simple, plain-language explanations for every verse, chapter context, cultural notes, cross-references, and word studies.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a href="#/" class="brand">
+        <span class="brand-mark">📖</span>
+        <span class="brand-name">Layman Bible</span>
+      </a>
+      <div class="topbar-actions">
+        <button id="fontBtn" class="icon-btn" title="Text size" aria-label="Text size">A<span class="small-a">A</span></button>
+        <button id="themeBtn" class="icon-btn" title="Toggle dark mode" aria-label="Toggle dark mode">🌙</button>
+      </div>
+    </div>
+    <div id="fontPanel" class="font-panel" hidden>
+      <span class="small">A</span>
+      <input id="fontSlider" type="range" min="15" max="30" step="1" value="19">
+      <span class="big">A</span>
+    </div>
+  </header>
+
+  <main id="app" class="app"></main>
+
+  <footer class="footer">
+    <p>Layman Bible — the Bible explained in plain language.</p>
+    <p class="muted">Also available on <a href="#" id="iosLink">iOS</a> &amp; <a href="#" id="androidLink">Android</a>.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

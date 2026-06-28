@@ -1,0 +1,2963 @@
+{
+  "book": {
+    "id": "ecclesiastes",
+    "name": "Ecclesiastes",
+    "testament": "Old Testament",
+    "author": "Traditionally attributed to Solomon ('the Preacher, son of David, king in Jerusalem'), though many scholars see it as a later work written in Solomon's voice",
+    "dateWritten": "c. 950 BC (traditional) or c. 450-200 BC (critical scholarship)",
+    "writtenFrom": "Jerusalem",
+    "writtenTo": "Anyone wrestling with the meaning of life -- the book addresses universal human experience",
+    "chapterCount": 12,
+    "verseCount": 222,
+    "explainer": {
+      "overview": "Ecclesiastes is the Bible's most philosophically daring book. The 'Qoheleth' (Teacher or Preacher) conducts an unflinching examination of human life and finds that everything 'under the sun' is 'hevel' -- vapor, breath, meaningless, fleeting. Wealth, wisdom, pleasure, work, even justice -- all prove unable to provide lasting satisfaction or meaning on their own. Yet the book is not nihilistic. Woven through the pessimism are repeated calls to enjoy life's simple gifts: eating, drinking, meaningful work, and companionship, recognizing these as gifts from God's hand. The book's conclusion insists that fearing God and keeping His commandments is the whole duty of humanity.",
+      "historicalContext": "Whether written by Solomon in the 10th century BC or by a later sage writing in Solomon's persona, the book reflects a mind that has experienced everything the world offers -- wealth, wisdom, pleasure, power -- and found it all insufficient. The language and thought show interaction with broader ancient Near Eastern wisdom traditions (Egyptian, Mesopotamian) that also questioned life's meaning. The Greek title 'Ecclesiastes' and the Hebrew 'Qoheleth' both mean something like 'one who assembles (an audience)' -- a public teacher or philosopher.",
+      "whyItMatters": "Ecclesiastes speaks directly to modern existential anxiety. Its honest confrontation with mortality, injustice, and the limits of achievement resonates with anyone who has asked 'What's the point?' The book validates doubt and questioning as part of faith, not opposed to it. Its message -- enjoy the present, accept your limitations, fear God -- offers wisdom that cuts through both naive optimism and cynical despair.",
+      "keyThemes": [
+        "The futility of human endeavor",
+        "The cyclical nature of existence",
+        "Wisdom's limitations",
+        "Life under the sun",
+        "The experiment with pleasure",
+        "The limits of achievement"
+      ]
+    },
+    "people": [
+      {
+        "id": "qoheleth",
+        "name": "Qoheleth (The Preacher/Teacher)",
+        "description": "The main voice of the book, identified as 'son of David, king in Jerusalem' (pointing to Solomon). Whether Solomon himself or a later sage using his persona, Qoheleth has experienced the heights of human achievement and pronounces it all 'hevel' -- vapor, fleeting, unable to satisfy.",
+        "role": "The main voice of the book, identified as 'son of David, king in Jerusalem' (pointing to Solomon). Whether Solomon himself or a later sage using his persona, Qoheleth has experienced the heights of human achievement and pronounces it all 'hevel' -- vapor, fleeting, unable to satisfy.",
+        "bio": "The main voice of the book, identified as 'son of David, king in Jerusalem' (pointing to Solomon). Whether Solomon himself or a later sage using his persona, Qoheleth has experienced the heights of human achievement and pronounces it all 'hevel' -- vapor, fleeting, unable to satisfy.",
+        "culturalContext": ""
+      },
+      {
+        "id": "solomon_ecc",
+        "name": "Solomon (implied)",
+        "description": "The historical king whose legendary wisdom, wealth, and eventual disillusionment provide the framework for Qoheleth's reflections. Solomon's 700 wives and turn to idolatry (1 Kings 11) may be the biographical backdrop for the book's pessimism about human endeavor.",
+        "role": "The historical king whose legendary wisdom, wealth, and eventual disillusionment provide the framework for Qoheleth's reflections. Solomon's 700 wives and turn to idolatry (1 Kings 11) may be the biographical backdrop for the book's pessimism about human endeavor.",
+        "bio": "The historical king whose legendary wisdom, wealth, and eventual disillusionment provide the framework for Qoheleth's reflections. Solomon's 700 wives and turn to idolatry (1 Kings 11) may be the biographical backdrop for the book's pessimism about human endeavor.",
+        "culturalContext": ""
+      }
+    ],
+    "places": [
+      {
+        "id": "jerusalem_ecc",
+        "name": "Jerusalem",
+        "description": "The royal capital from which Qoheleth observes life. As king in Jerusalem, he had access to every pleasure, project, and pursuit available in the ancient world.",
+        "culturalSignificance": "The royal capital from which Qoheleth observes life. As king in Jerusalem, he had access to every pleasure, project, and pursuit available in the ancient world.",
+        "modernLocation": "Historical site"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 970-930 BC",
+        "event": "Solomon's reign (traditional dating)",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 450-200 BC",
+        "event": "Post-exilic period (critical dating)",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 1st century AD",
+        "event": "Inclusion in canon",
+        "isThisBook": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "The book opens with its thesis: 'Vanity of vanities, all is vanity.' Qoheleth observes that generations come and go while the earth remains unchanged. The sun, wind, and rivers cycle endlessly without arriving anywhere. Nothing is truly new. He introduces himself as king in Jerusalem who has applied wisdom to understand everything under heaven -- and found it to be chasing the wind.",
+        "themes": [
+          "The futility of human endeavor",
+          "The cyclical nature of existence",
+          "Wisdom's limitations",
+          "Life under the sun"
+        ],
+        "contextInBook": "Chapter 1 establishes the book's central question and key vocabulary: 'hevel' (vanity/vapor), 'under the sun' (earthly existence without reference to God), and 'chasing the wind' (futile pursuit). Everything that follows is an expansion of this opening thesis."
+      },
+      "wordStudies": [
+        {
+          "id": "vanity",
+          "greek": "hevel (Hebrew)",
+          "transliteration": "Vanity",
+          "translatedAs": "Literally 'breath' or 'vapor' -- something that ex",
+          "meaning": "Literally 'breath' or 'vapor' -- something that exists momentarily then disappears. Not 'meaningless' in the nihilistic sense, but fleeting, insubstantial, unable to be grasped. The key word of the book, appearing 38 times.",
+          "significance": "1:2"
+        },
+        {
+          "id": "under_the_sun",
+          "greek": "tachat ha-shemesh (Hebrew)",
+          "transliteration": "Under the sun",
+          "translatedAs": "A phrase unique to Ecclesiastes (appearing 29 time",
+          "meaning": "A phrase unique to Ecclesiastes (appearing 29 times), meaning 'in this earthly life.' It defines the scope of Qoheleth's investigation: life as experienced without divine revelation or eternal perspective.",
+          "significance": "1:3"
+        },
+        {
+          "id": "preacher",
+          "greek": "Qoheleth (Hebrew)",
+          "transliteration": "Preacher",
+          "translatedAs": "From 'qahal' (assembly)",
+          "meaning": "From 'qahal' (assembly). One who gathers and addresses a congregation. The Greek 'Ecclesiastes' translates this. Qoheleth is a title, not a personal name -- 'the one who convenes.'",
+          "significance": "1:1"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The words of the Preacher, the son of David, king in Jerusalem:",
+          "explainer": "The book identifies its speaker: Qoheleth (the Preacher or Teacher), son of David, king in Jerusalem. This points to Solomon, the wisest and wealthiest king Israel ever had.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "Preacher",
+              "personId": null,
+              "wordId": "preacher",
+              "startIndex": 17
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”",
+          "explainer": "The book's thesis statement, using the strongest possible Hebrew superlative: 'Vanity of vanities, all is vanity.' Like 'Song of Songs' or 'Holy of Holies,' this means the ultimate, supreme vanity.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "Vanity of vanities",
+              "personId": null,
+              "wordId": "vanity",
+              "startIndex": 1
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Hebrew 'hevel' is better translated 'vapor' or 'breath' than 'meaningless.' Life is not pointless but fleeting -- it cannot be grasped or controlled. This resonates with modern awareness of life's brevity.",
+            "now": "The Hebrew 'hevel' is better translated 'vapor' or 'breath' than 'meaningless.' Life is not pointless but fleeting -- it cannot be grasped or controlled. This resonates with modern awareness of life's brevity."
+          }
+        },
+        {
+          "number": 3,
+          "text": "What does man gain from all his labor in which he labors under the sun?",
+          "explainer": "The central question: what lasting profit does anyone gain from all their labor under the sun? If everything is vapor, does effort have any permanent value?",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "under the sun",
+              "personId": null,
+              "wordId": "under_the_sun",
+              "startIndex": 57
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "One generation goes, and another generation comes; but the earth remains forever.",
+          "explainer": "Generations come and go, but the earth remains forever. Individuals are temporary; the stage on which they perform outlasts every actor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The observation that the earth outlasts every generation has gained new poignancy in the modern era, where we now understand Earth has existed for billions of years and will continue long after current civilizations.",
+            "now": "The observation that the earth outlasts every generation has gained new poignancy in the modern era, where we now understand Earth has existed for billions of years and will continue long after current civilizations."
+          }
+        },
+        {
+          "number": 5,
+          "text": "The sun also rises, and the sun goes down, and hurries to its place where it rises.",
+          "explainer": "The sun rises and sets, hurrying back to where it started, only to rise again. Even the most dramatic daily event is just an endless repetition.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Ancient Israelites observed the sun's apparent daily journey across the sky. The imagery of the sun 'panting' back to its starting point captures the exhausting futility of repetitive existence."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "The wind goes toward the south, and turns around to the north. It turns around continually as it goes, and the wind returns again to its courses.",
+          "explainer": "The wind blows south, then north, round and round it goes, always returning to its circuits. Nature itself is trapped in cycles without destination.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "All the rivers run into the sea, yet the sea is not full. To the place where the rivers flow, there they flow again.",
+          "explainer": "All rivers flow to the sea, yet the sea is never full. The rivers keep flowing to the same place. Endless input with no completion -- effort that never reaches a final goal.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "All things are full of weariness beyond uttering. The eye is not satisfied with seeing, nor the ear filled with hearing.",
+          "explainer": "All things are wearisome -- more than words can express. The eye is never satisfied with seeing, nor the ear with hearing. Human senses are insatiable; satisfaction always eludes us.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse anticipated modern consumer culture by three millennia. The 'hedonic treadmill' -- where each new pleasure quickly becomes the new normal -- is exactly what Qoheleth observed.",
+            "now": "This verse anticipated modern consumer culture by three millennia. The 'hedonic treadmill' -- where each new pleasure quickly becomes the new normal -- is exactly what Qoheleth observed."
+          }
+        },
+        {
+          "number": 9,
+          "text": "That which has been is that which shall be; and that which has been done is that which shall be done: and there is no new thing under the sun.",
+          "explainer": "What has been will be again; what has been done will be done again. There is nothing new under the sun. History is cyclical, not progressive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Every generation thinks its innovations are unprecedented. Qoheleth would argue that while technologies change, the human condition -- ambition, disappointment, mortality -- remains identical.",
+            "now": "Every generation thinks its innovations are unprecedented. Qoheleth would argue that while technologies change, the human condition -- ambition, disappointment, mortality -- remains identical."
+          }
+        },
+        {
+          "number": 10,
+          "text": "Is there a thing of which it may be said, “Behold, this is new?” It has been long ago, in the ages which were before us.",
+          "explainer": "Someone might point to something and say 'Look, this is new!' But it already existed long before -- we just don't remember previous ages.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Without written records beyond a few centuries, ancient people had limited knowledge of deep history. Qoheleth recognized that forgetfulness creates the illusion of novelty."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "There is no memory of the former; neither shall there be any memory of the latter that are to come, among those that shall come after.",
+          "explainer": "There is no remembrance of former things, nor will future generations remember what is yet to come. Oblivion swallows everything eventually.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "I, the Preacher, was king over Israel in Jerusalem.",
+          "explainer": "Qoheleth formally introduces himself: he was king over Israel in Jerusalem. The past tense 'was king' is unusual -- Solomon never abdicated. This may indicate the literary persona.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I applied my heart to seek and to search out by wisdom concerning all that is done under the sky. It is a heavy burden that God has given to the sons of men to be afflicted with.",
+          "explainer": "He set his mind to study and explore by wisdom everything done under heaven -- a burdensome task God has given humans to occupy themselves with.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "I have seen all the works that are done under the sun; and behold, all is vanity and a chasing after wind.",
+          "explainer": "His verdict after studying everything: it is all vanity and chasing the wind. 'Chasing the wind' (or 'shepherding wind') is the book's second key metaphor -- pursuing what can never be caught.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "That which is crooked can’t be made straight; and that which is lacking can’t be counted.",
+          "explainer": "A proverb: what is crooked cannot be straightened; what is lacking cannot be counted. Some things in life are permanently broken, and wisdom cannot fix them.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "I said to myself, “Behold, I have obtained for myself great wisdom above all who were before me in Jerusalem. Yes, my heart has had great experience of wisdom and knowledge.”",
+          "explainer": "He claims greater wisdom than all who preceded him in Jerusalem. If anyone could find meaning through wisdom, it should be him -- yet even supreme wisdom failed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind.",
+          "explainer": "He applied himself to know wisdom and also madness and folly -- testing the full spectrum of human experience. His conclusion: even this pursuit is chasing the wind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Qoheleth's experimental method -- trying everything to see what works -- parallels modern empiricism. He was the ancient world's most thorough existential researcher.",
+            "now": "Qoheleth's experimental method -- trying everything to see what works -- parallels modern empiricism. He was the ancient world's most thorough existential researcher."
+          }
+        },
+        {
+          "number": 18,
+          "text": "For in much wisdom is much grief; and he who increases knowledge increases sorrow.",
+          "explainer": "The chapter's devastating conclusion: more wisdom brings more grief; increasing knowledge increases sorrow. Ignorance may actually be more comfortable than understanding.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This anticipates modern research showing that higher intelligence correlates with higher rates of anxiety and depression. Seeing the world clearly can be a burden rather than a blessing.",
+            "now": "This anticipates modern research showing that higher intelligence correlates with higher rates of anxiety and depression. Seeing the world clearly can be a burden rather than a blessing."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "Qoheleth conducts experiments in pleasure, achievement, and wealth. He builds houses, plants vineyards, acquires slaves and livestock, amasses silver and gold, and indulges every desire. He withholds nothing his eyes want. His verdict: all of it is vanity. Even wisdom's advantage over folly is temporary, since both the wise and foolish die and are forgotten. He concludes with the book's first 'enjoyment passage': the best response is to eat, drink, and find satisfaction in work as gifts from God.",
+        "themes": [
+          "The experiment with pleasure",
+          "The limits of achievement",
+          "Death as the great equalizer",
+          "Enjoyment as God's gift"
+        ],
+        "contextInBook": "Chapter 2 is the first detailed test of the thesis from chapter 1. Having claimed everything is vapor, Qoheleth now proves it empirically by trying pleasure, wisdom, and work -- and finding each insufficient. The chapter ends with the book's first positive counsel."
+      },
+      "wordStudies": [
+        {
+          "id": "pleasure",
+          "greek": "simchah (Hebrew)",
+          "transliteration": "Pleasure",
+          "translatedAs": "Joy, gladness, mirth",
+          "meaning": "Joy, gladness, mirth. Qoheleth doesn't merely test shallow entertainment but genuine human happiness -- festivals, accomplishments, aesthetic pleasures. Even real joy proves fleeting.",
+          "significance": "2:1"
+        },
+        {
+          "id": "profit",
+          "greek": "yitron (Hebrew)",
+          "transliteration": "Profit",
+          "translatedAs": "Surplus, lasting gain, advantage",
+          "meaning": "Surplus, lasting gain, advantage. A commercial term: what remains after all costs are paid. Qoheleth asks whether life produces any net gain -- and concludes it does not.",
+          "significance": "2:11"
+        },
+        {
+          "id": "portion",
+          "greek": "cheleq (Hebrew)",
+          "transliteration": "Portion",
+          "translatedAs": "One's allotted share or lot in life",
+          "meaning": "One's allotted share or lot in life. While 'yitron' (lasting profit) is denied, 'cheleq' (present enjoyment) is affirmed. God gives moments of joy as our 'portion' even in a vaporous world.",
+          "significance": "2:10"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I said in my heart, “Come now, I will test you with mirth: therefore enjoy pleasure”; and behold, this also was vanity.",
+          "explainer": "Qoheleth begins his pleasure experiment: 'Come now, I will test you with mirth; enjoy pleasure.' But this too proves to be vanity -- vapor that cannot be held.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The pursuit of happiness through pleasure is perhaps the defining project of modern consumer culture. Qoheleth's 3,000-year-old experiment anticipated and answered it: pleasure alone is insufficient.",
+            "now": "The pursuit of happiness through pleasure is perhaps the defining project of modern consumer culture. Qoheleth's 3,000-year-old experiment anticipated and answered it: pleasure alone is insufficient."
+          }
+        },
+        {
+          "number": 2,
+          "text": "I said of laughter, “It is foolishness”; and of mirth, “What does it accomplish?”",
+          "explainer": "He evaluates laughter and pleasure: laughter is 'madness' (irrational) and pleasure accomplishes nothing lasting. Entertainment distracts but does not solve the fundamental problem.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.",
+          "explainer": "He experiments with wine while maintaining his wisdom -- a controlled study. He explores folly to discover what is genuinely good for people during their brief lives.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Wine drinking was central to ancient social life. Qoheleth's experiment is not about alcoholism but about whether refined pleasure (enjoyed wisely) can satisfy the soul."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "I made myself great works. I built myself houses. I planted myself vineyards.",
+          "explainer": "He undertakes great building projects: houses and vineyards. Construction was the ultimate expression of achievement in the ancient world.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "I made myself gardens and parks, and I planted trees in them of all kinds of fruit.",
+          "explainer": "He creates gardens and parks, planting every kind of fruit tree. The Hebrew word for 'parks' is 'pardesim' -- from which we get 'paradise.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "I made myself pools of water, to water from it the forest where trees were reared.",
+          "explainer": "He builds irrigation pools to water his growing forests. Large-scale water engineering was one of the most impressive achievements of ancient civilization.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Solomon's pools near Bethlehem (still partially visible today) were massive reservoirs that supplied water to Jerusalem. Such engineering projects represented the height of human capability."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "I bought male servants and female servants, and had servants born in my house. I also had great possessions of herds and flocks, above all who were before me in Jerusalem;",
+          "explainer": "He acquires slaves (born in his household), along with herds and flocks greater than anyone before him in Jerusalem. Wealth measured in people and livestock.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Slavery was universal in the ancient world. Wealth was measured partly by the number of servants and livestock one owned. Qoheleth is describing maximum possible material success."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "I also gathered silver and gold for myself, and the treasure of kings and of the provinces. I got myself male and female singers, and the delights of the sons of men—musical instruments, and that of all sorts.",
+          "explainer": "He amasses silver, gold, and the treasures of kings and provinces. He acquires singers (both male and female) and 'many concubines' -- the delights of men.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "So I was great, and increased more than all who were before me in Jerusalem. My wisdom also remained with me.",
+          "explainer": "He became greater than anyone before him in Jerusalem, and through it all his wisdom remained. He had the wisdom to evaluate his experiments objectively.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor.",
+          "explainer": "He denied himself nothing his eyes desired, refusing no pleasure. He found some enjoyment in his work -- this was his 'portion' (cheleq) from all his toil.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "portion",
+              "personId": null,
+              "wordId": "portion",
+              "startIndex": 155
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.",
+          "explainer": "Then he surveyed everything his hands had accomplished, all his toil -- and it was all vanity and chasing the wind. No lasting profit under the sun.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The disillusionment of the successful is a well-documented modern phenomenon. Achieving every goal does not guarantee fulfillment -- a truth billionaires, celebrities, and high achievers frequently confirm.",
+            "now": "The disillusionment of the successful is a well-documented modern phenomenon. Achieving every goal does not guarantee fulfillment -- a truth billionaires, celebrities, and high achievers frequently confirm."
+          }
+        },
+        {
+          "number": 12,
+          "text": "I turned myself to consider wisdom, madness, and folly: for what can the king’s successor do? Just that which has been done long ago.",
+          "explainer": "He turns to compare wisdom with madness and folly. What can the next king do that hasn't already been done? Even successors repeat the same experiments.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Then I saw that wisdom excels folly, as far as light excels darkness.",
+          "explainer": "He concedes that wisdom has some advantage over folly -- like light has advantage over darkness. Wisdom is better, relatively speaking.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "The wise man’s eyes are in his head, and the fool walks in darkness—and yet I perceived that one event happens to them all.",
+          "explainer": "But the wise and the fool share the same fate -- death. The wise person can see where they're going, but both end up in the same place.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Then I said in my heart, “As it happens to the fool, so will it happen even to me; and why was I then more wise?” Then I said in my heart that this also is vanity.",
+          "explainer": "If the wise share the fool's fate, what is the advantage of being wise? 'This also is vanity.' Wisdom's superiority is real but temporary.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The question 'Why bother being wise if we all die anyway?' is the fundamental challenge to every philosophy of education and self-improvement.",
+            "now": "The question 'Why bother being wise if we all die anyway?' is the fundamental challenge to every philosophy of education and self-improvement."
+          }
+        },
+        {
+          "number": 16,
+          "text": "For of the wise man, even as of the fool, there is no memory for ever, since in the days to come all will have been long forgotten. Indeed, the wise man must die just like the fool!",
+          "explainer": "Neither the wise nor the fool will be remembered forever. In the coming days, everything will be forgotten. How devastating -- the wise die just like the fool.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "So I hated life, because the work that is worked under the sun was grievous to me; for all is vanity and a chasing after wind.",
+          "explainer": "So he hated life, because everything done under the sun was grievous to him -- all is vanity and chasing the wind. This is Qoheleth at his darkest.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The honest admission 'I hated life' would shock many religious readers, but the Bible includes it without censorship. Scripture validates the experience of despair as part of the human journey.",
+            "now": "The honest admission 'I hated life' would shock many religious readers, but the Bible includes it without censorship. Scripture validates the experience of despair as part of the human journey."
+          }
+        },
+        {
+          "number": 18,
+          "text": "I hated all my labor in which I labored under the sun, because I must leave it to the man who comes after me.",
+          "explainer": "He hated all his achievements because he must leave them to the one who comes after him. He cannot control what his successor will do with his life's work.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Who knows whether he will be a wise man or a fool? Yet he will have rule over all of my labor in which I have labored, and in which I have shown myself wise under the sun. This also is vanity.",
+          "explainer": "Will his successor be wise or foolish? No one knows. Yet that unknown person will control everything Qoheleth worked for. This too is vanity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Every business owner, artist, or parent faces this anxiety: what will the next generation do with what I've built? Succession is always uncertain.",
+            "now": "Every business owner, artist, or parent faces this anxiety: what will the next generation do with what I've built? Succession is always uncertain."
+          }
+        },
+        {
+          "number": 20,
+          "text": "Therefore I began to cause my heart to despair concerning all the labor in which I had labored under the sun.",
+          "explainer": "He turned to despair over all his toil under the sun. The cumulative weight of these observations produces genuine hopelessness -- temporarily.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "For there is a man whose labor is with wisdom, with knowledge, and with skillfulness; yet he shall leave it for his portion to a man who has not labored for it. This also is vanity and a great evil.",
+          "explainer": "A person works with wisdom, knowledge, and skill -- then must hand it all to someone who didn't work for it. This is a great evil and profound vanity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Inheritance anxiety is ancient: the fear that everything you built will be squandered by someone who never learned its value through the work of building it.",
+            "now": "Inheritance anxiety is ancient: the fear that everything you built will be squandered by someone who never learned its value through the work of building it."
+          }
+        },
+        {
+          "number": 22,
+          "text": "For what has a man of all his labor, and of the striving of his heart, in which he labors under the sun?",
+          "explainer": "What does a person actually get from all their anxious striving? The question strips away pretense: after all the effort, what is the net result?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "For all his days are sorrows, and his travail is grief; yes, even in the night his heart takes no rest. This also is vanity.",
+          "explainer": "Every day brings sorrow and grief; even at night the mind cannot rest. This too is vanity. The toll of ambition is constant stress without lasting reward.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The ancient description of work anxiety -- days of pain, nights without rest -- perfectly describes modern burnout culture. The pressure to achieve exacts the same toll in every era.",
+            "now": "The ancient description of work anxiety -- days of pain, nights without rest -- perfectly describes modern burnout culture. The pressure to achieve exacts the same toll in every era."
+          }
+        },
+        {
+          "number": 24,
+          "text": "There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor. This also I saw, that it is from the hand of God.",
+          "explainer": "The first 'enjoyment passage': there is nothing better than to eat, drink, and find satisfaction in one's work. Even this is from God's hand.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "After devastating pessimism, Qoheleth arrives at a profound simplicity: enjoy your food, your drink, and your work today. This is not hedonism but gratitude for God's daily gifts.",
+            "now": "After devastating pessimism, Qoheleth arrives at a profound simplicity: enjoy your food, your drink, and your work today. This is not hedonism but gratitude for God's daily gifts."
+          }
+        },
+        {
+          "number": 25,
+          "text": "For who can eat, or who can have enjoyment, more than I?",
+          "explainer": "Apart from God, who can eat or find enjoyment? Even the ability to enjoy life requires God's enabling -- pleasure is not self-generated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.",
+          "explainer": "God gives wisdom, knowledge, and joy to those who please Him, while the sinner's task is to gather wealth only to hand it to the one God favors. Even this -- the apparent injustice -- is vanity and chasing the wind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "The famous 'time for everything' poem opens this chapter: a time to be born and die, plant and uproot, weep and laugh. Qoheleth then reflects on God's timing: God has set eternity in the human heart, yet no one can fathom God's work from beginning to end. Humans and animals share the same fate (death), and no one can prove humans have a different destiny. The chapter closes with another call to enjoy one's work.",
+        "themes": [
+          "God's sovereign timing",
+          "Eternity in the heart",
+          "Human mortality",
+          "Enjoyment as gift"
+        ],
+        "contextInBook": "Chapter 3 introduces divine sovereignty into the discussion. While chapters 1-2 focused on human effort and its futility, chapter 3 acknowledges that God controls the times and seasons. Human inability to control timing is part of what makes life 'hevel.'"
+      },
+      "wordStudies": [
+        {
+          "id": "time",
+          "greek": "et (Hebrew)",
+          "transliteration": "Time",
+          "translatedAs": "An appointed time or season, not clock time",
+          "meaning": "An appointed time or season, not clock time. Every human experience has its God-appointed moment. The word implies divine sovereignty over life's events.",
+          "significance": "3:1"
+        },
+        {
+          "id": "eternity",
+          "greek": "olam (Hebrew)",
+          "transliteration": "Eternity",
+          "translatedAs": "Everlastingness, the distant future or past, the w",
+          "meaning": "Everlastingness, the distant future or past, the world. God has placed awareness of the eternal in human hearts -- we sense there must be more than 'under the sun' -- yet we cannot fully comprehend it.",
+          "significance": "3:11"
+        },
+        {
+          "id": "beautiful",
+          "greek": "yapheh (Hebrew)",
+          "transliteration": "Beautiful",
+          "translatedAs": "Beautiful, appropriate, fitting",
+          "meaning": "Beautiful, appropriate, fitting. God has made everything beautiful 'in its time' -- each thing is fitting when it occurs at the right moment, even if it seems wrong to us.",
+          "significance": "3:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "For everything there is a season, and a time for every purpose under heaven:",
+          "explainer": "The famous opening: to everything there is a season, a time for every purpose under heaven. Human life is not random but structured by divinely appointed times.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse is one of the most quoted in all literature. It was popularized in modern culture through Pete Seeger's song 'Turn! Turn! Turn!' but its original context is a meditation on human powerlessness over life's timing.",
+            "now": "This verse is one of the most quoted in all literature. It was popularized in modern culture through Pete Seeger's song 'Turn! Turn! Turn!' but its original context is a meditation on human powerlessness over life's timing."
+          }
+        },
+        {
+          "number": 2,
+          "text": "a time to be born,\nand a time to die;\na time to plant,\nand a time to pluck up that which is planted;",
+          "explainer": "A time to be born and a time to die; a time to plant and a time to uproot. The most fundamental human experiences -- life, death, agriculture -- have their appointed seasons.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "a time to kill,\nand a time to heal;\na time to break down,\nand a time to build up;",
+          "explainer": "A time to kill and a time to heal; a time to tear down and a time to build. Even destruction has its proper moment -- not everything is meant to be preserved.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "The pairing of opposites (kill/heal, tear down/build) reflects Hebrew merism -- using contrasting extremes to encompass everything between them. Together they describe the totality of human experience."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "a time to weep,\nand a time to laugh;\na time to mourn,\nand a time to dance;",
+          "explainer": "A time to weep and a time to laugh; a time to mourn and a time to dance. Grief and joy are both appropriate responses at their proper times.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "a time to cast away stones,\nand a time to gather stones together;\na time to embrace,\nand a time to refrain from embracing;",
+          "explainer": "A time to scatter stones and a time to gather them; a time to embrace and a time to refrain. Some interpreters see the stones as sexual metaphors; others as agricultural clearing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "a time to seek,\nand a time to lose;\na time to keep,\nand a time to cast away;",
+          "explainer": "A time to seek and a time to give up; a time to keep and a time to throw away. Not every search should continue forever; not everything should be kept.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The wisdom of knowing when to stop searching and when to let go applies to jobs, relationships, possessions, and arguments. Ecclesiastes validates the decision to move on.",
+            "now": "The wisdom of knowing when to stop searching and when to let go applies to jobs, relationships, possessions, and arguments. Ecclesiastes validates the decision to move on."
+          }
+        },
+        {
+          "number": 7,
+          "text": "a time to tear,\nand a time to sew;\na time to keep silence,\nand a time to speak;",
+          "explainer": "A time to tear and a time to sew; a time to be silent and a time to speak. Tearing garments was the ancient expression of grief; sewing was restoration.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "a time to love,\nand a time to hate;\na time for war,\nand a time for peace.",
+          "explainer": "A time to love and a time to hate; a time for war and a time for peace. The poem ends with the most consequential opposites -- the forces that shape nations.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The acknowledgment that there is 'a time to hate' and 'a time for war' has troubled pacifist interpreters. Qoheleth is not advocating hate or war but acknowledging that human experience includes these realities.",
+            "now": "The acknowledgment that there is 'a time to hate' and 'a time for war' has troubled pacifist interpreters. Qoheleth is not advocating hate or war but acknowledging that human experience includes these realities."
+          }
+        },
+        {
+          "number": 9,
+          "text": "What profit has he who works in that in which he labors?",
+          "explainer": "After the poem, the practical question returns: what does the worker gain from their toil? The seasons turn regardless of human effort.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "I have seen the burden which God has given to the sons of men to be afflicted with.",
+          "explainer": "He has seen the burden God has laid on humanity. The 'business' or 'task' of living in a world with seasons beyond our control is inherently frustrating.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "He has made everything beautiful in its time. He has also set eternity in their hearts, yet so that man can’t find out the work that God has done from the beginning even to the end.",
+          "explainer": "God has made everything beautiful in its time. He has also set eternity in the human heart -- yet no one can fathom what God has done from beginning to end. This is one of the Bible's most profound verses.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "eternity in their hearts",
+              "personId": null,
+              "wordId": "eternity",
+              "startIndex": 62
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The tension of having eternal longings in a temporary life perfectly describes the human condition in every era. We want permanence but live in impermanence -- and this gap is both our glory and our frustration.",
+            "now": "The tension of having eternal longings in a temporary life perfectly describes the human condition in every era. We want permanence but live in impermanence -- and this gap is both our glory and our frustration."
+          }
+        },
+        {
+          "number": 12,
+          "text": "I know that there is nothing better for them than to rejoice, and to do good as long as they live.",
+          "explainer": "Qoheleth's second positive conclusion: there is nothing better for people than to be happy and do good while they live.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Also that every man should eat and drink, and enjoy good in all his labor, is the gift of God.",
+          "explainer": "Everyone should eat, drink, and find satisfaction in their toil -- this is God's gift. Simple enjoyment is not a consolation prize but a genuine divine gift.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "I know that whatever God does, it shall be forever. Nothing can be added to it, nor anything taken from it; and God has done it, that men should fear before him.",
+          "explainer": "Whatever God does endures forever -- nothing can be added to or taken from it. God does this so people will fear (reverence) Him. Divine works are permanent; human works are vapor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "That which is has been long ago, and that which is to be has been long ago: and God seeks again that which is passed away.",
+          "explainer": "What exists now has already been, and what will be already exists. God calls back what has passed. History is not linear progress but cyclical return.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there.",
+          "explainer": "He observes injustice: in the place of judgment there is wickedness; in the place of justice there is wickedness. Even the institutions meant to establish fairness are corrupt.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Corruption in courts and governments is as old as civilization. The observation that the very institutions designed for justice perpetuate injustice remains disturbingly current.",
+            "now": "Corruption in courts and governments is as old as civilization. The observation that the very institutions designed for justice perpetuate injustice remains disturbingly current."
+          }
+        },
+        {
+          "number": 17,
+          "text": "I said in my heart, “God will judge the righteous and the wicked; for there is a time there for every purpose and for every work.”",
+          "explainer": "He affirms that God will judge the righteous and the wicked -- there is a time for every matter and every work. Divine judgment will eventually sort what human justice cannot.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "I said in my heart, “As for the sons of men, God tests them, so that they may see that they themselves are like animals.",
+          "explainer": "God tests humans to show them they are like animals. This is a provocative statement that links to the next verses about shared mortality.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "For that which happens to the sons of men happens to animals. Even one thing happens to them. As the one dies, so the other dies. Yes, they have all one breath; and man has no advantage over the animals: for all is vanity.",
+          "explainer": "Humans and animals share the same fate: both die, both breathe the same breath. Humans have no advantage over animals in this regard. This too is vanity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "All go to one place. All are from the dust, and all turn to dust again.",
+          "explainer": "All go to the same place: all come from dust and all return to dust. The echo of Genesis 3:19 is unmistakable -- mortality is the human condition.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”",
+          "explainer": "Who knows whether the human spirit goes upward and the animal spirit goes downward? Qoheleth raises the question without answering it. Empirically, from 'under the sun,' the difference is unprovable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse is not atheism but honest agnosticism about what happens after death based on observation alone. It anticipates the modern demand for empirical evidence about spiritual realities.",
+            "now": "This verse is not atheism but honest agnosticism about what happens after death based on observation alone. It anticipates the modern demand for empirical evidence about spiritual realities."
+          }
+        },
+        {
+          "number": 22,
+          "text": "Therefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who can bring him to see what will be after him?",
+          "explainer": "The chapter ends with the third enjoyment passage: nothing is better than to enjoy one's work, because that is one's 'portion.' No one can show us what happens after we die -- so enjoy the present.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "Qoheleth observes the tears of the oppressed, who have no comforter. He examines the motives behind work (envy of neighbors), the lonely workaholic, and the value of companionship. The chapter includes the famous 'two are better than one' passage and the 'threefold cord' metaphor. It closes with observations about political power's fleeting nature.",
+        "themes": [
+          "Oppression and injustice",
+          "Loneliness versus companionship",
+          "Envy as motivation",
+          "The fickleness of popularity"
+        ],
+        "contextInBook": "Chapter 4 shifts from cosmic observations to social ones. After questioning life's meaning, Qoheleth now examines how people treat each other -- and finds oppression, envy, isolation, and fickleness."
+      },
+      "wordStudies": [
+        {
+          "id": "comforter",
+          "greek": "menachem (Hebrew)",
+          "transliteration": "Comforter",
+          "translatedAs": "One who brings comfort or consolation",
+          "meaning": "One who brings comfort or consolation. The oppressed lack not just freedom but anyone to comfort them -- they suffer in isolation.",
+          "significance": "4:1"
+        },
+        {
+          "id": "companion",
+          "greek": "sheni (Hebrew)",
+          "transliteration": "Companion",
+          "translatedAs": "A second person, a partner",
+          "meaning": "A second person, a partner. The word emphasizes that having even one other person fundamentally changes one's experience of life.",
+          "significance": "4:8"
+        },
+        {
+          "id": "cord",
+          "greek": "chut (Hebrew)",
+          "transliteration": "Cord",
+          "translatedAs": "A thread or rope",
+          "meaning": "A thread or rope. A single thread breaks easily; a three-strand cord is very difficult to break. The metaphor applies to relationships strengthened by a third element (often interpreted as God).",
+          "significance": "4:12"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+          "explainer": "He considers all the oppression happening under the sun: the tears of the oppressed, with no one to comfort them. The powerful oppress, and the victims have no advocate.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Ancient Near Eastern societies had stark power hierarchies. Slaves, debt-servants, and conquered peoples had few legal protections. Qoheleth's empathy for the powerless was not universal among ancient writers."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The observation that the oppressed have no comforter while their oppressors hold power describes structural injustice that persists across millennia.",
+            "now": "The observation that the oppressed have no comforter while their oppressors hold power describes structural injustice that persists across millennia."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Therefore I praised the dead who have been long dead more than the living who are yet alive.",
+          "explainer": "He declares the dead more fortunate than the living -- at least the dead are done suffering. This is his bleakest statement about oppression's toll.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun.",
+          "explainer": "Better than both the living and dead is the one never born -- who has never seen the evil done under the sun. Non-existence is preferable to witnessing injustice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Then I saw all the labor and achievement that is the envy of a man’s neighbor. This also is vanity and a striving after wind.",
+          "explainer": "He observes that skill and achievement are motivated by envy of one's neighbor. Competition drives productivity, but the motive (rivalry) is vanity and chasing the wind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The insight that much human productivity is driven by comparison and envy rather than genuine passion anticipated modern observations about 'keeping up with the Joneses' and social media comparison culture.",
+            "now": "The insight that much human productivity is driven by comparison and envy rather than genuine passion anticipated modern observations about 'keeping up with the Joneses' and social media comparison culture."
+          }
+        },
+        {
+          "number": 5,
+          "text": "The fool folds his hands together and ruins himself.",
+          "explainer": "The fool folds their hands and consumes their own flesh. Idleness is self-destructive -- the opposite extreme from envious overwork.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Better is a handful, with quietness, than two handfuls with labor and chasing after wind.",
+          "explainer": "Better one handful with tranquility than two handfuls with toil and chasing the wind. The balanced middle: enough to live on, with peace of mind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse is a direct challenge to hustle culture: contentment with enough is better than exhausting yourself for abundance. 'One handful with rest' is Qoheleth's prescription for work-life balance.",
+            "now": "This verse is a direct challenge to hustle culture: contentment with enough is better than exhausting yourself for abundance. 'One handful with rest' is Qoheleth's prescription for work-life balance."
+          }
+        },
+        {
+          "number": 7,
+          "text": "Then I returned and saw vanity under the sun.",
+          "explainer": "He turns to observe another vanity: a person completely alone, with no companion, child, or sibling, yet endlessly working without asking 'For whom am I working?'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The lonely workaholic -- someone so consumed by work they never ask who benefits from it -- is a recognizable modern archetype. Qoheleth identifies this pattern 3,000 years ago.",
+            "now": "The lonely workaholic -- someone so consumed by work they never ask who benefits from it -- is a recognizable modern archetype. Qoheleth identifies this pattern 3,000 years ago."
+          }
+        },
+        {
+          "number": 8,
+          "text": "There is one who is alone, and he has neither son nor brother. There is no end to all of his labor, neither are his eyes satisfied with wealth. “For whom then, do I labor, and deprive my soul of enjoyment?” This also is vanity. Yes, it is a miserable business.",
+          "explainer": "This solitary worker never asks 'For whom am I depriving myself of pleasure?' This too is vanity -- a miserable business. Unexamined workaholism robs life of its gifts.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Two are better than one, because they have a good reward for their labor.",
+          "explainer": "The famous declaration: two are better than one, because they have a good return for their labor. Partnership multiplies results.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse is often quoted at weddings, but its original context is broader: any partnership -- marriage, friendship, business -- produces better results than solitary effort.",
+            "now": "This verse is often quoted at weddings, but its original context is broader: any partnership -- marriage, friendship, business -- produces better results than solitary effort."
+          }
+        },
+        {
+          "number": 10,
+          "text": "For if they fall, the one will lift up his fellow; but woe to him who is alone when he falls, and doesn’t have another to lift him up.",
+          "explainer": "If one falls down, the other can help them up. But pity the person who falls and has no one to help them -- they are truly alone.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Again, if two lie together, then they have warmth; but how can one keep warm alone?",
+          "explainer": "If two lie down together, they will keep warm. But how can one keep warm alone? In the ancient world, body heat was a primary heating method.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Without central heating, sharing body warmth was essential during cold nights. Travelers, soldiers, and shepherds routinely slept together for warmth. The verse has practical, not just romantic, application."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "If a man prevails against one who is alone, two shall withstand him; and a threefold cord is not quickly broken.",
+          "explainer": "Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken. Three is stronger than two, and two than one.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "threefold cord",
+              "personId": null,
+              "wordId": "cord",
+              "startIndex": 75
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The 'threefold cord' is one of the Bible's most frequently quoted images at weddings. Its application extends to any close relationship strengthened by a third binding element -- shared faith, purpose, or commitment.",
+            "now": "The 'threefold cord' is one of the Bible's most frequently quoted images at weddings. Its application extends to any close relationship strengthened by a third binding element -- shared faith, purpose, or commitment."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Better is a poor and wise youth than an old and foolish king who doesn’t know how to receive admonition any more.",
+          "explainer": "Better a poor but wise youth than an old and foolish king who no longer accepts advice. Wisdom matters more than position, and age does not guarantee wisdom.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "For out of prison he came out to be king; yes, even in his kingdom he was born poor.",
+          "explainer": "The youth rises from prison or poverty to become king -- even one born poor in the kingdom can rise to the throne. Political fortunes are unpredictable.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "The ancient world had several examples of prisoners who became rulers (Joseph in Egypt, Daniel in Babylon). Social mobility was rare but not impossible, making such rises dramatic."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "I saw all the living who walk under the sun, that they were with the youth, the other, who succeeded him.",
+          "explainer": "He sees everyone under the sun following the youth -- the next generation's leader. Public allegiance shifts quickly from one leader to the next.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The fickleness of public opinion is timeless. One generation's hero becomes the next generation's forgotten figure. Political popularity is among the most fleeting forms of success.",
+            "now": "The fickleness of public opinion is timeless. One generation's hero becomes the next generation's forgotten figure. Political popularity is among the most fleeting forms of success."
+          }
+        },
+        {
+          "number": 16,
+          "text": "There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind.",
+          "explainer": "There is no end to the people the new leader leads, yet those who come later will not be satisfied with him either. This too is vanity and chasing the wind.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "Qoheleth shifts to practical wisdom about worship, speech, and wealth. He warns against rash words before God, unfulfilled vows, and excessive talk. He then examines the futility of wealth: bureaucratic corruption ensures the poor stay poor, the lover of money is never satisfied, wealth attracts parasites, and the rich lie awake worrying. Naked we enter and leave the world. The chapter ends with the fourth enjoyment passage.",
+        "themes": [
+          "Reverence in worship",
+          "The danger of rash vows",
+          "Wealth's inability to satisfy",
+          "Simple enjoyment as God's gift"
+        ],
+        "contextInBook": "Chapter 5 moves from observation to instruction. For the first time, Qoheleth directly addresses God-fearers about worship and vows. The wealth critique deepens chapters 2's experiment -- even permanent wealth ownership fails to satisfy."
+      },
+      "wordStudies": [
+        {
+          "id": "vow",
+          "greek": "neder (Hebrew)",
+          "transliteration": "Vow",
+          "translatedAs": "A voluntary promise made to God, often conditional",
+          "meaning": "A voluntary promise made to God, often conditional ('If you do X, I will do Y'). Once made, vows were considered absolutely binding. Better not to vow than to vow and not fulfill.",
+          "significance": "5:4"
+        },
+        {
+          "id": "dream",
+          "greek": "chalom (Hebrew)",
+          "transliteration": "Dream",
+          "translatedAs": "Both literal dreams and metaphorical fantasies",
+          "meaning": "Both literal dreams and metaphorical fantasies. As too much work produces dreams (anxiety dreams), too many words produce foolish speech.",
+          "significance": "5:3"
+        },
+        {
+          "id": "portion",
+          "greek": "cheleq (Hebrew)",
+          "transliteration": "Portion",
+          "translatedAs": "Allotted share -- appears again as the positive co",
+          "meaning": "Allotted share -- appears again as the positive counterpart to 'hevel.' Our 'portion' (daily enjoyment) is God's gift, even when lasting 'profit' is denied.",
+          "significance": "5:18"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Guard your steps when you go to God’s house; for to draw near to listen is better than to give the sacrifice of fools, for they don’t know that they do evil.",
+          "explainer": "Guard your steps when you go to the house of God. Draw near to listen rather than offer the sacrifice of fools, who do not even know they are doing evil.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The warning against mindless religious ritual applies to any era's worship. Going through religious motions without genuine attention is the 'sacrifice of fools.'",
+            "now": "The warning against mindless religious ritual applies to any era's worship. Going through religious motions without genuine attention is the 'sacrifice of fools.'"
+          }
+        },
+        {
+          "number": 2,
+          "text": "Don’t be rash with your mouth, and don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few.",
+          "explainer": "Do not be hasty with your mouth or let your heart rush to utter anything before God. God is in heaven and you are on earth, so let your words be few.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "For as a dream comes with a multitude of cares, so a fool’s speech with a multitude of words.",
+          "explainer": "As a dream comes from much activity, so foolish speech comes from many words. Overwork produces anxiety dreams; overtalk produces foolish promises.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The link between busyness and anxiety dreams resonates with modern sleep research: stress and overstimulation produce disturbed sleep. Likewise, talking too much leads to saying things we regret.",
+            "now": "The link between busyness and anxiety dreams resonates with modern sleep research: stress and overstimulation produce disturbed sleep. Likewise, talking too much leads to saying things we regret."
+          }
+        },
+        {
+          "number": 4,
+          "text": "When you vow a vow to God, don’t defer to pay it; for he has no pleasure in fools. Pay that which you vow.",
+          "explainer": "When you make a vow to God, do not delay in fulfilling it. He takes no pleasure in fools. Fulfill your vow. A promise to God is supremely serious.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "It is better that you should not vow, than that you should vow and not pay.",
+          "explainer": "Better not to vow at all than to vow and not pay. Silence is better than broken promises. God takes commitments seriously even when we do not.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Don’t allow your mouth to lead you into sin. Don’t protest before the messenger that this was a mistake. Why should God be angry at your voice, and destroy the work of your hands?",
+          "explainer": "Do not let your mouth lead your body into sin, and do not tell the temple messenger it was a mistake. Why should God be angry at your words and destroy the work of your hands?",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For in the multitude of dreams there are vanities, as well as in many words: but you must fear God.",
+          "explainer": "Where there are many dreams and many words, there is much vanity. Instead, fear God. After all the warnings, the essential instruction is reverence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "If you see the oppression of the poor, and the violent taking away of justice and righteousness in a district, don’t marvel at the matter: for one official is eyed by a higher one; and there are officials over them.",
+          "explainer": "Do not be surprised when the poor are oppressed and justice is denied. Officials protect officials in an endless bureaucratic chain, each serving the one above.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Ancient administrative systems were hierarchical -- each official answered to a superior. Corruption at any level affected everyone below. The system protected itself rather than the vulnerable."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Systemic corruption -- where each level of bureaucracy shields the one above -- is instantly recognizable in modern institutions. Qoheleth describes the same dynamic that produces cover-ups in governments and corporations today.",
+            "now": "Systemic corruption -- where each level of bureaucracy shields the one above -- is instantly recognizable in modern institutions. Qoheleth describes the same dynamic that produces cover-ups in governments and corporations today."
+          }
+        },
+        {
+          "number": 9,
+          "text": "Moreover the profit of the earth is for all. The king profits from the field.",
+          "explainer": "The profit of the land is for all -- even a king is served by the field. Agriculture is the foundation of all wealth, and even rulers depend on farmers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "He who loves silver shall not be satisfied with silver; nor he who loves abundance, with increase: this also is vanity.",
+          "explainer": "Whoever loves money is never satisfied with money; whoever loves wealth is never satisfied with income. This too is vanity. The insatiability of greed is a fundamental observation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Research consistently shows that beyond a certain threshold, additional income does not increase happiness. Qoheleth observed this 3,000 years before behavioral economics confirmed it.",
+            "now": "Research consistently shows that beyond a certain threshold, additional income does not increase happiness. Qoheleth observed this 3,000 years before behavioral economics confirmed it."
+          }
+        },
+        {
+          "number": 11,
+          "text": "When goods increase, those who eat them are increased; and what advantage is there to its owner, except to feast on them with his eyes?",
+          "explainer": "As goods increase, so do those who consume them. What benefit is there to the owner except to watch? More wealth attracts more dependents, leaving the owner no better off.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The observation that wealth attracts 'consumers' (hangers-on, dependents, expenses) describes the modern phenomenon of lifestyle inflation -- expenses rise to match income.",
+            "now": "The observation that wealth attracts 'consumers' (hangers-on, dependents, expenses) describes the modern phenomenon of lifestyle inflation -- expenses rise to match income."
+          }
+        },
+        {
+          "number": 12,
+          "text": "The sleep of a laboring man is sweet, whether he eats little or much; but the abundance of the rich will not allow him to sleep.",
+          "explainer": "The sleep of a laborer is sweet whether they eat little or much, but the abundance of the rich will not let them sleep. Wealth brings anxiety; simplicity brings peace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The connection between physical labor, simple living, and good sleep -- versus wealth, anxiety, and insomnia -- is confirmed by modern sleep research. Simple living promotes better rest.",
+            "now": "The connection between physical labor, simple living, and good sleep -- versus wealth, anxiety, and insomnia -- is confirmed by modern sleep research. Simple living promotes better rest."
+          }
+        },
+        {
+          "number": 13,
+          "text": "There is a grievous evil which I have seen under the sun: wealth kept by its owner to his harm.",
+          "explainer": "He has seen a grievous evil: wealth hoarded to its owner's harm. Saving obsessively can become self-destructive when it consumes one's entire life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "Those riches perish by misfortune, and if he has fathered a son, there is nothing in his hand.",
+          "explainer": "That wealth is lost through bad ventures, and when the owner has a child, there is nothing left to pass on. Bad investments destroy accumulated wealth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The loss of a lifetime's savings through a failed investment is a timeless tragedy. Modern financial crashes demonstrate that no wealth is truly secure.",
+            "now": "The loss of a lifetime's savings through a failed investment is a timeless tragedy. Modern financial crashes demonstrate that no wealth is truly secure."
+          }
+        },
+        {
+          "number": 15,
+          "text": "As he came out of his mother’s womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand.",
+          "explainer": "Naked they came from the mother's womb, naked they will depart. They take nothing with them -- nothing from their toil to carry in their hands.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "This also is a grievous evil, that in all points as he came, so shall he go. And what profit does he have who labors for the wind?",
+          "explainer": "This is a grievous evil: as they came, so they go. What profit do they gain who toil for the wind? The same question from 1:3 echoes again.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "All his days he also eats in darkness, he is frustrated, and has sickness and wrath.",
+          "explainer": "All their days they eat in darkness, with great frustration, sickness, and anger. A portrait of the miserable wealthy: physical comfort but no inner peace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The wealthy person eating in darkness, frustrated and angry, is a powerful image of success without satisfaction. Material comfort does not guarantee emotional or spiritual well-being.",
+            "now": "The wealthy person eating in darkness, frustrated and angry, is a powerful image of success without satisfaction. Material comfort does not guarantee emotional or spiritual well-being."
+          }
+        },
+        {
+          "number": 18,
+          "text": "Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion.",
+          "explainer": "The fourth enjoyment passage: it is good and fitting to eat, drink, and find satisfaction in work during the few days God gives. This is one's 'portion.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+          "explainer": "When God gives wealth, possessions, and the ability to enjoy them -- to accept one's lot and find joy in work -- this is a gift of God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "For he shall not often reflect on the days of his life; because God occupies him with the joy of his heart.",
+          "explainer": "Such a person seldom reflects on the days of their life because God keeps them occupied with gladness of heart. Joy is so absorbing that existential anxiety fades.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "When genuinely engaged in joyful activity, people do not fixate on life's brevity. 'Flow states' -- complete absorption in meaningful activity -- match Qoheleth's description of God-given gladness.",
+            "now": "When genuinely engaged in joyful activity, people do not fixate on life's brevity. 'Flow states' -- complete absorption in meaningful activity -- match Qoheleth's description of God-given gladness."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "explainer": {
+        "summary": "Qoheleth describes a severe evil: someone whom God gives wealth, honor, and everything they could want, but not the ability to enjoy it -- a stranger ends up consuming it all. Even if such a person lived two thousand years and had a hundred children, a stillborn child would be better off. The chapter ends with rhetorical questions about what is truly good for humans and who can tell them what comes after.",
+        "themes": [
+          "Wealth without enjoyment",
+          "The futility of longevity without satisfaction",
+          "Human inability to know the future",
+          "The stillborn child comparison"
+        ],
+        "contextInBook": "Chapter 6 is the dark counterpart to 5:18-20. Where chapter 5 ended with the gift of enjoyment, chapter 6 presents the horror of having everything but lacking the God-given ability to enjoy it. This is the book's midpoint."
+      },
+      "wordStudies": [
+        {
+          "id": "evil",
+          "greek": "ra'ah (Hebrew)",
+          "transliteration": "Evil",
+          "translatedAs": "Something bad, harmful, or grievous",
+          "meaning": "Something bad, harmful, or grievous. Not necessarily moral evil but experiential misery -- a condition that causes suffering.",
+          "significance": "6:1"
+        },
+        {
+          "id": "stillborn",
+          "greek": "nephel (Hebrew)",
+          "transliteration": "Stillborn",
+          "translatedAs": "A miscarriage or stillborn child",
+          "meaning": "A miscarriage or stillborn child. The comparison is shocking: a child who never breathed is better off than a wealthy person who cannot enjoy their wealth.",
+          "significance": "6:3"
+        },
+        {
+          "id": "appetite",
+          "greek": "nephesh (Hebrew)",
+          "transliteration": "Appetite",
+          "translatedAs": "Soul, appetite, desire",
+          "meaning": "Soul, appetite, desire. 'The appetite is not satisfied' -- literally the soul is never full. Human desire has infinite capacity that finite pleasures cannot fill.",
+          "significance": "6:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "There is an evil which I have seen under the sun, and it is heavy on men:",
+          "explainer": "He has seen a great evil under the sun that weighs heavily on humanity. A common, severe problem is about to be described.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease.",
+          "explainer": "God gives someone wealth, possessions, and honor -- everything they could want -- but God does not grant them the ability to enjoy it. A stranger consumes it instead. This is vanity and a grievous affliction.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The condition of having everything yet enjoying nothing -- clinical anhedonia, or simply the inability to be present -- is increasingly recognized in modern psychology. Wealth without well-being is a genuine affliction.",
+            "now": "The condition of having everything yet enjoying nothing -- clinical anhedonia, or simply the inability to be present -- is increasingly recognized in modern psychology. Wealth without well-being is a genuine affliction."
+          }
+        },
+        {
+          "number": 3,
+          "text": "If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial; I say, that a stillborn child is better than he:",
+          "explainer": "If a man fathers a hundred children and lives many years but his soul is not satisfied with good things, and he has no burial -- a stillborn child is better off than he.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In the ancient world, many children and long life were the ultimate blessings. A proper burial was essential for honor. Qoheleth strips away all three blessings and says even a stillborn -- the ultimate tragedy -- fares better than one who lives without satisfaction."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "for it comes in vanity, and departs in darkness, and its name is covered with darkness.",
+          "explainer": "The stillborn comes in vanity and departs in darkness; its name is covered in darkness. It existed only as a shadow.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Moreover it has not seen the sun nor known it. This has rest rather than the other.",
+          "explainer": "The stillborn never saw the sun or knew anything, yet it has more rest than the wealthy person who cannot enjoy life. Oblivion is better than conscious misery.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The shocking claim that nonexistence is preferable to unfulfilled existence raises deep questions about what constitutes a good life. Quality of experience matters more than quantity of possessions.",
+            "now": "The shocking claim that nonexistence is preferable to unfulfilled existence raises deep questions about what constitutes a good life. Quality of experience matters more than quantity of possessions."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Yes, though he live a thousand years twice told, and yet fails to enjoy good, don’t all go to one place?",
+          "explainer": "Even if a person lived two thousand years but never enjoyed goodness -- do not all go to the same place? Extended life without enjoyment just extends the misery.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "All the labor of man is for his mouth, and yet the appetite is not filled.",
+          "explainer": "All human toil is for the mouth, yet the appetite is never satisfied. We work to eat, but hunger always returns. The cycle never reaches completion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "For what advantage has the wise more than the fool? What has the poor man, that knows how to walk before the living?",
+          "explainer": "What advantage does the wise person have over the fool? What does the poor person gain by knowing how to conduct themselves before others? Wisdom and social skill do not change the fundamental equation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Better is the sight of the eyes than the wandering of the desire. This also is vanity and a chasing after wind.",
+          "explainer": "Better what the eyes can see than the wandering of desire. This too is vanity and chasing the wind. Appreciate what you have rather than longing for what you don't.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The contrast between enjoying what's present versus chasing desire maps directly onto modern mindfulness teaching: be present with what is rather than anxious about what might be.",
+            "now": "The contrast between enjoying what's present versus chasing desire maps directly onto modern mindfulness teaching: be present with what is rather than anxious about what might be."
+          }
+        },
+        {
+          "number": 10,
+          "text": "Whatever has been, its name was given long ago; and it is known what man is; neither can he contend with him who is mightier than he.",
+          "explainer": "Whatever exists has already been named, and what humanity is has been known. No one can contend with one who is stronger. We cannot argue with God or change our nature.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For there are many words that create vanity. What does that profit man?",
+          "explainer": "The more words, the more vanity -- how does that benefit anyone? Excessive talking and theorizing do not improve the human condition. Action and acceptance matter more than words.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?",
+          "explainer": "Who knows what is good for a person in this short, vaporous life? Who can tell anyone what will happen after them under the sun? The chapter ends with the questions that define the human condition: we don't know what's best, and we can't see the future.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The twin uncertainties -- not knowing what is truly good for us and not knowing the future -- are the foundations of human anxiety in every era. Ecclesiastes refuses to offer false certainty about either.",
+            "now": "The twin uncertainties -- not knowing what is truly good for us and not knowing the future -- are the foundations of human anxiety in every era. Ecclesiastes refuses to offer false certainty about either."
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "explainer": {
+        "summary": "A collection of wisdom sayings with a dark edge. Better is a good name than precious ointment; better the day of death than birth; better sorrow than laughter. Qoheleth warns against excessive wisdom and excessive wickedness -- both can destroy you. He laments that he cannot find a truly righteous or wise person. The chapter explores the limits of wisdom and the pervasiveness of human folly.",
+        "themes": [
+          "The value of sorrow over shallow joy",
+          "Moderation in all things",
+          "Wisdom's limits",
+          "The rarity of true righteousness"
+        ],
+        "contextInBook": "Chapter 7 marks the book's second half, shifting from experiments and observations to practical wisdom. But even this wisdom is qualified -- Qoheleth finds that wisdom itself cannot make the crooked straight."
+      },
+      "wordStudies": [
+        {
+          "id": "reputation",
+          "greek": "shem (Hebrew)",
+          "transliteration": "Reputation",
+          "translatedAs": "Name, reputation",
+          "meaning": "Name, reputation. A good name (shem tov) was considered the most valuable possession in ancient Israel -- more valuable than physical wealth or sensory pleasure.",
+          "significance": "7:1"
+        },
+        {
+          "id": "righteous",
+          "greek": "tsaddiq (Hebrew)",
+          "transliteration": "Righteous",
+          "translatedAs": "Righteous, just",
+          "meaning": "Righteous, just. Qoheleth shockingly advises against being 'too righteous' -- self-righteous perfectionism is as dangerous as wickedness.",
+          "significance": "7:16"
+        },
+        {
+          "id": "snare",
+          "greek": "metsodim (Hebrew)",
+          "transliteration": "Snare",
+          "translatedAs": "Hunting nets or traps",
+          "meaning": "Hunting nets or traps. The woman 'whose heart is snares and nets' represents folly personified -- not a misogynistic statement but a wisdom tradition metaphor (see Proverbs 7).",
+          "significance": "7:26"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A good name is better than fine perfume; and the day of death better than the day of one’s birth.",
+          "explainer": "A good name is better than fine perfume, and the day of death better than the day of birth. Reputation outlasts luxury; life's end reveals its meaning more than its beginning.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "It is better to go to the house of mourning than to go to the house of feasting: for that is the end of all men, and the living should take this to heart.",
+          "explainer": "Better to go to a house of mourning than a house of feasting, for death is the end of all people, and the living should take this to heart.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Attending funerals teaches us more about life than attending parties. Confronting mortality produces wisdom; avoiding it produces shallowness. Modern culture's death-avoidance makes this advice especially relevant.",
+            "now": "Attending funerals teaches us more about life than attending parties. Confronting mortality produces wisdom; avoiding it produces shallowness. Modern culture's death-avoidance makes this advice especially relevant."
+          }
+        },
+        {
+          "number": 3,
+          "text": "Sorrow is better than laughter; for by the sadness of the face the heart is made good.",
+          "explainer": "Sorrow is better than laughter, because a sad face is good for the heart. Grief deepens the soul in ways that superficial happiness cannot.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+          "explainer": "The heart of the wise is in the house of mourning; the heart of fools is in the house of pleasure. Where your attention goes reveals your character.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The preference for depth over distraction, contemplation over entertainment, marks the difference between wisdom and folly in every era.",
+            "now": "The preference for depth over distraction, contemplation over entertainment, marks the difference between wisdom and folly in every era."
+          }
+        },
+        {
+          "number": 5,
+          "text": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+          "explainer": "Better to hear the rebuke of a wise person than the song of fools. Correction from the wise is more valuable than praise from the foolish.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "For as the crackling of thorns under a pot, so is the laughter of the fool. This also is vanity.",
+          "explainer": "The laughter of fools is like the crackling of thorns under a pot -- loud, brief, and producing only smoke. A vivid metaphor: thornbush fires blaze hot but burn out instantly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Surely extortion makes the wise man foolish; and a bribe destroys the understanding.",
+          "explainer": "Oppression turns a wise person into a fool, and a bribe corrupts the heart. Even wisdom is vulnerable to external pressures -- it is not an invulnerable shield.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Better is the end of a thing than its beginning.\nThe patient in spirit is better than the proud in spirit.",
+          "explainer": "Better the end of a thing than its beginning. Better patience of spirit than pride of spirit. Completion matters more than initiation; endurance matters more than ambition.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools.",
+          "explainer": "Do not be quickly provoked in your spirit, for anger resides in the lap of fools. Quick temper reveals foolishness; patience reveals wisdom.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Don’t say, “Why were the former days better than these?” For you do not ask wisely about this.",
+          "explainer": "Do not ask 'Why were the old days better than these?' This question is not prompted by wisdom. Nostalgia distorts the past and blinds us to the present.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Every generation believes the previous one was better. Qoheleth dismisses this as unwise -- the 'good old days' were not as good as memory suggests, and such thinking prevents engagement with the present.",
+            "now": "Every generation believes the previous one was better. Qoheleth dismisses this as unwise -- the 'good old days' were not as good as memory suggests, and such thinking prevents engagement with the present."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Wisdom is as good as an inheritance. Yes, it is more excellent for those who see the sun.",
+          "explainer": "Wisdom is good with an inheritance -- an advantage for those who see the sun. Wisdom combined with resources provides real benefit to the living.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it.",
+          "explainer": "Wisdom is a shelter, as money is a shelter, but the advantage of knowledge is this: wisdom preserves the life of its possessor. Wealth protects temporarily; wisdom protects fundamentally.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Consider the work of God, for who can make that straight, which he has made crooked?",
+          "explainer": "Consider God's work: who can straighten what He has made crooked? Some things in life are permanently bent, and no human effort can fix them. Accept what cannot be changed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The serenity prayer's wisdom -- accepting what cannot be changed -- finds its ancient roots here. Some situations are beyond human repair, and wisdom includes recognizing this.",
+            "now": "The serenity prayer's wisdom -- accepting what cannot be changed -- finds its ancient roots here. Some situations are beyond human repair, and wisdom includes recognizing this."
+          }
+        },
+        {
+          "number": 14,
+          "text": "In the day of prosperity be joyful, and in the day of adversity consider; yes, God has made the one side by side with the other, to the end that man should not find out anything after him.",
+          "explainer": "In good times be happy; in bad times consider: God made both so that no one can discover what lies ahead. Prosperity and adversity are both from God, and both prevent certainty about the future.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "All this I have seen in my days of vanity: there is a righteous man who perishes in his righteousness, and there is a wicked man who lives long in his evildoing.",
+          "explainer": "He has seen everything in his meaningless life: righteous people perishing in their righteousness, and wicked people living long in their wickedness. Life is not reliably just.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Don’t be overly righteous, neither make yourself overly wise. Why should you destroy yourself?",
+          "explainer": "Do not be overly righteous and do not be overly wise -- why destroy yourself? Excessive self-righteousness and intellectual pride are forms of self-destruction.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "overly righteous",
+              "personId": null,
+              "wordId": "righteous",
+              "startIndex": 9
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The warning against being 'overly righteous' speaks to religious legalism in every era -- the tendency to add rules until the burden becomes unbearable and faith becomes joyless.",
+            "now": "The warning against being 'overly righteous' speaks to religious legalism in every era -- the tendency to add rules until the burden becomes unbearable and faith becomes joyless."
+          }
+        },
+        {
+          "number": 17,
+          "text": "Don’t be too wicked, neither be foolish. Why should you die before your time?",
+          "explainer": "Do not be overly wicked and do not be a fool -- why die before your time? Excessive wickedness shortens life through consequences.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "It is good that you should take hold of this. Yes, also from that don’t withdraw your hand; for he who fears God will come out of them all.",
+          "explainer": "It is good to grasp one thing without letting go of the other. The one who fears God will avoid both extremes. The fear of God is the balancing principle.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "Wisdom is a strength to the wise man more than ten rulers who are in a city.",
+          "explainer": "Wisdom makes one wise person more powerful than ten rulers in a city. A single wise counselor outweighs multiple political authorities.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Surely there is not a righteous man on earth, who does good and doesn’t sin.",
+          "explainer": "Surely there is not a righteous person on earth who does good and never sins. Universal human sinfulness is stated as self-evident fact.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 21,
+          "text": "Also don’t take heed to all words that are spoken, lest you hear your servant curse you;",
+          "explainer": "Do not take to heart everything people say, or you may hear your servant cursing you. Not everything said about you deserves your attention or emotional investment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the age of social media, the advice not to take every comment personally is more relevant than ever. Not every opinion deserves an emotional response.",
+            "now": "In the age of social media, the advice not to take every comment personally is more relevant than ever. Not every opinion deserves an emotional response."
+          }
+        },
+        {
+          "number": 22,
+          "text": "for often your own heart knows that you yourself have likewise cursed others.",
+          "explainer": "Your own heart knows that you too have cursed others many times. Self-awareness should produce humility about others' speech about us.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "All this I have proved in wisdom. I said, “I will be wise”; but it was far from me.",
+          "explainer": "He tested all this with wisdom, saying 'I will be wise,' but it was beyond him. Wisdom about wisdom's own limits is the ultimate intellectual humility.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The wisest recognition is knowing the limits of your own wisdom. Socrates' 'I know that I know nothing' echoes Qoheleth's discovery centuries later.",
+            "now": "The wisest recognition is knowing the limits of your own wisdom. Socrates' 'I know that I know nothing' echoes Qoheleth's discovery centuries later."
+          }
+        },
+        {
+          "number": 24,
+          "text": "That which is, is far off and exceedingly deep. Who can find it out?",
+          "explainer": "Whatever wisdom is, it is far off and very deep -- who can find it? Ultimate understanding remains beyond human reach. The answer to life's deepest questions eludes even the wisest.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 25,
+          "text": "I turned around, and my heart sought to know and to search out, and to seek wisdom and the scheme of things, and to know that wickedness is stupidity, and that foolishness is madness.",
+          "explainer": "He applied his mind to know, search out, and seek wisdom and reason -- and to understand the wickedness of folly and the foolishness of madness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 26,
+          "text": "I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases God shall escape from her; but the sinner will be ensnared by her.",
+          "explainer": "He finds something more bitter than death: the woman whose heart is traps and nets, whose hands are chains. The one who pleases God escapes her; the sinner is captured.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "the woman whose heart is snares",
+              "personId": null,
+              "wordId": "snare",
+              "startIndex": 30
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 27,
+          "text": "“Behold, I have found this,” says the Preacher, “to one another, to find out the scheme;",
+          "explainer": "Qoheleth says: 'Look, this is what I have discovered, adding one thing to another to find a pattern.' He is building his case piece by piece.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 28,
+          "text": "which my soul still seeks; but I have not found. I have found one man among a thousand; but I have not found a woman among all those.",
+          "explainer": "While still searching and not finding: he found one upright man among a thousand but not one upright woman among them all. Among all people, genuine integrity is extremely rare.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "This verse reflects ancient patriarchal perspectives and the wisdom tradition's warnings about seduction. Many interpreters note that the 'one in a thousand' language is about human nature in general -- true integrity is vanishingly rare regardless of gender."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 29,
+          "text": "Behold, I have only found this: that God made man upright; but they search for many schemes.”",
+          "explainer": "His final finding: God made humanity upright, but they have gone in search of many schemes. Humans were created good but have complicated themselves with endless inventions and deceptions.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The gap between how humans were made (upright) and how they live (scheming) is Qoheleth's version of the doctrine of the Fall. Original simplicity has been replaced by self-destructive complexity.",
+            "now": "The gap between how humans were made (upright) and how they live (scheming) is Qoheleth's version of the doctrine of the Fall. Original simplicity has been replaced by self-destructive complexity."
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "explainer": {
+        "summary": "Practical wisdom about navigating power: obey the king, recognize that no one controls the day of death, and accept that the wicked sometimes prosper while the righteous suffer. Despite the apparent injustice, Qoheleth maintains that it will go well with those who fear God. He recommends enjoyment once more and acknowledges that no one can fully understand God's work.",
+        "themes": [
+          "Navigating authority",
+          "Injustice in the world",
+          "The mystery of God's work",
+          "Fear of God amid uncertainty"
+        ],
+        "contextInBook": "Chapter 8 applies wisdom to political reality and the problem of injustice. It balances honest acknowledgment that life is unfair with persistent faith that God's judgment will ultimately prevail."
+      },
+      "wordStudies": [
+        {
+          "id": "authority",
+          "greek": "shilton (Hebrew)",
+          "transliteration": "Authority",
+          "translatedAs": "Dominion, mastery, authority",
+          "meaning": "Dominion, mastery, authority. No human has authority over the wind (breath/spirit) or the day of death. Ultimate power belongs only to God.",
+          "significance": "8:8"
+        },
+        {
+          "id": "sentence",
+          "greek": "pitgam (Hebrew)",
+          "transliteration": "Sentence",
+          "translatedAs": "A decree or verdict, possibly a Persian loanword",
+          "meaning": "A decree or verdict, possibly a Persian loanword. When punishment for evil is not swiftly executed, people are emboldened to do more evil.",
+          "significance": "8:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Who is like the wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed.",
+          "explainer": "Who is like the wise person? Who knows the interpretation of things? Wisdom brightens the face and softens its harshness. Wisdom transforms a person's entire bearing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "I say, “Keep the king’s command!” because of the oath to God.",
+          "explainer": "Obey the king's command because of your oath before God. Take your position carefully in relation to authority.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In ancient monarchies, oaths of loyalty to the king were sworn before God. Breaking these oaths was both political treason and religious sin."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him,",
+          "explainer": "Do not be in a hurry to leave the king's presence. Do not persist in a bad cause, for the king can do whatever he pleases. Know when to retreat from power.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "for the king’s word is supreme. Who can say to him, “What are you doing?”",
+          "explainer": "The king's word is supreme -- who can say to him 'What are you doing?' Royal authority, like God's authority, is not easily questioned.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure.",
+          "explainer": "Whoever keeps the king's command will experience no harm. The wise heart knows the proper time and procedure for every matter.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "For there is a time and procedure for every purpose, although the misery of man is heavy on him.",
+          "explainer": "For every matter there is a time and a way, though human misery weighs heavily. Proper timing exists, but the burden of living in uncertainty remains.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "For he doesn’t know that which will be; for who can tell him how it will be?",
+          "explainer": "No one knows what is coming, and who can tell when it will happen? The future is hidden from every human being without exception.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "There is no man who has power over the spirit to contain the spirit; neither does he have power over the day of death. There is no discharge in war; neither shall wickedness deliver those who practice it.",
+          "explainer": "No one has power over the wind to contain it, and no one has power over the day of death. There is no discharge in war, and wickedness will not rescue those who practice it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "All this I have seen, and applied my mind to every work that is done under the sun. There is a time in which one man has power over another to his hurt.",
+          "explainer": "He has observed all this -- every activity under the sun. There is a time when one person dominates another to their harm. Power is often exercised destructively.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The observation that power is often used to harm rather than help describes every political system in history. The abuse of authority is as old as authority itself.",
+            "now": "The observation that power is often used to harm rather than help describes every political system in history. The abuse of authority is as old as authority itself."
+          }
+        },
+        {
+          "number": 10,
+          "text": "So I saw the wicked buried. Indeed they came also from holiness. They went and were forgotten in the city where they did this. This also is vanity.",
+          "explainer": "He saw the wicked buried -- they used to come and go from the holy place and receive praise in the city where they did evil. This too is vanity.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Wicked people receiving honorable burials and posthumous praise while their victims went unremembered was a common and bitter observation in the ancient world."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+          "explainer": "Because the sentence against an evil deed is not executed quickly, the hearts of people are fully set on doing evil. Delayed justice emboldens wrongdoing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The relationship between delayed punishment and increased crime is a principle recognized in modern criminology. Swift, certain consequences deter more effectively than severe but delayed ones.",
+            "now": "The relationship between delayed punishment and increased crime is a principle recognized in modern criminology. Swift, certain consequences deter more effectively than severe but delayed ones."
+          }
+        },
+        {
+          "number": 12,
+          "text": "Though a sinner commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who fear God, who are reverent before him.",
+          "explainer": "Although a sinner does evil a hundred times and prolongs their life, Qoheleth still knows it will go well with those who fear God, who are reverent before Him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "But it shall not be well with the wicked, neither shall he lengthen days like a shadow; because he doesn’t fear God.",
+          "explainer": "It will not go well with the wicked, whose days will not lengthen like a shadow, because they do not fear God. Faith asserts what experience alone cannot prove.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "There is a vanity which is done on the earth, that there are righteous men to whom it happens according to the work of the wicked. Again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+          "explainer": "Yet here is a vanity on earth: righteous people get what the wicked deserve, and the wicked get what the righteous deserve. This too is vanity. Honest observation contradicts the neat moral order.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The tension between believing God is just (8:12-13) and observing that life is unfair (8:14) is the central paradox of faith in every generation. Ecclesiastes refuses to resolve it neatly.",
+            "now": "The tension between believing God is just (8:12-13) and observing that life is unfair (8:14) is the central paradox of faith in every generation. Ecclesiastes refuses to resolve it neatly."
+          }
+        },
+        {
+          "number": 15,
+          "text": "Then I commended mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be joyful: for that will accompany him in his labor all the days of his life which God has given him under the sun.",
+          "explainer": "So he recommends joy: nothing is better under the sun than to eat, drink, and be glad. This will accompany them in their toil through the days God gives. The fifth enjoyment passage.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "When I applied my heart to know wisdom, and to see the business that is done on the earth (for also there is that neither day nor night sees sleep with his eyes),",
+          "explainer": "When he applied his mind to know wisdom and observe human activity (people so busy they do not sleep day or night), he saw God's work.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.",
+          "explainer": "He discovered that no one can comprehend what God has done under the sun. Despite all effort to search it out, no one can discover it. Even the wise who claim to know cannot truly fathom it.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The honest admission that God's ways are ultimately incomprehensible is not intellectual laziness but intellectual humility. The wisest stance is acknowledging what we cannot know.",
+            "now": "The honest admission that God's ways are ultimately incomprehensible is not intellectual laziness but intellectual humility. The wisest stance is acknowledging what we cannot know."
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "explainer": {
+        "summary": "Death comes to all -- the righteous and wicked, the clean and unclean, the one who sacrifices and the one who does not. The living at least know they will die; the dead know nothing. Therefore enjoy life vigorously: eat with joy, drink with a glad heart, enjoy life with your beloved wife. Work passionately at whatever you do. Time and chance happen to all. The chapter ends with a parable about a poor wise man who saved a city but was forgotten.",
+        "themes": [
+          "Death as universal equalizer",
+          "Carpe diem -- seize the day",
+          "Time and chance",
+          "Wisdom unrecognized"
+        ],
+        "contextInBook": "Chapter 9 contains the book's most forceful call to enjoy life. The reality of universal death, rather than producing despair, becomes the motivation for passionate, present-moment living."
+      },
+      "wordStudies": [
+        {
+          "id": "know_nothing",
+          "greek": "einam yod'im me'umah (Hebrew)",
+          "transliteration": "Know nothing",
+          "translatedAs": "The dead have no knowledge, no awareness",
+          "meaning": "The dead have no knowledge, no awareness. 'Under the sun' they are completely finished. This is observation, not theology -- from the earthly perspective, death ends all participation.",
+          "significance": "9:5"
+        },
+        {
+          "id": "time_and_chance",
+          "greek": "et va-pega (Hebrew)",
+          "transliteration": "Time and chance",
+          "translatedAs": "Time (appointed moment) and chance (occurrence, ac",
+          "meaning": "Time (appointed moment) and chance (occurrence, accident). Life is shaped by both God's timing and unpredictable events. Neither skill nor virtue guarantees outcomes.",
+          "significance": "9:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it is love or hatred, man doesn’t know it; all is before them.",
+          "explainer": "The righteous, the wise, and their deeds are in God's hand. No one knows whether love or hate awaits them -- everything is before them. All is in God's control, not ours.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to him who sacrifices, and to him who doesn’t sacrifice. As is the good, so is the sinner; he who takes an oath, as he who fears an oath.",
+          "explainer": "Everything is the same for everyone: one fate for the righteous and wicked, good and evil, clean and unclean, those who sacrifice and those who don't. As the good person, so the sinner; the one who swears, so the one who fears oaths.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The claim that death treats everyone identically challenges every system of moral merit. From 'under the sun,' the saint and the sinner end up in the same grave.",
+            "now": "The claim that death treats everyone identically challenges every system of moral merit. From 'under the sun,' the saint and the sinner end up in the same grave."
+          }
+        },
+        {
+          "number": 3,
+          "text": "This is an evil in all that is done under the sun, that there is one event to all: yes also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+          "explainer": "This is the evil in everything under the sun: the same fate for all. Human hearts are full of evil and madness during life, and after that -- death. The inevitability of death combined with human foolishness is life's greatest tragedy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "For to him who is joined with all the living there is hope; for a living dog is better than a dead lion.",
+          "explainer": "Anyone among the living has hope. A live dog is better than a dead lion. As long as you are alive, there are possibilities. Death ends all opportunity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The proverb's power comes from the extreme contrast: the most contemptible living thing surpasses the most glorious dead thing. Life itself, however humble, has value that death negates.",
+            "now": "The proverb's power comes from the extreme contrast: the most contemptible living thing surpasses the most glorious dead thing. Life itself, however humble, has value that death negates."
+          }
+        },
+        {
+          "number": 5,
+          "text": "For the living know that they will die, but the dead don’t know anything, neither do they have any more a reward; for their memory is forgotten.",
+          "explainer": "The living know they will die, but the dead know nothing. They have no further reward, and even their memory is forgotten. From the earthly perspective, death is total cessation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Also their love, their hatred, and their envy has perished long ago; neither have they any more a portion forever in anything that is done under the sun.",
+          "explainer": "Their love, hate, and jealousy have long since vanished. They will never again have a part in anything under the sun. All passions die with the person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The absolute finality of death regarding earthly activities is sobering in any era. Whatever we feel passionately about now -- love, anger, ambition -- ceases completely at death.",
+            "now": "The absolute finality of death regarding earthly activities is sobering in any era. Whatever we feel passionately about now -- love, anger, ambition -- ceases completely at death."
+          }
+        },
+        {
+          "number": 7,
+          "text": "Go your way—eat your bread with joy, and drink your wine with a merry heart; for God has already accepted your works.",
+          "explainer": "Go, eat your bread with joy, and drink your wine with a merry heart, for God has already approved your works. This is the most emphatic enjoyment passage -- it is a command, not just a suggestion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The idea that God has 'already approved' our enjoyment contradicts religious guilt about pleasure. Qoheleth says: enjoy without guilt -- God gave you these gifts and wants you to use them.",
+            "now": "The idea that God has 'already approved' our enjoyment contradicts religious guilt about pleasure. Qoheleth says: enjoy without guilt -- God gave you these gifts and wants you to use them."
+          }
+        },
+        {
+          "number": 8,
+          "text": "Let your garments be always white, and don’t let your head lack oil.",
+          "explainer": "Let your garments always be white, and let your head lack no oil. Wear festive clothes and anoint yourself -- live as if every day is a celebration.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "White garments indicated festive occasions in the ancient Near East. Anointing with oil was a sign of joy and celebration. Qoheleth says: don't save your best for special occasions -- every day of life deserves celebration."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Live joyfully with the wife whom you love all the days of your life of vanity, which he has given you under the sun, all your days of vanity: for that is your portion in life, and in your labor in which you labor under the sun.",
+          "explainer": "Enjoy life with the wife you love, all the days of your fleeting life under the sun -- for that is your portion in life and toil. Married love is a primary expression of God's gift of enjoyment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The instruction to enjoy life 'with the wife you love' elevates married companionship as one of life's central goods -- not a consolation prize but the primary way most people experience joy.",
+            "now": "The instruction to enjoy life 'with the wife you love' elevates married companionship as one of life's central goods -- not a consolation prize but the primary way most people experience joy."
+          }
+        },
+        {
+          "number": 10,
+          "text": "Whatever your hand finds to do, do it with your might; for there is no work, nor plan, nor knowledge, nor wisdom, in Sheol, where you are going.",
+          "explainer": "Whatever your hand finds to do, do it with all your might, for in the grave there is no work, planning, knowledge, or wisdom. Work passionately now because death ends all productive activity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favor to men of skill; but time and chance happen to them all.",
+          "explainer": "The race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to the skillful -- time and chance happen to them all.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "time and chance",
+              "personId": null,
+              "wordId": "time_and_chance",
+              "startIndex": 206
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse challenges every meritocracy: success is not purely the result of talent or effort. Random events and timing play enormous roles -- a truth that both humbles the successful and comforts the unsuccessful.",
+            "now": "This verse challenges every meritocracy: success is not purely the result of talent or effort. Random events and timing play enormous roles -- a truth that both humbles the successful and comforts the unsuccessful."
+          }
+        },
+        {
+          "number": 12,
+          "text": "For man also doesn’t know his time. As the fish that are taken in an evil net, and as the birds that are caught in the snare, even so are the sons of men snared in an evil time, when it falls suddenly on them.",
+          "explainer": "No one knows when their time will come. Like fish caught in a net or birds in a snare, people are trapped by evil times that fall on them unexpectedly.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "I have also seen wisdom under the sun in this way, and it seemed great to me.",
+          "explainer": "He observed an example of wisdom under the sun that impressed him greatly. A parable follows to illustrate wisdom's value and tragedy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "There was a little city, and few men within it; and a great king came against it, besieged it, and built great bulwarks against it.",
+          "explainer": "A small city with few people was besieged by a great king who built huge siege works against it. The odds were overwhelming.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Ancient siege warfare was devastating. A powerful king with siege engines against a small, poorly defended city was a hopeless mismatch -- making the rescue that follows all the more remarkable."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Now a poor wise man was found in it, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+          "explainer": "A poor wise man was found in the city who saved it by his wisdom. But nobody remembered that poor man afterward. Wisdom can achieve extraordinary results but receives no lasting recognition.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The poor wise person who saves the day and is promptly forgotten is a pattern repeated throughout history. Society benefits from wisdom but does not reliably honor or remember the wise.",
+            "now": "The poor wise person who saves the day and is promptly forgotten is a pattern repeated throughout history. Society benefits from wisdom but does not reliably honor or remember the wise."
+          }
+        },
+        {
+          "number": 16,
+          "text": "Then I said, “Wisdom is better than strength.” Nevertheless the poor man’s wisdom is despised, and his words are not heard.",
+          "explainer": "Wisdom is better than strength, but the poor man's wisdom is despised and his words are not heeded. Wisdom's value is real but socially unrewarded.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "The words of the wise heard in quiet are better than the cry of him who rules among fools.",
+          "explainer": "The quiet words of the wise are more to be heeded than the shouts of a ruler among fools. Wisdom speaks quietly; foolishness shouts -- and the crowd follows the shouting.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In an age of social media amplification, the observation that quiet wisdom is drowned out by loud foolishness is especially relevant. Volume and wisdom are rarely correlated.",
+            "now": "In an age of social media amplification, the observation that quiet wisdom is drowned out by loud foolishness is especially relevant. Volume and wisdom are rarely correlated."
+          }
+        },
+        {
+          "number": 18,
+          "text": "Wisdom is better than weapons of war; but one sinner destroys much good.",
+          "explainer": "Wisdom is better than weapons of war, but one sinner destroys much good. A single fool can undo what many wise people build. Destruction is easier than construction.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "explainer": {
+        "summary": "A collection of practical proverbs comparing wisdom and folly. Dead flies ruin perfumer's ointment; a little folly outweighs much wisdom. The chapter covers leadership, labor, speech, and the consequences of laziness. Fools talk too much and reveal their foolishness with every word.",
+        "themes": [
+          "Small amounts of folly can ruin wisdom",
+          "Wise leadership versus foolish",
+          "The power and danger of speech",
+          "Diligence versus laziness"
+        ],
+        "contextInBook": "Chapter 10 is the most 'proverbial' chapter -- closest to the style of Proverbs. After the heavy philosophical weight of chapters 1-9, this chapter offers practical, earthy wisdom for daily life."
+      },
+      "wordStudies": [
+        {
+          "id": "dead_flies",
+          "greek": "zevuvei mavet (Hebrew)",
+          "transliteration": "Dead flies",
+          "translatedAs": "Literally 'flies of death",
+          "meaning": "Literally 'flies of death.' Even tiny dead insects can ruin an entire batch of precious perfumed oil. A metaphor for how small errors corrupt great achievements.",
+          "significance": "10:1"
+        },
+        {
+          "id": "serpent",
+          "greek": "nachash (Hebrew)",
+          "transliteration": "Serpent",
+          "translatedAs": "A snake",
+          "meaning": "A snake. The snake charmer who is bitten before charming the snake represents someone whose skill fails due to poor timing.",
+          "significance": "10:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dead flies cause the oil of the perfumer to produce an evil odor;\nso does a little folly outweigh wisdom and honor.",
+          "explainer": "Dead flies cause the perfumer's ointment to stink. So a little folly outweighs wisdom and honor. Small amounts of stupidity can ruin great accomplishments.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "One foolish act can destroy a lifetime reputation. In the social media age, a single careless moment can 'go viral' and undo years of careful work.",
+            "now": "One foolish act can destroy a lifetime reputation. In the social media age, a single careless moment can 'go viral' and undo years of careful work."
+          }
+        },
+        {
+          "number": 2,
+          "text": "A wise man’s heart is at his right hand,\nbut a fool’s heart at his left.",
+          "explainer": "The wise person's heart inclines to the right; the fool's heart to the left. In Hebrew thought, the right hand represented strength, skill, and favor; the left represented weakness.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Right/left symbolism was deeply ingrained in the ancient world. The right hand was the hand of power, blessing, and skill. 'Left' suggested clumsiness or disfavor. This is not a political statement."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Yes also, when the fool walks by the way, his understanding fails him, and he says to everyone that he is a fool.",
+          "explainer": "Even as the fool walks along the road, his sense is lacking and he shows everyone that he is a fool. Folly is self-revealing -- fools cannot hide their nature even in casual behavior.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The fool's inability to conceal their foolishness even in mundane settings is observable in every era. How someone behaves in ordinary situations reveals their true character.",
+            "now": "The fool's inability to conceal their foolishness even in mundane settings is observable in every era. How someone behaves in ordinary situations reveals their true character."
+          }
+        },
+        {
+          "number": 4,
+          "text": "If the spirit of the ruler rises up against you, don’t leave your place; for gentleness lays great offenses to rest.",
+          "explainer": "If the ruler's anger rises against you, do not leave your post. Calmness can lay great offenses to rest. Keep your composure under pressure from authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "There is an evil which I have seen under the sun, the sort of error which proceeds from the ruler.",
+          "explainer": "He has seen an evil under the sun -- a mistake made by rulers: folly is set in many high positions while the rich (capable) sit in low places.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The observation that incompetent people often occupy positions of power while capable people are overlooked remains one of the most recognizable patterns in organizational life.",
+            "now": "The observation that incompetent people often occupy positions of power while capable people are overlooked remains one of the most recognizable patterns in organizational life."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Folly is set in great dignity, and the rich sit in a low place.",
+          "explainer": "Fools are put in many high positions while the rich sit in low places. Social hierarchies are often inverted -- the unqualified are elevated while the qualified are ignored.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "I have seen servants on horses, and princes walking like servants on the earth.",
+          "explainer": "He has seen servants on horseback while princes walk on foot like servants. The social order is reversed -- those who should lead serve, and those who should serve command.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Riding horses was a privilege of royalty and nobility. Seeing servants on horses and princes walking signified a disordered society where status no longer reflected merit."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "He who digs a pit may fall into it; and whoever breaks through a wall may be bitten by a snake.",
+          "explainer": "He who digs a pit may fall into it; whoever breaks through a wall may be bitten by a serpent. Actions have unpredictable consequences, especially destructive ones.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Whoever carves out stones may be injured by them. Whoever splits wood may be endangered thereby.",
+          "explainer": "Whoever quarries stones may be injured by them; whoever splits logs may be endangered by them. Even productive work carries inherent risks.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Workplace hazards are not a modern invention. Ancient stone quarrying and wood splitting were genuinely dangerous occupations. Every form of productive labor involves some risk.",
+            "now": "Workplace hazards are not a modern invention. Ancient stone quarrying and wood splitting were genuinely dangerous occupations. Every form of productive labor involves some risk."
+          }
+        },
+        {
+          "number": 10,
+          "text": "If the ax is blunt, and one doesn’t sharpen the edge, then he must use more strength; but skill brings success.",
+          "explainer": "If the axe is dull and one does not sharpen the edge, more strength is needed. Wisdom brings success through working smarter, not just harder.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This is ancient productivity advice: invest time in preparation before diving into work. A sharp axe (good tools, clear thinking, proper planning) saves more effort than raw strength.",
+            "now": "This is ancient productivity advice: invest time in preparation before diving into work. A sharp axe (good tools, clear thinking, proper planning) saves more effort than raw strength."
+          }
+        },
+        {
+          "number": 11,
+          "text": "If the snake bites before it is charmed, then is there no profit for the charmer’s tongue.",
+          "explainer": "If a serpent bites before it is charmed, there is no profit for the charmer. Skill that comes too late is useless. Timing is everything.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "The words of a wise man’s mouth are gracious; but a fool is swallowed by his own lips.",
+          "explainer": "Words from the mouth of the wise are gracious, but the lips of a fool swallow him up. Wise speech wins favor; foolish speech is self-destructive.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "The beginning of the words of his mouth is foolishness; and the end of his talk is mischievous madness.",
+          "explainer": "The beginning of his talk is foolishness, and the end of it is wicked madness. Foolish speech starts badly and gets progressively worse.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The escalation from foolish talk to 'wicked madness' describes how unwise speech spirals. What begins as a thoughtless comment can escalate into genuinely harmful rhetoric.",
+            "now": "The escalation from foolish talk to 'wicked madness' describes how unwise speech spirals. What begins as a thoughtless comment can escalate into genuinely harmful rhetoric."
+          }
+        },
+        {
+          "number": 14,
+          "text": "A fool also multiplies words.\nMan doesn’t know what will be; and that which will be after him, who can tell him?",
+          "explainer": "A fool multiplies words. No one knows what is coming -- who can tell them what will happen after them? Fools talk as if they know the future; the wise know they don't.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "The labor of fools wearies every one of them; for he doesn’t know how to go to the city.",
+          "explainer": "The toil of fools wearies them, for they do not know the way to the city. Fools work hard but inefficiently because they lack basic knowledge -- they cannot find a city everyone knows.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Woe to you, land, when your king is a child,\nand your princes eat in the morning!",
+          "explainer": "Woe to the land whose king is a child and whose princes feast in the morning. Immature leadership and self-indulgent officials spell disaster for a nation.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Feasting in the morning (instead of attending to governance) indicated leaders more interested in pleasure than duty. 'Child' (na'ar) may mean literally young or metaphorically immature."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 17,
+          "text": "Happy are you, land, when your king is the son of nobles,\nand your princes eat in due season,\nfor strength, and not for drunkenness!",
+          "explainer": "Blessed is the land whose king is of noble birth and whose princes eat at the proper time -- for strength and not for drunkenness. Mature, disciplined leadership blesses a nation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The contrast between leaders who feast selfishly versus those who eat 'for strength' (nourishment, not indulgence) applies to every era's leadership standards. Self-discipline in leaders benefits everyone.",
+            "now": "The contrast between leaders who feast selfishly versus those who eat 'for strength' (nourishment, not indulgence) applies to every era's leadership standards. Self-discipline in leaders benefits everyone."
+          }
+        },
+        {
+          "number": 18,
+          "text": "By slothfulness the roof sinks in;\nand through idleness of the hands the house leaks.",
+          "explainer": "Through laziness the rafters sag; through idle hands the house leaks. Neglect causes slow, steady deterioration. Maintenance is not glamorous but essential.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Deferred maintenance -- whether of buildings, relationships, or institutions -- leads to eventual collapse. The principle applies to infrastructure, health, and organizations equally.",
+            "now": "Deferred maintenance -- whether of buildings, relationships, or institutions -- leads to eventual collapse. The principle applies to infrastructure, health, and organizations equally."
+          }
+        },
+        {
+          "number": 19,
+          "text": "A feast is made for laughter,\nand wine makes the life glad;\nand money is the answer for all things.",
+          "explainer": "A feast is made for laughter, wine makes life merry, and money answers everything. A sardonic observation: money seems to solve every problem -- at least superficially.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "Don’t curse the king, no, not in your thoughts;\nand don’t curse the rich in your bedroom:\nfor a bird of the sky may carry your voice,\nand that which has wings may tell the matter.",
+          "explainer": "Do not curse the king even in your thoughts, or curse the rich in your bedroom, because a bird may carry the report. Secrets have a way of becoming public.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The warning that private speech can become public is exponentially more relevant in the digital age. Texts, emails, and recordings make 'private' speech nearly extinct.",
+            "now": "The warning that private speech can become public is exponentially more relevant in the digital age. Texts, emails, and recordings make 'private' speech nearly extinct."
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "explainer": {
+        "summary": "Qoheleth urges bold action despite uncertainty. Cast your bread on the waters -- invest broadly because you don't know what will succeed. Don't wait for perfect conditions or you'll never act. Rejoice in youth while you can, but remember that God will judge. A chapter about courageous living in the face of uncertainty.",
+        "themes": [
+          "Bold investment despite uncertainty",
+          "Don't wait for perfect conditions",
+          "Enjoy youth while it lasts",
+          "Remember judgment is coming"
+        ],
+        "contextInBook": "Chapter 11 shifts from observation to exhortation. Having established that life is uncertain and brief, Qoheleth now draws the practical conclusion: act boldly, enjoy fully, and remember God."
+      },
+      "wordStudies": [
+        {
+          "id": "cast_your_bread",
+          "greek": "shalach lachmecha (Hebrew)",
+          "transliteration": "Cast your bread",
+          "translatedAs": "Send out your bread (food, resources) on the surfa",
+          "meaning": "Send out your bread (food, resources) on the surface of the waters. Either a reference to maritime trade (sending goods by ship) or generous giving. The principle: invest broadly and you will eventually see returns.",
+          "significance": "11:1"
+        },
+        {
+          "id": "rejoice",
+          "greek": "simach (Hebrew)",
+          "transliteration": "Rejoice",
+          "translatedAs": "Be glad, enjoy",
+          "meaning": "Be glad, enjoy. A command to the young: actively choose joy. This is not optional suggestion but imperative instruction.",
+          "significance": "11:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cast your bread on the waters;\nfor you shall find it after many days.",
+          "explainer": "Cast your bread upon the waters, for you will find it after many days. Invest boldly and widely -- returns may come from unexpected places after unexpected delays.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Whether understood as investment advice or generosity counsel, the principle is the same: bold giving or investing, not timid hoarding, produces eventual returns. Risk-aversion is not wisdom.",
+            "now": "Whether understood as investment advice or generosity counsel, the principle is the same: bold giving or investing, not timid hoarding, produces eventual returns. Risk-aversion is not wisdom."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Give a portion to seven, yes, even to eight;\nfor you don’t know what evil will be on the earth.",
+          "explainer": "Give a portion to seven, or even to eight, for you do not know what disaster may come upon the land. Diversify your investments because the future is unpredictable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This is the oldest recorded advice for investment diversification. Modern financial advisors echo Qoheleth: don't put all your eggs in one basket.",
+            "now": "This is the oldest recorded advice for investment diversification. Modern financial advisors echo Qoheleth: don't put all your eggs in one basket."
+          }
+        },
+        {
+          "number": 3,
+          "text": "If the clouds are full of rain, they empty themselves on the earth;\nand if a tree falls toward the south, or toward the north,\nin the place where the tree falls, there shall it be.",
+          "explainer": "If clouds are full of rain, they empty themselves on the earth. If a tree falls to the south or north, in the place where it falls, there it will lie. Some things are simply inevitable and irreversible.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "He who observes the wind won’t sow;\nand he who regards the clouds won’t reap.",
+          "explainer": "Whoever watches the wind will not sow; whoever looks at the clouds will not reap. If you wait for perfect conditions, you will never act.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Perfectionism and over-analysis lead to paralysis. The farmer who waits for guaranteed perfect weather never plants. Qoheleth counsels: act despite uncertainty. Done is better than perfect.",
+            "now": "Perfectionism and over-analysis lead to paralysis. The farmer who waits for guaranteed perfect weather never plants. Qoheleth counsels: act despite uncertainty. Done is better than perfect."
+          }
+        },
+        {
+          "number": 5,
+          "text": "As you don’t know what is the way of the wind,\nnor how the bones grow in the womb of her who is with child;\neven so you don’t know the work of God who does all.",
+          "explainer": "As you do not know the path of the wind or how bones are formed in a mother's womb, you cannot understand the work of God who makes everything. Mystery is woven into the fabric of existence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "In the morning sow your seed,\nand in the evening don’t withhold your hand;\nfor you don’t know which will prosper, whether this or that,\nor whether they both will be equally good.",
+          "explainer": "Sow your seed in the morning and in the evening let your hands not be idle, for you do not know which will succeed -- this or that, or whether both will do equally well. Work consistently because you cannot predict which efforts will bear fruit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The principle of sustained effort without knowing which attempt will succeed describes the reality of entrepreneurship, creative work, and relationship-building in any era.",
+            "now": "The principle of sustained effort without knowing which attempt will succeed describes the reality of entrepreneurship, creative work, and relationship-building in any era."
+          }
+        },
+        {
+          "number": 7,
+          "text": "Truly the light is sweet,\nand a pleasant thing it is for the eyes to see the sun.",
+          "explainer": "Truly the light is sweet, and it is pleasant for the eyes to see the sun. Life itself is good. Being alive and seeing sunlight is inherently delightful.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Yes, if a man lives many years, let him rejoice in them all;\nbut let him remember the days of darkness, for they shall be many.\nAll that comes is vanity.",
+          "explainer": "If a person lives many years, let them rejoice in all of them. But let them remember the days of darkness, for there will be many. Everything that is coming is vanity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The instruction to rejoice in every year while remembering that dark days are coming is a balanced realism: neither naive optimism nor grim pessimism but grateful awareness.",
+            "now": "The instruction to rejoice in every year while remembering that dark days are coming is a balanced realism: neither naive optimism nor grim pessimism but grateful awareness."
+          }
+        },
+        {
+          "number": 9,
+          "text": "Rejoice, young man, in your youth,\nand let your heart cheer you in the days of your youth,\nand walk in the ways of your heart,\nand in the sight of your eyes;\nbut know that for all these things God will bring you into judgment.",
+          "explainer": "Rejoice, young person, in your youth! Let your heart cheer you in the days of your youth. Walk in the ways of your heart and the sight of your eyes -- but know that for all these things God will bring you to judgment.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse holds together what modern culture often separates: enjoy life fully AND remember God's judgment. Neither repressive moralism nor reckless hedonism -- but joyful, accountable living.",
+            "now": "This verse holds together what modern culture often separates: enjoy life fully AND remember God's judgment. Neither repressive moralism nor reckless hedonism -- but joyful, accountable living."
+          }
+        },
+        {
+          "number": 10,
+          "text": "Therefore remove sorrow from your heart,\nand put away evil from your flesh;\nfor youth and the dawn of life are vanity.",
+          "explainer": "Remove anger from your heart and put away pain from your body, for youth and its vigor are fleeting. Youth itself is hevel -- vapor. Enjoy it while it lasts because it will not last.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "explainer": {
+        "summary": "The book's majestic finale. An extended allegory describes old age and death through vivid metaphors: the darkening sun, trembling guards, grinding ceasing, and the silver cord breaking. Before this inevitable decline, remember your Creator in your youth. The book concludes with its final verdict: fear God and keep His commandments, for this is the whole duty of humanity. God will bring every act to judgment.",
+        "themes": [
+          "Remember God before decline",
+          "The allegory of aging",
+          "Death as return to God",
+          "Fear God and keep His commandments"
+        ],
+        "contextInBook": "Chapter 12 brings everything to its conclusion. After exhaustively exploring what life 'under the sun' offers, Qoheleth points beyond the sun to God. The answer to 'hevel' is not achievement, pleasure, or wisdom -- but reverent relationship with the Creator."
+      },
+      "wordStudies": [
+        {
+          "id": "remember",
+          "greek": "zekor (Hebrew)",
+          "transliteration": "Remember",
+          "translatedAs": "To remember actively, to keep in mind as a present",
+          "meaning": "To remember actively, to keep in mind as a present reality. Not just mental recall but active orientation of life toward the Creator.",
+          "significance": "12:1"
+        },
+        {
+          "id": "creator",
+          "greek": "bor'ekha (Hebrew)",
+          "transliteration": "Creator",
+          "translatedAs": "Your Creator (plural form, possibly majestic plura",
+          "meaning": "Your Creator (plural form, possibly majestic plural). The only time in Ecclesiastes God is called 'Creator' -- connecting the book's ending to Genesis 1.",
+          "significance": "12:1"
+        },
+        {
+          "id": "dust",
+          "greek": "afar (Hebrew)",
+          "transliteration": "Dust",
+          "translatedAs": "Earth, soil, dust",
+          "meaning": "Earth, soil, dust. The body returns to the earth from which it was made (Genesis 2:7). Death reverses creation.",
+          "significance": "12:7"
+        },
+        {
+          "id": "fear",
+          "greek": "yare (Hebrew)",
+          "transliteration": "Fear",
+          "translatedAs": "Reverent awe, not terror",
+          "meaning": "Reverent awe, not terror. The 'fear of God' is the beginning of wisdom (Proverbs 1:7) and the conclusion of Ecclesiastes. It is the proper human response to divine majesty.",
+          "significance": "12:13"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Remember also your Creator in the days of your youth,\nbefore the evil days come, and the years draw near,\nwhen you will say, “I have no pleasure in them”;",
+          "explainer": "Remember your Creator in the days of your youth, before the days of trouble come and the years approach when you say 'I find no pleasure in them.' Turn to God while you still have the vitality and capacity to do so.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "your Creator",
+              "personId": null,
+              "wordId": "creator",
+              "startIndex": 14
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The urgency of connecting with God while young applies in every era. Youth's energy and openness make spiritual formation easier. Waiting until old age often means habits are entrenched and capacity diminished.",
+            "now": "The urgency of connecting with God while young applies in every era. Youth's energy and openness make spiritual formation easier. Waiting until old age often means habits are entrenched and capacity diminished."
+          }
+        },
+        {
+          "number": 2,
+          "text": "Before the sun, the light, the moon, and the stars are darkened,\nand the clouds return after the rain;",
+          "explainer": "Before the sun, moon, and stars grow dark, and clouds return after the rain. An allegory for aging begins: the lights of life dim, and storms no longer give way to clear skies.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "in the day when the keepers of the house shall tremble,\nand the strong men shall bow themselves,\nand the grinders cease because they are few,\nand those who look out of the windows are darkened,",
+          "explainer": "The keepers of the house tremble, the strong men stoop, the grinders cease because they are few, and those looking through the windows grow dim.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "This extended allegory of aging describes a household falling into disrepair, with each element representing a body part: arms (keepers), legs (strong men), teeth (grinders), eyes (windows)."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "and the doors shall be shut in the street;\nwhen the sound of the grinding is low,\nand one shall rise up at the voice of a bird,\nand all the daughters of music shall be brought low;",
+          "explainer": "The doors to the street are closed, the sound of grinding fades, one rises at the sound of birds, and all the songs grow faint.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "yes, they shall be afraid of heights,\nand terrors will be on the way;\nand the almond tree shall blossom,\nand the grasshopper shall be a burden,\nand desire shall fail;\nbecause man goes to his everlasting home,\nand the mourners go about the streets:",
+          "explainer": "They are afraid of heights, and terrors fill the road. The almond tree blossoms (white hair appears), the grasshopper drags itself along, and desire fails. For man goes to his eternal home, and the mourners go about the streets.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Professional mourners (usually women) were hired to wail and lament at funerals. Their presence 'in the streets' means death has occurred and the community performs its grief rituals."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "before the silver cord is severed,\nor the golden bowl is broken,\nor the pitcher is broken at the spring,\nor the wheel broken at the cistern,",
+          "explainer": "Remember Him before the silver cord is severed, the golden bowl is broken, the pitcher shattered at the spring, and the wheel broken at the well.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "and the dust returns to the earth as it was,\nand the spirit returns to God who gave it.",
+          "explainer": "The dust returns to the ground it came from, and the spirit returns to God who gave it. Death reverses Genesis 2:7 -- the body to earth, the breath to its divine source.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse offers hope beyond the grave that the rest of Ecclesiastes mostly avoids. While the body returns to dust, the spirit returns to God. The book's 'under the sun' perspective here breaks open to acknowledge something beyond.",
+            "now": "This verse offers hope beyond the grave that the rest of Ecclesiastes mostly avoids. While the body returns to dust, the spirit returns to God. The book's 'under the sun' perspective here breaks open to acknowledge something beyond."
+          }
+        },
+        {
+          "number": 8,
+          "text": "“Vanity of vanities,” says the Preacher.\n“All is vanity!”",
+          "explainer": "The thesis returns: 'Vanity of vanities,' says the Preacher. 'All is vanity.' The book ends as it began -- with hevel. But now we have heard the full argument and the conclusion that follows.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs.",
+          "explainer": "An editorial epilogue begins: the Preacher was wise and taught the people knowledge. He pondered, searched out, and arranged many proverbs. A third person validates Qoheleth's authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth.",
+          "explainer": "The Preacher sought to find just the right words, and what he wrote was upright and true. His words were carefully chosen and honest -- not comforting platitudes but trustworthy truth.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.",
+          "explainer": "The words of the wise are like goads, and like firmly embedded nails, given by one Shepherd. Wisdom should prod us (goads) and give us something to hold onto (nails).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+          "explainer": "Furthermore, my son, be warned: of making many books there is no end, and much study is a weariness of the flesh. Endless intellectual pursuit without wisdom is exhausting and fruitless.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Written in an era of relatively few books, this warning about information overload is vastly more applicable in the digital age. The modern flood of content makes the advice to stop reading and start living more urgent than ever.",
+            "now": "Written in an era of relatively few books, this warning about information overload is vastly more applicable in the digital age. The modern flood of content makes the advice to stop reading and start living more urgent than ever."
+          }
+        },
+        {
+          "number": 13,
+          "text": "This is the end of the matter. All has been heard. Fear God, and keep his commandments; for this is the whole duty of man.",
+          "explainer": "The conclusion of the matter, when all has been heard: fear God and keep His commandments, for this is the whole duty of humanity.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "After exhaustive philosophical investigation, the answer is remarkably simple: fear God and obey Him. This conclusion may seem anticlimactic to modern readers, but it is the hard-won result of Qoheleth's lifetime of searching.",
+            "now": "After exhaustive philosophical investigation, the answer is remarkably simple: fear God and obey Him. This conclusion may seem anticlimactic to modern readers, but it is the hard-won result of Qoheleth's lifetime of searching."
+          }
+        },
+        {
+          "number": 14,
+          "text": "For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.",
+          "explainer": "For God will bring every act to judgment, including every hidden thing, whether good or evil. The final word: accountability to God gives meaning that 'under the sun' alone cannot provide.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The book's final verse breaks the 'under the sun' framework completely. If God judges every hidden act, then nothing is truly 'hevel' in the ultimate sense. Every act matters eternally, even if it appears vaporous in the moment.",
+            "now": "The book's final verse breaks the 'under the sun' framework completely. If God judges every hidden act, then nothing is truly 'hevel' in the ultimate sense. Every act matters eternally, even if it appears vaporous in the moment."
+          }
+        }
+      ]
+    }
+  ]
+}

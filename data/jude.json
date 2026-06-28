@@ -1,0 +1,499 @@
+{
+  "book": {
+    "id": "jude",
+    "name": "Jude",
+    "testament": "New Testament",
+    "author": "Jude, brother of James and half-brother of Jesus",
+    "dateWritten": "c. 65-80 AD",
+    "writtenFrom": "Unknown, possibly Palestine",
+    "writtenTo": "Jewish Christians threatened by false teachers",
+    "chapterCount": 1,
+    "verseCount": 25,
+    "explainer": {
+      "overview": "Jude is one of the shortest books in the Bible -- just 25 verses -- but it packs an extraordinary punch. Jude originally intended to write a positive letter about salvation, but instead felt compelled to write an urgent warning about false teachers who had infiltrated the church. He draws on a stunning range of examples from Jewish history, apocalyptic literature, and even non-canonical texts to make his case that these infiltrators face certain judgment. The letter moves from alarm to assurance, ending with one of the most beautiful doxologies in all of Scripture.",
+      "historicalContext": "Jude writes to a community where false teachers have already 'crept in unnoticed.' These individuals appear to be antinomians -- people who twisted the doctrine of grace into a license for immoral behavior. They participated in the community's love feasts (communal meals) while undermining its moral foundations. The specific nature of their teaching suggests a form of early Gnosticism that separated spiritual knowledge from ethical behavior.",
+      "whyItMatters": "Jude demonstrates that doctrinal and moral vigilance has been necessary from the church's earliest days. The letter's use of Jewish apocalyptic traditions (1 Enoch, the Assumption of Moses) shows that early Christians drew on a wider range of literature than what became the biblical canon. Jude's closing doxology -- 'to him who is able to keep you from stumbling' -- has comforted believers for two millennia with the assurance that God's preserving power is greater than any false teaching.",
+      "keyThemes": [
+        "Contending for the faith",
+        "False teachers and their judgment",
+        "Examples of divine judgment from history",
+        "God's preserving power",
+        "The closing doxology"
+      ]
+    },
+    "people": [
+      {
+        "id": "jude_author",
+        "name": "Jude",
+        "role": "Author, servant of Jesus Christ, brother of James",
+        "bio": "Jude identifies himself as a 'servant of Jesus Christ and brother of James.' This James is almost certainly James the Just, leader of the Jerusalem church and author of the epistle of James -- which makes Jude a half-brother of Jesus. Notably, Jude does not claim the family connection to Jesus directly, instead calling himself a servant. This humility is striking given that he could have traded on the biological relationship.",
+        "culturalContext": "During Jesus' ministry, his brothers did not believe in him (John 7:5). After the resurrection, they became believers. James became the leader of the Jerusalem church, and Jude apparently became a traveling teacher. Early church historian Hegesippus records that Jude's grandsons were interrogated by Emperor Domitian as potential royal claimants descended from David."
+      },
+      {
+        "id": "false_teachers_jude",
+        "name": "The False Teachers",
+        "role": "Unnamed infiltrators corrupting the community",
+        "bio": "Jude never names these individuals but describes them vividly: they are dreamers who defile the flesh, reject authority, and slander celestial beings. They are 'hidden reefs' at the community's love feasts, caring only for themselves. They are 'waterless clouds' and 'fruitless trees' -- all appearance and no substance. Their core error is turning God's grace into a license for immorality.",
+        "culturalContext": "In the ancient world, traveling teachers moved between communities and were often hosted at communal meals. This gave unscrupulous teachers access to vulnerable communities. Without modern communication, it was difficult to verify credentials or warn other churches about dangerous individuals."
+      }
+    ],
+    "places": [
+      {
+        "id": "sodom_gomorrah_jude",
+        "name": "Sodom and Gomorrah",
+        "description": "Ancient cities destroyed by God as judgment for their wickedness. Jude uses them as one of three warning examples of divine judgment alongside the Exodus generation and the fallen angels.",
+        "culturalSignificance": "Sodom and Gomorrah were the quintessential examples of divine judgment in Jewish tradition. Their destruction by fire from heaven became proverbial for what happens when a community abandons moral boundaries.",
+        "modernLocation": "Traditionally located near the southern end of the Dead Sea, though the exact site is debated.",
+        "latitude": 31.1,
+        "longitude": 35.4
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 1400 BC (traditional)",
+        "event": "Exodus generation rebels in the wilderness",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 2000 BC (traditional)",
+        "event": "Destruction of Sodom and Gomorrah",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 49 AD",
+        "event": "Jerusalem Council; James leads the church",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 62 AD",
+        "event": "James the Just martyred in Jerusalem",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 65-80 AD",
+        "event": "Jude writes his epistle warning about false teachers",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 64-68 AD",
+        "event": "Nero persecutes Christians in Rome",
+        "isThisBook": false
+      },
+      {
+        "date": "70 AD",
+        "event": "Romans destroy Jerusalem and the Temple",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "Jude packs an entire theological argument into 25 verses. He opens with a greeting, pivots to an urgent warning about false teachers who have infiltrated the community, marshals three Old Testament examples of divine judgment (Israel in the wilderness, fallen angels, Sodom and Gomorrah), describes the false teachers with vivid metaphors, quotes the prophecy of Enoch, and closes with one of the most magnificent doxologies in all of Scripture. The letter moves from alarm to assurance -- the threat is real, but God is able to keep his people from stumbling.",
+        "themes": [
+          "Contending for the faith once delivered",
+          "Three examples of divine judgment",
+          "Vivid metaphors for false teachers",
+          "God's preserving power",
+          "The great doxology"
+        ],
+        "contextInBook": "As a single-chapter book, this is the entire epistle. Jude shares significant material with 2 Peter 2, and scholars debate which letter borrowed from the other. Jude's unique contributions include his citations from 1 Enoch and the Assumption of Moses -- non-canonical Jewish texts that were widely read in the first century."
+      },
+      "wordStudies": [
+        {
+          "id": "contend",
+          "greek": "Greek: epagonizomai",
+          "transliteration": "Contend",
+          "translatedAs": "To fight strenuously, to contend with great effort",
+          "meaning": "To fight strenuously, to contend with great effort. The word is an intensified form of agonizomai (from which we get 'agonize'). Jude is calling for an intense, sustained struggle to defend the faith -- not casual disagreement but vigorous defense.",
+          "significance": "1:3"
+        },
+        {
+          "id": "love_feasts",
+          "greek": "Greek: agapais",
+          "transliteration": "Love feasts",
+          "translatedAs": "Communal meals shared by early Christians, often c",
+          "meaning": "Communal meals shared by early Christians, often connected with the Lord's Supper. The word agape (love) gives them their name. These were practical expressions of Christian community where rich and poor ate together as equals.",
+          "significance": "1:12"
+        },
+        {
+          "id": "kept",
+          "greek": "Greek: tereo",
+          "transliteration": "Kept",
+          "translatedAs": "To guard, watch over, preserve",
+          "meaning": "To guard, watch over, preserve. Jude uses this word three times: believers are 'kept for Jesus Christ' (v.1), fallen angels are 'kept in chains' (v.6), and the gloom of darkness is 'kept' for false teachers (v.13). The same God who keeps believers safe keeps judgment certain for the wicked.",
+          "significance": "1:1"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:",
+          "explainer": "Jude identifies himself not as Jesus' brother (which he was) but as 'a servant of Jesus Christ and brother of James.' The humility is remarkable -- he could have claimed the ultimate insider status but instead takes the posture of a servant. He addresses those who are 'called, sanctified, and kept' -- three words that describe the complete arc of God's work in believers.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "Jude",
+              "personId": "jude_author",
+              "wordId": null,
+              "startIndex": 0
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Mercy to you and peace and love be multiplied.",
+          "explainer": "The greeting asks for mercy, peace, and love to be 'multiplied' -- not just given but abundantly increased. This triadic blessing is distinctive to Jude and reflects his pastoral concern for a community under threat.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints.",
+          "explainer": "Jude reveals that he originally planned to write about their common salvation -- a positive, encouraging letter. But circumstances forced a change of plans. Instead, he must urge them to 'contend earnestly for the faith once for all delivered to the saints.' The faith is not something each generation invents; it was delivered as a complete deposit.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "contend earnestly",
+              "personId": null,
+              "wordId": "contend",
+              "startIndex": 127
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the early church, 'the faith' referred to a recognized body of apostolic teaching that defined Christian belief and practice. Defending it meant maintaining these core doctrines against distortion.",
+            "now": "The tension between preserving core convictions and adapting to new contexts remains one of Christianity's perennial challenges. Every generation must decide what is essential and what is cultural packaging."
+          }
+        },
+        {
+          "number": 4,
+          "text": "For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ.",
+          "explainer": "The false teachers have 'crept in unnoticed' -- the Greek word (pareisduno) means to slip in secretly, like a spy infiltrating enemy lines. Their two errors are turning grace into licentiousness (using God's forgiveness as permission to sin) and denying Jesus Christ as Master and Lord. These are not outsiders attacking; they are insiders corrupting.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Turning grace into licentiousness', 'explanation': 'This heresy (antinomianism) argued that since God forgives freely, moral behavior is irrelevant. Some early groups claimed that the body was separate from the spirit, so what you did physically had no spiritual consequence. This logic turned Christian freedom into moral chaos.'}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Now I desire to remind you, though you already know this, that the Lord, having saved a people out of the land of Egypt, afterward destroyed those who didn’t believe.",
+          "explainer": "Jude's first warning example: God saved Israel from Egypt but later destroyed those who did not believe during the wilderness wanderings. Being rescued once does not guarantee immunity from future judgment. The generation that saw the Red Sea parting still died in the desert for their unbelief.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Numbers 14:29-30",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 Corinthians 10:1-5",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day.",
+          "explainer": "Jude's second example: angels who abandoned their proper dwelling are kept in eternal chains under darkness for the judgment of the great day. This alludes to the tradition in 1 Enoch about the 'Watchers' -- angels who left heaven to cohabit with human women (Genesis 6:1-4). Even celestial beings are not exempt from judgment.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': '1 Enoch and the Watchers', 'explanation': '1 Enoch was a widely read Jewish apocalyptic text that expanded on Genesis 6. It described 200 angels (Watchers) who descended to earth, married human women, and taught forbidden knowledge. Though not canonical, it profoundly influenced Jewish and early Christian thought about angels, demons, and final judgment.'}"
+            }
+          ],
+          "crossReferences": [
+            {
+              "reference": "Genesis 6:1-4",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "2 Peter 2:4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Even as Sodom and Gomorrah, and the cities around them, having, in the same way as these, given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire.",
+          "explainer": "Jude's third example: Sodom and Gomorrah and the surrounding cities, which 'indulged in sexual immorality and pursued unnatural desire,' serve as an example of eternal fire. The progression moves from Israel (God's people) to angels (heavenly beings) to pagan cities -- no category of being is exempt from judgment for rebellion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 19:1-29",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Yet in the same way, these also in their dreaming defile the flesh, despise authority, and slander celestial beings.",
+          "explainer": "Now Jude applies these examples to the false teachers: they defile the flesh (like Sodom), reject authority (like the rebellious Israelites), and slander celestial beings (a behavior even angels avoid, as the next verse shows). The word 'dreamers' may suggest they claimed visionary experiences to justify their behavior.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "But Michael, the archangel, when contending with the devil and arguing about the body of Moses, dared not bring against him an abusive condemnation, but said, “May the Lord rebuke you!”",
+          "explainer": "Jude cites a tradition from the Assumption of Moses (a lost Jewish text): the archangel Michael, when disputing with the devil about Moses' body, did not dare pronounce a slanderous judgment but said 'The Lord rebuke you.' If the highest archangel showed such restraint, how arrogant are these false teachers who casually slander spiritual realities they do not understand?",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'The Assumption of Moses', 'explanation': \"A Jewish pseudepigraphal text, now mostly lost, that apparently described a dispute between Michael and Satan over the body of Moses after his death. Jude's citation of this non-canonical text shows that early Christians were willing to draw on Jewish traditions beyond the Hebrew Bible when they contained useful illustrations.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "But these speak evil of whatever things they don’t know. They are destroyed in these things that they understand naturally, like the creatures without reason.",
+          "explainer": "The false teachers slander what they do not understand and are destroyed by what they know instinctively, like unreasoning animals. They operate on raw appetite rather than spiritual discernment -- their 'natural instincts' lead to their ruin.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Woe to them! For they went in the way of Cain, and ran riotously in the error of Balaam for hire, and perished in Korah’s rebellion.",
+          "explainer": "Three more Old Testament examples in rapid fire: the way of Cain (murder born from jealousy), the error of Balaam (corrupting others for profit), and the rebellion of Korah (challenging divinely appointed authority). Each example captures a different dimension of the false teachers' corruption.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Genesis 4:3-8",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Numbers 22-24; 31:16",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Numbers 16:1-35",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": {
+            "then": "These three figures were stock examples in Jewish moral teaching: Cain represented the path of hatred, Balaam the corruption of spiritual gifts for money, and Korah the rejection of God-appointed leadership.",
+            "now": "The same patterns recur in religious communities today: jealousy that destroys relationships, commercialization of spiritual authority, and rejection of accountability structures."
+          }
+        },
+        {
+          "number": 12,
+          "text": "These are hidden rocky reefs in your love feasts when they feast with you, shepherds who without fear feed themselves; clouds without water, carried along by winds; autumn trees without fruit, twice dead, plucked up by the roots;",
+          "explainer": "The false teachers are 'hidden reefs' at the community's love feasts -- invisible dangers that can wreck ships. They feast shamelessly, 'feeding only themselves.' Four devastating nature metaphors follow: waterless clouds (promising rain but delivering nothing), late autumn trees without fruit (doubly dead and uprooted), wild waves of the sea (foaming up their own shame), and wandering stars (for whom the blackest darkness is reserved forever).",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "love feasts",
+              "personId": null,
+              "wordId": "love_feasts",
+              "startIndex": 37
+            }
+          ],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Hidden reefs', 'explanation': \"Some translations read 'spots' or 'blemishes,' but the Greek spilas most likely means submerged rocks that shipwreck unwary sailors. Mediterranean seafaring was dangerous, and hidden reefs were every captain's nightmare. The metaphor captures how false teachers look like part of the community while secretly destroying it.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "wild waves of the sea, foaming out their own shame; wandering stars, for whom the blackness of darkness has been reserved forever.",
+          "explainer": "Wild waves of the sea foaming up their own shame, wandering stars for whom the gloom of utter darkness has been reserved forever. The 'wandering stars' may allude to the fate of the fallen angels in 1 Enoch, where disobedient stars (a symbol for angels) are imprisoned in a place of darkness. The metaphors pile up to create a devastating portrait of spiritual emptiness.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "About these also Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord came with ten thousands of his holy ones,",
+          "explainer": "Jude quotes directly from 1 Enoch 1:9: 'Enoch, the seventh from Adam, prophesied about these people.' This is the only direct quotation of 1 Enoch in the New Testament. Jude treats Enoch's prophecy as authoritative for his argument, regardless of the text's non-canonical status.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Seventh from Adam', 'explanation': \"In Jewish numerology, seven signified completeness and perfection. Enoch's position as seventh from Adam gave his prophecies special authority. The genealogy runs: Adam, Seth, Enosh, Kenan, Mahalalel, Jared, Enoch.\"}"
+            }
+          ],
+          "crossReferences": [
+            {
+              "reference": "Genesis 5:18-24",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 Enoch 1:9",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”",
+          "explainer": "The Enoch prophecy declares that the Lord will come to execute judgment on all the ungodly for their ungodly deeds done in an ungodly way, and for the harsh things ungodly sinners have spoken against him. The fourfold repetition of 'ungodly' hammers the point with rhetorical force.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "These are murmurers and complainers, walking after their lusts (and their mouth speaks proud things), showing respect of persons to gain advantage.",
+          "explainer": "The false teachers are described as grumblers, malcontents who follow their own sinful desires, loudmouthed boasters who show favoritism for personal advantage. This profile combines moral corruption with social manipulation -- they use flattery strategically to get what they want.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the honor-shame culture of the ancient Mediterranean, flattering powerful patrons to gain advantage was a recognized social strategy. False teachers exploited the patron-client system to enrich themselves.",
+            "now": "The pattern of religious leaders who flatter wealthy donors while neglecting the poor remains a persistent problem. Jude's warning about those who 'show favoritism for personal advantage' could have been written yesterday."
+          }
+        },
+        {
+          "number": 17,
+          "text": "But you, beloved, remember the words which have been spoken before by the apostles of our Lord Jesus Christ.",
+          "explainer": "Jude pivots from warning to encouragement: 'But you, beloved, remember the predictions of the apostles of our Lord Jesus Christ.' He shifts from the false teachers to the true community and grounds them in apostolic authority.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 18,
+          "text": "They said to you that “In the last time there will be mockers, walking after their own ungodly lusts.”",
+          "explainer": "The apostles predicted that 'in the last time there will be scoffers, following their own ungodly passions.' The false teachers' appearance is not a surprise but a fulfillment of apostolic prophecy. Their very existence confirms rather than undermines the faith.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "2 Peter 3:3",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "Acts 20:29-30",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 19,
+          "text": "These are they who cause divisions, and are sensual, not having the Spirit.",
+          "explainer": "These false teachers 'cause divisions, are worldly, and do not have the Spirit.' Despite their claims to special spiritual knowledge, they are actually devoid of the Spirit. The irony is devastating -- those who claim the most spiritual insight turn out to be the most spiritually empty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 20,
+          "text": "But you, beloved, keep building up yourselves on your most holy faith, praying in the Holy Spirit.",
+          "explainer": "Jude now gives four positive commands to the community: build yourselves up in your most holy faith, pray in the Holy Spirit, keep yourselves in the love of God, and wait for the mercy of our Lord Jesus Christ. The first command begins here -- building up through the faith that was 'once for all delivered' (echoing verse 3).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Early Christian communities were small, vulnerable, and largely dependent on traveling teachers for instruction. Jude urges them to take responsibility for their own spiritual formation rather than passively consuming whatever teaching comes their way.",
+            "now": "In an age of endless religious content online, Jude's call to actively build oneself up in 'the most holy faith' -- the core apostolic teaching -- rather than chasing novel ideas remains urgently relevant."
+          }
+        },
+        {
+          "number": 21,
+          "text": "Keep yourselves in God’s love, looking for the mercy of our Lord Jesus Christ to eternal life.",
+          "explainer": "Keep yourselves in the love of God. This is not about earning God's love but about remaining in the sphere of his love -- staying connected to the community and practices where God's love is experienced. They are to wait expectantly for the mercy of Jesus Christ that leads to eternal life.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 22,
+          "text": "On some have compassion, making a distinction,",
+          "explainer": "Show mercy to those who doubt. Not everyone influenced by the false teachers is willfully rebellious; some are genuinely confused. Jude calls for a differentiated response -- compassion for the wavering, not blanket condemnation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 23,
+          "text": "and some save, snatching them out of the fire with fear, hating even the clothing stained by the flesh.",
+          "explainer": "Save others by snatching them out of the fire. For those in greater danger, more aggressive rescue is needed. But the third group requires caution: show mercy 'with fear, hating even the garment stained by the flesh.' The image is of contamination so severe that even the clothing of the infected must be avoided.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "Zechariah 3:2-4",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 24,
+          "text": "Now to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy,",
+          "explainer": "The magnificent doxology begins: 'Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy.' After 23 verses of warning about danger, Jude's final word is not fear but confidence. The God who keeps believers (verse 1) is able to keep them from falling.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a community shaken by false teachers, this doxology was an anchor. The emphasis is not on the believers' ability to hold on but on God's ability to hold them. Divine preservation, not human effort, is the ultimate security.",
+            "now": "This verse is one of the most frequently quoted benedictions in Christian worship. It has been set to music countless times and is used to close services around the world. Its power lies in redirecting attention from human failure to divine faithfulness."
+          }
+        },
+        {
+          "number": 25,
+          "text": "to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen.",
+          "explainer": "To the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time, now, and forever. Amen. The doxology ascribes to God four attributes -- glory, majesty, dominion, authority -- and places them outside time itself: before all ages, in the present, and into all eternity. The letter that began with alarm ends with worship.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

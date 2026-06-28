@@ -1,0 +1,307 @@
+{
+  "book": {
+    "id": "2john",
+    "name": "2 John",
+    "testament": "New Testament",
+    "author": "The Elder (traditionally John the Apostle)",
+    "dateWritten": "c. 85-95 AD",
+    "writtenFrom": "Traditionally Ephesus",
+    "writtenTo": "The 'chosen lady and her children' -- likely a house church",
+    "chapterCount": 1,
+    "verseCount": 13,
+    "explainer": {
+      "overview": "2 John is the shortest book in the New Testament -- just 13 verses that could fit on a single sheet of papyrus. The author, who calls himself 'the elder,' writes to a 'chosen lady and her children,' which is almost certainly a metaphor for a house church and its members. The letter has two concerns: encouraging the community to continue walking in truth and love, and warning them not to welcome traveling teachers who deny that Jesus Christ has come in the flesh. It is a pastoral letter about the boundaries of hospitality.",
+      "historicalContext": "By the late first century, Christological controversies were tearing apart Johannine communities. A group that would later be called 'Docetists' (from the Greek dokeo, 'to seem') taught that Christ only appeared to have a physical body. This denied the reality of the incarnation, the crucifixion, and the resurrection. These teachers traveled between house churches, and the question of whether to welcome them was urgent and practical.",
+      "whyItMatters": "2 John addresses a tension that every community faces: how to be both loving and discerning. The letter insists that truth and love are not opposing values but complementary ones. It also provides the earliest explicit instruction about when not to offer hospitality to traveling teachers -- a remarkable restriction in a culture where hospitality was considered a sacred duty.",
+      "keyThemes": [
+        "Walking in truth and love",
+        "The incarnation of Christ",
+        "Discernment about false teachers",
+        "The limits of hospitality"
+      ]
+    },
+    "people": [
+      {
+        "id": "the_elder_2john",
+        "name": "The Elder",
+        "role": "Author of the letter",
+        "bio": "The author identifies himself only as 'the elder' (Greek: ho presbyteros), not by name. Church tradition identifies him as the apostle John, the same author as the Gospel of John and 1 John. The title 'elder' may reflect his age, his authority in the community, or both. Papias (c. 125 AD) mentions a 'John the Elder' in Ephesus, leading some scholars to distinguish this person from the apostle.",
+        "culturalContext": "In the ancient world, 'elder' (presbyteros) denoted both age and authority. In Jewish communities, elders were the governing body. The fact that the author needs no further identification suggests he held such recognized authority that his title alone was sufficient."
+      },
+      {
+        "id": "chosen_lady",
+        "name": "The Chosen Lady",
+        "role": "Recipient of the letter, likely a house church",
+        "bio": "The 'chosen lady and her children' is almost certainly a personification of a local church and its members. The greeting from 'the children of your chosen sister' (verse 13) confirms this -- it refers to the elder's own congregation sending greetings. The feminine imagery for the church draws on Old Testament traditions of Israel as God's bride.",
+        "culturalContext": "Early Christians met in private homes (house churches), often hosted by women of means. Personifying a church as a 'lady' provided a layer of discretion in case the letter was intercepted -- it would read as personal correspondence rather than communication between religious groups."
+      }
+    ],
+    "places": [
+      {
+        "id": "ephesus_2john",
+        "name": "Ephesus",
+        "description": "The traditional location from which John the Elder wrote. Ephesus was a major city in the Roman province of Asia (modern Turkey) and a center of early Christianity.",
+        "culturalSignificance": "Ephesus was one of the largest cities in the Roman Empire, home to the Temple of Artemis (one of the Seven Wonders), and a major commercial hub. The Johannine community there apparently faced internal divisions over Christology that produced the letters of 1, 2, and 3 John.",
+        "modernLocation": "Ruins near Selcuk, Izmir Province, Turkey.",
+        "latitude": 37.9394,
+        "longitude": 27.3417
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 30-33 AD",
+        "event": "Jesus' ministry, death, and resurrection",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 50-60 AD",
+        "event": "Paul's ministry in Ephesus",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "Gospel of John written",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "1 John written to address Christological controversies",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "2 John written to warn a house church about false teachers",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 85-95 AD",
+        "event": "3 John written about hospitality and church leadership",
+        "isThisBook": false
+      },
+      {
+        "date": "c. 95 AD",
+        "event": "Revelation written during Domitian's persecution",
+        "isThisBook": false
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "This brief letter balances two concerns that the early church struggled to hold together: love and doctrinal integrity. The elder rejoices that some of the community's members are walking in truth, reaffirms the commandment to love one another, warns about deceivers who deny the incarnation of Christ, and instructs the church not to welcome such teachers into their homes. The letter closes with a note about preferring face-to-face conversation over written communication.",
+        "themes": [
+          "Walking in truth",
+          "The commandment to love one another",
+          "The test of true teaching: Christ come in the flesh",
+          "Limits of hospitality toward false teachers"
+        ],
+        "contextInBook": "As a single-chapter letter, this is the complete document. It shares vocabulary and theology with 1 John and the Gospel of John, suggesting a common author or community. The specific warning about denying Christ's incarnation connects directly to 1 John 4:2-3."
+      },
+      "wordStudies": [
+        {
+          "id": "truth",
+          "greek": "Greek: aletheia",
+          "transliteration": "Truth",
+          "translatedAs": "Reality as opposed to illusion; in Johannine theol",
+          "meaning": "Reality as opposed to illusion; in Johannine theology, truth is not merely correct information but the very nature of God revealed in Jesus Christ. The word appears five times in the first four verses alone, establishing it as the letter's controlling theme.",
+          "significance": "1:1"
+        },
+        {
+          "id": "deceiver",
+          "greek": "Greek: planos",
+          "transliteration": "Deceiver",
+          "translatedAs": "One who leads astray, a wanderer who causes others",
+          "meaning": "One who leads astray, a wanderer who causes others to wander. Related to the English word 'planet' (wandering star). In this context, traveling teachers who spread false doctrine about Christ's nature.",
+          "significance": "1:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The elder, to the chosen lady and her children, whom I love in truth; and not I only, but also all those who know the truth;",
+          "explainer": "The elder writes to 'the chosen lady and her children' -- almost certainly a house church, not an individual woman. He loves them 'in truth,' and so does everyone who knows the truth. The language of love and truth intertwines from the very first verse, establishing the letter's dual theme.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "The elder",
+              "personId": "the_elder_2john",
+              "wordId": null,
+              "startIndex": 0
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "for the truth’s sake, which remains in us, and it will be with us forever:",
+          "explainer": "The truth 'lives in us and will be with us forever.' Truth is not something external that you consult; it is an indwelling reality. This echoes the Johannine language about the Holy Spirit as the 'Spirit of truth' who abides in believers.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 14:17",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Grace, mercy, and peace will be with us, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+          "explainer": "The greeting combines grace, mercy, and peace -- a distinctly Christian expansion of the typical Jewish greeting (peace/shalom). These come 'from God the Father and from Jesus Christ, the Father's Son, in truth and love.' Father and Son are placed on the same level as the source of blessing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Letter greetings in the ancient world followed standard formulas. Christian letters adapted these formulas with theological content, turning a social convention into a confession of faith.",
+            "now": "Many churches still open services with a greeting modeled on New Testament epistolary greetings, connecting modern worship to the earliest Christian letter-writing traditions."
+          }
+        },
+        {
+          "number": 4,
+          "text": "I rejoice greatly that I have found some of your children walking in truth, even as we have been commanded by the Father.",
+          "explainer": "The elder rejoices that he has found some of the lady's children walking in truth. The word 'some' is notable -- not all members are walking faithfully. This may hint at the divisions caused by the false teachers mentioned later.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'Walking in truth', 'explanation': \"In Jewish and early Christian usage, 'walking' meant living out your beliefs in daily life. It was not enough to know the truth intellectually; you had to 'walk' in it -- let it shape your behavior, relationships, and decisions.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Now I beg you, dear lady, not as though I wrote to you a new commandment, but that which we had from the beginning, that we love one another.",
+          "explainer": "The elder asks the lady to love one another -- not a new commandment but one they have had from the beginning. This echoes 1 John 2:7 and ultimately goes back to Jesus' words in John 13:34. The commandment is as old as the community itself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "John 13:34",
+              "text": "",
+              "connection": ""
+            },
+            {
+              "reference": "1 John 2:7-8",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "This is love, that we should walk according to his commandments. This is the commandment, even as you heard from the beginning, that you should walk in it.",
+          "explainer": "Love is defined not as a feeling but as walking according to God's commandments. And the commandment they heard from the beginning is to walk in love. The circularity is deliberate: love leads to obedience, and the core command is to love. They are inseparable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the Greco-Roman world, love (eros, philia, storge) was primarily understood as emotion or affection. Christian agape redefined love as a way of living -- a commitment expressed through obedience and self-sacrifice.",
+            "now": "The modern tendency to reduce love to emotion or sentiment is challenged by this verse. Biblical love is not primarily about how you feel but about how you choose to live."
+          }
+        },
+        {
+          "number": 7,
+          "text": "For many deceivers have gone out into the world, those who don’t confess that Jesus Christ came in the flesh. This is the deceiver and the Antichrist.",
+          "explainer": "Now the warning: many deceivers have gone out into the world -- those who do not confess that Jesus Christ has come in the flesh. The specific denial is the incarnation: that the eternal Word truly became a physical human being. The elder calls this person 'the deceiver and the antichrist.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "1 John 4:2-3",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "Watch yourselves, that we don’t lose the things which we have accomplished, but that we receive a full reward.",
+          "explainer": "Watch yourselves, so that you do not lose what you have worked for. The warning is practical: careless engagement with false teaching can undo years of spiritual growth. The full reward is at stake.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Early Christians expected a final reckoning where faithfulness would be rewarded. The 'full reward' language echoes the parable of the talents -- stewardship of what has been entrusted.",
+            "now": "The idea that theological carelessness can erode hard-won spiritual maturity remains a challenging concept in an age that prizes openness and tolerance above doctrinal clarity."
+          }
+        },
+        {
+          "number": 9,
+          "text": "Whoever transgresses and doesn’t remain in the teaching of Christ, doesn’t have God. He who remains in the teaching, the same has both the Father and the Son.",
+          "explainer": "Anyone who 'goes ahead' and does not remain in the teaching of Christ does not have God. The word 'goes ahead' (proago) may be sarcastic -- the false teachers likely prided themselves on being 'progressive' or 'advanced' in their thinking. The elder says that going beyond Christ's teaching is actually going away from God.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "If anyone comes to you, and doesn’t bring this teaching, don’t receive him into your house, and don’t welcome him,",
+          "explainer": "If anyone comes to you and does not bring this teaching, do not receive him into your house and do not give him a greeting. This is a striking restriction in a culture where hospitality was a sacred obligation. Welcoming a false teacher into your home gave them a platform, a base of operations, and implied endorsement of their message.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "{'term': 'House church hospitality', 'explanation': \"Early Christians met in homes, and traveling teachers depended on hospitality for housing, meals, and an audience. To 'receive someone into your house' meant not just giving them a bed but giving them access to your congregation. Refusing hospitality was the most powerful way to reject a teacher's message and protect the community.\"}"
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "for he who welcomes him participates in his evil deeds.",
+          "explainer": "The one who gives a false teacher a greeting 'participates in his evil works.' Even a simple greeting (Greek chairein, 'rejoice!') could be seen as endorsing the teacher's ministry. The elder draws a sharp line: there are limits to Christian hospitality when the gospel itself is at stake.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, a formal greeting was not a casual hello but a blessing. To greet someone was to wish them well and invoke God's favor on their work. Greeting a false teacher meant blessing their destructive mission.",
+            "now": "This verse raises perennial questions about the limits of tolerance and engagement. How should communities balance openness and welcome with doctrinal boundaries? The tension remains unresolved in many churches today."
+          }
+        },
+        {
+          "number": 12,
+          "text": "Having many things to write to you, I don’t want to do so with paper and ink, but I hope to come to you, and to speak face to face, that our joy may be made full.",
+          "explainer": "The elder has much more to write but prefers to visit in person -- 'face to face' -- so that their joy may be complete. The intimacy of personal presence cannot be replaced by written communication. This also hints that the issues are too sensitive or complex for a letter.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [
+            {
+              "reference": "3 John 13-14",
+              "text": "",
+              "connection": ""
+            }
+          ],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "The children of your chosen sister greet you. Amen.",
+          "explainer": "Greetings from 'the children of your chosen sister' -- the members of the elder's own congregation sending greetings to the recipient church. The 'sister' language confirms that the 'chosen lady' is a church, not an individual. Two congregations connected by shared faith and a common spiritual leader.",
+          "annotations": [
+            {
+              "type": "person",
+              "word": "your chosen sister",
+              "personId": "chosen_lady",
+              "wordId": null,
+              "startIndex": 16
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    }
+  ]
+}

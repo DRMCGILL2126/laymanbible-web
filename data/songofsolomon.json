@@ -1,0 +1,1838 @@
+{
+  "book": {
+    "id": "songofsolomon",
+    "name": "Song of Solomon",
+    "testament": "Old Testament",
+    "author": "Attributed to Solomon, though scholars debate whether he composed or inspired it",
+    "dateWritten": "c. 960-930 BC (traditional), though some scholars date it later",
+    "writtenFrom": "Jerusalem, during the height of Solomon's reign",
+    "writtenTo": "Israel -- a celebration of love within the covenant community",
+    "chapterCount": 8,
+    "verseCount": 117,
+    "explainer": {
+      "overview": "The Song of Solomon (also called Song of Songs or Canticles) is a collection of love poems exchanged between a bride (the Shulamite woman) and her beloved (often identified as Solomon). It is the Bible's most explicit celebration of romantic and physical love. The poetry moves through courtship, wedding, and married life, using vivid imagery drawn from nature, agriculture, and the landscape of ancient Israel. Throughout Jewish and Christian history, the book has also been read allegorically -- as depicting God's love for Israel or Christ's love for the Church -- but at its literal level, it is a frank and beautiful affirmation that sexual love within committed relationship is a gift from God.",
+      "historicalContext": "Solomon's reign (c. 970-930 BC) was Israel's golden age of peace and prosperity, a time when wisdom literature and the arts flourished. The Song reflects a world of royal gardens, imported spices, and cosmopolitan culture. Marriage in the ancient Near East was both a personal and economic arrangement, and this book stands out for centering the woman's voice and desire -- the Shulamite speaks more than anyone else. The pastoral and agricultural imagery (vineyards, flocks, gardens) grounds the poetry in everyday Israelite life, while the royal imagery (Solomon's palanquin, crown) elevates it.",
+      "whyItMatters": "The Song of Solomon affirms that physical love and desire are not shameful but sacred when expressed within committed love. In a Bible that contains many laws and theological arguments, this book insists that delight, beauty, and longing are also part of God's design. Its inclusion in Scripture has always been provocative -- Rabbi Akiva called it 'the Holy of Holies' of Scripture. For modern readers, it offers a counter-narrative to both prudishness and exploitation, presenting sexuality as mutual, joyful, and deeply personal.",
+      "keyThemes": [
+        "Desire and longing",
+        "Beauty beyond appearance",
+        "Mutual admiration",
+        "The seasons of love",
+        "Patience in love",
+        "The beloved's approach"
+      ]
+    },
+    "people": [
+      {
+        "id": "solomon_sos",
+        "name": "Solomon",
+        "description": "King of Israel, son of David, renowned for wisdom, wealth, and -- notably -- his many marriages (1 Kings 11:3). The Song is attributed to him and he appears as the male lover, though some scholars see the shepherd-lover as a different figure.",
+        "role": "King of Israel, son of David, renowned for wisdom, wealth, and -- notably -- his many marriages (1 Kings 11:3). The Song is attributed to him and he appears as the male lover, though some scholars see the shepherd-lover as a different figure.",
+        "bio": "King of Israel, son of David, renowned for wisdom, wealth, and -- notably -- his many marriages (1 Kings 11:3). The Song is attributed to him and he appears as the male lover, though some scholars see the shepherd-lover as a different figure.",
+        "culturalContext": ""
+      },
+      {
+        "id": "shulamite",
+        "name": "The Shulamite Woman",
+        "description": "The female protagonist and primary speaker. Her name may derive from Shunem (a village in northern Israel) or be a feminine form of 'Solomon.' She is darkened by sun from working in vineyards and is passionately in love. She represents the voice of authentic feminine desire.",
+        "role": "The female protagonist and primary speaker. Her name may derive from Shunem (a village in northern Israel) or be a feminine form of 'Solomon.' She is darkened by sun from working in vineyards and is passionately in love. She represents the voice of authentic feminine desire.",
+        "bio": "The female protagonist and primary speaker. Her name may derive from Shunem (a village in northern Israel) or be a feminine form of 'Solomon.' She is darkened by sun from working in vineyards and is passionately in love. She represents the voice of authentic feminine desire.",
+        "culturalContext": ""
+      },
+      {
+        "id": "daughters_jerusalem",
+        "name": "Daughters of Jerusalem",
+        "description": "A chorus of young women who serve as the Shulamite's audience and dialogue partners. They ask questions, offer commentary, and are repeatedly charged not to 'awaken love until it pleases.' They may represent court women or a literary device for advancing the poem.",
+        "role": "A chorus of young women who serve as the Shulamite's audience and dialogue partners. They ask questions, offer commentary, and are repeatedly charged not to 'awaken love until it pleases.' They may represent court women or a literary device for advancing the poem.",
+        "bio": "A chorus of young women who serve as the Shulamite's audience and dialogue partners. They ask questions, offer commentary, and are repeatedly charged not to 'awaken love until it pleases.' They may represent court women or a literary device for advancing the poem.",
+        "culturalContext": ""
+      }
+    ],
+    "places": [
+      {
+        "id": "jerusalem_sos",
+        "name": "Jerusalem",
+        "description": "The royal capital where Solomon's palace and the wedding celebrations are set. The city represents the cultural and political center of Israel's golden age.",
+        "culturalSignificance": "The royal capital where Solomon's palace and the wedding celebrations are set. The city represents the cultural and political center of Israel's golden age.",
+        "modernLocation": "Historical site"
+      },
+      {
+        "id": "lebanon_sos",
+        "name": "Lebanon",
+        "description": "The mountainous region to the north, famous for its cedars, used as imagery for majesty and fragrance throughout the poem.",
+        "culturalSignificance": "The mountainous region to the north, famous for its cedars, used as imagery for majesty and fragrance throughout the poem.",
+        "modernLocation": "Historical site"
+      },
+      {
+        "id": "sharon",
+        "name": "Sharon",
+        "description": "The fertile coastal plain of Israel, referenced in the famous phrase 'rose of Sharon,' symbolizing beauty and abundance.",
+        "culturalSignificance": "The fertile coastal plain of Israel, referenced in the famous phrase 'rose of Sharon,' symbolizing beauty and abundance.",
+        "modernLocation": "Historical site"
+      },
+      {
+        "id": "en_gedi",
+        "name": "En Gedi",
+        "description": "An oasis on the western shore of the Dead Sea, known for its lush vegetation in an otherwise barren landscape. Used as imagery for the beloved's beauty.",
+        "culturalSignificance": "An oasis on the western shore of the Dead Sea, known for its lush vegetation in an otherwise barren landscape. Used as imagery for the beloved's beauty.",
+        "modernLocation": "Historical site"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "c. 970 BC",
+        "event": "Solomon becomes king",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 960 BC",
+        "event": "Temple completed",
+        "isThisBook": true
+      },
+      {
+        "date": "c. 960-930 BC",
+        "event": "Song of Solomon composed",
+        "isThisBook": true
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "explainer": {
+        "summary": "The Song opens with the Shulamite woman expressing intense desire for her beloved's kisses and presence. She describes herself as dark-skinned from laboring in vineyards and asks not to be judged by appearance. The lovers exchange compliments, comparing each other to beautiful animals and precious ornaments.",
+        "themes": [
+          "Desire and longing",
+          "Beauty beyond appearance",
+          "Mutual admiration"
+        ],
+        "contextInBook": "Chapter 1 introduces the two lovers and establishes the poem's central dynamic: passionate, mutual desire expressed through vivid nature imagery. The woman's voice dominates from the start."
+      },
+      "wordStudies": [
+        {
+          "id": "song_of_songs",
+          "greek": "Shir HaShirim (Hebrew)",
+          "transliteration": "Song of Songs",
+          "translatedAs": "The superlative form meaning 'the greatest song' -",
+          "meaning": "The superlative form meaning 'the greatest song' -- like 'King of Kings' or 'Holy of Holies.' It signals this is the supreme love poem.",
+          "significance": "1:1"
+        },
+        {
+          "id": "kiss",
+          "greek": "nashaq (Hebrew)",
+          "transliteration": "Kiss",
+          "translatedAs": "To kiss, to touch gently",
+          "meaning": "To kiss, to touch gently. In the ancient Near East, a kiss was a sign of intimacy, greeting, or allegiance. Here it conveys romantic and physical desire.",
+          "significance": "1:2"
+        },
+        {
+          "id": "dark",
+          "greek": "shechorah (Hebrew)",
+          "transliteration": "Dark",
+          "translatedAs": "Black or dark-skinned",
+          "meaning": "Black or dark-skinned. The Shulamite's complexion comes from outdoor labor. In the ancient world, tanned skin indicated lower social class, yet she asserts her beauty despite this.",
+          "significance": "1:5"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The Song of songs, which is Solomon’s.",
+          "explainer": "The title identifies this as Solomon's greatest song -- the superlative 'Song of Songs' means the best of all songs, like 'King of Kings' means the greatest king.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "Song of songs",
+              "personId": null,
+              "wordId": "song_of_songs",
+              "startIndex": 4
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient audiences recognized 'Song of Songs' as the highest possible praise for a literary work. Today we might say 'the greatest love song ever written.'",
+            "now": "Ancient audiences recognized 'Song of Songs' as the highest possible praise for a literary work. Today we might say 'the greatest love song ever written.'"
+          }
+        },
+        {
+          "number": 2,
+          "text": "Let him kiss me with the kisses of his mouth;\nfor your love is better than wine.",
+          "explainer": "The woman speaks first, boldly expressing her desire for physical intimacy. Her comparison of his love to wine means his affection intoxicates and delights her more than any earthly pleasure.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In the patriarchal ancient Near East, it was unusual for a woman to initiate romantic speech. The Song is remarkable for centering female desire and agency."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Your oils have a pleasing fragrance.\nYour name is oil poured out,\ntherefore the virgins love you.",
+          "explainer": "His very name is like perfume poured out -- his reputation and character are attractive. The 'young women' (daughters of Jerusalem) also find him desirable, confirming his worth.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Perfumed oils were expensive commodities in ancient Israel, imported from Arabia and Egypt. They were associated with celebration, royalty, and sensory pleasure."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Take me away with you.\nLet us hurry.\nThe king has brought me into his rooms.\nFriends\nWe will be glad and rejoice in you.\nWe will praise your love more than wine!\nBeloved\nThey are right to love you.",
+          "explainer": "She asks him to take her away -- urgently, running. The mention of 'the king's chambers' identifies the beloved with royalty. The daughters of Jerusalem celebrate alongside her.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Being brought into 'the king's chambers' signified the highest intimacy and privilege in the ancient world. Today it would be like being invited into someone's most private space.",
+            "now": "Being brought into 'the king's chambers' signified the highest intimacy and privilege in the ancient world. Today it would be like being invited into someone's most private space."
+          }
+        },
+        {
+          "number": 5,
+          "text": "I am dark, but lovely,\nyou daughters of Jerusalem,\nlike Kedar’s tents,\nlike Solomon’s curtains.",
+          "explainer": "The Shulamite addresses the Jerusalem women directly: she is dark-skinned from sun exposure but beautiful. She compares herself to the dark tents of Kedar (nomadic Bedouin tents) and Solomon's curtains.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "dark",
+              "personId": null,
+              "wordId": "dark",
+              "startIndex": 5
+            }
+          ],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In ancient Mediterranean cultures, lighter skin indicated aristocratic status (indoor life), while darker skin meant laboring class. The Shulamite challenges this social prejudice."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient beauty standards favored lighter skin as a sign of wealth and leisure. The Shulamite subverts this by declaring herself dark AND beautiful -- not dark BUT beautiful.",
+            "now": "Ancient beauty standards favored lighter skin as a sign of wealth and leisure. The Shulamite subverts this by declaring herself dark AND beautiful -- not dark BUT beautiful."
+          }
+        },
+        {
+          "number": 6,
+          "text": "Don’t stare at me because I am dark,\nbecause the sun has scorched me.\nMy mother’s sons were angry with me.\nThey made me keeper of the vineyards.\nI haven’t kept my own vineyard.",
+          "explainer": "She explains her dark complexion: her brothers forced her to work in the vineyards under the sun, leaving her no time to care for her own 'vineyard' -- possibly a metaphor for her own appearance or romantic life.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Brothers had authority over unmarried sisters in ancient Israel. They could assign her work and even influence her marriage prospects (see 8:8-9)."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Tell me, you whom my soul loves,\nwhere you graze your flock,\nwhere you rest them at noon;\nFor why should I be as one who is veiled\nbeside the flocks of your companions?",
+          "explainer": "She asks her beloved where he grazes his flocks at noon, so she can find him. She doesn't want to wander veiled among his companions' flocks -- she wants to come directly to him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "If you don’t know, most beautiful among women,\nfollow the tracks of the sheep.\nGraze your young goats beside the shepherds’ tents.",
+          "explainer": "The beloved (or the daughters) responds: if she doesn't know, she should follow the flock's tracks. This may be playful teasing -- 'you know where to find me.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In an agrarian society, everyone knew shepherding rhythms. This exchange is flirtatious banter, like today's 'you know where I'll be.'",
+            "now": "In an agrarian society, everyone knew shepherding rhythms. This exchange is flirtatious banter, like today's 'you know where I'll be.'"
+          }
+        },
+        {
+          "number": 9,
+          "text": "I have compared you, my love,\nto a steed in Pharaoh’s chariots.",
+          "explainer": "He compares her to a mare among Pharaoh's chariots -- a striking and possibly provocative image. Egyptian war horses were the finest in the ancient world, decorated with gold and jewels.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Egypt was the premier horse-breeding nation. Solomon imported horses from Egypt (1 Kings 10:28-29). Comparing a woman to a fine horse was a high compliment in ancient Near Eastern love poetry."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Your cheeks are beautiful with earrings,\nyour neck with strings of jewels.",
+          "explainer": "He admires her cheeks adorned with ornamental chains and her neck with strings of jewels. Ancient jewelry framed the face and drew attention to beauty.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Jewelry in the ancient Near East was both decorative and a form of portable wealth. Ornamental chains on the cheeks were common bridal adornments."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "We will make you earrings of gold,\nwith studs of silver.",
+          "explainer": "The daughters of Jerusalem (or the beloved) promise to make her gold earrings studded with silver -- gifts that honor her beauty and express devotion.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "While the king sat at his table,\nmy perfume spread its fragrance.",
+          "explainer": "While the king reclines at his table, her perfume (spikenard) sends out its fragrance. Her presence fills the room with sensory delight.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Spikenard (nard) was imported from India through extensive trade routes. A pound of it cost a year's wages in Jesus' time, and it was similarly precious in Solomon's era."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "My beloved is to me a sachet of myrrh,\nthat lies between my breasts.",
+          "explainer": "She compares her beloved to a sachet of myrrh resting between her breasts overnight. This is intimate imagery -- he is close to her heart, fragrant and precious.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Myrrh was a resin harvested from trees in Arabia and East Africa. It was used in perfume, medicine, and embalming. It appears at both Jesus' birth and death."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "My beloved is to me a cluster of henna blossoms\nfrom the vineyards of En Gedi.",
+          "explainer": "She compares him to a cluster of henna blossoms in the vineyards of En Gedi -- a lush oasis in the barren Judean desert. He is refreshment in a dry landscape.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Behold, you are beautiful, my love.\nBehold, you are beautiful.\nYour eyes are doves.",
+          "explainer": "He responds with simple, direct praise: 'You are beautiful, my love.' The dove imagery suggests gentleness, purity, and soft expressiveness in her eyes.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Behold, you are beautiful, my beloved, yes, pleasant;\nand our couch is verdant.",
+          "explainer": "She returns the compliment with equal directness: 'You are handsome, my beloved, and so pleasant.' Their bed is surrounded by the lush greenery of nature itself.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The lovers' 'bed' being green and outdoors reflects pastoral romance. In agrarian cultures, nature was the setting for courtship. Today's equivalent might be a romantic outdoor retreat.",
+            "now": "The lovers' 'bed' being green and outdoors reflects pastoral romance. In agrarian cultures, nature was the setting for courtship. Today's equivalent might be a romantic outdoor retreat."
+          }
+        },
+        {
+          "number": 17,
+          "text": "The beams of our house are cedars.\nOur rafters are firs.",
+          "explainer": "The beams of their house are cedar, their rafters are cypress. Whether literal or metaphorical, the imagery suggests their love creates a shelter as strong and fragrant as the finest timber.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "explainer": {
+        "summary": "The lovers continue exchanging praise through nature imagery. The Shulamite calls herself a common wildflower; he elevates her as a lily among thorns. She describes him as an apple tree providing shade and sweetness. The famous 'banner of love' passage appears, followed by the first of three refrains warning not to awaken love prematurely. The chapter climaxes with his invitation to come away -- winter is past, spring has arrived.",
+        "themes": [
+          "Mutual admiration",
+          "The seasons of love",
+          "Patience in love",
+          "The beloved's approach"
+        ],
+        "contextInBook": "Chapter 2 deepens the courtship. The seasonal imagery (winter ending, spring arriving) mirrors the relationship's development. The refrain about not awakening love introduces a key theme: love has its proper timing."
+      },
+      "wordStudies": [
+        {
+          "id": "rose_of_sharon",
+          "greek": "chavatzelet ha-Sharon (Hebrew)",
+          "transliteration": "Rose of Sharon",
+          "translatedAs": "Likely a common wildflower (crocus or narcissus) o",
+          "meaning": "Likely a common wildflower (crocus or narcissus) of the Sharon plain, not the modern 'Rose of Sharon.' The Shulamite modestly calls herself ordinary.",
+          "significance": "2:1"
+        },
+        {
+          "id": "foxes",
+          "greek": "shu'alim (Hebrew)",
+          "transliteration": "Foxes",
+          "translatedAs": "Small foxes or jackals that damaged vineyards by d",
+          "meaning": "Small foxes or jackals that damaged vineyards by digging at roots and eating young grapes. Metaphorically, small problems that can ruin a developing relationship.",
+          "significance": "2:15"
+        },
+        {
+          "id": "gazelle",
+          "greek": "tsvi (Hebrew)",
+          "transliteration": "Gazelle",
+          "translatedAs": "A swift, graceful desert animal symbolizing beauty",
+          "meaning": "A swift, graceful desert animal symbolizing beauty, speed, and vitality. Used throughout the Song to describe the beloved's attractiveness and agility.",
+          "significance": "2:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I am a rose of Sharon,\na lily of the valleys.",
+          "explainer": "The Shulamite humbly describes herself as a common wildflower -- a rose of Sharon, a lily of the valleys. She sees herself as ordinary, not exotic.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "rose of Sharon",
+              "personId": null,
+              "wordId": "rose_of_sharon",
+              "startIndex": 7
+            }
+          ],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "The Sharon plain was a fertile coastal region known for its abundant wildflowers in spring. Calling oneself a 'flower of the field' was a modest self-description."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "As a lily among thorns,\nso is my love among the daughters.",
+          "explainer": "He counters her modesty: among other women she is like a lily among thorns. What she sees as ordinary, he sees as extraordinary by comparison.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "His response transforms her self-deprecation into a compliment. Ancient love poetry frequently used this pattern of the lover elevating what the beloved downplays.",
+            "now": "His response transforms her self-deprecation into a compliment. Ancient love poetry frequently used this pattern of the lover elevating what the beloved downplays."
+          }
+        },
+        {
+          "number": 3,
+          "text": "As the apple tree among the trees of the wood,\nso is my beloved among the sons.\nI sat down under his shadow with great delight,\nhis fruit was sweet to my taste.",
+          "explainer": "She responds in kind: among all men, he is like an apple tree among the trees of the forest. She delights to sit in his shade and taste his fruit -- he provides shelter, pleasure, and nourishment.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In the arid climate of the ancient Near East, a fruit-bearing shade tree was a treasure. The imagery combines protection from harsh sun with sensory delight."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "He brought me to the banquet hall.\nHis banner over me is love.",
+          "explainer": "He brought her to the banqueting house (literally 'house of wine'), and his banner over her is love. She is publicly claimed and celebrated.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In ancient warfare, a banner identified whose protection you were under. Being under someone's 'banner of love' meant being publicly claimed and protected. Today we might say 'he's proud to be seen with me.'",
+            "now": "In ancient warfare, a banner identified whose protection you were under. Being under someone's 'banner of love' meant being publicly claimed and protected. Today we might say 'he's proud to be seen with me.'"
+          }
+        },
+        {
+          "number": 5,
+          "text": "Strengthen me with raisins,\nrefresh me with apples;\nFor I am faint with love.",
+          "explainer": "She is overwhelmed with love -- lovesick. She asks to be sustained with raisin cakes and refreshed with apples. Love has made her physically weak with desire.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Being 'sick with love' was a recognized condition in ancient Near Eastern literature. Love was understood to have genuine physical effects -- weakness, loss of appetite, sleeplessness."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "His left hand is under my head.\nHis right hand embraces me.",
+          "explainer": "She describes their embrace: his left hand under her head, his right hand holding her. This is tender physical intimacy -- cradling and embracing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "I adjure you, daughters of Jerusalem,\nby the roes, or by the hinds of the field,\nthat you not stir up, nor awaken love,\nuntil it so desires.",
+          "explainer": "The first of three identical refrains: she charges the daughters of Jerusalem by the gazelles and deer not to awaken love until it is ready. Love must not be forced or rushed.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This refrain is the Song's most practical wisdom: love has its own timing and cannot be manufactured or hurried. Modern culture's impatience with relationships makes this ancient advice still deeply relevant.",
+            "now": "This refrain is the Song's most practical wisdom: love has its own timing and cannot be manufactured or hurried. Modern culture's impatience with relationships makes this ancient advice still deeply relevant."
+          }
+        },
+        {
+          "number": 8,
+          "text": "The voice of my beloved!\nBehold, he comes,\nleaping on the mountains,\nskipping on the hills.",
+          "explainer": "She hears her beloved approaching -- leaping over mountains, bounding over hills. His arrival is energetic, eager, and joyful. He cannot get to her fast enough.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Before phones or messaging, lovers watched and listened for each other's physical approach. The excitement of hearing footsteps is something modern technology has largely replaced.",
+            "now": "Before phones or messaging, lovers watched and listened for each other's physical approach. The excitement of hearing footsteps is something modern technology has largely replaced."
+          }
+        },
+        {
+          "number": 9,
+          "text": "My beloved is like a roe or a young deer.\nBehold, he stands behind our wall!\nHe looks in at the windows.\nHe glances through the lattice.",
+          "explainer": "He is like a gazelle or young deer -- swift, graceful, and beautiful in motion. He stands behind their wall, gazing through the windows, peering through the lattice.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "My beloved spoke, and said to me,\n“Rise up, my love, my beautiful one, and come away.",
+          "explainer": "He speaks the poem's most famous invitation: 'Rise up, my love, my beautiful one, and come away.' Direct, passionate, and urgent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "For, behold, the winter is past.\nThe rain is over and gone.",
+          "explainer": "The reason to come: winter is past, the rain is over and gone. The season of hardship and separation has ended.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Israel's 'winter' is the rainy season (November-March), when travel was difficult and people stayed indoors. Spring's arrival opened up the world again for travel, work, and courtship."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In ancient Israel, winter rains made roads impassable and confined people indoors. Spring literally opened doors. The seasonal metaphor applies to relationships emerging from difficult seasons into new joy.",
+            "now": "In ancient Israel, winter rains made roads impassable and confined people indoors. Spring literally opened doors. The seasonal metaphor applies to relationships emerging from difficult seasons into new joy."
+          }
+        },
+        {
+          "number": 12,
+          "text": "The flowers appear on the earth.\nThe time of the singing has come,\nand the voice of the turtledove is heard in our land.",
+          "explainer": "Spring has arrived: flowers appear, birds sing, the turtledove's cooing fills the land. All of creation celebrates the season of love.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "The fig tree ripens her green figs.\nThe vines are in blossom.\nThey give out their fragrance.\nArise, my love, my beautiful one,\nand come away.”",
+          "explainer": "The fig tree is forming early fruit and the grapevines are blossoming with fragrance. He repeats his invitation: arise, come away.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "The fig tree's first fruits and the grapevine's blossoms were eagerly awaited signs of agricultural bounty. These images made the invitation both romantic and connected to the land's fertility cycle."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "My dove in the clefts of the rock,\nIn the hiding places of the mountainside,\nLet me see your face.\nLet me hear your voice;\nfor your voice is sweet, and your face is lovely.",
+          "explainer": "He calls her 'my dove in the clefts of the rock' -- hidden, shy, hard to reach. He longs to see her face and hear her voice, calling both 'sweet' and 'lovely.'",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "Catch for us the foxes,\nthe little foxes that plunder the vineyards;\nfor our vineyards are in blossom.",
+          "explainer": "A brief, enigmatic verse about catching foxes -- the little foxes that ruin the vineyards now in blossom. Small threats that damage something beautiful and developing.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "little foxes",
+              "personId": null,
+              "wordId": "foxes",
+              "startIndex": 28
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient vinedressers knew that small pests caused the most damage. In relationships, it is often the 'little foxes' -- minor irritations, unresolved tensions, outside interference -- that do the most harm.",
+            "now": "Ancient vinedressers knew that small pests caused the most damage. In relationships, it is often the 'little foxes' -- minor irritations, unresolved tensions, outside interference -- that do the most harm."
+          }
+        },
+        {
+          "number": 16,
+          "text": "My beloved is mine, and I am his.\nHe browses among the lilies.",
+          "explainer": "A declaration of mutual belonging: 'My beloved is mine, and I am his.' He feeds among the lilies -- imagery of delight and pastoral beauty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This declaration of mutual belonging was remarkable in a culture where wives were often considered property. The relationship here is reciprocal: she possesses him as much as he possesses her.",
+            "now": "This declaration of mutual belonging was remarkable in a culture where wives were often considered property. The relationship here is reciprocal: she possesses him as much as he possesses her."
+          }
+        },
+        {
+          "number": 17,
+          "text": "Until the day is cool, and the shadows flee away,\nturn, my beloved,\nand be like a roe or a young deer on the mountains of Bether.",
+          "explainer": "She asks him to return quickly before dawn ('until the day breaks and the shadows flee'). The 'mountains of Bether' (or 'divided mountains') may suggest separation or the contours of her body.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "explainer": {
+        "summary": "The Shulamite recounts a nighttime search through the city streets for her beloved, a scene of desperate longing. After finding him, she brings him home. The scene then shifts to a royal procession: Solomon's magnificent palanquin approaches, guarded by sixty warriors, arriving for the wedding day.",
+        "themes": [
+          "Seeking and finding",
+          "Separation anxiety",
+          "Royal wedding",
+          "Love's determination"
+        ],
+        "contextInBook": "Chapter 3 marks a transition from courtship to wedding. The night search may be a dream sequence, expressing the anxiety of love. The royal procession in the second half sets the stage for the wedding night in chapter 4."
+      },
+      "wordStudies": [
+        {
+          "id": "palanquin",
+          "greek": "appiryon (Hebrew)",
+          "transliteration": "Palanquin",
+          "translatedAs": "A portable enclosed sedan chair carried by servant",
+          "meaning": "A portable enclosed sedan chair carried by servants, used for royal processions. The word may derive from Sanskrit, reflecting Solomon's international trade connections.",
+          "significance": "3:9"
+        },
+        {
+          "id": "watchmen",
+          "greek": "shomrim (Hebrew)",
+          "transliteration": "Watchmen",
+          "translatedAs": "Night guards who patrolled the city streets",
+          "meaning": "Night guards who patrolled the city streets. They were responsible for maintaining order and security after dark.",
+          "significance": "3:3"
+        },
+        {
+          "id": "crown",
+          "greek": "atarah (Hebrew)",
+          "transliteration": "Crown",
+          "translatedAs": "A royal wreath or diadem, distinct from the priest",
+          "meaning": "A royal wreath or diadem, distinct from the priestly crown. Here Solomon's mother crowns him for his wedding -- a personal, family celebration.",
+          "significance": "3:11"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "By night on my bed,\nI sought him whom my soul loves.\nI sought him, but I didn’t find him.",
+          "explainer": "At night on her bed, she seeks the one her soul loves but cannot find him. The language of 'seeking' echoes throughout -- love involves active pursuit.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The anxiety of not being able to reach a loved one at night was far more acute before phones or messaging. She literally must get up and search the dark city.",
+            "now": "The anxiety of not being able to reach a loved one at night was far more acute before phones or messaging. She literally must get up and search the dark city."
+          }
+        },
+        {
+          "number": 2,
+          "text": "I will get up now, and go about the city;\nin the streets and in the squares I will seek him whom my soul loves.\nI sought him, but I didn’t find him.",
+          "explainer": "She resolves to get up and search the city -- through streets and squares. Love compels her out of safety into the dangerous nighttime city.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "A woman alone on city streets at night was highly unusual and potentially dangerous in the ancient world. Her willingness to take this risk underscores the desperation of her love."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "The watchmen who go about the city found me;\n“Have you seen him whom my soul loves?”",
+          "explainer": "The city watchmen find her during their rounds. She immediately asks if they have seen her beloved. Her single-minded focus overrides social convention.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "watchmen",
+              "personId": null,
+              "wordId": "watchmen",
+              "startIndex": 4
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "I had scarcely passed from them,\nwhen I found him whom my soul loves.\nI held him, and would not let him go,\nuntil I had brought him into my mother’s house,\ninto the room of her who conceived me.",
+          "explainer": "She finds him almost immediately after passing the watchmen. She seizes him and will not let go until she brings him to her mother's house -- to the room where she was conceived.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "I adjure you, daughters of Jerusalem,\nby the roes, or by the hinds of the field,\nthat you not stir up, nor awaken love,\nuntil it so desires.",
+          "explainer": "The refrain returns: she charges the daughters of Jerusalem not to awaken love until it is ready. This pause after an intense scene reinforces the theme of love's proper timing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Who is this who comes up from the wilderness like pillars of smoke,\nperfumed with myrrh and frankincense,\nwith all spices of the merchant?",
+          "explainer": "The scene shifts dramatically. A procession approaches from the wilderness -- pillars of smoke, perfumed with myrrh, frankincense, and exotic spices. Something magnificent is coming.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Royal processions in the ancient Near East were theatrical events. Incense, armed guards, and elaborate transport displayed the king's wealth and power."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Behold, it is Solomon’s carriage!\nSixty mighty men are around it,\nof the mighty men of Israel.",
+          "explainer": "The answer: it is Solomon's palanquin (traveling bed or sedan chair), surrounded by sixty of Israel's mightiest warriors.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "They all handle the sword, and are expert in war.\nEvery man has his sword on his thigh,\nbecause of fear in the night.",
+          "explainer": "Every warrior carries a sword and is trained for battle. They guard against 'terrors of the night' -- bandits, wild animals, or supernatural fears that haunted travelers.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Travel between cities was genuinely dangerous in the ancient Near East. Bandits, predators, and the belief in nocturnal demons made armed escorts necessary for valuable processions."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "King Solomon made himself a carriage\nof the wood of Lebanon.",
+          "explainer": "King Solomon made himself a palanquin from the wood of Lebanon -- the finest cedar, symbolizing luxury and permanence.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "He made its pillars of silver,\nits bottom of gold, its seat of purple,\nthe middle of it being paved with love,\nfrom the daughters of Jerusalem.",
+          "explainer": "The palanquin's details: silver posts, gold base, purple cushions. Its interior is 'paved with love' by the daughters of Jerusalem -- the women of the court decorated it as a labor of love.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "A single gram of Tyrian purple required thousands of sea snails. Purple garments were literally worth more than their weight in gold."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Go out, you daughters of Zion, and see king Solomon,\nwith the crown with which his mother has crowned him,\nin the day of his weddings,\nin the day of the gladness of his heart.",
+          "explainer": "The daughters of Zion are called to come see King Solomon wearing the crown his mother gave him on his wedding day -- the day his heart rejoiced. A tender, personal moment amid royal splendor.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In ancient Israel, a mother's blessing at a wedding was deeply significant. The mother's role in crowning the groom shows that weddings were family events centered on blessing and joy.",
+            "now": "In ancient Israel, a mother's blessing at a wedding was deeply significant. The mother's role in crowning the groom shows that weddings were family events centered on blessing and joy."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "explainer": {
+        "summary": "The beloved describes the Shulamite's beauty in an elaborate head-to-waist poem (called a wasf in Arabic poetic tradition). He praises her eyes, hair, teeth, lips, temples, neck, and breasts using vivid nature and architectural imagery. He then calls her to come from Lebanon and declares her a 'garden locked' -- pure and reserved for him alone. She responds by inviting him into her garden.",
+        "themes": [
+          "Physical beauty celebrated",
+          "The garden as metaphor",
+          "Purity and exclusivity",
+          "Invitation to intimacy"
+        ],
+        "contextInBook": "Chapter 4 is the wedding night. The wasf (body poem) was a traditional form in ancient Near Eastern wedding celebrations. The 'locked garden' imagery and its opening represent the consummation of the marriage."
+      },
+      "wordStudies": [
+        {
+          "id": "garden_locked",
+          "greek": "gan na'ul (Hebrew)",
+          "transliteration": "Garden locked",
+          "translatedAs": "A walled garden sealed for the owner's exclusive u",
+          "meaning": "A walled garden sealed for the owner's exclusive use. Metaphorically, it represents the bride's sexuality reserved for her husband. When she 'opens' the garden, it is an invitation to consummation.",
+          "significance": "4:12"
+        },
+        {
+          "id": "wasf",
+          "greek": "wasf (Arabic literary term)",
+          "transliteration": "Wasf",
+          "translatedAs": "A descriptive love poem cataloging the beloved's b",
+          "meaning": "A descriptive love poem cataloging the beloved's body parts with metaphors. This was a recognized poetic genre across the ancient Near East, commonly performed at weddings.",
+          "significance": "4:1-7"
+        },
+        {
+          "id": "lebanon",
+          "greek": "Levanon (Hebrew)",
+          "transliteration": "Lebanon",
+          "translatedAs": "From 'lavan' (white), referring to the snow-capped",
+          "meaning": "From 'lavan' (white), referring to the snow-capped mountains. Lebanon represented the pinnacle of natural beauty, fragrance, and majesty in Israelite imagination.",
+          "significance": "4:8"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Behold, you are beautiful, my love.\nBehold, you are beautiful.\nYour eyes are doves behind your veil.\nYour hair is as a flock of goats,\nthat descend from Mount Gilead.",
+          "explainer": "He begins the wasf: 'You are beautiful, my love.' Her eyes behind her veil are like doves. Her hair is like a flock of goats streaming down Mount Gilead -- dark, flowing, and alive.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "The wasf (body poem) was performed at weddings throughout the ancient Near East. Modern readers may find the comparisons strange, but each image conveyed specific beauty ideals to the original audience."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Your teeth are like a newly shorn flock,\nwhich have come up from the washing,\nwhere every one of them has twins.\nNone is bereaved among them.",
+          "explainer": "Her teeth are like newly shorn ewes coming up from washing -- white, uniform, and complete. Each tooth has its twin; none is missing.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, having a full set of white, even teeth was rare and a genuine sign of health and beauty. Dental care was minimal, so this was high praise.",
+            "now": "In the ancient world, having a full set of white, even teeth was rare and a genuine sign of health and beauty. Dental care was minimal, so this was high praise."
+          }
+        },
+        {
+          "number": 3,
+          "text": "Your lips are like scarlet thread.\nYour mouth is lovely.\nYour temples are like a piece of a pomegranate behind your veil.",
+          "explainer": "Her lips are like a scarlet thread -- thin, red, and beautiful. Her mouth is lovely. Her temples behind her veil glow like the halves of a pomegranate -- rosy and luminous.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Your neck is like David’s tower built for an armory,\nwhereon a thousand shields hang,\nall the shields of the mighty men.",
+          "explainer": "Her neck is like the tower of David, built with courses of stone, hung with a thousand shields. She holds her head high with strength and dignity.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Warriors hung their shields on fortress towers as displays of military might. A woman's neck adorned with necklaces evoked this same sense of proud display."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Your two breasts are like two fawns\nthat are twins of a roe,\nwhich feed among the lilies.",
+          "explainer": "Her breasts are compared to twin fawns -- young gazelles feeding among the lilies. The image conveys symmetry, softness, gentleness, and natural beauty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Until the day is cool, and the shadows flee away,\nI will go to the mountain of myrrh,\nto the hill of frankincense.",
+          "explainer": "He will go to the 'mountain of myrrh' and 'hill of frankincense' until dawn. This is likely metaphorical language for spending the night in intimate embrace.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "You are all beautiful, my love.\nThere is no spot in you.",
+          "explainer": "The wasf concludes: 'You are altogether beautiful, my love. There is no flaw in you.' Complete, unreserved acceptance of the whole person.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where women were often valued primarily for utility (bearing children, domestic labor), this unconditional declaration of beauty as a whole person was revolutionary.",
+            "now": "In a world where women were often valued primarily for utility (bearing children, domestic labor), this unconditional declaration of beauty as a whole person was revolutionary."
+          }
+        },
+        {
+          "number": 8,
+          "text": "Come with me from Lebanon, my bride,\nwith me from Lebanon.\nLook from the top of Amana,\nfrom the top of Senir and Hermon,\nfrom the lions’ dens,\nfrom the mountains of the leopards.",
+          "explainer": "He calls her to come from Lebanon -- from mountaintops, from lions' dens and leopard habitats. He invites her away from distant, dangerous places into his presence.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "Lebanon",
+              "personId": null,
+              "wordId": "lebanon",
+              "startIndex": 18
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "You have ravished my heart, my sister, my bride.\nYou have ravished my heart with one of your eyes,\nwith one chain of your neck.",
+          "explainer": "He says she has 'ravished' (stolen, captivated) his heart with just one glance, with one jewel of her necklace. Her effect on him is overwhelming and immediate.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "How beautiful is your love, my sister, my bride!\nHow much better is your love than wine!\nThe fragrance of your perfumes than all kinds of spices!",
+          "explainer": "He reverses her earlier words back to her: 'How beautiful is your love, my sister, my bride!' Her love is better than wine, her perfumes better than any spice.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In Egyptian love poetry, 'brother' and 'sister' were standard terms for lovers. This convention emphasized partnership and affection rather than hierarchy."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "Your lips, my bride, drip like the honeycomb.\nHoney and milk are under your tongue.\nThe smell of your garments is like the smell of Lebanon.",
+          "explainer": "Her lips drip honey; honey and milk are under her tongue. The fragrance of her garments is like Lebanon's cedars. Every sense is engaged -- taste, smell, touch.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Proverbs passage warns about seductive speech from the wrong person; here the same imagery celebrates the right person. Context determines whether sweetness is dangerous or delightful.",
+            "now": "The Proverbs passage warns about seductive speech from the wrong person; here the same imagery celebrates the right person. Context determines whether sweetness is dangerous or delightful."
+          }
+        },
+        {
+          "number": 12,
+          "text": "A locked up garden is my sister, my bride;\na locked up spring,\na sealed fountain.",
+          "explainer": "She is a 'garden locked, a spring shut up, a fountain sealed.' These images all convey exclusive access -- her intimacy is reserved and protected.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, a family's honor was connected to a daughter's virginity. The 'locked garden' imagery reflects this cultural value, but within the Song it becomes a positive image of love's exclusivity rather than mere social control.",
+            "now": "In the ancient world, a family's honor was connected to a daughter's virginity. The 'locked garden' imagery reflects this cultural value, but within the Song it becomes a positive image of love's exclusivity rather than mere social control."
+          }
+        },
+        {
+          "number": 13,
+          "text": "Your shoots are an orchard of pomegranates, with precious fruits:\nhenna with spikenard plants,",
+          "explainer": "The garden contains the finest produce: pomegranates, henna, nard -- a paradise of delightful plants. She is not an empty garden but an abundant one.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 14,
+          "text": "spikenard and saffron,\ncalamus and cinnamon, with every kind of incense tree;\nmyrrh and aloes, with all the best spices,",
+          "explainer": "The garden's inventory continues: nard, saffron, calamus, cinnamon, frankincense, myrrh, aloes -- the most expensive spices in the known world. She is a treasury of sensory delight.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "These spices came from across the ancient world: nard from India, cinnamon from Sri Lanka, frankincense from Arabia. The list represents the entire spice trade, making her a garden of global wealth."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "a fountain of gardens,\na well of living waters,\nflowing streams from Lebanon.",
+          "explainer": "She is a garden fountain, a well of living water, streams flowing from Lebanon. Water imagery in an arid land represents life, refreshment, and sustaining abundance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "Awake, north wind; and come, you south!\nBlow on my garden, that its spices may flow out.\nLet my beloved come into his garden,\nand taste his precious fruits.",
+          "explainer": "The bride responds to all this praise by opening her garden: let the winds blow and carry its fragrance to her beloved. 'Let my beloved come into his garden and eat his precious fruits.' The garden is unlocked -- consummation is invited.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The bride's agency here is remarkable: she is the one who opens the garden and invites her beloved in. This is not a taking but a giving, not passive submission but active desire.",
+            "now": "The bride's agency here is remarkable: she is the one who opens the garden and invites her beloved in. This is not a taking but a giving, not passive submission but active desire."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "explainer": {
+        "summary": "The beloved enters his garden and enjoys its delights. But then the Shulamite recounts a troubling dream: her beloved knocks at her door, but she hesitates to answer. When she finally opens, he is gone. She searches the city desperately, and this time the watchmen beat and wound her. The daughters of Jerusalem ask what makes her beloved so special, prompting a detailed description of his body from head to toe.",
+        "themes": [
+          "Hesitation and regret",
+          "Separation and longing",
+          "The beloved's beauty described",
+          "Suffering for love"
+        ],
+        "contextInBook": "Chapter 5 introduces tension into the relationship. The failed meeting and the suffering during her search show that love is not always easy. Her wasf describing him mirrors his description of her in chapter 4."
+      },
+      "wordStudies": [
+        {
+          "id": "myrrh",
+          "greek": "mor (Hebrew)",
+          "transliteration": "Myrrh",
+          "translatedAs": "A fragrant resin that becomes a recurring symbol o",
+          "meaning": "A fragrant resin that becomes a recurring symbol of the beloved throughout the Song. It represents his attractive, lingering presence.",
+          "significance": "5:5"
+        },
+        {
+          "id": "outstanding",
+          "greek": "dagul (Hebrew)",
+          "transliteration": "Outstanding",
+          "translatedAs": "Literally 'bannered' or 'distinguished' -- standin",
+          "meaning": "Literally 'bannered' or 'distinguished' -- standing out like a flagbearer among troops. He is conspicuous, unmistakable among ten thousand.",
+          "significance": "5:10"
+        },
+        {
+          "id": "altogether_lovely",
+          "greek": "kullu machamaddim (Hebrew)",
+          "transliteration": "Altogether lovely",
+          "translatedAs": "Everything about him is desirable",
+          "meaning": "Everything about him is desirable. 'Machamad' is related to the word used in the Ten Commandments for what one covets -- he is completely, irresistibly attractive.",
+          "significance": "5:16"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I have come into my garden, my sister, my bride.\nI have gathered my myrrh with my spice;\nI have eaten my honeycomb with my honey;\nI have drunk my wine with my milk.\nFriends\nEat, friends!\nDrink, yes, drink abundantly, beloved.",
+          "explainer": "The beloved has entered his garden, gathered his myrrh and spice, eaten his honeycomb and honey, drunk his wine and milk. A voice (possibly God's) tells the lovers to eat, drink, and be deeply satisfied.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Some interpreters see this as a divine blessing on marital intimacy -- God approving and encouraging the lovers' union. This counters any notion that the Bible views physical love negatively.",
+            "now": "Some interpreters see this as a divine blessing on marital intimacy -- God approving and encouraging the lovers' union. This counters any notion that the Bible views physical love negatively."
+          }
+        },
+        {
+          "number": 2,
+          "text": "I was asleep, but my heart was awake.\nIt is the voice of my beloved who knocks:\n“Open to me, my sister, my love, my dove, my undefiled;\nfor my head is filled with dew,\nand my hair with the dampness of the night.”",
+          "explainer": "She sleeps, but her heart is awake -- a dream state. Her beloved knocks, calling her 'my sister, my love, my dove, my perfect one.' His head is wet with dew from waiting outside.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Night dew in Israel's climate could be substantial. A person covered in dew had been outdoors for hours, exposed to the cold."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "I have taken off my robe. Indeed, must I put it on?\nI have washed my feet. Indeed, must I soil them?",
+          "explainer": "She makes excuses: she has already undressed and washed her feet. Getting up would mean getting dirty again. Comfort wins over love -- momentarily.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Her excuse is remarkably relatable across millennia: 'I'm already in bed, I don't want to get up.' The mundane can override the meaningful in any era.",
+            "now": "Her excuse is remarkably relatable across millennia: 'I'm already in bed, I don't want to get up.' The mundane can override the meaningful in any era."
+          }
+        },
+        {
+          "number": 4,
+          "text": "My beloved thrust his hand in through the latch opening.\nMy heart pounded for him.",
+          "explainer": "He reaches through the door opening (the latch-hole), and her heart is stirred for him. His persistence begins to break through her comfortable reluctance.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "I rose up to open for my beloved.\nMy hands dripped with myrrh,\nmy fingers with liquid myrrh,\non the handles of the lock.",
+          "explainer": "She rises to open the door. Her hands drip with myrrh on the bolt handles -- he has left perfume behind as evidence of his visit. He was really there.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "I opened to my beloved;\nbut my beloved left; and had gone away.\nMy heart went out when he spoke.\nI looked for him, but I didn’t find him.\nI called him, but he didn’t answer.",
+          "explainer": "She opens the door, but he has gone. He has turned away. Her soul 'failed' (went out of her) when he spoke. She calls but he does not answer. Regret floods in.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The agony of missed opportunity in love is universal. She hesitated for comfort and lost his presence. This dynamic -- taking love for granted until it withdraws -- resonates in every generation.",
+            "now": "The agony of missed opportunity in love is universal. She hesitated for comfort and lost his presence. This dynamic -- taking love for granted until it withdraws -- resonates in every generation."
+          }
+        },
+        {
+          "number": 7,
+          "text": "The watchmen who go about the city found me.\nThey beat me.\nThey bruised me.\nThe keepers of the walls took my cloak away from me.",
+          "explainer": "The watchmen who patrol the city find her again, but this time they beat her, wound her, and take her veil. The city that should protect her becomes hostile.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "A lone woman on the streets at night could be assumed to be a prostitute. The watchmen's violence reflects the danger women faced when they violated social norms, even for innocent reasons."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "I adjure you, daughters of Jerusalem,\nIf you find my beloved,\nthat you tell him that I am faint with love.",
+          "explainer": "Despite her injuries, she charges the daughters of Jerusalem: if you find my beloved, tell him I am sick with love. Even beaten and shamed, her devotion is unshaken.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "How is your beloved better than another beloved,\nyou fairest among women?\nHow is your beloved better than another beloved,\nthat you do so adjure us?",
+          "explainer": "The daughters ask the pivotal question: 'What makes your beloved better than any other? Why should we help you find him?' This prompts her famous response.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The question is one every person in love has faced: 'What's so special about them?' The Shulamite's detailed answer shows she knows exactly what she loves and why.",
+            "now": "The question is one every person in love has faced: 'What's so special about them?' The Shulamite's detailed answer shows she knows exactly what she loves and why."
+          }
+        },
+        {
+          "number": 10,
+          "text": "My beloved is white and ruddy.\nThe best among ten thousand.",
+          "explainer": "She begins her wasf of him: he is radiant and ruddy, outstanding among ten thousand. He stands out in any crowd -- conspicuous, remarkable, and unmistakable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "His head is like the purest gold.\nHis hair is bushy, black as a raven.",
+          "explainer": "His head is finest gold. His hair is wavy and black as a raven. Gold represents supreme value; raven-black hair signals youth and vitality.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Dark, thick hair was a sign of youth and vigor in the ancient Near East. Gray hair brought respect but black hair signaled prime-of-life attractiveness."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "His eyes are like doves beside the water brooks,\nwashed with milk, mounted like jewels.",
+          "explainer": "His eyes are like doves beside streams of water, washed in milk, mounted like jewels. The layered imagery combines gentleness (doves), purity (milk-washed), and beauty (gem-set).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "His cheeks are like a bed of spices with towers of perfumes.\nHis lips are like lilies, dropping liquid myrrh.",
+          "explainer": "His cheeks are like beds of spices, his lips like lilies dripping liquid myrrh. Every part of him is fragrant and desirable.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In the ancient world, spiced oils and perfumes were applied to the face and beard. A well-groomed man's face literally smelled of spices. Today's equivalent might be tasteful cologne.",
+            "now": "In the ancient world, spiced oils and perfumes were applied to the face and beard. A well-groomed man's face literally smelled of spices. Today's equivalent might be tasteful cologne."
+          }
+        },
+        {
+          "number": 14,
+          "text": "His hands are like rings of gold set with beryl.\nHis body is like ivory work overlaid with sapphires.",
+          "explainer": "His arms are rods of gold set with beryl. His body is polished ivory decorated with sapphires. He is a work of art -- sculpted, precious, and luminous.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 15,
+          "text": "His legs are like pillars of marble set on sockets of fine gold.\nHis appearance is like Lebanon, excellent as the cedars.",
+          "explainer": "His legs are marble pillars set on gold bases. His appearance is like Lebanon, as excellent as its cedars. He is as majestic and enduring as the famous mountain range.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 16,
+          "text": "His mouth is sweetness;\nyes, he is altogether lovely.\nThis is my beloved, and this is my friend,\ndaughters of Jerusalem.",
+          "explainer": "His mouth is sweetness itself. He is altogether lovely -- 'altogether desirable.' This is her beloved, this is her friend. The wasf ends with the most intimate word: friend.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "altogether lovely",
+              "personId": null,
+              "wordId": "altogether_lovely",
+              "startIndex": 35
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ending the passionate description with 'this is my friend' reveals that the Song's vision of love integrates physical attraction with deep companionship. Modern relationship wisdom echoes this: the best partnerships are built on friendship.",
+            "now": "Ending the passionate description with 'this is my friend' reveals that the Song's vision of love integrates physical attraction with deep companionship. Modern relationship wisdom echoes this: the best partnerships are built on friendship."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "explainer": {
+        "summary": "The daughters of Jerusalem ask where the beloved has gone so they can help search. The Shulamite reveals she already knows -- he has gone to his garden. She declares their mutual belonging. The beloved then praises her beauty again, comparing her to the beautiful cities of Tirzah and Jerusalem, and declaring she is unique among all women.",
+        "themes": [
+          "Reunion after separation",
+          "Mutual belonging",
+          "Uniqueness of the beloved",
+          "Beauty and awe"
+        ],
+        "contextInBook": "Chapter 6 resolves the tension of chapter 5. The search is over; the lovers are reunited. His renewed praise of her beauty affirms that the relationship has survived its first real test."
+      },
+      "wordStudies": [
+        {
+          "id": "tirzah",
+          "greek": "Tirtsah (Hebrew)",
+          "transliteration": "Tirzah",
+          "translatedAs": "A city whose name means 'pleasure' or 'delight",
+          "meaning": "A city whose name means 'pleasure' or 'delight.' It served as the early capital of the northern kingdom and was renowned for its beauty.",
+          "significance": "6:4"
+        },
+        {
+          "id": "awesome",
+          "greek": "ayummah (Hebrew)",
+          "transliteration": "Awesome",
+          "translatedAs": "Terrifying, awe-inspiring, overwhelming",
+          "meaning": "Terrifying, awe-inspiring, overwhelming. Her beauty is not just pleasant -- it is formidable, like an army with banners. She overwhelms him.",
+          "significance": "6:4"
+        },
+        {
+          "id": "only_one",
+          "greek": "achat (Hebrew)",
+          "transliteration": "Only one",
+          "translatedAs": "One, unique, singular",
+          "meaning": "One, unique, singular. She is not merely the best of many options -- she is the only one. This word emphasizes absolute uniqueness.",
+          "significance": "6:9"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Where has your beloved gone, you fairest among women?\nWhere has your beloved turned, that we may seek him with you?",
+          "explainer": "The daughters ask where her beloved has gone, offering to help search. Their question shows they have been won over by her passionate description in chapter 5.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "After hearing someone describe the person they love with such detail and devotion, it is natural to want to help. The daughters' response mirrors how genuine love inspires others.",
+            "now": "After hearing someone describe the person they love with such detail and devotion, it is natural to want to help. The daughters' response mirrors how genuine love inspires others."
+          }
+        },
+        {
+          "number": 2,
+          "text": "My beloved has gone down to his garden,\nto the beds of spices,\nto feed in the gardens, and to gather lilies.",
+          "explainer": "She knows where he is: he has gone down to his garden, to the beds of spices, to feed in the gardens and gather lilies. The garden imagery continues from chapter 4.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "I am my beloved’s, and my beloved is mine.\nHe browses among the lilies,",
+          "explainer": "The declaration of mutual belonging returns with a subtle shift: 'I am my beloved's and my beloved is mine.' In 2:16 she said 'my beloved is mine and I am his' -- now she puts his ownership first.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The reversed order (from 'mine/his' to 'his/mine') may reflect growing maturity in love -- moving from 'what I get' to 'what I give.' Healthy love grows more generous over time.",
+            "now": "The reversed order (from 'mine/his' to 'his/mine') may reflect growing maturity in love -- moving from 'what I get' to 'what I give.' Healthy love grows more generous over time."
+          }
+        },
+        {
+          "number": 4,
+          "text": "You are beautiful, my love, as Tirzah,\nlovely as Jerusalem,\nawesome as an army with banners.",
+          "explainer": "He speaks: she is beautiful as Tirzah, lovely as Jerusalem, awesome as an army with banners. Her beauty is compared to entire cities and military might.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "Tirzah",
+              "personId": null,
+              "wordId": "tirzah",
+              "startIndex": 31
+            },
+            {
+              "type": "word",
+              "word": "awesome as an army with banners",
+              "personId": null,
+              "wordId": "awesome",
+              "startIndex": 60
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Turn away your eyes from me,\nfor they have overcome me.\nYour hair is like a flock of goats,\nthat lie along the side of Gilead.",
+          "explainer": "He asks her to turn her eyes away because they overwhelm him. Then he repeats the hair imagery from 4:1 -- like a flock of goats streaming down Gilead.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Your teeth are like a flock of ewes,\nwhich have come up from the washing;\nof which every one has twins;\nno one is bereaved among them.",
+          "explainer": "Her teeth are again compared to ewes coming from washing -- white, uniform, each with its twin, none missing. The repetition from 4:2 shows his admiration is consistent.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 7,
+          "text": "Your temples are like a piece of a pomegranate behind your veil.",
+          "explainer": "Her temples behind her veil are like pomegranate halves -- the same image from 4:3. His perception of her beauty has not changed despite the difficulty they endured.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Repeating the same compliments after a conflict shows that his admiration is not superficial or temporary. He sees her the same way through difficulty -- a mark of deep, stable love.",
+            "now": "Repeating the same compliments after a conflict shows that his admiration is not superficial or temporary. He sees her the same way through difficulty -- a mark of deep, stable love."
+          }
+        },
+        {
+          "number": 8,
+          "text": "There are sixty queens, eighty concubines,\nand virgins without number.",
+          "explainer": "There are sixty queens, eighty concubines, and countless young women -- Solomon's court was full of women. Yet among them all, one stands apart.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "My dove, my perfect one, is unique.\nShe is her mother’s only daughter.\nShe is the favorite one of her who bore her.\nThe daughters saw her, and called her blessed;\nthe queens and the concubines, and they praised her.",
+          "explainer": "She is unique: 'My dove, my perfect one, is the only one.' Even the other queens and concubines praise her. Her own mother considers her the favored one.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "Who is she who looks out as the morning,\nbeautiful as the moon,\nclear as the sun,\nand awesome as an army with banners?",
+          "explainer": "Others ask: 'Who is this who looks down like the dawn, fair as the moon, clear as the sun, awesome as an army with banners?' She is compared to celestial bodies -- beyond earthly comparison.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 11,
+          "text": "I went down into the nut tree grove,\nto see the green plants of the valley,\nto see whether the vine budded,\nand the pomegranates were in flower.",
+          "explainer": "She (or he) went down to the nut garden to see the new growth in the valley, to check if the vines had budded and the pomegranates bloomed. Agriculture and love intertwine.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Nut groves (especially walnut) were valuable orchards. Checking on spring growth was both practical agriculture and a metaphor for examining the state of the relationship."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "Without realizing it,\nmy desire set me with my royal people’s chariots.",
+          "explainer": "A notoriously difficult verse to translate. She was surprised to find herself among the royal chariots -- perhaps swept up in the procession or overwhelmed by her own emotions. The meaning is debated by scholars.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "Return, return, Shulammite!\nReturn, return, that we may gaze at you.\nLover\nWhy do you desire to gaze at the Shulammite,\nas at the dance of Mahanaim?",
+          "explainer": "The daughters call out: 'Return, return, O Shulamite! Return that we may look at you.' She (or the beloved) asks why they stare as at a dance of two camps (Mahanaim).",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "explainer": {
+        "summary": "A second wasf (body poem) describes the Shulamite, but this time from feet to head -- the reverse of chapter 4's head-to-waist description. The imagery is more sensual and public. She then expresses her desire to go to the countryside with her beloved, where she will give him her love among the vineyards and mandrakes.",
+        "themes": [
+          "Physical beauty celebrated",
+          "Desire and invitation",
+          "Rural romance",
+          "The fullness of love"
+        ],
+        "contextInBook": "Chapter 7 shows love maturing. The body poem is bolder, the invitation more confident. The Shulamite takes initiative, planning a romantic escape to the countryside. Love is now fully established and freely expressed."
+      },
+      "wordStudies": [
+        {
+          "id": "mandrakes",
+          "greek": "duda'im (Hebrew)",
+          "transliteration": "Mandrakes",
+          "translatedAs": "A plant believed to be an aphrodisiac and fertilit",
+          "meaning": "A plant believed to be an aphrodisiac and fertility aid in the ancient world. Its root resembles a human form. Rachel and Leah negotiated over mandrakes in Genesis 30.",
+          "significance": "7:13"
+        },
+        {
+          "id": "navel",
+          "greek": "shor (Hebrew)",
+          "transliteration": "Navel",
+          "translatedAs": "While traditionally translated 'navel,' many schol",
+          "meaning": "While traditionally translated 'navel,' many scholars believe this refers to the vulva or lower abdomen. The 'rounded goblet' filled with wine is sensual imagery for fertility and pleasure.",
+          "significance": "7:2"
+        },
+        {
+          "id": "stature",
+          "greek": "qomah (Hebrew)",
+          "transliteration": "Stature",
+          "translatedAs": "Height, bearing, or full figure",
+          "meaning": "Height, bearing, or full figure. Comparing her stature to a palm tree emphasizes her tall, graceful, upright bearing.",
+          "significance": "7:7"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "How beautiful are your feet in sandals, prince’s daughter!\nYour rounded thighs are like jewels,\nthe work of the hands of a skillful workman.",
+          "explainer": "The wasf begins at her feet: her sandaled feet are beautiful, the curves of her thighs like jewels crafted by a master artisan. She is a work of art from the ground up.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "This wasf moves from feet upward (the reverse of ch. 4), and may describe her dancing. The audience would watch her movements from the ground up as she performed."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 2,
+          "text": "Your body is like a round goblet,\nno mixed wine is wanting.\nYour waist is like a heap of wheat,\nset about with lilies.",
+          "explainer": "Her navel is a rounded goblet that never lacks blended wine. Her waist is a heap of wheat encircled with lilies. The imagery combines abundance, nourishment, and beauty.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "Your two breasts are like two fawns,\nthat are twins of a roe.",
+          "explainer": "Her breasts are like two fawns, twins of a gazelle -- the same image from 4:5. Consistent admiration across the whole poem.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "Your neck is like an ivory tower.\nYour eyes are like the pools in Heshbon by the gate of Bathrabbim.\nYour nose is like the tower of Lebanon which looks toward Damascus.",
+          "explainer": "Her neck is an ivory tower. Her eyes are pools in Heshbon by the gate of Bath Rabbim. Her nose is like the tower of Lebanon looking toward Damascus.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 5,
+          "text": "Your head on you is like Carmel.\nThe hair of your head like purple.\nThe king is held captive in its tresses.",
+          "explainer": "Her head crowns her like Mount Carmel. Her flowing hair is like purple tapestry -- a king is held captive in its tresses. Her beauty literally imprisons him.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "How beautiful and how pleasant you are,\nlove, for delights!",
+          "explainer": "He summarizes: 'How beautiful and how pleasant you are, O love, for delights!' She is the embodiment of both beauty and pleasure.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The combination of 'beautiful' and 'pleasant' (or delightful) covers both visual attraction and experiential joy. The best relationships, then and now, offer both.",
+            "now": "The combination of 'beautiful' and 'pleasant' (or delightful) covers both visual attraction and experiential joy. The best relationships, then and now, offer both."
+          }
+        },
+        {
+          "number": 7,
+          "text": "This, your stature, is like a palm tree,\nyour breasts like its fruit.",
+          "explainer": "Her stature is like a palm tree, her breasts like clusters of dates. The palm tree was a symbol of grace, fertility, and victory in the ancient Near East.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 8,
+          "text": "I said, “I will climb up into the palm tree.\nI will take hold of its fruit.”\nLet your breasts be like clusters of the vine,\nthe smell of your breath like apples,",
+          "explainer": "He declares his intention to 'climb the palm tree' and take hold of its fruit. Her breasts are like grape clusters, her breath like apples. The imagery is explicitly physical and passionate.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The boldness of this imagery reminds modern readers that the Bible is not prudish about marital sexuality. Physical desire within committed love is celebrated, not censored.",
+            "now": "The boldness of this imagery reminds modern readers that the Bible is not prudish about marital sexuality. Physical desire within committed love is celebrated, not censored."
+          }
+        },
+        {
+          "number": 9,
+          "text": "Your mouth like the best wine,\nthat goes down smoothly for my beloved,\ngliding through the lips of those who are asleep.",
+          "explainer": "Her mouth is like the best wine -- going down smoothly for her beloved, gliding over lips and teeth. She (or the wine of her kisses) is intoxicating.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "I am my beloved’s.\nHis desire is toward me.",
+          "explainer": "She speaks the declaration of belonging for the third and final time: 'I am my beloved's, and his desire is toward me.' The evolution is complete -- from mutual claiming to pure self-giving.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The three declarations of belonging (2:16, 6:3, 7:10) show a progression: from 'mine then his' to 'his then mine' to simply 'his, and he desires me.' Mature love focuses on belonging to the other rather than possessing them.",
+            "now": "The three declarations of belonging (2:16, 6:3, 7:10) show a progression: from 'mine then his' to 'his then mine' to simply 'his, and he desires me.' Mature love focuses on belonging to the other rather than possessing them."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Come, my beloved, let us go out into the field.\nLet us lodge in the villages.",
+          "explainer": "She takes the initiative: 'Come, my beloved, let us go out into the field and lodge in the villages.' She plans a romantic escape to the countryside.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Her confident initiative would have been notable in a patriarchal society. She does not wait to be asked -- she plans and invites. The Song consistently portrays love as a partnership of equals.",
+            "now": "Her confident initiative would have been notable in a patriarchal society. She does not wait to be asked -- she plans and invites. The Song consistently portrays love as a partnership of equals."
+          }
+        },
+        {
+          "number": 12,
+          "text": "Let’s go early up to the vineyards.\nLet’s see whether the vine has budded,\nits blossom is open,\nand the pomegranates are in flower.\nThere I will give you my love.",
+          "explainer": "They will rise early to check the vineyards, see if the vines have budded and the pomegranates bloomed. 'There I will give you my love.' The vineyard becomes the setting for romance.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Early morning in the vineyards during spring bloom was one of the most sensory-rich experiences in ancient Israel -- cool air, birdsong, fragrant blossoms, new growth. It was the ideal romantic setting."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 13,
+          "text": "The mandrakes produce fragrance.\nAt our doors are all kinds of precious fruits, new and old,\nwhich I have stored up for you, my beloved.",
+          "explainer": "The mandrakes give off fragrance at their doors. She has stored up new and old delights for her beloved -- a treasury of love experiences, both fresh and familiar.",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "mandrakes",
+              "personId": null,
+              "wordId": "mandrakes",
+              "startIndex": 4
+            }
+          ],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "explainer": {
+        "summary": "The final chapter brings the Song to its climax and resolution. The Shulamite wishes she could display affection publicly. The refrain about not awakening love appears for the last time. The poem reaches its theological peak: 'Love is as strong as death... many waters cannot quench love.' The brothers from chapter 1 reappear, and the book closes as it began -- with the Shulamite in her vineyard, freely giving her love.",
+        "themes": [
+          "Love's supreme power",
+          "Love stronger than death",
+          "Coming full circle",
+          "The value of freely given love"
+        ],
+        "contextInBook": "Chapter 8 resolves all the Song's tensions and states its grand thesis: love is the most powerful force in creation, unable to be purchased or extinguished. The book ends where it began, completing a perfect circle."
+      },
+      "wordStudies": [
+        {
+          "id": "seal",
+          "greek": "chotam (Hebrew)",
+          "transliteration": "Seal",
+          "translatedAs": "A signet ring or cylinder seal used to authenticat",
+          "meaning": "A signet ring or cylinder seal used to authenticate documents and mark ownership. Being set as a seal means being permanently, officially claimed.",
+          "significance": "8:6"
+        },
+        {
+          "id": "jealousy",
+          "greek": "qin'ah (Hebrew)",
+          "transliteration": "Jealousy",
+          "translatedAs": "Not petty jealousy but fierce, protective passion ",
+          "meaning": "Not petty jealousy but fierce, protective passion -- the kind of exclusive devotion that refuses to share what rightfully belongs together. God describes His own love this way.",
+          "significance": "8:6"
+        },
+        {
+          "id": "flame",
+          "greek": "shalhevet-yah (Hebrew)",
+          "transliteration": "Flame",
+          "translatedAs": "Literally 'flame of Yah' -- a flame of God",
+          "meaning": "Literally 'flame of Yah' -- a flame of God. This is the only explicit mention of God in the Song. Love's fire is divine in origin and intensity.",
+          "significance": "8:6"
+        }
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Oh that you were like my brother,\nwho nursed from the breasts of my mother!\nIf I found you outside, I would kiss you;\nyes, and no one would despise me.",
+          "explainer": "She wishes he were like a brother who nursed at her mother's breast -- then she could kiss him publicly without scandal. Public affection between lovers was taboo, but sibling affection was acceptable.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Public displays of romantic affection were inappropriate in ancient Israelite society. But siblings could greet each other with kisses openly. She wishes for the freedom to express love without social judgment."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Ancient social codes restricted public romantic affection far more than most modern Western cultures. Her frustration with these limitations is something people in more conservative societies still experience.",
+            "now": "Ancient social codes restricted public romantic affection far more than most modern Western cultures. Her frustration with these limitations is something people in more conservative societies still experience."
+          }
+        },
+        {
+          "number": 2,
+          "text": "I would lead you, bringing you into my mother’s house,\nwho would instruct me.\nI would have you drink spiced wine,\nof the juice of my pomegranate.",
+          "explainer": "She would bring him to her mother's house (as in 3:4) to learn from her -- or to the room where she was conceived. The mother's chamber represents the deepest intimacy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 3,
+          "text": "His left hand would be under my head.\nHis right hand would embrace me.",
+          "explainer": "The embrace from 2:6 is repeated exactly: his left hand under her head, his right arm embracing her. The repetition creates a sense of completeness -- returning to a cherished position.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 4,
+          "text": "I adjure you, daughters of Jerusalem,\nthat you not stir up, nor awaken love,\nuntil it so desires.",
+          "explainer": "The refrain appears for the final time: 'Do not awaken love until it pleases.' Three times this warning has sounded (2:7, 3:5, 8:4), framing the entire Song with the counsel of patience.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Repeated three times across the Song, this is its most consistent practical message: love has a proper time and cannot be manufactured or rushed. It remains the Song's most relevant advice for every generation.",
+            "now": "Repeated three times across the Song, this is its most consistent practical message: love has a proper time and cannot be manufactured or rushed. It remains the Song's most relevant advice for every generation."
+          }
+        },
+        {
+          "number": 5,
+          "text": "Who is this who comes up from the wilderness,\nleaning on her beloved?\nUnder the apple tree I aroused you.\nThere your mother conceived you.\nThere she was in labor and bore you.",
+          "explainer": "Someone asks: 'Who is this coming up from the wilderness, leaning on her beloved?' He awakened her under the apple tree, where her mother conceived her. Love's origin connects to the most intimate family spaces.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 6,
+          "text": "Set me as a seal on your heart,\nas a seal on your arm;\nfor love is strong as death.\nJealousy is as cruel as Sheol.\nIts flashes are flashes of fire,\na very flame of Yahweh.",
+          "explainer": "The theological climax of the entire Song: 'Set me as a seal upon your heart, as a seal upon your arm; for love is strong as death, jealousy is fierce as Sheol. Its flashes are flashes of fire, a flame of Yah.'",
+          "annotations": [
+            {
+              "type": "word",
+              "word": "flame of Yah",
+              "personId": null,
+              "wordId": "flame",
+              "startIndex": 155
+            }
+          ],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "Seals in the ancient Near East were cylinder or stamp seals pressed into clay to authenticate documents. They were worn on a cord around the neck (over the heart) or on the finger (the arm). They represented one's very identity."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "This verse is often read at weddings and is the Song's greatest theological statement. Love's divine origin ('flame of Yah') means human love participates in something sacred and eternal. Even death cannot extinguish genuine love.",
+            "now": "This verse is often read at weddings and is the Song's greatest theological statement. Love's divine origin ('flame of Yah') means human love participates in something sacred and eternal. Even death cannot extinguish genuine love."
+          }
+        },
+        {
+          "number": 7,
+          "text": "Many waters can’t quench love,\nneither can floods drown it.\nIf a man would give all the wealth of his house for love,\nhe would be utterly scorned.",
+          "explainer": "Many waters cannot quench love; floods cannot drown it. If someone offered all their wealth for love, they would be utterly scorned. Love cannot be purchased at any price.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a world where marriages were often economic transactions, this verse insists that genuine love transcends commerce. Love cannot be bought, earned, or bargained for -- only freely given and received.",
+            "now": "In a world where marriages were often economic transactions, this verse insists that genuine love transcends commerce. Love cannot be bought, earned, or bargained for -- only freely given and received."
+          }
+        },
+        {
+          "number": 8,
+          "text": "We have a little sister.\nShe has no breasts.\nWhat shall we do for our sister\nin the day when she is to be spoken for?",
+          "explainer": "The brothers speak: 'We have a little sister whose breasts are not yet developed. What shall we do for her when she is spoken for?' They are planning for her future.",
+          "annotations": [],
+          "culturalNotes": [
+            {
+              "title": "Cultural Context",
+              "note": "In ancient Israel, brothers had significant authority over unmarried sisters, especially regarding marriage. A girl's sexual maturity ('breasts not yet developed') determined when marriage negotiations could begin."
+            }
+          ],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 9,
+          "text": "If she is a wall,\nwe will build on her a turret of silver.\nif she is a door,\nwe will enclose her with boards of cedar.",
+          "explainer": "Their plan: if she is a wall (chaste, firm), they will build silver battlements on her. If she is a door (open, accessible), they will enclose her with cedar boards. They will protect her either way.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 10,
+          "text": "I am a wall, and my breasts like towers,\nthen I was in his eyes like one who found peace.",
+          "explainer": "The Shulamite asserts herself: 'I am a wall, and my breasts are like towers.' She has guarded herself. In his eyes, she has found peace (shalom). She doesn't need their protection -- she has matured into her own strength.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Shulamite's self-assertion here is striking: she has done what her brothers wanted (been a 'wall') but on her own terms. She defines her own maturity and chooses her own beloved.",
+            "now": "The Shulamite's self-assertion here is striking: she has done what her brothers wanted (been a 'wall') but on her own terms. She defines her own maturity and chooses her own beloved."
+          }
+        },
+        {
+          "number": 11,
+          "text": "Solomon had a vineyard at Baal Hamon.\nHe leased out the vineyard to keepers.\nEach was to bring a thousand shekels of silver for its fruit.",
+          "explainer": "Solomon had a vineyard at Baal Hamon that he leased to tenant farmers, each paying a thousand silver pieces for its fruit. Solomon's vineyard represents commercial, transactional relationships.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": null
+        },
+        {
+          "number": 12,
+          "text": "My own vineyard is before me.\nThe thousand are for you, Solomon;\ntwo hundred for those who tend its fruit.",
+          "explainer": "She declares: 'My vineyard is my own. The thousand silver pieces are yours, Solomon, and two hundred for the tenant farmers.' She has something Solomon's wealth cannot buy.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "In a culture where women were often exchanged as economic assets, the Shulamite insists her 'vineyard' (her love, her body, her self) is her own to give freely. This is a radical assertion of agency and the Song's practical application of 8:7.",
+            "now": "In a culture where women were often exchanged as economic assets, the Shulamite insists her 'vineyard' (her love, her body, her self) is her own to give freely. This is a radical assertion of agency and the Song's practical application of 8:7."
+          }
+        },
+        {
+          "number": 13,
+          "text": "You who dwell in the gardens, with friends in attendance,\nlet me hear your voice!",
+          "explainer": "The beloved speaks last to the Shulamite: 'You who dwell in the gardens, the companions listen for your voice. Let me hear it.' He still longs to hear her speak.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "Even at the poem's end, the beloved wants to hear her voice. The Song closes as it began -- with desire, longing, and the joy of being in each other's presence.",
+            "now": "Even at the poem's end, the beloved wants to hear her voice. The Song closes as it began -- with desire, longing, and the joy of being in each other's presence."
+          }
+        },
+        {
+          "number": 14,
+          "text": "Come away, my beloved!\nBe like a gazelle or a young stag on the mountains of spices!",
+          "explainer": "Her final words mirror her first: 'Hurry, my beloved! Be like a gazelle or a young stag on the mountains of spices.' The Song ends as it began -- with longing, desire, and joyful invitation.",
+          "annotations": [],
+          "culturalNotes": [],
+          "crossReferences": [],
+          "thenVsNow": {
+            "then": "The Song ends with longing rather than resolution -- love is never fully satisfied, always desiring more of the beloved. This open ending has led Jewish and Christian readers to see in it the soul's eternal longing for God.",
+            "now": "The Song ends with longing rather than resolution -- love is never fully satisfied, always desiring more of the beloved. This open ending has led Jewish and Christian readers to see in it the soul's eternal longing for God."
+          }
+        }
+      ]
+    }
+  ]
+}
